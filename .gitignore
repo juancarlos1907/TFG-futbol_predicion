@@ -1,0 +1,16 @@
+# IDE / Editor configuration directories
+
+/.idea/
+/.settings/
+/.vscode/
+
+# Pycache files
+
+**/__pycache__/
+
+# Enviroment configurations
+
+**/.env
+
+# venv
+/venv
