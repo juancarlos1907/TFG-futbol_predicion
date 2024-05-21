@@ -1,13 +1,7 @@
 import pandas as pd
-from sklearn.preprocessing import normalize
 
-# Cargamos los datos del archivo CSV
+#Cargamos los datos del archivo CSV
 df = pd.read_csv("matches_with_selected_statistics.csv")
-
-# Seleccionamos las columnas relevantes
-relevant_columns = ['match_id', 'Home Team', 'Home Goals', 'Ball Possession_x', 'Goalkeeper Saves_x', 'Passes %_x',
-                    'Away Team', 'Away Goals', 'Ball Possession_y', 'Goalkeeper Saves_y', 'Passes %_y']
-df = df[relevant_columns]
 
 # Eliminamos el signo "%" de las columnas de posesión
 df['Ball Possession_x'] = df['Ball Possession_x'].str.rstrip('%').astype('float')
@@ -15,33 +9,31 @@ df['Ball Possession_y'] = df['Ball Possession_y'].str.rstrip('%').astype('float'
 df['Passes %_x'] = df['Passes %_x'].str.rstrip('%').astype('float')
 df['Passes %_y'] = df['Passes %_y'].str.rstrip('%').astype('float')
 
-# Normalizamos los datos de cada equipo
-teams = ['Home', 'Away']
-for team in teams:
-    goals_col = f'{team} Goals'
+# Normalizar las columnas de porcentaje de 0 a 5
+df['Ball Possession_x'] = df['Ball Possession_x'] / 100 * 5
+df['Ball Possession_y'] = df['Ball Possession_y'] / 100 * 5
+df['Passes %_x'] = df['Passes %_x'] / 100 * 5
+df['Passes %_y'] = df['Passes %_y'] / 100 * 5
 
-teams = ['x', 'y']
-for team in teams:
-    possession_col = f'Ball Possession_{team.lower()}'
-    saves_col = f'Goalkeeper Saves_{team.lower()}'
-    passes_col = f'Passes %_{team.lower()}'
+# Seleccionar solo las columnas numéricas excluyendo 'match_id'
+numeric_columns = df.select_dtypes(include=['float64', 'int64']).columns.drop('match_id')
 
-    # Normalizamos los goles
-    df[f'{team} Goals Normalized'] = normalize(df[[goals_col]].values, axis=0) * 5
+# Calcular la media de cada columna
+column_means = df[numeric_columns].mean()
 
-    # Normalizamos la posesión
-    df[f'{team} Ball Possession Normalized'] = normalize(df[[possession_col]].values, axis=0) * 5
+# Aplicar la fórmula para cada equipo
+home_result = 0.35 * column_means['Home Goals'] - 0.35 * column_means['Away Goals'] + 0.15 * column_means['Ball Possession_x'] + 0.1 * column_means['Passes %_x'] + 0.05 * column_means['Goalkeeper Saves_x']
+away_result = 0.35 * column_means['Away Goals'] - 0.35 * column_means['Home Goals'] + 0.15 * column_means['Ball Possession_y'] + 0.1 * column_means['Passes %_y'] + 0.05 * column_means['Goalkeeper Saves_y']
 
-    # Normalizamos los guardametas
-    df[f'{team} Goalkeeper Saves Normalized'] = normalize(df[[saves_col]].values, axis=0) * 5
+# Obtener los nombres de los equipos
+home_team = df.loc[0, 'Home Team']
+away_team = df.loc[0, 'Away Team']
 
-    # Normalizamos los pases
-    df[f'{team} Passes % Normalized'] = normalize(df[[passes_col]].values, axis=0) * 5
+# Imprimir los resultados con los nombres de los equipos
+print("Resultado para", home_team + ":", home_result)
+print("Resultado para", away_team + ":", away_result)
 
-# Mostramos el DataFrame con las nuevas columnas normalizadas
-print(df.head())
 
-# Guardamos el DataFrame modificado en un archivo CSV
-df.to_csv("matches_statistics_modified.csv", index=False)
 
-print("Archivo CSV guardado correctamente.")
+
+

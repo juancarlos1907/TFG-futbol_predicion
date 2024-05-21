@@ -42,7 +42,6 @@ print(statistics)
 
 
 # Función para extraer estadísticas relevantes de cada equipo
-# Función para extraer estadísticas relevantes de cada equipo
 def extract_team_statistics(stats):
     team_statistics = {}
 
