@@ -1,10 +1,8 @@
 fixture_id,home_team,home_goals,home_possession%,home_goalkeeper_saves,home_passes%,away_team,away_goals,away_possession%,away_goalkeeper_saves,away_passes%
-203337,Malaga,0,57%,2,80%,Sevilla,0,43%,4,73%
-203338,Espanyol,1,33%,2,66%,Getafe,0,67%,1,84%
-203339,Deportivo La Coruna,0,56%,2,80%,Real Sociedad,0,44%,5,71%
-203340,Atletico Madrid,1,61%,1,84%,Las Palmas,0,39%,2,74%
-203341,Rayo Vallecano,0,56%,4,76%,Valencia,0,44%,3,69%
-203342,Athletic Club,0,32%,3,61%,Barcelona,1,68%,2,81%
-203343,Sporting Gijon,0,32%,8,67%,Real Madrid,0,68%,0,87%
-203344,Levante,1,29%,4,68%,Celta Vigo,2,71%,1,87%
-203345,Real Betis,1,65%,2,78%,Villarreal,1,35%,5,62%
+203337,Malaga,0,57%,2.0,80%,Sevilla,0,43%,4,73%
+203339,Deportivo La Coruna,0,56%,2.0,80%,Real Sociedad,0,44%,5,71%
+203340,Atletico Madrid,1,61%,1.0,84%,Las Palmas,0,39%,2,74%
+203341,Rayo Vallecano,0,56%,4.0,76%,Valencia,0,44%,3,69%
+203342,Athletic Club,0,32%,3.0,61%,Barcelona,1,68%,2,81%
+203343,Sporting Gijon,0,32%,8.0,67%,Real Madrid,0,68%,0,87%
+203345,Real Betis,1,65%,2.0,78%,Villarreal,1,35%,5,62%

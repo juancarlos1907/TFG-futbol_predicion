@@ -108,4 +108,4 @@ else:
     updated_df = new_statistics_df
 
 # Guardar el DataFrame actualizado en un archivo CSV
-updated_df.to_csv('fixturesWithStatistics.csv', index=False)
+updated_df.to_csv('fixturesWithAllStatistics.csv', index=False)

@@ -41,11 +41,30 @@ def get_teams():
     # data = response.json()
     # return jsonify(data)
 
-@app.route('/api/fixtures', methods=['GET'])
-def get_fixtures():
-    response = requests.get(f"{API_FOOTBALL_URL}fixtures", headers=API_FOOTBALL_HEADERS)
-    data = response.json()
-    return jsonify(data)
+@app.route('/api/fixtures/<string:home_team>/<string:away_team>', methods=['GET'])
+def get_fixtures(home_team, away_team):
+    # Cargar el archivo CSV en un DataFrame de pandas
+    df = pd.read_csv('fixtures.csv')
+
+    # Filtrar los partidos en los que los dos equipos especificados jugaron
+    matches = df[((df['home_team'] == home_team) & (df['away_team'] == away_team)) |
+                 ((df['home_team'] == away_team) & (df['away_team'] == home_team))]
+
+    return matches.to_dict(orient='records')
+
+@app.route('/api/fixture/statistics/<string:fixture_ids>', methods=['GET'])
+def get_statistics(fixture_ids):
+    # Convertir los IDs de los partidos en una lista de enteros
+    fixture_ids_list = list(map(int, fixture_ids.split(',')))
+
+    # Cargar el archivo CSV de estadísticas en un DataFrame de pandas
+    df_statistics = pd.read_csv('fixturesWithStatistics.csv')
+
+    # Filtrar las estadísticas de los partidos seleccionados
+    selected_statistics = df_statistics[df_statistics['fixture_id'].isin(fixture_ids_list)]
+
+    return selected_statistics.to_dict(orient='records')
+
 
 if __name__ == '__main__':
-    app.run(debug=True)
+    #app.run(debug=True)
