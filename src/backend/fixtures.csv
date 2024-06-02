@@ -1,0 +1,10 @@
+fixture_id,home_team,home_goals,home_logo,away_team,away_goals,away_logo,country,league_name,league_id,season
+203337,Malaga,0,https://media.api-sports.io/football/teams/535.png,Sevilla,0,https://media.api-sports.io/football/teams/536.png,Spain,La liga,140,2015.0
+203338,Espanyol,1,https://media.api-sports.io/football/teams/540.png,Getafe,0,https://media.api-sports.io/football/teams/546.png,Spain,La liga,140,2015.0
+203339,Deportivo La Coruna,0,https://media.api-sports.io/football/teams/544.png,Real Sociedad,0,https://media.api-sports.io/football/teams/548.png,Spain,La liga,140,2015.0
+203340,Atletico Madrid,1,https://media.api-sports.io/football/teams/530.png,Las Palmas,0,https://media.api-sports.io/football/teams/534.png,Spain,La liga,140,2015.0
+203341,Rayo Vallecano,0,https://media.api-sports.io/football/teams/728.png,Valencia,0,https://media.api-sports.io/football/teams/532.png,Spain,La liga,140,2015.0
+203342,Athletic Club,0,https://media.api-sports.io/football/teams/531.png,Barcelona,1,https://media.api-sports.io/football/teams/529.png,Spain,La liga,140,2015.0
+203343,Sporting Gijon,0,https://media.api-sports.io/football/teams/731.png,Real Madrid,0,https://media.api-sports.io/football/teams/541.png,Spain,La liga,140,2015.0
+203344,Levante,1,https://media.api-sports.io/football/teams/539.png,Celta Vigo,2,https://media.api-sports.io/football/teams/538.png,Spain,La liga,140,2015.0
+203345,Real Betis,1,https://media.api-sports.io/football/teams/543.png,Villarreal,1,https://media.api-sports.io/football/teams/533.png,Spain,La liga,140,2015.0
