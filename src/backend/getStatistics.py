@@ -5,7 +5,7 @@ import os
 # Definir la URL y los headers para la solicitud
 url = "https://api-football-v1.p.rapidapi.com/v3/fixtures/statistics"
 headers = {
-    "X-RapidAPI-Key": "798f80235dmsh5e71f1a0965e5c5p1da281jsn2d6666966440",
+    "X-RapidAPI-Key": "8b45dee1f3msh06016ead9743a2ep1a92bbjsn32b39f9e413b",
     "X-RapidAPI-Host": "api-football-v1.p.rapidapi.com"
 }
 
@@ -13,8 +13,8 @@ headers = {
 fixtures_df = pd.read_csv('fixtures.csv')
 
 # Verificar si el archivo fixturesWithStatistics.csv existe
-if os.path.exists('fixturesWithStatistics.csv'):
-    fixtures_with_stats_df = pd.read_csv('fixturesWithStatistics.csv')
+if os.path.exists('fixturesWithAllStatistics.csv'):
+    fixtures_with_stats_df = pd.read_csv('fixturesWithAllStatistics.csv')
     processed_fixtures = set(fixtures_with_stats_df['fixture_id'].unique())
 else:
     fixtures_with_stats_df = pd.DataFrame()
@@ -25,7 +25,7 @@ statistics_data = []
 
 # Inicializar el contador
 counter = 0
-limit = 5
+limit = 2
 
 # Procesar cada fixture en el archivo CSV
 for _, row in fixtures_df.iterrows():
