@@ -3,94 +3,131 @@ body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
-    background-color: #f4f4f4;
+    background-color: #f0f2f5;
     color: #333;
+    overflow-x: hidden;
 }
 
-/* Contenedor Principal */
-.homepage-container {
+/* Cabecera */
+.header {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #85d8a4;
+    padding: 20px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    color: rgb(0, 0, 0);
+    position: relative;
+    z-index: 2; /* Asegura que esté encima del contenido */
+}
+
+.header img {
+    width: 60px; /* Tamaño del logo */
+    height: 60px;
+    margin-right: 20px;
+}
+
+.header h1 {
+    font-size: 2.5rem; /* Tamaño del texto */
+    margin: 0;
+    text-transform: uppercase;
+}
+
+/* Contenedor Principal (sin la cabecera) */
+.homepage-content {
+    padding: 40px;
+    margin: 0 auto;
+    text-align: center;
+    background: url('../images/imagen para fondo de homepage.jpg') no-repeat center center fixed;
+    background-size: cover;
+    position: relative;
+    z-index: 1;
+    min-height: 100vh; /* Asegura que ocupe toda la altura de la ventana */
     display: flex;
     flex-direction: column;
     align-items: center;
-    padding: 20px;
-    max-width: 1200px;
-    margin: 0 auto;
-    background-color: #ffffff;
-    border-radius: 8px;
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    justify-content: flex-start;
 }
 
-/* Título Principal */
-.homepage-header {
-    font-size: 2.5rem;
-    color: #007bff;
-    margin-bottom: 20px;
+/* Fondo difuminado */
+.homepage-content::before {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(255, 255, 255, 0.5); /* Opacidad para difuminar */
+    z-index: -1;
 }
 
 /* Contenedor de Dropdowns */
 .dropdown-container {
-    display: flex;
-    flex-direction: row; /* En fila horizontal */
-    flex-wrap: wrap;
-    justify-content: center;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr); /* 3 columnas en la primera fila */
     gap: 20px; /* Espacio entre dropdowns */
+    width: 100%;
+    max-width: 1200px;
     margin-bottom: 30px;
+}
+
+.dropdown-container > .dropdown:nth-child(4),
+.dropdown-container > .dropdown:nth-child(5) {
+    grid-column: span 1; /* Segunda fila con 2 columnas */
 }
 
 /* Dropdown Individual */
 .dropdown {
-    flex: 1;
-    min-width: 180px; /* Tamaño mínimo del dropdown */
-    max-width: 250px; /* Tamaño máximo del dropdown */
+    display: flex;
+    flex-direction: column;
+    align-items: center;
 }
 
-/* Estilo del Dropdown */
-select {
+.dropdown select {
+    font-size: 1.2rem; /* Tamaño del texto en el dropdown */
+    padding: 10px 12px;
     width: 100%;
-    padding: 10px;
-    font-size: 1rem;
-    border: 1px solid #ddd;
-    border-radius: 4px;
-    background-color: #fff;
-    color: #333;
+    max-width: 280px; /* Tamaño máximo del dropdown */
 }
 
-select:disabled {
-    background-color: #f1f1f1;
+/* Etiqueta del Dropdown */
+.dropdown label {
+    font-size: 1.5rem; /* Tamaño del texto en la etiqueta */
+    margin-bottom: 10px;
 }
 
 /* Elementos Seleccionados */
 .selected-teams {
-    margin-top: 20px;
     display: flex;
-    flex-direction: column;
-    align-items: center;
-    gap: 20px; /* Espacio entre elementos seleccionados */
-    width: 100%;
+    justify-content: center;
+    gap: 30px; /* Espacio entre elementos seleccionados */
+    flex-wrap: wrap;
+    margin-top: 20px;
 }
 
 /* Equipo Seleccionado */
 .selected-team {
     display: flex;
     align-items: center;
-    background-color: #e9ecef;
+    background-color: rgba(233, 236, 239, 0.85);
     border: 1px solid #ddd;
     border-radius: 8px;
     padding: 15px;
-    width: 80%; /* Ajuste para el tamaño de los equipos seleccionados */
-    max-width: 600px;
+    width: 320px;
+    max-width: 90%;
     box-sizing: border-box;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
 }
 
 .selected-team img {
-    width: 100px; /* Tamaño más grande del logo */
+    width: 100px;
     height: 100px;
     margin-right: 15px;
 }
 
 .selected-team span {
     flex: 1;
-    font-size: 1.5rem; /* Tamaño de fuente más grande */
+    font-size: 1.5rem;
 }
 
 .remove-button {
@@ -106,25 +143,7 @@ select:disabled {
     background-color: #c82333;
 }
 
-/* Estilos para Botones */
-button {
-    padding: 10px 15px;
-    font-size: 1rem;
-    border: none;
-    border-radius: 4px;
-    cursor: pointer;
-    color: white;
-    background-color: #007bff;
-}
-
-button:hover {
-    background-color: #0056b3;
-}
-
-button:disabled {
-    background-color: #6c757d;
-    cursor: not-allowed;
-}
+/* Estilos para Botón de Predicción */
 .predict-button {
     background-color: #4CAF50;
     color: white;
@@ -132,8 +151,8 @@ button:disabled {
     border: none;
     border-radius: 4px;
     cursor: pointer;
-    font-size: 1rem;
-    margin-top: 20px;
+    font-size: 1.2rem; /* Aumentado el tamaño del texto */
+    margin-top: 30px;
 }
 
 .predict-button:hover {
