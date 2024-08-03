@@ -5,12 +5,12 @@ import pandas as pd
 from datetime import datetime
 
 app = Flask(__name__)
-CORS(app, resources={r"/api/*": {"origins": "http://localhost:5000"}})
+CORS(app, resources={r"/api/*": {"origins": "http://localhost:3000"}})
 
 API_FOOTBALL_URL = "https://api-football-v1.p.rapidapi.com/v3/"
 API_FOOTBALL_HEADERS = {
     'x-rapidapi-host': "api-football-v1.p.rapidapi.com",
-    'x-rapidapi-key': "YOUR_RAPIDAPI_KEY"  # Reemplaza con tu clave de API
+    'x-rapidapi-key': "8b45dee1f3msh06016ead9743a2ep1a92bbjsn32b39f9e413b"  # Reemplaza con tu clave de API
 }
 
 @app.route('/', methods=['GET'])
