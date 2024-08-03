@@ -27,6 +27,7 @@ def get_teams():
 
     # Filtra los equipos del año actual -1 porque el listado es hasta 2023 y faltan datos del 24
     current_teams = teams_df[teams_df['year'] == current_year-1]
+    print(len(current_teams))
 
     # Selecciona las columnas necesarias
     teams_info = current_teams[['name', 'logo', 'country']]
@@ -34,6 +35,8 @@ def get_teams():
     # Convierte el DataFrame a una lista de diccionarios
     teams_list = teams_info.to_dict(orient='records')
 
+    print(len(teams_list))
+    #print(teams_list)
     # Retorna los datos como JSON
     return jsonify(teams_list)
 
@@ -44,13 +47,36 @@ def get_teams():
 @app.route('/api/fixtures/<string:home_team>/<string:away_team>', methods=['GET'])
 def get_fixtures(home_team, away_team):
     # Cargar el archivo CSV en un DataFrame de pandas
-    df = pd.read_csv('fixtures.csv')
+    try:
+        df = pd.read_csv('fixtures.csv')
+    except FileNotFoundError:
+        return jsonify({"error": "El archivo fixtures.csv no se encuentra"}), 404
+
+    # Asegurarse de que las columnas relevantes existen
+    if 'home_team' not in df.columns or 'away_team' not in df.columns:
+        return jsonify({"error": "El archivo CSV no contiene las columnas necesarias"}), 400
+
+    # Limpiar espacios en blanco alrededor de los nombres de los equipos
+    df['home_team'] = df['home_team'].str.strip()
+    df['away_team'] = df['away_team'].str.strip()
+
+    # Imprimir las primeras filas para depuración
+    print(df.head())
+
+    # Imprimir los nombres de los equipos recibidos
+    print(f"Home Team: {home_team}, Away Team: {away_team}")
 
     # Filtrar los partidos en los que los dos equipos especificados jugaron
     matches = df[((df['home_team'] == home_team) & (df['away_team'] == away_team)) |
                  ((df['home_team'] == away_team) & (df['away_team'] == home_team))]
 
-    return matches.to_dict(orient='records')
+    # Imprimir el resultado del filtrado
+    print(matches)
+
+    matches_list = matches.to_dict(orient='records')
+
+    # Retorna los datos como JSON
+    return jsonify(matches_list)
 
 @app.route('/api/fixture/statistics/<string:fixture_ids>', methods=['GET'])
 def get_statistics(fixture_ids):

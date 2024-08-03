@@ -587,90 +587,85 @@ id,name,logo,country,league_name,league_id,year
 112,Metz,https://media.api-sports.io/football/teams/112.png,France,Ligue 1,61,2020.0
 116,Lens,https://media.api-sports.io/football/teams/116.png,France,Ligue 1,61,2020.0
 1063,Saint Etienne,https://media.api-sports.io/football/teams/1063.png,France,Ligue 1,61,2020.0
-77,Angers,https://media.api-sports.io/football/teams/77.png,France,La liga,140,2021.0
-78,Bordeaux,https://media.api-sports.io/football/teams/78.png,France,La liga,140,2021.0
-79,Lille,https://media.api-sports.io/football/teams/79.png,France,La liga,140,2021.0
-80,Lyon,https://media.api-sports.io/football/teams/80.png,France,La liga,140,2021.0
-81,Marseille,https://media.api-sports.io/football/teams/81.png,France,La liga,140,2021.0
-82,Montpellier,https://media.api-sports.io/football/teams/82.png,France,La liga,140,2021.0
-83,Nantes,https://media.api-sports.io/football/teams/83.png,France,La liga,140,2021.0
-84,Nice,https://media.api-sports.io/football/teams/84.png,France,La liga,140,2021.0
-85,Paris Saint Germain,https://media.api-sports.io/football/teams/85.png,France,La liga,140,2021.0
-89,Dijon,https://media.api-sports.io/football/teams/89.png,France,La liga,140,2021.0
-91,Monaco,https://media.api-sports.io/football/teams/91.png,France,La liga,140,2021.0
-92,Nimes,https://media.api-sports.io/football/teams/92.png,France,La liga,140,2021.0
-93,Reims,https://media.api-sports.io/football/teams/93.png,France,La liga,140,2021.0
-94,Rennes,https://media.api-sports.io/football/teams/94.png,France,La liga,140,2021.0
-95,Strasbourg,https://media.api-sports.io/football/teams/95.png,France,La liga,140,2021.0
-96,Toulouse,https://media.api-sports.io/football/teams/96.png,France,La liga,140,2021.0
-97,Lorient,https://media.api-sports.io/football/teams/97.png,France,La liga,140,2021.0
-106,Stade Brestois 29,https://media.api-sports.io/football/teams/106.png,France,La liga,140,2021.0
-112,Metz,https://media.api-sports.io/football/teams/112.png,France,La liga,140,2021.0
-116,Lens,https://media.api-sports.io/football/teams/116.png,France,La liga,140,2021.0
-1063,Saint Etienne,https://media.api-sports.io/football/teams/1063.png,France,La liga,140,2021.0
-77,Angers,https://media.api-sports.io/football/teams/77.png,France,Premier League,39,2021.0
-78,Bordeaux,https://media.api-sports.io/football/teams/78.png,France,Premier League,39,2021.0
-79,Lille,https://media.api-sports.io/football/teams/79.png,France,Premier League,39,2021.0
-80,Lyon,https://media.api-sports.io/football/teams/80.png,France,Premier League,39,2021.0
-81,Marseille,https://media.api-sports.io/football/teams/81.png,France,Premier League,39,2021.0
-82,Montpellier,https://media.api-sports.io/football/teams/82.png,France,Premier League,39,2021.0
-83,Nantes,https://media.api-sports.io/football/teams/83.png,France,Premier League,39,2021.0
-84,Nice,https://media.api-sports.io/football/teams/84.png,France,Premier League,39,2021.0
-85,Paris Saint Germain,https://media.api-sports.io/football/teams/85.png,France,Premier League,39,2021.0
-89,Dijon,https://media.api-sports.io/football/teams/89.png,France,Premier League,39,2021.0
-91,Monaco,https://media.api-sports.io/football/teams/91.png,France,Premier League,39,2021.0
-92,Nimes,https://media.api-sports.io/football/teams/92.png,France,Premier League,39,2021.0
-93,Reims,https://media.api-sports.io/football/teams/93.png,France,Premier League,39,2021.0
-94,Rennes,https://media.api-sports.io/football/teams/94.png,France,Premier League,39,2021.0
-95,Strasbourg,https://media.api-sports.io/football/teams/95.png,France,Premier League,39,2021.0
-96,Toulouse,https://media.api-sports.io/football/teams/96.png,France,Premier League,39,2021.0
-97,Lorient,https://media.api-sports.io/football/teams/97.png,France,Premier League,39,2021.0
-106,Stade Brestois 29,https://media.api-sports.io/football/teams/106.png,France,Premier League,39,2021.0
-112,Metz,https://media.api-sports.io/football/teams/112.png,France,Premier League,39,2021.0
-116,Lens,https://media.api-sports.io/football/teams/116.png,France,Premier League,39,2021.0
-1063,Saint Etienne,https://media.api-sports.io/football/teams/1063.png,France,Premier League,39,2021.0
-77,Angers,https://media.api-sports.io/football/teams/77.png,France,Bundesliga,78,2021.0
-78,Bordeaux,https://media.api-sports.io/football/teams/78.png,France,Bundesliga,78,2021.0
-79,Lille,https://media.api-sports.io/football/teams/79.png,France,Bundesliga,78,2021.0
-80,Lyon,https://media.api-sports.io/football/teams/80.png,France,Bundesliga,78,2021.0
-81,Marseille,https://media.api-sports.io/football/teams/81.png,France,Bundesliga,78,2021.0
-82,Montpellier,https://media.api-sports.io/football/teams/82.png,France,Bundesliga,78,2021.0
-83,Nantes,https://media.api-sports.io/football/teams/83.png,France,Bundesliga,78,2021.0
-84,Nice,https://media.api-sports.io/football/teams/84.png,France,Bundesliga,78,2021.0
-85,Paris Saint Germain,https://media.api-sports.io/football/teams/85.png,France,Bundesliga,78,2021.0
-89,Dijon,https://media.api-sports.io/football/teams/89.png,France,Bundesliga,78,2021.0
-91,Monaco,https://media.api-sports.io/football/teams/91.png,France,Bundesliga,78,2021.0
-92,Nimes,https://media.api-sports.io/football/teams/92.png,France,Bundesliga,78,2021.0
-93,Reims,https://media.api-sports.io/football/teams/93.png,France,Bundesliga,78,2021.0
-94,Rennes,https://media.api-sports.io/football/teams/94.png,France,Bundesliga,78,2021.0
-95,Strasbourg,https://media.api-sports.io/football/teams/95.png,France,Bundesliga,78,2021.0
-96,Toulouse,https://media.api-sports.io/football/teams/96.png,France,Bundesliga,78,2021.0
-97,Lorient,https://media.api-sports.io/football/teams/97.png,France,Bundesliga,78,2021.0
-106,Stade Brestois 29,https://media.api-sports.io/football/teams/106.png,France,Bundesliga,78,2021.0
-112,Metz,https://media.api-sports.io/football/teams/112.png,France,Bundesliga,78,2021.0
-116,Lens,https://media.api-sports.io/football/teams/116.png,France,Bundesliga,78,2021.0
-1063,Saint Etienne,https://media.api-sports.io/football/teams/1063.png,France,Bundesliga,78,2021.0
-77,Angers,https://media.api-sports.io/football/teams/77.png,France,Serie A,135,2021.0
-78,Bordeaux,https://media.api-sports.io/football/teams/78.png,France,Serie A,135,2021.0
-79,Lille,https://media.api-sports.io/football/teams/79.png,France,Serie A,135,2021.0
-80,Lyon,https://media.api-sports.io/football/teams/80.png,France,Serie A,135,2021.0
-81,Marseille,https://media.api-sports.io/football/teams/81.png,France,Serie A,135,2021.0
-82,Montpellier,https://media.api-sports.io/football/teams/82.png,France,Serie A,135,2021.0
-83,Nantes,https://media.api-sports.io/football/teams/83.png,France,Serie A,135,2021.0
-84,Nice,https://media.api-sports.io/football/teams/84.png,France,Serie A,135,2021.0
-85,Paris Saint Germain,https://media.api-sports.io/football/teams/85.png,France,Serie A,135,2021.0
-89,Dijon,https://media.api-sports.io/football/teams/89.png,France,Serie A,135,2021.0
-91,Monaco,https://media.api-sports.io/football/teams/91.png,France,Serie A,135,2021.0
-92,Nimes,https://media.api-sports.io/football/teams/92.png,France,Serie A,135,2021.0
-93,Reims,https://media.api-sports.io/football/teams/93.png,France,Serie A,135,2021.0
-94,Rennes,https://media.api-sports.io/football/teams/94.png,France,Serie A,135,2021.0
-95,Strasbourg,https://media.api-sports.io/football/teams/95.png,France,Serie A,135,2021.0
-96,Toulouse,https://media.api-sports.io/football/teams/96.png,France,Serie A,135,2021.0
-97,Lorient,https://media.api-sports.io/football/teams/97.png,France,Serie A,135,2021.0
-106,Stade Brestois 29,https://media.api-sports.io/football/teams/106.png,France,Serie A,135,2021.0
-112,Metz,https://media.api-sports.io/football/teams/112.png,France,Serie A,135,2021.0
-116,Lens,https://media.api-sports.io/football/teams/116.png,France,Serie A,135,2021.0
-1063,Saint Etienne,https://media.api-sports.io/football/teams/1063.png,France,Serie A,135,2021.0
+529,Barcelona,https://media.api-sports.io/football/teams/529.png,Spain,La liga,140,2021.0
+530,Atletico Madrid,https://media.api-sports.io/football/teams/530.png,Spain,La liga,140,2021.0
+531,Athletic Club,https://media.api-sports.io/football/teams/531.png,Spain,La liga,140,2021.0
+532,Valencia,https://media.api-sports.io/football/teams/532.png,Spain,La liga,140,2021.0
+533,Villarreal,https://media.api-sports.io/football/teams/533.png,Spain,La liga,140,2021.0
+536,Sevilla,https://media.api-sports.io/football/teams/536.png,Spain,La liga,140,2021.0
+538,Celta Vigo,https://media.api-sports.io/football/teams/538.png,Spain,La liga,140,2021.0
+539,Levante,https://media.api-sports.io/football/teams/539.png,Spain,La liga,140,2021.0
+540,Espanyol,https://media.api-sports.io/football/teams/540.png,Spain,La liga,140,2021.0
+541,Real Madrid,https://media.api-sports.io/football/teams/541.png,Spain,La liga,140,2021.0
+542,Alaves,https://media.api-sports.io/football/teams/542.png,Spain,La liga,140,2021.0
+543,Real Betis,https://media.api-sports.io/football/teams/543.png,Spain,La liga,140,2021.0
+546,Getafe,https://media.api-sports.io/football/teams/546.png,Spain,La liga,140,2021.0
+548,Real Sociedad,https://media.api-sports.io/football/teams/548.png,Spain,La liga,140,2021.0
+715,Granada CF,https://media.api-sports.io/football/teams/715.png,Spain,La liga,140,2021.0
+724,Cadiz,https://media.api-sports.io/football/teams/724.png,Spain,La liga,140,2021.0
+727,Osasuna,https://media.api-sports.io/football/teams/727.png,Spain,La liga,140,2021.0
+728,Rayo Vallecano,https://media.api-sports.io/football/teams/728.png,Spain,La liga,140,2021.0
+797,Elche,https://media.api-sports.io/football/teams/797.png,Spain,La liga,140,2021.0
+798,Mallorca,https://media.api-sports.io/football/teams/798.png,Spain,La liga,140,2021.0
+33,Manchester United,https://media.api-sports.io/football/teams/33.png,England,Premier League,39,2021.0
+34,Newcastle,https://media.api-sports.io/football/teams/34.png,England,Premier League,39,2021.0
+38,Watford,https://media.api-sports.io/football/teams/38.png,England,Premier League,39,2021.0
+39,Wolves,https://media.api-sports.io/football/teams/39.png,England,Premier League,39,2021.0
+40,Liverpool,https://media.api-sports.io/football/teams/40.png,England,Premier League,39,2021.0
+41,Southampton,https://media.api-sports.io/football/teams/41.png,England,Premier League,39,2021.0
+42,Arsenal,https://media.api-sports.io/football/teams/42.png,England,Premier League,39,2021.0
+44,Burnley,https://media.api-sports.io/football/teams/44.png,England,Premier League,39,2021.0
+45,Everton,https://media.api-sports.io/football/teams/45.png,England,Premier League,39,2021.0
+46,Leicester,https://media.api-sports.io/football/teams/46.png,England,Premier League,39,2021.0
+47,Tottenham,https://media.api-sports.io/football/teams/47.png,England,Premier League,39,2021.0
+48,West Ham,https://media.api-sports.io/football/teams/48.png,England,Premier League,39,2021.0
+49,Chelsea,https://media.api-sports.io/football/teams/49.png,England,Premier League,39,2021.0
+50,Manchester City,https://media.api-sports.io/football/teams/50.png,England,Premier League,39,2021.0
+51,Brighton,https://media.api-sports.io/football/teams/51.png,England,Premier League,39,2021.0
+52,Crystal Palace,https://media.api-sports.io/football/teams/52.png,England,Premier League,39,2021.0
+55,Brentford,https://media.api-sports.io/football/teams/55.png,England,Premier League,39,2021.0
+63,Leeds,https://media.api-sports.io/football/teams/63.png,England,Premier League,39,2021.0
+66,Aston Villa,https://media.api-sports.io/football/teams/66.png,England,Premier League,39,2021.0
+71,Norwich,https://media.api-sports.io/football/teams/71.png,England,Premier League,39,2021.0
+157,Bayern Munich,https://media.api-sports.io/football/teams/157.png,Germany,Bundesliga,78,2021.0
+159,Hertha Berlin,https://media.api-sports.io/football/teams/159.png,Germany,Bundesliga,78,2021.0
+160,SC Freiburg,https://media.api-sports.io/football/teams/160.png,Germany,Bundesliga,78,2021.0
+161,VfL Wolfsburg,https://media.api-sports.io/football/teams/161.png,Germany,Bundesliga,78,2021.0
+163,Borussia Monchengladbach,https://media.api-sports.io/football/teams/163.png,Germany,Bundesliga,78,2021.0
+164,FSV Mainz 05,https://media.api-sports.io/football/teams/164.png,Germany,Bundesliga,78,2021.0
+165,Borussia Dortmund,https://media.api-sports.io/football/teams/165.png,Germany,Bundesliga,78,2021.0
+167,1899 Hoffenheim,https://media.api-sports.io/football/teams/167.png,Germany,Bundesliga,78,2021.0
+168,Bayer Leverkusen,https://media.api-sports.io/football/teams/168.png,Germany,Bundesliga,78,2021.0
+169,Eintracht Frankfurt,https://media.api-sports.io/football/teams/169.png,Germany,Bundesliga,78,2021.0
+170,FC Augsburg,https://media.api-sports.io/football/teams/170.png,Germany,Bundesliga,78,2021.0
+172,VfB Stuttgart,https://media.api-sports.io/football/teams/172.png,Germany,Bundesliga,78,2021.0
+173,RB Leipzig,https://media.api-sports.io/football/teams/173.png,Germany,Bundesliga,78,2021.0
+175,Hamburger SV,https://media.api-sports.io/football/teams/175.png,Germany,Bundesliga,78,2021.0
+176,Vfl Bochum,https://media.api-sports.io/football/teams/176.png,Germany,Bundesliga,78,2021.0
+178,SpVgg Greuther Furth,https://media.api-sports.io/football/teams/178.png,Germany,Bundesliga,78,2021.0
+182,Union Berlin,https://media.api-sports.io/football/teams/182.png,Germany,Bundesliga,78,2021.0
+188,Arminia Bielefeld,https://media.api-sports.io/football/teams/188.png,Germany,Bundesliga,78,2021.0
+192,1.FC Köln,https://media.api-sports.io/football/teams/192.png,Germany,Bundesliga,78,2021.0
+487,Lazio,https://media.api-sports.io/football/teams/487.png,Italy,Serie A,135,2021.0
+488,Sassuolo,https://media.api-sports.io/football/teams/488.png,Italy,Serie A,135,2021.0
+489,AC Milan,https://media.api-sports.io/football/teams/489.png,Italy,Serie A,135,2021.0
+490,Cagliari,https://media.api-sports.io/football/teams/490.png,Italy,Serie A,135,2021.0
+492,Napoli,https://media.api-sports.io/football/teams/492.png,Italy,Serie A,135,2021.0
+494,Udinese,https://media.api-sports.io/football/teams/494.png,Italy,Serie A,135,2021.0
+495,Genoa,https://media.api-sports.io/football/teams/495.png,Italy,Serie A,135,2021.0
+496,Juventus,https://media.api-sports.io/football/teams/496.png,Italy,Serie A,135,2021.0
+497,AS Roma,https://media.api-sports.io/football/teams/497.png,Italy,Serie A,135,2021.0
+498,Sampdoria,https://media.api-sports.io/football/teams/498.png,Italy,Serie A,135,2021.0
+499,Atalanta,https://media.api-sports.io/football/teams/499.png,Italy,Serie A,135,2021.0
+500,Bologna,https://media.api-sports.io/football/teams/500.png,Italy,Serie A,135,2021.0
+502,Fiorentina,https://media.api-sports.io/football/teams/502.png,Italy,Serie A,135,2021.0
+503,Torino,https://media.api-sports.io/football/teams/503.png,Italy,Serie A,135,2021.0
+504,Verona,https://media.api-sports.io/football/teams/504.png,Italy,Serie A,135,2021.0
+505,Inter,https://media.api-sports.io/football/teams/505.png,Italy,Serie A,135,2021.0
+511,Empoli,https://media.api-sports.io/football/teams/511.png,Italy,Serie A,135,2021.0
+514,Salernitana,https://media.api-sports.io/football/teams/514.png,Italy,Serie A,135,2021.0
+515,Spezia,https://media.api-sports.io/football/teams/515.png,Italy,Serie A,135,2021.0
+517,Venezia,https://media.api-sports.io/football/teams/517.png,Italy,Serie A,135,2021.0
 77,Angers,https://media.api-sports.io/football/teams/77.png,France,Ligue 1,61,2021.0
 78,Bordeaux,https://media.api-sports.io/football/teams/78.png,France,Ligue 1,61,2021.0
 79,Lille,https://media.api-sports.io/football/teams/79.png,France,Ligue 1,61,2021.0
@@ -680,104 +675,98 @@ id,name,logo,country,league_name,league_id,year
 83,Nantes,https://media.api-sports.io/football/teams/83.png,France,Ligue 1,61,2021.0
 84,Nice,https://media.api-sports.io/football/teams/84.png,France,Ligue 1,61,2021.0
 85,Paris Saint Germain,https://media.api-sports.io/football/teams/85.png,France,Ligue 1,61,2021.0
-89,Dijon,https://media.api-sports.io/football/teams/89.png,France,Ligue 1,61,2021.0
 91,Monaco,https://media.api-sports.io/football/teams/91.png,France,Ligue 1,61,2021.0
-92,Nimes,https://media.api-sports.io/football/teams/92.png,France,Ligue 1,61,2021.0
 93,Reims,https://media.api-sports.io/football/teams/93.png,France,Ligue 1,61,2021.0
 94,Rennes,https://media.api-sports.io/football/teams/94.png,France,Ligue 1,61,2021.0
 95,Strasbourg,https://media.api-sports.io/football/teams/95.png,France,Ligue 1,61,2021.0
-96,Toulouse,https://media.api-sports.io/football/teams/96.png,France,Ligue 1,61,2021.0
 97,Lorient,https://media.api-sports.io/football/teams/97.png,France,Ligue 1,61,2021.0
+99,Clermont Foot,https://media.api-sports.io/football/teams/99.png,France,Ligue 1,61,2021.0
 106,Stade Brestois 29,https://media.api-sports.io/football/teams/106.png,France,Ligue 1,61,2021.0
+108,Auxerre,https://media.api-sports.io/football/teams/108.png,France,Ligue 1,61,2021.0
+110,Estac Troyes,https://media.api-sports.io/football/teams/110.png,France,Ligue 1,61,2021.0
 112,Metz,https://media.api-sports.io/football/teams/112.png,France,Ligue 1,61,2021.0
 116,Lens,https://media.api-sports.io/football/teams/116.png,France,Ligue 1,61,2021.0
 1063,Saint Etienne,https://media.api-sports.io/football/teams/1063.png,France,Ligue 1,61,2021.0
-77,Angers,https://media.api-sports.io/football/teams/77.png,France,La liga,140,2022.0
-78,Bordeaux,https://media.api-sports.io/football/teams/78.png,France,La liga,140,2022.0
-79,Lille,https://media.api-sports.io/football/teams/79.png,France,La liga,140,2022.0
-80,Lyon,https://media.api-sports.io/football/teams/80.png,France,La liga,140,2022.0
-81,Marseille,https://media.api-sports.io/football/teams/81.png,France,La liga,140,2022.0
-82,Montpellier,https://media.api-sports.io/football/teams/82.png,France,La liga,140,2022.0
-83,Nantes,https://media.api-sports.io/football/teams/83.png,France,La liga,140,2022.0
-84,Nice,https://media.api-sports.io/football/teams/84.png,France,La liga,140,2022.0
-85,Paris Saint Germain,https://media.api-sports.io/football/teams/85.png,France,La liga,140,2022.0
-89,Dijon,https://media.api-sports.io/football/teams/89.png,France,La liga,140,2022.0
-91,Monaco,https://media.api-sports.io/football/teams/91.png,France,La liga,140,2022.0
-92,Nimes,https://media.api-sports.io/football/teams/92.png,France,La liga,140,2022.0
-93,Reims,https://media.api-sports.io/football/teams/93.png,France,La liga,140,2022.0
-94,Rennes,https://media.api-sports.io/football/teams/94.png,France,La liga,140,2022.0
-95,Strasbourg,https://media.api-sports.io/football/teams/95.png,France,La liga,140,2022.0
-96,Toulouse,https://media.api-sports.io/football/teams/96.png,France,La liga,140,2022.0
-97,Lorient,https://media.api-sports.io/football/teams/97.png,France,La liga,140,2022.0
-106,Stade Brestois 29,https://media.api-sports.io/football/teams/106.png,France,La liga,140,2022.0
-112,Metz,https://media.api-sports.io/football/teams/112.png,France,La liga,140,2022.0
-116,Lens,https://media.api-sports.io/football/teams/116.png,France,La liga,140,2022.0
-1063,Saint Etienne,https://media.api-sports.io/football/teams/1063.png,France,La liga,140,2022.0
-77,Angers,https://media.api-sports.io/football/teams/77.png,France,Premier League,39,2022.0
-78,Bordeaux,https://media.api-sports.io/football/teams/78.png,France,Premier League,39,2022.0
-79,Lille,https://media.api-sports.io/football/teams/79.png,France,Premier League,39,2022.0
-80,Lyon,https://media.api-sports.io/football/teams/80.png,France,Premier League,39,2022.0
-81,Marseille,https://media.api-sports.io/football/teams/81.png,France,Premier League,39,2022.0
-82,Montpellier,https://media.api-sports.io/football/teams/82.png,France,Premier League,39,2022.0
-83,Nantes,https://media.api-sports.io/football/teams/83.png,France,Premier League,39,2022.0
-84,Nice,https://media.api-sports.io/football/teams/84.png,France,Premier League,39,2022.0
-85,Paris Saint Germain,https://media.api-sports.io/football/teams/85.png,France,Premier League,39,2022.0
-89,Dijon,https://media.api-sports.io/football/teams/89.png,France,Premier League,39,2022.0
-91,Monaco,https://media.api-sports.io/football/teams/91.png,France,Premier League,39,2022.0
-92,Nimes,https://media.api-sports.io/football/teams/92.png,France,Premier League,39,2022.0
-93,Reims,https://media.api-sports.io/football/teams/93.png,France,Premier League,39,2022.0
-94,Rennes,https://media.api-sports.io/football/teams/94.png,France,Premier League,39,2022.0
-95,Strasbourg,https://media.api-sports.io/football/teams/95.png,France,Premier League,39,2022.0
-96,Toulouse,https://media.api-sports.io/football/teams/96.png,France,Premier League,39,2022.0
-97,Lorient,https://media.api-sports.io/football/teams/97.png,France,Premier League,39,2022.0
-106,Stade Brestois 29,https://media.api-sports.io/football/teams/106.png,France,Premier League,39,2022.0
-112,Metz,https://media.api-sports.io/football/teams/112.png,France,Premier League,39,2022.0
-116,Lens,https://media.api-sports.io/football/teams/116.png,France,Premier League,39,2022.0
-1063,Saint Etienne,https://media.api-sports.io/football/teams/1063.png,France,Premier League,39,2022.0
-77,Angers,https://media.api-sports.io/football/teams/77.png,France,Bundesliga,78,2022.0
-78,Bordeaux,https://media.api-sports.io/football/teams/78.png,France,Bundesliga,78,2022.0
-79,Lille,https://media.api-sports.io/football/teams/79.png,France,Bundesliga,78,2022.0
-80,Lyon,https://media.api-sports.io/football/teams/80.png,France,Bundesliga,78,2022.0
-81,Marseille,https://media.api-sports.io/football/teams/81.png,France,Bundesliga,78,2022.0
-82,Montpellier,https://media.api-sports.io/football/teams/82.png,France,Bundesliga,78,2022.0
-83,Nantes,https://media.api-sports.io/football/teams/83.png,France,Bundesliga,78,2022.0
-84,Nice,https://media.api-sports.io/football/teams/84.png,France,Bundesliga,78,2022.0
-85,Paris Saint Germain,https://media.api-sports.io/football/teams/85.png,France,Bundesliga,78,2022.0
-89,Dijon,https://media.api-sports.io/football/teams/89.png,France,Bundesliga,78,2022.0
-91,Monaco,https://media.api-sports.io/football/teams/91.png,France,Bundesliga,78,2022.0
-92,Nimes,https://media.api-sports.io/football/teams/92.png,France,Bundesliga,78,2022.0
-93,Reims,https://media.api-sports.io/football/teams/93.png,France,Bundesliga,78,2022.0
-94,Rennes,https://media.api-sports.io/football/teams/94.png,France,Bundesliga,78,2022.0
-95,Strasbourg,https://media.api-sports.io/football/teams/95.png,France,Bundesliga,78,2022.0
-96,Toulouse,https://media.api-sports.io/football/teams/96.png,France,Bundesliga,78,2022.0
-97,Lorient,https://media.api-sports.io/football/teams/97.png,France,Bundesliga,78,2022.0
-106,Stade Brestois 29,https://media.api-sports.io/football/teams/106.png,France,Bundesliga,78,2022.0
-112,Metz,https://media.api-sports.io/football/teams/112.png,France,Bundesliga,78,2022.0
-116,Lens,https://media.api-sports.io/football/teams/116.png,France,Bundesliga,78,2022.0
-1063,Saint Etienne,https://media.api-sports.io/football/teams/1063.png,France,Bundesliga,78,2022.0
-77,Angers,https://media.api-sports.io/football/teams/77.png,France,Serie A,135,2022.0
-78,Bordeaux,https://media.api-sports.io/football/teams/78.png,France,Serie A,135,2022.0
-79,Lille,https://media.api-sports.io/football/teams/79.png,France,Serie A,135,2022.0
-80,Lyon,https://media.api-sports.io/football/teams/80.png,France,Serie A,135,2022.0
-81,Marseille,https://media.api-sports.io/football/teams/81.png,France,Serie A,135,2022.0
-82,Montpellier,https://media.api-sports.io/football/teams/82.png,France,Serie A,135,2022.0
-83,Nantes,https://media.api-sports.io/football/teams/83.png,France,Serie A,135,2022.0
-84,Nice,https://media.api-sports.io/football/teams/84.png,France,Serie A,135,2022.0
-85,Paris Saint Germain,https://media.api-sports.io/football/teams/85.png,France,Serie A,135,2022.0
-89,Dijon,https://media.api-sports.io/football/teams/89.png,France,Serie A,135,2022.0
-91,Monaco,https://media.api-sports.io/football/teams/91.png,France,Serie A,135,2022.0
-92,Nimes,https://media.api-sports.io/football/teams/92.png,France,Serie A,135,2022.0
-93,Reims,https://media.api-sports.io/football/teams/93.png,France,Serie A,135,2022.0
-94,Rennes,https://media.api-sports.io/football/teams/94.png,France,Serie A,135,2022.0
-95,Strasbourg,https://media.api-sports.io/football/teams/95.png,France,Serie A,135,2022.0
-96,Toulouse,https://media.api-sports.io/football/teams/96.png,France,Serie A,135,2022.0
-97,Lorient,https://media.api-sports.io/football/teams/97.png,France,Serie A,135,2022.0
-106,Stade Brestois 29,https://media.api-sports.io/football/teams/106.png,France,Serie A,135,2022.0
-112,Metz,https://media.api-sports.io/football/teams/112.png,France,Serie A,135,2022.0
-116,Lens,https://media.api-sports.io/football/teams/116.png,France,Serie A,135,2022.0
-1063,Saint Etienne,https://media.api-sports.io/football/teams/1063.png,France,Serie A,135,2022.0
+529,Barcelona,https://media.api-sports.io/football/teams/529.png,Spain,La liga,140,2022.0
+530,Atletico Madrid,https://media.api-sports.io/football/teams/530.png,Spain,La liga,140,2022.0
+531,Athletic Club,https://media.api-sports.io/football/teams/531.png,Spain,La liga,140,2022.0
+532,Valencia,https://media.api-sports.io/football/teams/532.png,Spain,La liga,140,2022.0
+533,Villarreal,https://media.api-sports.io/football/teams/533.png,Spain,La liga,140,2022.0
+536,Sevilla,https://media.api-sports.io/football/teams/536.png,Spain,La liga,140,2022.0
+538,Celta Vigo,https://media.api-sports.io/football/teams/538.png,Spain,La liga,140,2022.0
+540,Espanyol,https://media.api-sports.io/football/teams/540.png,Spain,La liga,140,2022.0
+541,Real Madrid,https://media.api-sports.io/football/teams/541.png,Spain,La liga,140,2022.0
+543,Real Betis,https://media.api-sports.io/football/teams/543.png,Spain,La liga,140,2022.0
+546,Getafe,https://media.api-sports.io/football/teams/546.png,Spain,La liga,140,2022.0
+547,Girona,https://media.api-sports.io/football/teams/547.png,Spain,La liga,140,2022.0
+548,Real Sociedad,https://media.api-sports.io/football/teams/548.png,Spain,La liga,140,2022.0
+720,Valladolid,https://media.api-sports.io/football/teams/720.png,Spain,La liga,140,2022.0
+723,Almeria,https://media.api-sports.io/football/teams/723.png,Spain,La liga,140,2022.0
+724,Cadiz,https://media.api-sports.io/football/teams/724.png,Spain,La liga,140,2022.0
+727,Osasuna,https://media.api-sports.io/football/teams/727.png,Spain,La liga,140,2022.0
+728,Rayo Vallecano,https://media.api-sports.io/football/teams/728.png,Spain,La liga,140,2022.0
+797,Elche,https://media.api-sports.io/football/teams/797.png,Spain,La liga,140,2022.0
+798,Mallorca,https://media.api-sports.io/football/teams/798.png,Spain,La liga,140,2022.0
+33,Manchester United,https://media.api-sports.io/football/teams/33.png,England,Premier League,39,2022.0
+34,Newcastle,https://media.api-sports.io/football/teams/34.png,England,Premier League,39,2022.0
+35,Bournemouth,https://media.api-sports.io/football/teams/35.png,England,Premier League,39,2022.0
+36,Fulham,https://media.api-sports.io/football/teams/36.png,England,Premier League,39,2022.0
+39,Wolves,https://media.api-sports.io/football/teams/39.png,England,Premier League,39,2022.0
+40,Liverpool,https://media.api-sports.io/football/teams/40.png,England,Premier League,39,2022.0
+41,Southampton,https://media.api-sports.io/football/teams/41.png,England,Premier League,39,2022.0
+42,Arsenal,https://media.api-sports.io/football/teams/42.png,England,Premier League,39,2022.0
+45,Everton,https://media.api-sports.io/football/teams/45.png,England,Premier League,39,2022.0
+46,Leicester,https://media.api-sports.io/football/teams/46.png,England,Premier League,39,2022.0
+47,Tottenham,https://media.api-sports.io/football/teams/47.png,England,Premier League,39,2022.0
+48,West Ham,https://media.api-sports.io/football/teams/48.png,England,Premier League,39,2022.0
+49,Chelsea,https://media.api-sports.io/football/teams/49.png,England,Premier League,39,2022.0
+50,Manchester City,https://media.api-sports.io/football/teams/50.png,England,Premier League,39,2022.0
+51,Brighton,https://media.api-sports.io/football/teams/51.png,England,Premier League,39,2022.0
+52,Crystal Palace,https://media.api-sports.io/football/teams/52.png,England,Premier League,39,2022.0
+55,Brentford,https://media.api-sports.io/football/teams/55.png,England,Premier League,39,2022.0
+63,Leeds,https://media.api-sports.io/football/teams/63.png,England,Premier League,39,2022.0
+65,Nottingham Forest,https://media.api-sports.io/football/teams/65.png,England,Premier League,39,2022.0
+66,Aston Villa,https://media.api-sports.io/football/teams/66.png,England,Premier League,39,2022.0
+157,Bayern Munich,https://media.api-sports.io/football/teams/157.png,Germany,Bundesliga,78,2022.0
+159,Hertha Berlin,https://media.api-sports.io/football/teams/159.png,Germany,Bundesliga,78,2022.0
+160,SC Freiburg,https://media.api-sports.io/football/teams/160.png,Germany,Bundesliga,78,2022.0
+161,VfL Wolfsburg,https://media.api-sports.io/football/teams/161.png,Germany,Bundesliga,78,2022.0
+162,Werder Bremen,https://media.api-sports.io/football/teams/162.png,Germany,Bundesliga,78,2022.0
+163,Borussia Monchengladbach,https://media.api-sports.io/football/teams/163.png,Germany,Bundesliga,78,2022.0
+164,FSV Mainz 05,https://media.api-sports.io/football/teams/164.png,Germany,Bundesliga,78,2022.0
+165,Borussia Dortmund,https://media.api-sports.io/football/teams/165.png,Germany,Bundesliga,78,2022.0
+167,1899 Hoffenheim,https://media.api-sports.io/football/teams/167.png,Germany,Bundesliga,78,2022.0
+168,Bayer Leverkusen,https://media.api-sports.io/football/teams/168.png,Germany,Bundesliga,78,2022.0
+169,Eintracht Frankfurt,https://media.api-sports.io/football/teams/169.png,Germany,Bundesliga,78,2022.0
+170,FC Augsburg,https://media.api-sports.io/football/teams/170.png,Germany,Bundesliga,78,2022.0
+172,VfB Stuttgart,https://media.api-sports.io/football/teams/172.png,Germany,Bundesliga,78,2022.0
+173,RB Leipzig,https://media.api-sports.io/football/teams/173.png,Germany,Bundesliga,78,2022.0
+174,FC Schalke 04,https://media.api-sports.io/football/teams/174.png,Germany,Bundesliga,78,2022.0
+175,Hamburger SV,https://media.api-sports.io/football/teams/175.png,Germany,Bundesliga,78,2022.0
+176,Vfl Bochum,https://media.api-sports.io/football/teams/176.png,Germany,Bundesliga,78,2022.0
+182,Union Berlin,https://media.api-sports.io/football/teams/182.png,Germany,Bundesliga,78,2022.0
+192,1.FC Köln,https://media.api-sports.io/football/teams/192.png,Germany,Bundesliga,78,2022.0
+487,Lazio,https://media.api-sports.io/football/teams/487.png,Italy,Serie A,135,2022.0
+488,Sassuolo,https://media.api-sports.io/football/teams/488.png,Italy,Serie A,135,2022.0
+489,AC Milan,https://media.api-sports.io/football/teams/489.png,Italy,Serie A,135,2022.0
+492,Napoli,https://media.api-sports.io/football/teams/492.png,Italy,Serie A,135,2022.0
+494,Udinese,https://media.api-sports.io/football/teams/494.png,Italy,Serie A,135,2022.0
+496,Juventus,https://media.api-sports.io/football/teams/496.png,Italy,Serie A,135,2022.0
+497,AS Roma,https://media.api-sports.io/football/teams/497.png,Italy,Serie A,135,2022.0
+498,Sampdoria,https://media.api-sports.io/football/teams/498.png,Italy,Serie A,135,2022.0
+499,Atalanta,https://media.api-sports.io/football/teams/499.png,Italy,Serie A,135,2022.0
+500,Bologna,https://media.api-sports.io/football/teams/500.png,Italy,Serie A,135,2022.0
+502,Fiorentina,https://media.api-sports.io/football/teams/502.png,Italy,Serie A,135,2022.0
+503,Torino,https://media.api-sports.io/football/teams/503.png,Italy,Serie A,135,2022.0
+504,Verona,https://media.api-sports.io/football/teams/504.png,Italy,Serie A,135,2022.0
+505,Inter,https://media.api-sports.io/football/teams/505.png,Italy,Serie A,135,2022.0
+511,Empoli,https://media.api-sports.io/football/teams/511.png,Italy,Serie A,135,2022.0
+514,Salernitana,https://media.api-sports.io/football/teams/514.png,Italy,Serie A,135,2022.0
+515,Spezia,https://media.api-sports.io/football/teams/515.png,Italy,Serie A,135,2022.0
+520,Cremonese,https://media.api-sports.io/football/teams/520.png,Italy,Serie A,135,2022.0
+867,Lecce,https://media.api-sports.io/football/teams/867.png,Italy,Serie A,135,2022.0
+1579,Monza,https://media.api-sports.io/football/teams/1579.png,Italy,Serie A,135,2022.0
 77,Angers,https://media.api-sports.io/football/teams/77.png,France,Ligue 1,61,2022.0
-78,Bordeaux,https://media.api-sports.io/football/teams/78.png,France,Ligue 1,61,2022.0
 79,Lille,https://media.api-sports.io/football/teams/79.png,France,Ligue 1,61,2022.0
 80,Lyon,https://media.api-sports.io/football/teams/80.png,France,Ligue 1,61,2022.0
 81,Marseille,https://media.api-sports.io/football/teams/81.png,France,Ligue 1,61,2022.0
@@ -785,104 +774,97 @@ id,name,logo,country,league_name,league_id,year
 83,Nantes,https://media.api-sports.io/football/teams/83.png,France,Ligue 1,61,2022.0
 84,Nice,https://media.api-sports.io/football/teams/84.png,France,Ligue 1,61,2022.0
 85,Paris Saint Germain,https://media.api-sports.io/football/teams/85.png,France,Ligue 1,61,2022.0
-89,Dijon,https://media.api-sports.io/football/teams/89.png,France,Ligue 1,61,2022.0
 91,Monaco,https://media.api-sports.io/football/teams/91.png,France,Ligue 1,61,2022.0
-92,Nimes,https://media.api-sports.io/football/teams/92.png,France,Ligue 1,61,2022.0
 93,Reims,https://media.api-sports.io/football/teams/93.png,France,Ligue 1,61,2022.0
 94,Rennes,https://media.api-sports.io/football/teams/94.png,France,Ligue 1,61,2022.0
 95,Strasbourg,https://media.api-sports.io/football/teams/95.png,France,Ligue 1,61,2022.0
 96,Toulouse,https://media.api-sports.io/football/teams/96.png,France,Ligue 1,61,2022.0
 97,Lorient,https://media.api-sports.io/football/teams/97.png,France,Ligue 1,61,2022.0
+98,Ajaccio,https://media.api-sports.io/football/teams/98.png,France,Ligue 1,61,2022.0
+99,Clermont Foot,https://media.api-sports.io/football/teams/99.png,France,Ligue 1,61,2022.0
 106,Stade Brestois 29,https://media.api-sports.io/football/teams/106.png,France,Ligue 1,61,2022.0
-112,Metz,https://media.api-sports.io/football/teams/112.png,France,Ligue 1,61,2022.0
+108,Auxerre,https://media.api-sports.io/football/teams/108.png,France,Ligue 1,61,2022.0
+110,Estac Troyes,https://media.api-sports.io/football/teams/110.png,France,Ligue 1,61,2022.0
 116,Lens,https://media.api-sports.io/football/teams/116.png,France,Ligue 1,61,2022.0
-1063,Saint Etienne,https://media.api-sports.io/football/teams/1063.png,France,Ligue 1,61,2022.0
-77,Angers,https://media.api-sports.io/football/teams/77.png,France,La liga,140,2023.0
-78,Bordeaux,https://media.api-sports.io/football/teams/78.png,France,La liga,140,2023.0
-79,Lille,https://media.api-sports.io/football/teams/79.png,France,La liga,140,2023.0
-80,Lyon,https://media.api-sports.io/football/teams/80.png,France,La liga,140,2023.0
-81,Marseille,https://media.api-sports.io/football/teams/81.png,France,La liga,140,2023.0
-82,Montpellier,https://media.api-sports.io/football/teams/82.png,France,La liga,140,2023.0
-83,Nantes,https://media.api-sports.io/football/teams/83.png,France,La liga,140,2023.0
-84,Nice,https://media.api-sports.io/football/teams/84.png,France,La liga,140,2023.0
-85,Paris Saint Germain,https://media.api-sports.io/football/teams/85.png,France,La liga,140,2023.0
-89,Dijon,https://media.api-sports.io/football/teams/89.png,France,La liga,140,2023.0
-91,Monaco,https://media.api-sports.io/football/teams/91.png,France,La liga,140,2023.0
-92,Nimes,https://media.api-sports.io/football/teams/92.png,France,La liga,140,2023.0
-93,Reims,https://media.api-sports.io/football/teams/93.png,France,La liga,140,2023.0
-94,Rennes,https://media.api-sports.io/football/teams/94.png,France,La liga,140,2023.0
-95,Strasbourg,https://media.api-sports.io/football/teams/95.png,France,La liga,140,2023.0
-96,Toulouse,https://media.api-sports.io/football/teams/96.png,France,La liga,140,2023.0
-97,Lorient,https://media.api-sports.io/football/teams/97.png,France,La liga,140,2023.0
-106,Stade Brestois 29,https://media.api-sports.io/football/teams/106.png,France,La liga,140,2023.0
-112,Metz,https://media.api-sports.io/football/teams/112.png,France,La liga,140,2023.0
-116,Lens,https://media.api-sports.io/football/teams/116.png,France,La liga,140,2023.0
-1063,Saint Etienne,https://media.api-sports.io/football/teams/1063.png,France,La liga,140,2023.0
-77,Angers,https://media.api-sports.io/football/teams/77.png,France,Premier League,39,2023.0
-78,Bordeaux,https://media.api-sports.io/football/teams/78.png,France,Premier League,39,2023.0
-79,Lille,https://media.api-sports.io/football/teams/79.png,France,Premier League,39,2023.0
-80,Lyon,https://media.api-sports.io/football/teams/80.png,France,Premier League,39,2023.0
-81,Marseille,https://media.api-sports.io/football/teams/81.png,France,Premier League,39,2023.0
-82,Montpellier,https://media.api-sports.io/football/teams/82.png,France,Premier League,39,2023.0
-83,Nantes,https://media.api-sports.io/football/teams/83.png,France,Premier League,39,2023.0
-84,Nice,https://media.api-sports.io/football/teams/84.png,France,Premier League,39,2023.0
-85,Paris Saint Germain,https://media.api-sports.io/football/teams/85.png,France,Premier League,39,2023.0
-89,Dijon,https://media.api-sports.io/football/teams/89.png,France,Premier League,39,2023.0
-91,Monaco,https://media.api-sports.io/football/teams/91.png,France,Premier League,39,2023.0
-92,Nimes,https://media.api-sports.io/football/teams/92.png,France,Premier League,39,2023.0
-93,Reims,https://media.api-sports.io/football/teams/93.png,France,Premier League,39,2023.0
-94,Rennes,https://media.api-sports.io/football/teams/94.png,France,Premier League,39,2023.0
-95,Strasbourg,https://media.api-sports.io/football/teams/95.png,France,Premier League,39,2023.0
-96,Toulouse,https://media.api-sports.io/football/teams/96.png,France,Premier League,39,2023.0
-97,Lorient,https://media.api-sports.io/football/teams/97.png,France,Premier League,39,2023.0
-106,Stade Brestois 29,https://media.api-sports.io/football/teams/106.png,France,Premier League,39,2023.0
-112,Metz,https://media.api-sports.io/football/teams/112.png,France,Premier League,39,2023.0
-116,Lens,https://media.api-sports.io/football/teams/116.png,France,Premier League,39,2023.0
-1063,Saint Etienne,https://media.api-sports.io/football/teams/1063.png,France,Premier League,39,2023.0
-77,Angers,https://media.api-sports.io/football/teams/77.png,France,Bundesliga,78,2023.0
-78,Bordeaux,https://media.api-sports.io/football/teams/78.png,France,Bundesliga,78,2023.0
-79,Lille,https://media.api-sports.io/football/teams/79.png,France,Bundesliga,78,2023.0
-80,Lyon,https://media.api-sports.io/football/teams/80.png,France,Bundesliga,78,2023.0
-81,Marseille,https://media.api-sports.io/football/teams/81.png,France,Bundesliga,78,2023.0
-82,Montpellier,https://media.api-sports.io/football/teams/82.png,France,Bundesliga,78,2023.0
-83,Nantes,https://media.api-sports.io/football/teams/83.png,France,Bundesliga,78,2023.0
-84,Nice,https://media.api-sports.io/football/teams/84.png,France,Bundesliga,78,2023.0
-85,Paris Saint Germain,https://media.api-sports.io/football/teams/85.png,France,Bundesliga,78,2023.0
-89,Dijon,https://media.api-sports.io/football/teams/89.png,France,Bundesliga,78,2023.0
-91,Monaco,https://media.api-sports.io/football/teams/91.png,France,Bundesliga,78,2023.0
-92,Nimes,https://media.api-sports.io/football/teams/92.png,France,Bundesliga,78,2023.0
-93,Reims,https://media.api-sports.io/football/teams/93.png,France,Bundesliga,78,2023.0
-94,Rennes,https://media.api-sports.io/football/teams/94.png,France,Bundesliga,78,2023.0
-95,Strasbourg,https://media.api-sports.io/football/teams/95.png,France,Bundesliga,78,2023.0
-96,Toulouse,https://media.api-sports.io/football/teams/96.png,France,Bundesliga,78,2023.0
-97,Lorient,https://media.api-sports.io/football/teams/97.png,France,Bundesliga,78,2023.0
-106,Stade Brestois 29,https://media.api-sports.io/football/teams/106.png,France,Bundesliga,78,2023.0
-112,Metz,https://media.api-sports.io/football/teams/112.png,France,Bundesliga,78,2023.0
-116,Lens,https://media.api-sports.io/football/teams/116.png,France,Bundesliga,78,2023.0
-1063,Saint Etienne,https://media.api-sports.io/football/teams/1063.png,France,Bundesliga,78,2023.0
-77,Angers,https://media.api-sports.io/football/teams/77.png,France,Serie A,135,2023.0
-78,Bordeaux,https://media.api-sports.io/football/teams/78.png,France,Serie A,135,2023.0
-79,Lille,https://media.api-sports.io/football/teams/79.png,France,Serie A,135,2023.0
-80,Lyon,https://media.api-sports.io/football/teams/80.png,France,Serie A,135,2023.0
-81,Marseille,https://media.api-sports.io/football/teams/81.png,France,Serie A,135,2023.0
-82,Montpellier,https://media.api-sports.io/football/teams/82.png,France,Serie A,135,2023.0
-83,Nantes,https://media.api-sports.io/football/teams/83.png,France,Serie A,135,2023.0
-84,Nice,https://media.api-sports.io/football/teams/84.png,France,Serie A,135,2023.0
-85,Paris Saint Germain,https://media.api-sports.io/football/teams/85.png,France,Serie A,135,2023.0
-89,Dijon,https://media.api-sports.io/football/teams/89.png,France,Serie A,135,2023.0
-91,Monaco,https://media.api-sports.io/football/teams/91.png,France,Serie A,135,2023.0
-92,Nimes,https://media.api-sports.io/football/teams/92.png,France,Serie A,135,2023.0
-93,Reims,https://media.api-sports.io/football/teams/93.png,France,Serie A,135,2023.0
-94,Rennes,https://media.api-sports.io/football/teams/94.png,France,Serie A,135,2023.0
-95,Strasbourg,https://media.api-sports.io/football/teams/95.png,France,Serie A,135,2023.0
-96,Toulouse,https://media.api-sports.io/football/teams/96.png,France,Serie A,135,2023.0
-97,Lorient,https://media.api-sports.io/football/teams/97.png,France,Serie A,135,2023.0
-106,Stade Brestois 29,https://media.api-sports.io/football/teams/106.png,France,Serie A,135,2023.0
-112,Metz,https://media.api-sports.io/football/teams/112.png,France,Serie A,135,2023.0
-116,Lens,https://media.api-sports.io/football/teams/116.png,France,Serie A,135,2023.0
-1063,Saint Etienne,https://media.api-sports.io/football/teams/1063.png,France,Serie A,135,2023.0
-77,Angers,https://media.api-sports.io/football/teams/77.png,France,Ligue 1,61,2023.0
-78,Bordeaux,https://media.api-sports.io/football/teams/78.png,France,Ligue 1,61,2023.0
+529,Barcelona,https://media.api-sports.io/football/teams/529.png,Spain,La liga,140,2023.0
+530,Atletico Madrid,https://media.api-sports.io/football/teams/530.png,Spain,La liga,140,2023.0
+531,Athletic Club,https://media.api-sports.io/football/teams/531.png,Spain,La liga,140,2023.0
+532,Valencia,https://media.api-sports.io/football/teams/532.png,Spain,La liga,140,2023.0
+533,Villarreal,https://media.api-sports.io/football/teams/533.png,Spain,La liga,140,2023.0
+534,Las Palmas,https://media.api-sports.io/football/teams/534.png,Spain,La liga,140,2023.0
+536,Sevilla,https://media.api-sports.io/football/teams/536.png,Spain,La liga,140,2023.0
+538,Celta Vigo,https://media.api-sports.io/football/teams/538.png,Spain,La liga,140,2023.0
+541,Real Madrid,https://media.api-sports.io/football/teams/541.png,Spain,La liga,140,2023.0
+542,Alaves,https://media.api-sports.io/football/teams/542.png,Spain,La liga,140,2023.0
+543,Real Betis,https://media.api-sports.io/football/teams/543.png,Spain,La liga,140,2023.0
+546,Getafe,https://media.api-sports.io/football/teams/546.png,Spain,La liga,140,2023.0
+547,Girona,https://media.api-sports.io/football/teams/547.png,Spain,La liga,140,2023.0
+548,Real Sociedad,https://media.api-sports.io/football/teams/548.png,Spain,La liga,140,2023.0
+715,Granada CF,https://media.api-sports.io/football/teams/715.png,Spain,La liga,140,2023.0
+723,Almeria,https://media.api-sports.io/football/teams/723.png,Spain,La liga,140,2023.0
+724,Cadiz,https://media.api-sports.io/football/teams/724.png,Spain,La liga,140,2023.0
+727,Osasuna,https://media.api-sports.io/football/teams/727.png,Spain,La liga,140,2023.0
+728,Rayo Vallecano,https://media.api-sports.io/football/teams/728.png,Spain,La liga,140,2023.0
+798,Mallorca,https://media.api-sports.io/football/teams/798.png,Spain,La liga,140,2023.0
+33,Manchester United,https://media.api-sports.io/football/teams/33.png,England,Premier League,39,2023.0
+34,Newcastle,https://media.api-sports.io/football/teams/34.png,England,Premier League,39,2023.0
+35,Bournemouth,https://media.api-sports.io/football/teams/35.png,England,Premier League,39,2023.0
+36,Fulham,https://media.api-sports.io/football/teams/36.png,England,Premier League,39,2023.0
+39,Wolves,https://media.api-sports.io/football/teams/39.png,England,Premier League,39,2023.0
+40,Liverpool,https://media.api-sports.io/football/teams/40.png,England,Premier League,39,2023.0
+42,Arsenal,https://media.api-sports.io/football/teams/42.png,England,Premier League,39,2023.0
+44,Burnley,https://media.api-sports.io/football/teams/44.png,England,Premier League,39,2023.0
+45,Everton,https://media.api-sports.io/football/teams/45.png,England,Premier League,39,2023.0
+47,Tottenham,https://media.api-sports.io/football/teams/47.png,England,Premier League,39,2023.0
+48,West Ham,https://media.api-sports.io/football/teams/48.png,England,Premier League,39,2023.0
+49,Chelsea,https://media.api-sports.io/football/teams/49.png,England,Premier League,39,2023.0
+50,Manchester City,https://media.api-sports.io/football/teams/50.png,England,Premier League,39,2023.0
+51,Brighton,https://media.api-sports.io/football/teams/51.png,England,Premier League,39,2023.0
+52,Crystal Palace,https://media.api-sports.io/football/teams/52.png,England,Premier League,39,2023.0
+55,Brentford,https://media.api-sports.io/football/teams/55.png,England,Premier League,39,2023.0
+62,Sheffield Utd,https://media.api-sports.io/football/teams/62.png,England,Premier League,39,2023.0
+65,Nottingham Forest,https://media.api-sports.io/football/teams/65.png,England,Premier League,39,2023.0
+66,Aston Villa,https://media.api-sports.io/football/teams/66.png,England,Premier League,39,2023.0
+1359,Luton,https://media.api-sports.io/football/teams/1359.png,England,Premier League,39,2023.0
+157,Bayern Munich,https://media.api-sports.io/football/teams/157.png,Germany,Bundesliga,78,2023.0
+158,Fortuna Dusseldorf,https://media.api-sports.io/football/teams/158.png,Germany,Bundesliga,78,2023.0
+160,SC Freiburg,https://media.api-sports.io/football/teams/160.png,Germany,Bundesliga,78,2023.0
+161,VfL Wolfsburg,https://media.api-sports.io/football/teams/161.png,Germany,Bundesliga,78,2023.0
+162,Werder Bremen,https://media.api-sports.io/football/teams/162.png,Germany,Bundesliga,78,2023.0
+163,Borussia Monchengladbach,https://media.api-sports.io/football/teams/163.png,Germany,Bundesliga,78,2023.0
+164,FSV Mainz 05,https://media.api-sports.io/football/teams/164.png,Germany,Bundesliga,78,2023.0
+165,Borussia Dortmund,https://media.api-sports.io/football/teams/165.png,Germany,Bundesliga,78,2023.0
+167,1899 Hoffenheim,https://media.api-sports.io/football/teams/167.png,Germany,Bundesliga,78,2023.0
+168,Bayer Leverkusen,https://media.api-sports.io/football/teams/168.png,Germany,Bundesliga,78,2023.0
+169,Eintracht Frankfurt,https://media.api-sports.io/football/teams/169.png,Germany,Bundesliga,78,2023.0
+170,FC Augsburg,https://media.api-sports.io/football/teams/170.png,Germany,Bundesliga,78,2023.0
+172,VfB Stuttgart,https://media.api-sports.io/football/teams/172.png,Germany,Bundesliga,78,2023.0
+173,RB Leipzig,https://media.api-sports.io/football/teams/173.png,Germany,Bundesliga,78,2023.0
+176,Vfl Bochum,https://media.api-sports.io/football/teams/176.png,Germany,Bundesliga,78,2023.0
+180,FC Heidenheim,https://media.api-sports.io/football/teams/180.png,Germany,Bundesliga,78,2023.0
+181,SV Darmstadt 98,https://media.api-sports.io/football/teams/181.png,Germany,Bundesliga,78,2023.0
+182,Union Berlin,https://media.api-sports.io/football/teams/182.png,Germany,Bundesliga,78,2023.0
+192,1.FC Köln,https://media.api-sports.io/football/teams/192.png,Germany,Bundesliga,78,2023.0
+487,Lazio,https://media.api-sports.io/football/teams/487.png,Italy,Serie A,135,2023.0
+488,Sassuolo,https://media.api-sports.io/football/teams/488.png,Italy,Serie A,135,2023.0
+489,AC Milan,https://media.api-sports.io/football/teams/489.png,Italy,Serie A,135,2023.0
+490,Cagliari,https://media.api-sports.io/football/teams/490.png,Italy,Serie A,135,2023.0
+492,Napoli,https://media.api-sports.io/football/teams/492.png,Italy,Serie A,135,2023.0
+494,Udinese,https://media.api-sports.io/football/teams/494.png,Italy,Serie A,135,2023.0
+495,Genoa,https://media.api-sports.io/football/teams/495.png,Italy,Serie A,135,2023.0
+496,Juventus,https://media.api-sports.io/football/teams/496.png,Italy,Serie A,135,2023.0
+497,AS Roma,https://media.api-sports.io/football/teams/497.png,Italy,Serie A,135,2023.0
+499,Atalanta,https://media.api-sports.io/football/teams/499.png,Italy,Serie A,135,2023.0
+500,Bologna,https://media.api-sports.io/football/teams/500.png,Italy,Serie A,135,2023.0
+502,Fiorentina,https://media.api-sports.io/football/teams/502.png,Italy,Serie A,135,2023.0
+503,Torino,https://media.api-sports.io/football/teams/503.png,Italy,Serie A,135,2023.0
+504,Verona,https://media.api-sports.io/football/teams/504.png,Italy,Serie A,135,2023.0
+505,Inter,https://media.api-sports.io/football/teams/505.png,Italy,Serie A,135,2023.0
+511,Empoli,https://media.api-sports.io/football/teams/511.png,Italy,Serie A,135,2023.0
+512,Frosinone,https://media.api-sports.io/football/teams/512.png,Italy,Serie A,135,2023.0
+514,Salernitana,https://media.api-sports.io/football/teams/514.png,Italy,Serie A,135,2023.0
+867,Lecce,https://media.api-sports.io/football/teams/867.png,Italy,Serie A,135,2023.0
+1579,Monza,https://media.api-sports.io/football/teams/1579.png,Italy,Serie A,135,2023.0
 79,Lille,https://media.api-sports.io/football/teams/79.png,France,Ligue 1,61,2023.0
 80,Lyon,https://media.api-sports.io/football/teams/80.png,France,Ligue 1,61,2023.0
 81,Marseille,https://media.api-sports.io/football/teams/81.png,France,Ligue 1,61,2023.0
@@ -890,15 +872,111 @@ id,name,logo,country,league_name,league_id,year
 83,Nantes,https://media.api-sports.io/football/teams/83.png,France,Ligue 1,61,2023.0
 84,Nice,https://media.api-sports.io/football/teams/84.png,France,Ligue 1,61,2023.0
 85,Paris Saint Germain,https://media.api-sports.io/football/teams/85.png,France,Ligue 1,61,2023.0
-89,Dijon,https://media.api-sports.io/football/teams/89.png,France,Ligue 1,61,2023.0
 91,Monaco,https://media.api-sports.io/football/teams/91.png,France,Ligue 1,61,2023.0
-92,Nimes,https://media.api-sports.io/football/teams/92.png,France,Ligue 1,61,2023.0
 93,Reims,https://media.api-sports.io/football/teams/93.png,France,Ligue 1,61,2023.0
 94,Rennes,https://media.api-sports.io/football/teams/94.png,France,Ligue 1,61,2023.0
 95,Strasbourg,https://media.api-sports.io/football/teams/95.png,France,Ligue 1,61,2023.0
 96,Toulouse,https://media.api-sports.io/football/teams/96.png,France,Ligue 1,61,2023.0
 97,Lorient,https://media.api-sports.io/football/teams/97.png,France,Ligue 1,61,2023.0
+99,Clermont Foot,https://media.api-sports.io/football/teams/99.png,France,Ligue 1,61,2023.0
 106,Stade Brestois 29,https://media.api-sports.io/football/teams/106.png,France,Ligue 1,61,2023.0
+111,LE Havre,https://media.api-sports.io/football/teams/111.png,France,Ligue 1,61,2023.0
 112,Metz,https://media.api-sports.io/football/teams/112.png,France,Ligue 1,61,2023.0
 116,Lens,https://media.api-sports.io/football/teams/116.png,France,Ligue 1,61,2023.0
 1063,Saint Etienne,https://media.api-sports.io/football/teams/1063.png,France,Ligue 1,61,2023.0
+529,Barcelona,https://media.api-sports.io/football/teams/529.png,Spain,La liga,140,2024.0
+530,Atletico Madrid,https://media.api-sports.io/football/teams/530.png,Spain,La liga,140,2024.0
+531,Athletic Club,https://media.api-sports.io/football/teams/531.png,Spain,La liga,140,2024.0
+532,Valencia,https://media.api-sports.io/football/teams/532.png,Spain,La liga,140,2024.0
+533,Villarreal,https://media.api-sports.io/football/teams/533.png,Spain,La liga,140,2024.0
+534,Las Palmas,https://media.api-sports.io/football/teams/534.png,Spain,La liga,140,2024.0
+536,Sevilla,https://media.api-sports.io/football/teams/536.png,Spain,La liga,140,2024.0
+537,Leganes,https://media.api-sports.io/football/teams/537.png,Spain,La liga,140,2024.0
+538,Celta Vigo,https://media.api-sports.io/football/teams/538.png,Spain,La liga,140,2024.0
+540,Espanyol,https://media.api-sports.io/football/teams/540.png,Spain,La liga,140,2024.0
+541,Real Madrid,https://media.api-sports.io/football/teams/541.png,Spain,La liga,140,2024.0
+542,Alaves,https://media.api-sports.io/football/teams/542.png,Spain,La liga,140,2024.0
+543,Real Betis,https://media.api-sports.io/football/teams/543.png,Spain,La liga,140,2024.0
+546,Getafe,https://media.api-sports.io/football/teams/546.png,Spain,La liga,140,2024.0
+547,Girona,https://media.api-sports.io/football/teams/547.png,Spain,La liga,140,2024.0
+548,Real Sociedad,https://media.api-sports.io/football/teams/548.png,Spain,La liga,140,2024.0
+720,Valladolid,https://media.api-sports.io/football/teams/720.png,Spain,La liga,140,2024.0
+727,Osasuna,https://media.api-sports.io/football/teams/727.png,Spain,La liga,140,2024.0
+728,Rayo Vallecano,https://media.api-sports.io/football/teams/728.png,Spain,La liga,140,2024.0
+798,Mallorca,https://media.api-sports.io/football/teams/798.png,Spain,La liga,140,2024.0
+33,Manchester United,https://media.api-sports.io/football/teams/33.png,England,Premier League,39,2024.0
+34,Newcastle,https://media.api-sports.io/football/teams/34.png,England,Premier League,39,2024.0
+35,Bournemouth,https://media.api-sports.io/football/teams/35.png,England,Premier League,39,2024.0
+36,Fulham,https://media.api-sports.io/football/teams/36.png,England,Premier League,39,2024.0
+39,Wolves,https://media.api-sports.io/football/teams/39.png,England,Premier League,39,2024.0
+40,Liverpool,https://media.api-sports.io/football/teams/40.png,England,Premier League,39,2024.0
+41,Southampton,https://media.api-sports.io/football/teams/41.png,England,Premier League,39,2024.0
+42,Arsenal,https://media.api-sports.io/football/teams/42.png,England,Premier League,39,2024.0
+45,Everton,https://media.api-sports.io/football/teams/45.png,England,Premier League,39,2024.0
+46,Leicester,https://media.api-sports.io/football/teams/46.png,England,Premier League,39,2024.0
+47,Tottenham,https://media.api-sports.io/football/teams/47.png,England,Premier League,39,2024.0
+48,West Ham,https://media.api-sports.io/football/teams/48.png,England,Premier League,39,2024.0
+49,Chelsea,https://media.api-sports.io/football/teams/49.png,England,Premier League,39,2024.0
+50,Manchester City,https://media.api-sports.io/football/teams/50.png,England,Premier League,39,2024.0
+51,Brighton,https://media.api-sports.io/football/teams/51.png,England,Premier League,39,2024.0
+52,Crystal Palace,https://media.api-sports.io/football/teams/52.png,England,Premier League,39,2024.0
+55,Brentford,https://media.api-sports.io/football/teams/55.png,England,Premier League,39,2024.0
+57,Ipswich,https://media.api-sports.io/football/teams/57.png,England,Premier League,39,2024.0
+65,Nottingham Forest,https://media.api-sports.io/football/teams/65.png,England,Premier League,39,2024.0
+66,Aston Villa,https://media.api-sports.io/football/teams/66.png,England,Premier League,39,2024.0
+157,Bayern Munich,https://media.api-sports.io/football/teams/157.png,Germany,Bundesliga,78,2024.0
+160,SC Freiburg,https://media.api-sports.io/football/teams/160.png,Germany,Bundesliga,78,2024.0
+161,VfL Wolfsburg,https://media.api-sports.io/football/teams/161.png,Germany,Bundesliga,78,2024.0
+162,Werder Bremen,https://media.api-sports.io/football/teams/162.png,Germany,Bundesliga,78,2024.0
+163,Borussia Monchengladbach,https://media.api-sports.io/football/teams/163.png,Germany,Bundesliga,78,2024.0
+164,FSV Mainz 05,https://media.api-sports.io/football/teams/164.png,Germany,Bundesliga,78,2024.0
+165,Borussia Dortmund,https://media.api-sports.io/football/teams/165.png,Germany,Bundesliga,78,2024.0
+167,1899 Hoffenheim,https://media.api-sports.io/football/teams/167.png,Germany,Bundesliga,78,2024.0
+168,Bayer Leverkusen,https://media.api-sports.io/football/teams/168.png,Germany,Bundesliga,78,2024.0
+169,Eintracht Frankfurt,https://media.api-sports.io/football/teams/169.png,Germany,Bundesliga,78,2024.0
+170,FC Augsburg,https://media.api-sports.io/football/teams/170.png,Germany,Bundesliga,78,2024.0
+172,VfB Stuttgart,https://media.api-sports.io/football/teams/172.png,Germany,Bundesliga,78,2024.0
+173,RB Leipzig,https://media.api-sports.io/football/teams/173.png,Germany,Bundesliga,78,2024.0
+176,Vfl Bochum,https://media.api-sports.io/football/teams/176.png,Germany,Bundesliga,78,2024.0
+180,FC Heidenheim,https://media.api-sports.io/football/teams/180.png,Germany,Bundesliga,78,2024.0
+182,Union Berlin,https://media.api-sports.io/football/teams/182.png,Germany,Bundesliga,78,2024.0
+186,FC St. Pauli,https://media.api-sports.io/football/teams/186.png,Germany,Bundesliga,78,2024.0
+191,Holstein Kiel,https://media.api-sports.io/football/teams/191.png,Germany,Bundesliga,78,2024.0
+487,Lazio,https://media.api-sports.io/football/teams/487.png,Italy,Serie A,135,2024.0
+489,AC Milan,https://media.api-sports.io/football/teams/489.png,Italy,Serie A,135,2024.0
+490,Cagliari,https://media.api-sports.io/football/teams/490.png,Italy,Serie A,135,2024.0
+492,Napoli,https://media.api-sports.io/football/teams/492.png,Italy,Serie A,135,2024.0
+494,Udinese,https://media.api-sports.io/football/teams/494.png,Italy,Serie A,135,2024.0
+495,Genoa,https://media.api-sports.io/football/teams/495.png,Italy,Serie A,135,2024.0
+496,Juventus,https://media.api-sports.io/football/teams/496.png,Italy,Serie A,135,2024.0
+497,AS Roma,https://media.api-sports.io/football/teams/497.png,Italy,Serie A,135,2024.0
+499,Atalanta,https://media.api-sports.io/football/teams/499.png,Italy,Serie A,135,2024.0
+500,Bologna,https://media.api-sports.io/football/teams/500.png,Italy,Serie A,135,2024.0
+502,Fiorentina,https://media.api-sports.io/football/teams/502.png,Italy,Serie A,135,2024.0
+503,Torino,https://media.api-sports.io/football/teams/503.png,Italy,Serie A,135,2024.0
+504,Verona,https://media.api-sports.io/football/teams/504.png,Italy,Serie A,135,2024.0
+505,Inter,https://media.api-sports.io/football/teams/505.png,Italy,Serie A,135,2024.0
+511,Empoli,https://media.api-sports.io/football/teams/511.png,Italy,Serie A,135,2024.0
+517,Venezia,https://media.api-sports.io/football/teams/517.png,Italy,Serie A,135,2024.0
+523,Parma,https://media.api-sports.io/football/teams/523.png,Italy,Serie A,135,2024.0
+867,Lecce,https://media.api-sports.io/football/teams/867.png,Italy,Serie A,135,2024.0
+895,Como,https://media.api-sports.io/football/teams/895.png,Italy,Serie A,135,2024.0
+1579,Monza,https://media.api-sports.io/football/teams/1579.png,Italy,Serie A,135,2024.0
+77,Angers,https://media.api-sports.io/football/teams/77.png,France,Ligue 1,61,2024.0
+79,Lille,https://media.api-sports.io/football/teams/79.png,France,Ligue 1,61,2024.0
+80,Lyon,https://media.api-sports.io/football/teams/80.png,France,Ligue 1,61,2024.0
+81,Marseille,https://media.api-sports.io/football/teams/81.png,France,Ligue 1,61,2024.0
+82,Montpellier,https://media.api-sports.io/football/teams/82.png,France,Ligue 1,61,2024.0
+83,Nantes,https://media.api-sports.io/football/teams/83.png,France,Ligue 1,61,2024.0
+84,Nice,https://media.api-sports.io/football/teams/84.png,France,Ligue 1,61,2024.0
+85,Paris Saint Germain,https://media.api-sports.io/football/teams/85.png,France,Ligue 1,61,2024.0
+91,Monaco,https://media.api-sports.io/football/teams/91.png,France,Ligue 1,61,2024.0
+93,Reims,https://media.api-sports.io/football/teams/93.png,France,Ligue 1,61,2024.0
+94,Rennes,https://media.api-sports.io/football/teams/94.png,France,Ligue 1,61,2024.0
+95,Strasbourg,https://media.api-sports.io/football/teams/95.png,France,Ligue 1,61,2024.0
+96,Toulouse,https://media.api-sports.io/football/teams/96.png,France,Ligue 1,61,2024.0
+106,Stade Brestois 29,https://media.api-sports.io/football/teams/106.png,France,Ligue 1,61,2024.0
+108,Auxerre,https://media.api-sports.io/football/teams/108.png,France,Ligue 1,61,2024.0
+111,LE Havre,https://media.api-sports.io/football/teams/111.png,France,Ligue 1,61,2024.0
+116,Lens,https://media.api-sports.io/football/teams/116.png,France,Ligue 1,61,2024.0
+1063,Saint Etienne,https://media.api-sports.io/football/teams/1063.png,France,Ligue 1,61,2024.0

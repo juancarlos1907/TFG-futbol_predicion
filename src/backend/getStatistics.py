@@ -25,7 +25,7 @@ statistics_data = []
 
 # Inicializar el contador
 counter = 0
-limit = 2
+limit = 100
 
 # Procesar cada fixture en el archivo CSV
 for _, row in fixtures_df.iterrows():
