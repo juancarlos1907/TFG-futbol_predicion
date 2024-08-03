@@ -4,6 +4,8 @@ import requests
 import pandas as pd
 from datetime import datetime
 
+from Calculos import calculate_prediction
+
 app = Flask(__name__)
 CORS(app, resources={r"/api/*": {"origins": "http://localhost:5000"}})
 
@@ -90,6 +92,33 @@ def get_statistics(fixture_ids):
     selected_statistics = df_statistics[df_statistics['fixture_id'].isin(fixture_ids_list)]
 
     return selected_statistics.to_dict(orient='records')
+
+@app.route('/api/fixture/statistics/<string:home_team>/<string:away_team>', methods=['GET'])
+def get_prediction(home_team, away_team):
+    # Cargar el archivo CSV de estadísticas en un DataFrame de pandas
+    df_statistics = pd.read_csv('fixturesWithStatistics.csv')
+
+    # Filtrar los partidos que involucren a los equipos proporcionados
+    selected_statistics = df_statistics[((df_statistics['home_team'] == home_team) & (df_statistics['away_team'] == away_team)) |
+                                        ((df_statistics['home_team'] == away_team) & (df_statistics['away_team'] == home_team))]
+
+    # Si no hay estadísticas, retornar un mensaje
+    if selected_statistics.empty:
+        return jsonify({"message": "No se encontraron partidos para estos equipos."}), 404
+
+    # Convertir las estadísticas seleccionadas a una lista de diccionarios
+    statistics_list = selected_statistics.to_dict(orient='records')
+
+    # Convertir la lista de diccionarios a un DataFrame
+    stats_df = pd.DataFrame(statistics_list)
+
+    # Realizar los cálculos necesarios llamando a la función del script externo
+    home_result, away_result = calculate_prediction(stats_df)
+
+    return jsonify({
+        "home_team_result": home_result,
+        "away_team_result": away_result
+    })
 
 
 if __name__ == '__main__':
