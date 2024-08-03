@@ -1,6 +1,5 @@
 import React, { useState, useEffect } from 'react';
 import Dropdown from '../components/Dropdown'; // Asegúrate de que la ruta sea correcta
-import SelectedTeams from '../components/SelectedTeams'; // Asegúrate de que la ruta sea correcta
 import './HomePage.css';
 
 const HomePage = () => {
