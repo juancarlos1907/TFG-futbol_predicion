@@ -9,7 +9,7 @@ COUNTRIES_LIGUES = {
     "France": ["Ligue 1 - 61", "Copa de Francia - 66", "Supercopa de Francia - 526"]
 }
 
-YEARS = [2019, 2020] #[2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023]
+YEARS = [2023, 2024] #[2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023]
 
 
 url = "https://api-football-v1.p.rapidapi.com/v3/fixtures"
@@ -18,7 +18,7 @@ columns = ["fixture_id", "home_team", "home_goals", "home_logo", "away_team", "a
 df = pd.DataFrame(columns=columns)
 
 headers = {
-            "X-RapidAPI-Key": "8b45dee1f3msh06016ead9743a2ep1a92bbjsn32b39f9e413b",
+            "X-RapidAPI-Key": "798f80235dmsh5e71f1a0965e5c5p1da281jsn2d6666966440",
             "X-RapidAPI-Host": "api-football-v1.p.rapidapi.com"
         }
 
@@ -74,4 +74,4 @@ for year in YEARS:
                 df = pd.concat([df, pd.DataFrame([fixture_data])], ignore_index=True)
 
 
-df.to_csv('fixtures21y22.csv', index=False)
+df.to_csv('fixtures23y24.csv', index=False)
