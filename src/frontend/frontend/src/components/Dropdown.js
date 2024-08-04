@@ -1,6 +1,10 @@
 import React from 'react';
+import { useTranslation } from 'react-i18next';
+
 
 const Dropdown = ({ country, teams, selectedTeams, onSelect }) => {
+    const { t } = useTranslation();
+
     const handleChange = (event) => {
         const selectedTeamName = event.target.value;
         const selectedTeam = teams.find(team => team.name === selectedTeamName);
@@ -17,14 +21,12 @@ const Dropdown = ({ country, teams, selectedTeams, onSelect }) => {
                 onChange={handleChange}
                 disabled={selectedTeams.length >= 2}
             >
-                <option value="">Select a team</option>
+                <option value="">{t('selectTeam')}</option>
                 {teams.map(team => (
                     <option
                         key={team.name}
                         value={team.name}
-                        disabled={
-                            selectedTeams.some(t => t.name === team.name)
-                        }
+                        disabled={selectedTeams.some(t => t.name === team.name)}
                     >
                         {team.name}
                     </option>

@@ -1,9 +1,12 @@
 import React, { useState, useEffect } from 'react';
+import { useTranslation } from 'react-i18next';
+import LanguageSwitcher from '../components/LenguageSwitcher';
 import Dropdown from '../components/Dropdown';
 import './HomePage.css';
 import genioLogo from '../images/imagen genio.png';
 
 const HomePage = () => {
+    const { t } = useTranslation(); // Hook para usar traducciones
     const [teams, setTeams] = useState([]);
     const [selectedTeams, setSelectedTeams] = useState([]);
 
@@ -30,20 +33,23 @@ const HomePage = () => {
         setSelectedTeams(selectedTeams.filter(t => t.name !== team.name));
     };
 
-    const countries = ['Spain', 'France', 'Italy', 'England', 'Germany'];
+    const countries = Object.keys(t('countries', { returnObjects: true }));
 
     return (
         <>
             <header className="header">
-                <img src={genioLogo} alt="Genio Logo" />
-                <h1>El Oráculo del Fútbol</h1>
+                <div className="header-title-container">
+                    <img src={genioLogo} alt="Genio Logo" />
+                    <h1>{t('title')}</h1>
+                </div>
+                <LanguageSwitcher className="language-switcher" />
             </header>
             <div className="homepage-content">
                 <div className="dropdown-container">
                     {countries.map(country => (
                         <Dropdown
                             key={country}
-                            country={country}
+                            country={t(`countries.${country}`)}
                             teams={teams.filter(team => team.country === country)}
                             selectedTeams={selectedTeams}
                             onSelect={handleSelect}
@@ -59,7 +65,7 @@ const HomePage = () => {
                         </div>
                     ))}
                 </div>
-                <button className="predict-button">Lanzar Predicción</button>
+                <button className="predict-button">{t('predict')}</button>
             </div>
         </>
     );
