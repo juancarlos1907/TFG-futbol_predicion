@@ -5,7 +5,7 @@ import os
 # Definir la URL y los headers para la solicitud
 url = "https://api-football-v1.p.rapidapi.com/v3/fixtures/statistics"
 headers = {
-    "X-RapidAPI-Key": "8b45dee1f3msh06016ead9743a2ep1a92bbjsn32b39f9e413b",
+    "X-RapidAPI-Key": "798f80235dmsh5e71f1a0965e5c5p1da281jsn2d6666966440",
     "X-RapidAPI-Host": "api-football-v1.p.rapidapi.com"
 }
 
@@ -15,17 +15,28 @@ fixtures_df = pd.read_csv('fixtures.csv')
 # Verificar si el archivo fixturesWithStatistics.csv existe
 if os.path.exists('fixturesWithAllStatistics.csv'):
     fixtures_with_stats_df = pd.read_csv('fixturesWithAllStatistics.csv')
+    # Imprimir los primeros valores para depuración
+    print("Primeros valores de 'fixture_id' en fixtures_with_stats_df:")
+    print(fixtures_with_stats_df['fixture_id'].head())
+
+    # Asegurarse de que 'fixture_id' es de tipo entero o cadena
+    fixtures_with_stats_df['fixture_id'] = fixtures_with_stats_df['fixture_id'].astype(str)
+
+    # Obtener los fixture_id únicos
     processed_fixtures = set(fixtures_with_stats_df['fixture_id'].unique())
 else:
     fixtures_with_stats_df = pd.DataFrame()
     processed_fixtures = set()
+
+print(f"Fixtures procesados previamente: {len(processed_fixtures)}")
+
 
 # Inicializar una lista para almacenar los datos de las estadísticas
 statistics_data = []
 
 # Inicializar el contador
 counter = 0
-limit = 100
+limit = 1
 
 # Procesar cada fixture en el archivo CSV
 for _, row in fixtures_df.iterrows():
@@ -33,10 +44,12 @@ for _, row in fixtures_df.iterrows():
 
     # Verificar si el fixture_id ya ha sido procesado
     if fixture_id in processed_fixtures:
+        print(f"Fixture {fixture_id} ya procesado, se omite.")
         continue
 
     # Incrementar el contador y verificar el límite
     if counter >= limit:
+        print("Límite de solicitudes alcanzado.")
         break
 
     home_team = row['home_team']
@@ -47,13 +60,20 @@ for _, row in fixtures_df.iterrows():
     # Realizar la solicitud a la API
     response = requests.get(url, headers=headers, params=querystring)
 
-    if response.status_code == 200:
-        response_dict = response.json()
-    else:
-        print(f"Error: {response.status_code} para fixture {fixture_id}")
+    try:
+        response = requests.get(url, headers=headers, params=querystring)
+        response.raise_for_status()
+    except requests.exceptions.HTTPError as err:
+        print(f"Error: {err} para fixture {fixture_id}")
         continue
 
+        # Procesar la respuesta de la API
+    response_dict = response.json()
     statistics = response_dict.get("response", [])
+
+    if not statistics:
+        print(f"No se encontraron estadísticas para fixture {fixture_id}.")
+        continue
 
     home_stats = {}
     away_stats = {}
@@ -100,6 +120,9 @@ for _, row in fixtures_df.iterrows():
 
 # Convertir la lista de diccionarios a un DataFrame
 new_statistics_df = pd.DataFrame(statistics_data)
+
+# Filtrar solo los datos nuevos antes de concatenar
+new_statistics_df = new_statistics_df[~new_statistics_df['fixture_id'].isin(processed_fixtures)]
 
 # Concatenar el nuevo DataFrame con el existente si existe
 if not fixtures_with_stats_df.empty:

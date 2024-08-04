@@ -1,37 +1,880 @@
 fixture_id,home_team,home_goals,home_possession%,home_goalkeeper_saves,home_passes%,away_team,away_goals,away_possession%,away_goalkeeper_saves,away_passes%
-203337,Malaga,0.0,57%,2.0,80%,Sevilla,0.0,43%,4,73%
-203338,Espanyol,1.0,33%,2.0,66%,Getafe,0.0,67%,1,84%
-203339,Deportivo La Coruna,0.0,56%,2.0,80%,Real Sociedad,0.0,44%,5,71%
-203340,Atletico Madrid,1.0,61%,1.0,84%,Las Palmas,0.0,39%,2,74%
-203341,Rayo Vallecano,0.0,56%,4.0,76%,Valencia,0.0,44%,3,69%
-203342,Athletic Club,0.0,32%,3.0,61%,Barcelona,1.0,68%,2,81%
-203343,Sporting Gijon,0.0,32%,8.0,67%,Real Madrid,0.0,68%,0,87%
-203344,Levante,1.0,29%,4.0,68%,Celta Vigo,2.0,71%,1,87%
-203345,Real Betis,1.0,65%,2.0,78%,Villarreal,1.0,35%,5,62%
-203346,Granada CF,1.0,57%,1.0,77%,Eibar,3.0,43%,5,71%
-203347,Villarreal,3.0,57%,2.0,79%,Espanyol,1.0,43%,1,73%
-203348,Real Sociedad,0.0,60%,2.0,82%,Sporting Gijon,0.0,40%,1,71%
-203349,Barcelona,1.0,74%,1.0,87%,Malaga,0.0,26%,12,61%
-203350,Celta Vigo,3.0,64%,0.0,86%,Rayo Vallecano,0.0,36%,4,69%
-203351,Real Madrid,5.0,69%,1.0,91%,Real Betis,0.0,31%,5,77%
-203352,Eibar,2.0,43%,1.0,67%,Athletic Club,0.0,57%,6,75%
-203353,Sevilla,0.0,62%,4.0,82%,Atletico Madrid,3.0,38%,7,76%
-203354,Valencia,1.0,53%,2.0,76%,Deportivo La Coruna,1.0,47%,5,74%
-203355,Las Palmas,0.0,65%,2.0,79%,Levante,0.0,35%,2,60%
-203356,Getafe,1.0,61%,2.0,79%,Granada CF,2.0,39%,3,67%
-203357,Levante,1.0,54%,2.0,77%,Sevilla,1.0,46%,3,74%
-203358,Espanyol,0.0,52%,2.0,88%,Real Madrid,6.0,48%,3,86%
-203359,Sporting Gijon,0.0,40%,2.0,70%,Valencia,1.0,60%,8,84%
-203360,Atletico Madrid,1.0,31%,2.0,77%,Barcelona,2.0,69%,2,88%
-203361,Real Betis,1.0,39%,3.0,70%,Real Sociedad,0.0,61%,1,80%
-203362,Granada CF,1.0,55%,2.0,79%,Villarreal,3.0,45%,1,72%
-203363,Athletic Club,3.0,54%,2.0,76%,Getafe,1.0,46%,3,69%
-203364,Celta Vigo,3.0,67%,2.0,88%,Las Palmas,3.0,33%,9,73%
-203365,Malaga,0.0,0%,0.0,0%,Eibar,0.0,0%,0,0%
-203366,Rayo Vallecano,1.0,63%,6.0,81%,Deportivo La Coruna,3.0,37%,1,66%
-203367,Getafe,1.0,38%,3.0,70%,Malaga,0.0,62%,3,78%
-203368,Real Madrid,1.0,67%,3.0,88%,Granada CF,0.0,33%,9,73%
-203369,Valencia,0.0,67%,1.0,86%,Real Betis,0.0,33%,5,67%
-203370,Eibar,0.0,41%,4.0,72%,Atletico Madrid,2.0,59%,3,83%
-203371,Real Sociedad,2.0,51%,3.0,80%,Espanyol,3.0,49%,1,78%
-203372,Sevilla,1.0,44%,3.0,75%,Celta Vigo,2.0,56%,4,83%
+203337,Malaga,0.0,57%,2.0,80%,Sevilla,0.0,43%,4.0,73%
+203338,Espanyol,1.0,33%,2.0,66%,Getafe,0.0,67%,1.0,84%
+203339,Deportivo La Coruna,0.0,56%,2.0,80%,Real Sociedad,0.0,44%,5.0,71%
+203340,Atletico Madrid,1.0,61%,1.0,84%,Las Palmas,0.0,39%,2.0,74%
+203341,Rayo Vallecano,0.0,56%,4.0,76%,Valencia,0.0,44%,3.0,69%
+203342,Athletic Club,0.0,32%,3.0,61%,Barcelona,1.0,68%,2.0,81%
+203343,Sporting Gijon,0.0,32%,8.0,67%,Real Madrid,0.0,68%,0.0,87%
+203344,Levante,1.0,29%,4.0,68%,Celta Vigo,2.0,71%,1.0,87%
+203345,Real Betis,1.0,65%,2.0,78%,Villarreal,1.0,35%,5.0,62%
+203346,Granada CF,1.0,57%,1.0,77%,Eibar,3.0,43%,5.0,71%
+203347,Villarreal,3.0,57%,2.0,79%,Espanyol,1.0,43%,1.0,73%
+203348,Real Sociedad,0.0,60%,2.0,82%,Sporting Gijon,0.0,40%,1.0,71%
+203349,Barcelona,1.0,74%,1.0,87%,Malaga,0.0,26%,12.0,61%
+203350,Celta Vigo,3.0,64%,0.0,86%,Rayo Vallecano,0.0,36%,4.0,69%
+203351,Real Madrid,5.0,69%,1.0,91%,Real Betis,0.0,31%,5.0,77%
+203352,Eibar,2.0,43%,1.0,67%,Athletic Club,0.0,57%,6.0,75%
+203353,Sevilla,0.0,62%,4.0,82%,Atletico Madrid,3.0,38%,7.0,76%
+203354,Valencia,1.0,53%,2.0,76%,Deportivo La Coruna,1.0,47%,5.0,74%
+203355,Las Palmas,0.0,65%,2.0,79%,Levante,0.0,35%,2.0,60%
+203356,Getafe,1.0,61%,2.0,79%,Granada CF,2.0,39%,3.0,67%
+203357,Levante,1.0,54%,2.0,77%,Sevilla,1.0,46%,3.0,74%
+203358,Espanyol,0.0,52%,2.0,88%,Real Madrid,6.0,48%,3.0,86%
+203359,Sporting Gijon,0.0,40%,2.0,70%,Valencia,1.0,60%,8.0,84%
+203360,Atletico Madrid,1.0,31%,2.0,77%,Barcelona,2.0,69%,2.0,88%
+203361,Real Betis,1.0,39%,3.0,70%,Real Sociedad,0.0,61%,1.0,80%
+203362,Granada CF,1.0,55%,2.0,79%,Villarreal,3.0,45%,1.0,72%
+203363,Athletic Club,3.0,54%,2.0,76%,Getafe,1.0,46%,3.0,69%
+203364,Celta Vigo,3.0,67%,2.0,88%,Las Palmas,3.0,33%,9.0,73%
+203365,Malaga,0.0,0%,0.0,0%,Eibar,0.0,0%,0.0,0%
+203366,Rayo Vallecano,1.0,63%,6.0,81%,Deportivo La Coruna,3.0,37%,1.0,66%
+203367,Getafe,1.0,38%,3.0,70%,Malaga,0.0,62%,3.0,78%
+203368,Real Madrid,1.0,67%,3.0,88%,Granada CF,0.0,33%,9.0,73%
+203369,Valencia,0.0,67%,1.0,86%,Real Betis,0.0,33%,5.0,67%
+203370,Eibar,0.0,41%,4.0,72%,Atletico Madrid,2.0,59%,3.0,83%
+203371,Real Sociedad,2.0,51%,3.0,80%,Espanyol,3.0,49%,1.0,78%
+203372,Sevilla,1.0,44%,3.0,75%,Celta Vigo,2.0,56%,4.0,83%
+203383,Athletic Club,1.0,44%,4.0,81%,Real Madrid,2.0,56%,4.0,85%
+203391,Villarreal,1.0,48%,4.0,80%,Atletico Madrid,0.0,52%,1.0,78%
+203402,Malaga,3.0,36%,4.0,71%,Real Sociedad,1.0,64%,4.0,82%
+203413,Real Sociedad,0.0,57%,1.0,80%,Atletico Madrid,2.0,43%,1.0,76%
+203423,Las Palmas,0.0,60%,0.0,78%,Villarreal,0.0,40%,2.0,70%
+203433,Eibar,1.0,37%,2.0,56%,Rayo Vallecano,0.0,63%,1.0,74%
+203454,Granada CF,2.0,33%,5.0,56%,Athletic Club,0.0,67%,0.0,75%
+203463,Getafe,2.0,41%,0.0,69%,Villarreal,0.0,59%,3.0,79%
+203377,Atletico Madrid,2.0,54%,2.0,84%,Getafe,0.0,46%,1.0,79%
+203399,Granada CF,1.0,52%,2.0,70%,Deportivo La Coruna,1.0,48%,2.0,68%
+203420,Sevilla,5.0,57%,0.0,89%,Getafe,0.0,43%,8.0,81%
+203441,Rayo Vallecano,2.0,41%,1.0,64%,Granada CF,1.0,59%,0.0,76%
+203462,Celta Vigo,2.0,59%,1.0,81%,Sporting Gijon,1.0,41%,2.0,68%
+203482,Las Palmas,1.0,64%,2.0,82%,Real Betis,0.0,36%,3.0,64%
+203503,Barcelona,4.0,62%,4.0,85%,Real Betis,0.0,38%,4.0,74%
+203525,Las Palmas,1.0,58%,2.0,84%,Malaga,1.0,42%,2.0,76%
+203546,Levante,3.0,29%,2.0,70%,Las Palmas,2.0,71%,5.0,85%
+203566,Espanyol,0.0,65%,1.0,77%,Real Sociedad,5.0,35%,1.0,64%
+203587,Eibar,0.0,51%,3.0,69%,Las Palmas,1.0,49%,4.0,71%
+203609,Getafe,1.0,49%,3.0,70%,Sevilla,1.0,51%,3.0,73%
+203629,Real Sociedad,0.0,62%,6.0,83%,Las Palmas,1.0,38%,3.0,74%
+203650,Real Sociedad,1.0,26%,6.0,62%,Barcelona,0.0,74%,0.0,86%
+203666,Barcelona,1.0,69%,1.0,85%,Valencia,2.0,31%,6.0,70%
+203676,Granada CF,5.0,48%,4.0,79%,Levante,1.0,52%,1.0,79%
+203686,Celta Vigo,2.0,63%,2.0,80%,Granada CF,1.0,37%,2.0,70%
+203696,Malaga,3.0,58%,3.0,74%,Levante,1.0,42%,7.0,69%
+203707,Valencia,0.0,50%,5.0,78%,Real Sociedad,1.0,50%,0.0,77%
+192297,Manchester United,1.0,50%,4.0,82%,Tottenham,0.0,50%,1.0,80%
+192307,Aston Villa,0.0,45%,1.0,81%,Manchester United,1.0,55%,1.0,86%
+192318,Crystal Palace,2.0,49%,2.0,79%,Aston Villa,1.0,51%,4.0,78%
+192328,Chelsea,1.0,63%,3.0,84%,Crystal Palace,2.0,37%,7.0,74%
+192339,Crystal Palace,0.0,42%,6.0,76%,Manchester City,1.0,58%,2.0,81%
+192349,Stoke City,2.0,54%,3.0,72%,Leicester,2.0,46%,2.0,71%
+192360,Stoke City,2.0,43%,5.0,75%,Bournemouth,1.0,57%,3.0,81%
+192370,Aston Villa,0.0,56%,4.0,84%,Stoke City,1.0,44%,2.0,79%
+192381,Everton,0.0,47%,3.0,81%,Manchester United,3.0,53%,3.0,85%
+192392,Arsenal,2.0,56%,4.0,85%,Everton,1.0,44%,3.0,80%
+203501,Eibar,2.0,54%,0.0,69%,Sporting Gijon,0.0,46%,2.0,58%
+203512,Granada CF,2.0,39%,5.0,68%,Sevilla,1.0,61%,2.0,78%
+203522,Villarreal,2.0,48%,2.0,77%,Sporting Gijon,0.0,52%,1.0,79%
+203532,Real Madrid,5.0,67%,1.0,92%,Sporting Gijon,1.0,33%,4.0,79%
+203542,Athletic Club,5.0,55%,0.0,71%,Eibar,2.0,45%,1.0,68%
+203552,Sevilla,3.0,46%,3.0,80%,Levante,1.0,54%,6.0,82%
+203562,Levante,0.0,30%,3.0,72%,Barcelona,2.0,70%,3.0,86%
+203572,Real Sociedad,3.0,48%,2.0,71%,Granada CF,0.0,52%,3.0,73%
+203583,Malaga,1.0,37%,6.0,73%,Real Madrid,1.0,63%,5.0,86%
+203593,Villarreal,3.0,50%,1.0,85%,Levante,0.0,50%,0.0,83%
+203604,Granada CF,2.0,55%,0.0,78%,Sporting Gijon,0.0,45%,6.0,71%
+203615,Valencia,1.0,44%,2.0,76%,Atletico Madrid,3.0,56%,2.0,80%
+203624,Athletic Club,3.0,48%,0.0,74%,Real Betis,1.0,52%,6.0,76%
+203635,Valencia,0.0,48%,4.0,76%,Celta Vigo,2.0,52%,3.0,74%
+203645,Sevilla,1.0,65%,1.0,80%,Real Sociedad,2.0,35%,5.0,67%
+203656,Deportivo La Coruna,1.0,38%,3.0,77%,Las Palmas,3.0,62%,4.0,85%
+203675,Real Sociedad,1.0,59%,1.0,80%,Getafe,2.0,41%,4.0,76%
+192317,Manchester United,0.0,69%,0.0,89%,Newcastle,0.0,31%,8.0,72%
+192327,Newcastle,0.0,26%,9.0,77%,Arsenal,1.0,74%,0.0,92%
+192337,Everton,3.0,38%,1.0,82%,Chelsea,1.0,62%,6.0,88%
+192348,Swansea,0.0,47%,1.0,78%,Everton,0.0,53%,3.0,80%
+192357,Tottenham,4.0,46%,7.0,71%,Manchester City,1.0,54%,4.0,76%
+192367,Crystal Palace,2.0,60%,2.0,80%,West Brom,0.0,40%,6.0,63%
+192377,Tottenham,0.0,48%,3.0,75%,Liverpool,0.0,52%,4.0,75%
+192387,West Ham,2.0,45%,2.0,76%,Chelsea,1.0,55%,3.0,80%
+192398,Swansea,0.0,54%,2.0,85%,Arsenal,3.0,46%,3.0,84%
+192407,Bournemouth,0.0,67%,0.0,86%,Newcastle,1.0,33%,5.0,70%
+192417,Watford,1.0,43%,5.0,64%,Manchester United,2.0,57%,4.0,76%
+192428,Crystal Palace,5.0,53%,1.0,84%,Newcastle,1.0,47%,3.0,74%
+192438,Southampton,1.0,63%,1.0,81%,Aston Villa,1.0,37%,3.0,71%
+192449,West Ham,0.0,46%,3.0,74%,Stoke City,0.0,54%,9.0,75%
+192459,Everton,2.0,67%,2.0,77%,Leicester,3.0,33%,2.0,61%
+192469,Liverpool,1.0,64%,3.0,76%,Leicester,0.0,36%,3.0,57%
+192480,Crystal Palace,0.0,53%,3.0,74%,Swansea,0.0,47%,2.0,75%
+192490,Arsenal,1.0,51%,6.0,85%,Newcastle,0.0,49%,2.0,85%
+192499,Newcastle,3.0,54%,1.0,83%,Manchester United,3.0,46%,3.0,81%
+192510,Bournemouth,3.0,45%,3.0,74%,Norwich,0.0,55%,4.0,79%
+192520,Watford,2.0,51%,1.0,75%,Newcastle,1.0,49%,3.0,72%
+192531,Norwich,0.0,45%,3.0,72%,Tottenham,3.0,55%,2.0,75%
+192541,Liverpool,2.0,71%,0.0,83%,Sunderland,2.0,29%,3.0,62%
+192551,Everton,0.0,75%,0.0,86%,West Brom,1.0,25%,5.0,57%
+192562,West Brom,3.0,46%,0.0,72%,Crystal Palace,2.0,54%,2.0,72%
+192572,Arsenal,1.0,62%,0.0,86%,Swansea,2.0,38%,3.0,79%
+192583,Everton,2.0,41%,2.0,80%,West Ham,3.0,59%,6.0,87%
+192593,Manchester United,2.0,66%,0.0,89%,Crystal Palace,0.0,34%,9.0,77%
+192603,Southampton,3.0,49%,6.0,81%,Liverpool,2.0,51%,2.0,79%
+192612,Arsenal,4.0,69%,2.0,88%,Watford,0.0,31%,8.0,71%
+192622,Crystal Palace,1.0,52%,4.0,59%,Norwich,0.0,48%,4.0,57%
+192632,Chelsea,0.0,51%,4.0,82%,Manchester City,3.0,49%,3.0,84%
+192643,Leicester,4.0,38%,1.0,74%,Swansea,0.0,62%,5.0,83%
+192654,Manchester United,1.0,70%,2.0,84%,Leicester,1.0,30%,5.0,62%
+192664,Tottenham,1.0,69%,0.0,85%,Southampton,2.0,31%,5.0,68%
+192674,Newcastle,5.0,38%,4.0,81%,Tottenham,1.0,62%,5.0,89%
+448037,Southend,0.0,0%,0.0,0%,Millwall,2.0,0%,0.0,0%
+203386,Real Betis,1.0,60%,1.0,79%,Deportivo La Coruna,2.0,40%,1.0,72%
+203416,Sporting Gijon,3.0,67%,3.0,79%,Granada CF,3.0,33%,3.0,62%
+203446,Sevilla,3.0,45%,8.0,86%,Real Madrid,2.0,55%,2.0,89%
+203475,Athletic Club,0.0,44%,2.0,71%,Malaga,0.0,56%,2.0,78%
+203505,Las Palmas,4.0,59%,4.0,79%,Granada CF,1.0,41%,1.0,71%
+203534,Getafe,3.0,36%,4.0,75%,Espanyol,1.0,64%,1.0,84%
+203590,Sporting Gijon,2.0,54%,4.0,76%,Espanyol,4.0,46%,3.0,73%
+203619,Celta Vigo,1.0,42%,6.0,68%,Real Sociedad,0.0,58%,0.0,73%
+203648,Real Madrid,4.0,61%,2.0,85%,Eibar,0.0,39%,2.0,72%
+203668,Real Betis,1.0,50%,0.0,83%,Las Palmas,0.0,50%,5.0,83%
+203679,Atletico Madrid,1.0,46%,4.0,70%,Malaga,0.0,54%,3.0,72%
+203688,Real Sociedad,0.0,45%,5.0,75%,Real Madrid,1.0,55%,4.0,81%
+203698,Real Madrid,3.0,47%,6.0,85%,Valencia,2.0,53%,5.0,90%
+203708,Deportivo La Coruna,0.0,40%,3.0,83%,Real Madrid,2.0,60%,2.0,91%
+192298,Bournemouth,0.0,58%,2.0,85%,Aston Villa,1.0,42%,2.0,79%
+192308,Southampton,0.0,54%,1.0,85%,Everton,3.0,46%,4.0,80%
+192319,West Ham,3.0,45%,3.0,68%,Bournemouth,4.0,55%,1.0,73%
+192329,Bournemouth,1.0,56%,1.0,74%,Leicester,1.0,44%,1.0,66%
+192340,West Brom,0.0,35%,4.0,67%,Southampton,0.0,65%,1.0,85%
+192351,Newcastle,1.0,57%,2.0,82%,Watford,2.0,43%,4.0,72%
+192371,Bournemouth,1.0,54%,1.0,78%,Watford,1.0,46%,5.0,73%
+192391,Norwich,0.0,60%,3.0,81%,West Brom,1.0,40%,3.0,62%
+192401,Manchester City,2.0,70%,2.0,90%,Norwich,1.0,30%,3.0,73%
+192412,Manchester United,2.0,67%,0.0,83%,West Brom,0.0,33%,1.0,62%
+192422,Chelsea,1.0,64%,2.0,85%,Norwich,0.0,36%,6.0,68%
+192432,Leicester,1.0,31%,1.0,64%,Manchester United,1.0,69%,2.0,83%
+192442,West Brom,1.0,35%,2.0,67%,Tottenham,1.0,65%,3.0,82%
+192452,Bournemouth,2.0,43%,4.0,81%,Manchester United,1.0,57%,3.0,82%
+192462,Southampton,0.0,51%,3.0,72%,Tottenham,2.0,49%,4.0,73%
+192472,Chelsea,2.0,62%,1.0,83%,Watford,2.0,38%,0.0,74%
+192482,Arsenal,2.0,51%,3.0,85%,Bournemouth,0.0,49%,4.0,84%
+192492,West Brom,2.0,45%,2.0,74%,Stoke City,1.0,55%,3.0,78%
+192503,Southampton,2.0,50%,1.0,77%,Watford,0.0,50%,4.0,74%
+192509,Chelsea,3.0,54%,2.0,87%,Everton,3.0,46%,4.0,82%
+192517,Norwich,4.0,47%,2.0,70%,Liverpool,5.0,53%,1.0,75%
+192527,West Ham,2.0,68%,2.0,88%,Aston Villa,0.0,32%,4.0,69%
+192539,Stoke City,0.0,65%,3.0,86%,Everton,3.0,35%,3.0,73%
+192549,Bournemouth,1.0,65%,3.0,86%,Stoke City,3.0,35%,1.0,76%
+192560,Southampton,1.0,34%,2.0,76%,Chelsea,2.0,66%,1.0,87%
+192571,Leicester,2.0,65%,1.0,77%,West Brom,2.0,35%,4.0,62%
+192581,Chelsea,1.0,48%,4.0,81%,Stoke City,1.0,52%,6.0,81%
+192591,Leicester,1.0,49%,2.0,78%,Newcastle,0.0,51%,0.0,75%
+192602,Swansea,1.0,53%,2.0,83%,Aston Villa,0.0,47%,0.0,73%
+192623,Manchester City,2.0,62%,1.0,84%,West Brom,1.0,38%,2.0,73%
+192633,Bournemouth,1.0,51%,4.0,80%,Liverpool,2.0,49%,3.0,81%
+192675,Stoke City,2.0,46%,5.0,79%,West Ham,1.0,54%,2.0,82%
+448048,Bristol Rovers,2.0,0%,0.0,0%,Wycombe,0.0,0%,0.0,0%
+448058,Yeovil Town,0.0,0%,0.0,0%,Coventry,0.0,0%,0.0,0%
+448069,Notts County,3.0,0%,0.0,0%,Mansfield Town,1.0,0%,0.0,0%
+194567,Bayern Munich,5.0,76%,1.0,90%,Hamburger SV,0.0,24%,4.0,64%
+194577,FC Schalke 04,1.0,77%,3.0,84%,SV Darmstadt 98,1.0,23%,4.0,46%
+203473,Villarreal,2.0,45%,3.0,71%,Rayo Vallecano,1.0,55%,3.0,77%
+203483,Rayo Vallecano,1.0,52%,3.0,66%,Malaga,2.0,48%,1.0,60%
+203491,Real Madrid,10.0,50%,2.0,90%,Rayo Vallecano,2.0,50%,5.0,86%
+203523,Real Sociedad,2.0,50%,3.0,80%,Valencia,0.0,50%,5.0,76%
+203544,Deportivo La Coruna,1.0,48%,2.0,75%,Valencia,1.0,52%,1.0,78%
+203555,Real Madrid,6.0,67%,5.0,89%,Espanyol,0.0,33%,2.0,77%
+203565,Granada CF,1.0,36%,2.0,75%,Real Madrid,2.0,64%,1.0,85%
+203576,Barcelona,6.0,63%,3.0,82%,Celta Vigo,1.0,37%,3.0,70%
+203586,Atletico Madrid,0.0,59%,0.0,77%,Villarreal,0.0,41%,4.0,69%
+203594,Valencia,0.0,51%,1.0,82%,Athletic Club,3.0,49%,3.0,80%
+203603,Levante,1.0,47%,6.0,83%,Real Madrid,3.0,53%,3.0,85%
+203613,Real Sociedad,1.0,58%,2.0,80%,Levante,1.0,42%,2.0,72%
+203623,Sevilla,4.0,55%,3.0,83%,Villarreal,2.0,45%,1.0,84%
+203633,Espanyol,2.0,40%,3.0,70%,Athletic Club,1.0,60%,5.0,77%
+203643,Malaga,1.0,63%,0.0,78%,Espanyol,1.0,37%,4.0,65%
+203654,Villarreal,2.0,53%,4.0,75%,Getafe,0.0,47%,1.0,72%
+203664,Rayo Vallecano,2.0,63%,1.0,82%,Villarreal,1.0,37%,4.0,68%
+203674,Real Madrid,3.0,60%,2.0,87%,Villarreal,0.0,40%,3.0,79%
+203684,Getafe,2.0,40%,2.0,78%,Valencia,2.0,60%,9.0,86%
+203694,Deportivo La Coruna,0.0,53%,3.0,75%,Getafe,2.0,47%,5.0,72%
+203704,Las Palmas,0.0,60%,3.0,85%,Athletic Club,0.0,40%,2.0,75%
+203715,Real Betis,2.0,60%,4.0,84%,Getafe,1.0,40%,2.0,77%
+192305,Stoke City,0.0,47%,2.0,73%,Liverpool,1.0,53%,1.0,79%
+192315,Manchester City,3.0,49%,3.0,82%,Chelsea,0.0,51%,5.0,83%
+192326,Arsenal,0.0,65%,8.0,85%,Liverpool,0.0,35%,5.0,71%
+192336,Swansea,2.0,35%,3.0,70%,Manchester United,1.0,65%,2.0,82%
+192358,Leicester,2.0,42%,6.0,78%,Arsenal,5.0,58%,5.0,86%
+192380,Southampton,2.0,50%,5.0,75%,Leicester,2.0,50%,3.0,72%
+192433,Tottenham,0.0,57%,1.0,79%,Chelsea,0.0,43%,4.0,70%
+192443,Manchester United,0.0,62%,2.0,83%,West Ham,0.0,38%,1.0,74%
+192454,Tottenham,1.0,58%,2.0,76%,Newcastle,2.0,42%,7.0,65%
+192465,Swansea,0.0,72%,2.0,84%,West Ham,0.0,28%,2.0,68%
+192475,Newcastle,0.0,40%,6.0,79%,Everton,1.0,60%,1.0,88%
+192486,Sunderland,0.0,42%,5.0,66%,Liverpool,1.0,58%,3.0,72%
+192497,Aston Villa,1.0,51%,1.0,79%,Crystal Palace,0.0,49%,3.0,73%
+192507,Tottenham,4.0,66%,1.0,84%,Sunderland,1.0,34%,7.0,66%
+192518,West Brom,0.0,39%,4.0,67%,Aston Villa,0.0,61%,0.0,79%
+192528,Leicester,2.0,36%,1.0,64%,Liverpool,0.0,64%,4.0,77%
+192561,Leicester,1.0,58%,1.0,72%,Norwich,0.0,42%,2.0,69%
+192582,Southampton,1.0,65%,2.0,79%,Sunderland,1.0,35%,4.0,56%
+192614,Liverpool,1.0,42%,4.0,70%,Tottenham,1.0,58%,7.0,79%
+192625,Liverpool,4.0,52%,2.0,82%,Stoke City,1.0,48%,2.0,79%
+192635,Arsenal,1.0,71%,2.0,88%,Crystal Palace,1.0,29%,5.0,74%
+192646,Norwich,4.0,55%,5.0,80%,Watford,2.0,45%,3.0,73%
+192657,Norwich,0.0,33%,1.0,63%,Manchester United,1.0,67%,2.0,81%
+192667,Arsenal,4.0,59%,2.0,89%,Aston Villa,0.0,41%,4.0,82%
+448030,Barnsley,1.0,0%,0.0,0%,Fleetwood Town,1.0,0%,0.0,0%
+448040,Barnsley,2.0,0%,0.0,0%,York,1.0,0%,0.0,0%
+448051,Fleetwood Town,2.0,0%,0.0,0%,Shrewsbury,1.0,0%,0.0,0%
+448062,Hartlepool,1.0,0%,0.0,0%,Sheffield Utd,1.0,0%,0.0,0%
+203513,Deportivo La Coruna,1.0,54%,2.0,74%,Villarreal,2.0,46%,3.0,72%
+203524,Eibar,2.0,52%,3.0,74%,Espanyol,1.0,48%,4.0,69%
+203535,Barcelona,6.0,76%,3.0,87%,Athletic Club,0.0,24%,1.0,62%
+203557,Malaga,3.0,45%,2.0,74%,Getafe,0.0,55%,1.0,80%
+203568,Real Madrid,4.0,60%,2.0,86%,Athletic Club,2.0,40%,5.0,77%
+203579,Espanyol,1.0,38%,3.0,70%,Deportivo La Coruna,0.0,62%,8.0,80%
+203589,Getafe,0.0,52%,1.0,73%,Celta Vigo,1.0,48%,2.0,69%
+203600,Celta Vigo,0.0,69%,3.0,85%,Villarreal,0.0,31%,4.0,71%
+203611,Real Betis,2.0,42%,4.0,73%,Granada CF,0.0,58%,2.0,81%
+203622,Levante,1.0,45%,1.0,68%,Valencia,0.0,55%,5.0,75%
+203644,Eibar,1.0,51%,2.0,71%,Villarreal,2.0,49%,2.0,70%
+203655,Athletic Club,1.0,44%,4.0,71%,Rayo Vallecano,0.0,56%,6.0,80%
+203677,Las Palmas,4.0,62%,5.0,87%,Espanyol,0.0,38%,5.0,78%
+203709,Granada CF,0.0,34%,7.0,76%,Barcelona,3.0,66%,2.0,86%
+192300,Leicester,4.0,44%,3.0,73%,Sunderland,2.0,56%,4.0,79%
+192310,Swansea,2.0,65%,2.0,92%,Newcastle,0.0,35%,4.0,78%
+192322,Leicester,1.0,34%,5.0,68%,Tottenham,1.0,66%,1.0,84%
+192332,Stoke City,0.0,49%,4.0,84%,West Brom,1.0,51%,4.0,87%
+192342,Watford,1.0,39%,3.0,72%,Swansea,0.0,61%,5.0,81%
+192353,Manchester City,1.0,71%,1.0,89%,West Ham,2.0,29%,8.0,68%
+192364,Newcastle,2.0,35%,2.0,69%,Chelsea,2.0,65%,3.0,81%
+192375,Arsenal,3.0,37%,5.0,80%,Manchester United,0.0,63%,2.0,87%
+192385,Newcastle,6.0,44%,3.0,76%,Norwich,2.0,56%,0.0,81%
+192396,Liverpool,1.0,60%,2.0,83%,Southampton,1.0,40%,1.0,73%
+192418,West Brom,2.0,27%,2.0,65%,Arsenal,1.0,73%,0.0,86%
+192439,Swansea,0.0,59%,2.0,82%,Leicester,3.0,41%,2.0,72%
+192450,Manchester City,2.0,53%,6.0,89%,Swansea,1.0,47%,3.0,88%
+192460,Manchester United,1.0,69%,2.0,82%,Norwich,2.0,31%,1.0,70%
+192471,Manchester City,4.0,66%,2.0,88%,Sunderland,1.0,34%,5.0,78%
+192514,Liverpool,0.0,53%,0.0,75%,Manchester United,1.0,47%,4.0,73%
+192525,Everton,1.0,59%,3.0,83%,Swansea,2.0,41%,2.0,77%
+192535,Watford,0.0,45%,4.0,78%,Chelsea,0.0,55%,3.0,83%
+192546,Chelsea,1.0,49%,6.0,79%,Manchester United,1.0,51%,4.0,80%
+192557,West Ham,1.0,52%,4.0,71%,Sunderland,0.0,48%,2.0,65%
+192568,Sunderland,2.0,59%,3.0,77%,Crystal Palace,2.0,41%,4.0,66%
+192579,Newcastle,1.0,49%,3.0,75%,Bournemouth,3.0,51%,2.0,76%
+192589,Bournemouth,3.0,44%,2.0,72%,Swansea,2.0,56%,1.0,78%
+192600,Watford,1.0,52%,4.0,72%,Stoke City,2.0,48%,3.0,73%
+192610,Norwich,3.0,42%,3.0,68%,Newcastle,2.0,58%,3.0,78%
+192621,Southampton,3.0,50%,2.0,75%,Newcastle,1.0,50%,3.0,78%
+192642,Sunderland,0.0,29%,6.0,63%,Arsenal,0.0,71%,3.0,83%
+192653,Swansea,3.0,47%,2.0,85%,Liverpool,1.0,53%,6.0,85%
+192662,Bournemouth,1.0,68%,4.0,84%,West Brom,1.0,32%,3.0,71%
+192672,Everton,3.0,45%,3.0,79%,Norwich,0.0,55%,5.0,79%
+448035,Fleetwood Town,2.0,0%,0.0,0%,Morecambe,0.0,0%,0.0,0%
+448046,Rochdale,2.0,0%,0.0,0%,Chesterfield,1.0,0%,0.0,0%
+448057,Sheffield Utd,5.0,0%,0.0,0%,Notts County,1.0,0%,0.0,0%
+448068,Doncaster,0.0,0%,0.0,0%,Burton Albion,0.0,0%,0.0,0%
+194588,1.FC Köln,2.0,48%,6.0,75%,Hamburger SV,1.0,52%,1.0,76%
+194598,Hertha Berlin,2.0,50%,2.0,73%,VfB Stuttgart,1.0,50%,2.0,75%
+194610,Borussia Dortmund,3.0,57%,3.0,78%,Bayer Leverkusen,0.0,43%,7.0,70%
+194621,1.FC Köln,1.0,59%,4.0,80%,FC Ingolstadt 04,1.0,41%,3.0,68%
+203438,Celta Vigo,1.0,60%,0.0,77%,Valencia,5.0,40%,2.0,70%
+203448,Real Madrid,0.0,41%,2.0,83%,Barcelona,4.0,59%,7.0,87%
+203459,Atletico Madrid,1.0,52%,0.0,79%,Espanyol,0.0,48%,5.0,76%
+203469,Valencia,1.0,28%,4.0,73%,Barcelona,1.0,72%,2.0,87%
+203480,Levante,1.0,51%,1.0,68%,Granada CF,2.0,49%,4.0,67%
+203490,Deportivo La Coruna,2.0,49%,1.0,71%,Eibar,0.0,51%,1.0,71%
+203511,Real Betis,0.0,59%,1.0,81%,Eibar,4.0,41%,6.0,68%
+203533,Las Palmas,0.0,59%,2.0,85%,Atletico Madrid,3.0,41%,3.0,76%
+203553,Valencia,0.0,63%,2.0,79%,Sporting Gijon,1.0,37%,2.0,62%
+203563,Real Betis,1.0,44%,1.0,65%,Valencia,0.0,56%,1.0,70%
+203574,Eibar,2.0,47%,3.0,72%,Levante,0.0,53%,5.0,75%
+203585,Granada CF,1.0,54%,4.0,81%,Valencia,2.0,46%,4.0,78%
+203595,Deportivo La Coruna,0.0,65%,2.0,83%,Granada CF,1.0,35%,2.0,70%
+203607,Real Madrid,7.0,56%,2.0,85%,Celta Vigo,1.0,44%,5.0,81%
+203617,Malaga,1.0,47%,4.0,72%,Sporting Gijon,0.0,53%,2.0,73%
+203627,Getafe,1.0,42%,5.0,60%,Eibar,1.0,58%,3.0,73%
+203638,Atletico Madrid,5.0,49%,4.0,77%,Real Betis,1.0,51%,6.0,79%
+203649,Espanyol,1.0,52%,2.0,76%,Atletico Madrid,3.0,48%,3.0,74%
+203659,Las Palmas,1.0,55%,1.0,82%,Sporting Gijon,1.0,45%,3.0,74%
+203670,Valencia,4.0,51%,2.0,83%,Eibar,0.0,49%,2.0,79%
+203680,Barcelona,6.0,72%,2.0,89%,Sporting Gijon,0.0,28%,3.0,68%
+203691,Granada CF,3.0,36%,3.0,72%,Las Palmas,2.0,64%,2.0,84%
+203701,Eibar,1.0,59%,2.0,77%,Real Betis,1.0,41%,8.0,70%
+203712,Malaga,4.0,36%,6.0,76%,Las Palmas,1.0,64%,5.0,86%
+192302,Chelsea,2.0,52%,7.0,80%,Swansea,2.0,48%,2.0,81%
+192313,Watford,0.0,63%,0.0,84%,West Brom,0.0,37%,5.0,68%
+192324,Everton,0.0,45%,7.0,82%,Manchester City,2.0,55%,1.0,85%
+192334,Tottenham,0.0,49%,3.0,85%,Everton,0.0,51%,6.0,83%
+192345,Leicester,3.0,48%,2.0,77%,Aston Villa,2.0,52%,3.0,75%
+192356,Liverpool,1.0,58%,1.0,83%,Norwich,1.0,42%,6.0,70%
+192366,West Brom,2.0,46%,1.0,73%,Everton,3.0,54%,2.0,80%
+192376,Swansea,2.0,45%,9.0,78%,Tottenham,2.0,55%,1.0,84%
+192388,Leicester,1.0,47%,4.0,77%,Crystal Palace,0.0,53%,2.0,76%
+192399,West Brom,2.0,47%,2.0,72%,Leicester,3.0,53%,4.0,70%
+192409,Sunderland,0.0,35%,3.0,66%,Southampton,1.0,65%,3.0,78%
+192420,Swansea,2.0,42%,2.0,75%,Bournemouth,2.0,58%,2.0,82%
+192431,Aston Villa,2.0,65%,4.0,81%,Watford,3.0,35%,4.0,60%
+192441,Arsenal,3.0,72%,5.0,87%,Sunderland,1.0,28%,3.0,72%
+192453,Aston Villa,0.0,45%,2.0,83%,Arsenal,2.0,55%,2.0,84%
+192463,Newcastle,1.0,47%,6.0,67%,Aston Villa,1.0,53%,3.0,75%
+192474,Aston Villa,1.0,59%,3.0,82%,West Ham,1.0,41%,6.0,72%
+192485,Leicester,0.0,39%,5.0,62%,Manchester City,0.0,61%,4.0,76%
+192496,Everton,1.0,40%,3.0,76%,Tottenham,1.0,60%,2.0,84%
+192506,Tottenham,0.0,61%,1.0,79%,Leicester,1.0,39%,5.0,61%
+192516,Swansea,1.0,56%,2.0,80%,Watford,0.0,44%,1.0,72%
+192537,Manchester City,1.0,65%,4.0,85%,Leicester,3.0,35%,3.0,64%
+192548,Swansea,0.0,54%,4.0,79%,Southampton,1.0,46%,2.0,76%
+192559,Watford,0.0,46%,3.0,66%,Bournemouth,0.0,54%,1.0,74%
+192570,Bournemouth,2.0,45%,1.0,73%,Southampton,0.0,55%,2.0,77%
+192624,Sunderland,0.0,44%,5.0,68%,Leicester,2.0,56%,1.0,71%
+192645,West Ham,3.0,41%,0.0,70%,Manchester United,2.0,59%,2.0,77%
+192655,Southampton,4.0,40%,3.0,77%,Manchester City,2.0,60%,3.0,84%
+448029,Barnsley,3.0,0%,0.0,0%,Oxford United,2.0,0%,0.0,0%
+203599,Sevilla,1.0,52%,6.0,79%,Eibar,0.0,48%,3.0,78%
+203608,Villarreal,0.0,57%,2.0,82%,Las Palmas,1.0,43%,2.0,80%
+203618,Barcelona,6.0,70%,1.0,90%,Getafe,0.0,30%,4.0,76%
+203630,Granada CF,2.0,31%,4.0,66%,Rayo Vallecano,2.0,69%,0.0,87%
+203641,Celta Vigo,1.0,61%,2.0,79%,Deportivo La Coruna,1.0,39%,1.0,67%
+203652,Sporting Gijon,0.0,41%,4.0,68%,Celta Vigo,1.0,59%,2.0,78%
+203663,Sevilla,1.0,58%,3.0,84%,Deportivo La Coruna,1.0,42%,2.0,77%
+203673,Malaga,1.0,51%,3.0,74%,Rayo Vallecano,1.0,49%,3.0,76%
+203705,Celta Vigo,1.0,55%,5.0,78%,Malaga,0.0,45%,2.0,73%
+203716,Rayo Vallecano,3.0,55%,1.0,84%,Levante,1.0,45%,6.0,75%
+192330,Aston Villa,2.0,62%,1.0,84%,Sunderland,2.0,38%,4.0,73%
+192341,Arsenal,2.0,67%,3.0,87%,Stoke City,0.0,33%,10.0,74%
+192352,Aston Villa,0.0,59%,5.0,77%,West Brom,1.0,41%,3.0,73%
+192374,Everton,1.0,50%,3.0,77%,Liverpool,1.0,50%,3.0,80%
+192429,Manchester City,3.0,45%,7.0,80%,Southampton,1.0,55%,5.0,81%
+192473,Swansea,1.0,55%,3.0,79%,West Brom,0.0,45%,1.0,73%
+192484,West Ham,2.0,49%,3.0,74%,Southampton,1.0,51%,2.0,74%
+192550,Crystal Palace,1.0,53%,2.0,73%,Watford,2.0,47%,4.0,66%
+192595,Sunderland,3.0,37%,6.0,74%,Everton,0.0,63%,4.0,83%
+192606,Manchester City,0.0,54%,3.0,82%,Manchester United,1.0,46%,3.0,75%
+192617,West Ham,3.0,39%,2.0,78%,Arsenal,3.0,61%,4.0,85%
+192628,Manchester United,1.0,66%,1.0,86%,Aston Villa,0.0,34%,3.0,77%
+192639,Bournemouth,1.0,45%,0.0,82%,Chelsea,4.0,55%,3.0,84%
+192650,Stoke City,1.0,53%,4.0,72%,Sunderland,1.0,47%,2.0,64%
+192661,West Ham,1.0,51%,2.0,82%,Swansea,4.0,49%,7.0,80%
+448036,Oxford United,3.0,0%,0.0,0%,Yeovil Town,2.0,0%,0.0,0%
+448047,Crewe,2.0,0%,0.0,0%,Wigan,3.0,0%,0.0,0%
+448070,Scunthorpe,1.0,0%,0.0,0%,Barnsley,2.0,0%,0.0,0%
+194569,FC Augsburg,0.0,48%,2.0,79%,Hertha Berlin,1.0,52%,3.0,84%
+194580,Hannover 96,0.0,40%,3.0,64%,Bayer Leverkusen,1.0,60%,3.0,80%
+194591,Bayern Munich,3.0,65%,3.0,86%,Bayer Leverkusen,0.0,35%,3.0,69%
+194603,FSV Mainz 05,3.0,58%,3.0,71%,1899 Hoffenheim,1.0,42%,1.0,64%
+194614,FC Ingolstadt 04,0.0,46%,2.0,67%,Hamburger SV,1.0,54%,2.0,69%
+194626,FSV Mainz 05,0.0,29%,6.0,67%,Bayern Munich,3.0,71%,1.0,90%
+194637,Bayern Munich,5.0,57%,3.0,86%,Borussia Dortmund,1.0,43%,4.0,81%
+194648,1899 Hoffenheim,0.0,47%,4.0,71%,Hamburger SV,1.0,53%,3.0,68%
+194659,FC Augsburg,3.0,65%,3.0,76%,FSV Mainz 05,3.0,35%,7.0,57%
+194670,1899 Hoffenheim,0.0,50%,9.0,89%,Eintracht Frankfurt,0.0,50%,2.0,86%
+194681,FC Schalke 04,1.0,28%,5.0,74%,Bayern Munich,3.0,72%,0.0,90%
+194693,FC Schalke 04,3.0,55%,0.0,81%,Hannover 96,1.0,45%,5.0,73%
+194704,VfL Wolfsburg,1.0,61%,3.0,81%,Hamburger SV,1.0,39%,8.0,68%
+194713,Eintracht Frankfurt,2.0,52%,3.0,62%,Werder Bremen,1.0,48%,4.0,60%
+194724,1899 Hoffenheim,1.0,36%,7.0,63%,Bayer Leverkusen,1.0,64%,2.0,82%
+203382,Rayo Vallecano,2.0,63%,1.0,82%,Sporting Gijon,1.0,37%,4.0,66%
+203392,Eibar,1.0,34%,1.0,59%,Celta Vigo,1.0,66%,2.0,80%
+203403,Rayo Vallecano,0.0,66%,4.0,81%,Real Betis,2.0,34%,8.0,55%
+203424,Barcelona,3.0,69%,3.0,85%,Eibar,1.0,31%,2.0,62%
+203435,Sporting Gijon,1.0,36%,5.0,67%,Malaga,0.0,64%,4.0,80%
+203445,Atletico Madrid,1.0,72%,2.0,82%,Sporting Gijon,0.0,28%,2.0,53%
+203456,Getafe,1.0,37%,3.0,64%,Rayo Vallecano,1.0,63%,8.0,79%
+203467,Real Madrid,4.0,62%,2.0,92%,Getafe,1.0,38%,4.0,83%
+203478,Barcelona,2.0,68%,2.0,88%,Deportivo La Coruna,2.0,32%,5.0,75%
+203489,Real Betis,0.0,47%,2.0,72%,Sevilla,0.0,53%,0.0,71%
+203499,Sevilla,2.0,43%,1.0,81%,Espanyol,0.0,57%,8.0,86%
+203510,Rayo Vallecano,2.0,44%,5.0,62%,Real Sociedad,2.0,56%,3.0,70%
+203521,Levante,2.0,43%,3.0,62%,Rayo Vallecano,1.0,57%,2.0,72%
+203543,Atletico Madrid,0.0,69%,1.0,82%,Sevilla,0.0,31%,3.0,57%
+203584,Athletic Club,0.0,60%,3.0,71%,Real Sociedad,1.0,40%,2.0,62%
+203596,Barcelona,2.0,68%,2.0,86%,Sevilla,1.0,32%,6.0,69%
+203685,Villarreal,0.0,40%,2.0,72%,Real Sociedad,0.0,60%,3.0,82%
+203697,Real Sociedad,2.0,38%,4.0,66%,Rayo Vallecano,1.0,62%,4.0,83%
+192309,West Ham,1.0,69%,3.0,85%,Leicester,2.0,31%,2.0,65%
+192321,Sunderland,1.0,39%,8.0,68%,Swansea,1.0,61%,1.0,83%
+192343,Manchester United,3.0,0%,0.0,0%,Liverpool,1.0,0%,0.0,0%
+192386,Swansea,0.0,54%,1.0,89%,Stoke City,1.0,46%,2.0,81%
+192397,Chelsea,1.0,42%,4.0,78%,Liverpool,3.0,58%,1.0,82%
+192408,West Ham,1.0,50%,3.0,87%,Everton,1.0,50%,4.0,85%
+192464,Watford,3.0,35%,4.0,54%,Liverpool,0.0,65%,2.0,75%
+192498,Bournemouth,1.0,48%,3.0,75%,West Ham,3.0,52%,3.0,74%
+192532,Crystal Palace,1.0,50%,2.0,75%,Bournemouth,2.0,50%,2.0,74%
+192543,Newcastle,1.0,68%,0.0,84%,West Brom,0.0,32%,6.0,61%
+192554,Arsenal,2.0,72%,2.0,86%,Leicester,1.0,28%,4.0,59%
+192565,Newcastle,1.0,43%,4.0,70%,Manchester City,1.0,57%,2.0,75%
+192576,Manchester United,1.0,61%,3.0,78%,Watford,0.0,39%,2.0,68%
+192588,Stoke City,1.0,60%,2.0,82%,Southampton,2.0,40%,1.0,73%
+192620,Watford,1.0,41%,6.0,69%,Everton,1.0,59%,4.0,79%
+192665,Manchester City,2.0,57%,0.0,77%,Arsenal,2.0,43%,1.0,71%
+203394,Deportivo La Coruna,3.0,48%,3.0,82%,Espanyol,0.0,52%,3.0,83%
+203411,Real Betis,1.0,59%,1.0,81%,Espanyol,3.0,41%,5.0,70%
+203428,Real Madrid,3.0,52%,4.0,89%,Las Palmas,1.0,48%,8.0,87%
+203444,Barcelona,3.0,64%,2.0,87%,Villarreal,0.0,36%,6.0,73%
+203496,Sporting Gijon,1.0,22%,5.0,63%,Barcelona,3.0,78%,1.0,90%
+203527,Sevilla,2.0,53%,2.0,81%,Malaga,1.0,47%,1.0,69%
+203561,Sporting Gijon,1.0,44%,3.0,64%,Deportivo La Coruna,1.0,56%,1.0,72%
+203578,Las Palmas,1.0,47%,5.0,86%,Barcelona,2.0,53%,2.0,87%
+203612,Eibar,0.0,31%,3.0,70%,Barcelona,4.0,69%,0.0,89%
+203628,Sporting Gijon,2.0,61%,0.0,79%,Atletico Madrid,1.0,39%,1.0,72%
+203662,Malaga,0.0,47%,2.0,66%,Athletic Club,1.0,53%,7.0,71%
+192402,Newcastle,0.0,52%,2.0,82%,Stoke City,0.0,48%,6.0,79%
+192413,Stoke City,1.0,36%,4.0,69%,Chelsea,0.0,64%,1.0,82%
+192423,Southampton,0.0,58%,2.0,78%,Stoke City,1.0,42%,1.0,74%
+192434,West Ham,1.0,60%,3.0,79%,West Brom,1.0,40%,5.0,70%
+192445,Newcastle,2.0,39%,1.0,68%,Liverpool,0.0,61%,0.0,78%
+192455,Liverpool,2.0,70%,0.0,82%,West Brom,2.0,30%,6.0,63%
+192466,Arsenal,2.0,37%,5.0,78%,Manchester City,1.0,63%,3.0,88%
+192477,Norwich,2.0,48%,3.0,70%,Aston Villa,0.0,52%,2.0,77%
+192487,West Ham,2.0,35%,1.0,66%,Liverpool,0.0,65%,8.0,78%
+192508,Manchester City,4.0,52%,3.0,83%,Crystal Palace,0.0,48%,0.0,77%
+192519,Sunderland,1.0,42%,4.0,72%,Bournemouth,1.0,58%,4.0,85%
+192529,Sunderland,0.0,49%,1.0,71%,Manchester City,1.0,51%,2.0,75%
+192540,Aston Villa,2.0,48%,3.0,74%,Norwich,0.0,52%,1.0,74%
+448050,Crawley Town,0.0,0%,0.0,0%,Southend,3.0,0%,0.0,0%
+448061,Bradford,1.0,0%,0.0,0%,Barnsley,2.0,0%,0.0,0%
+448072,Newport County,1.0,0%,0.0,0%,Swindon Town,1.0,0%,0.0,0%
+194571,FSV Mainz 05,0.0,57%,4.0,69%,FC Ingolstadt 04,1.0,43%,3.0,62%
+203509,Malaga,2.0,48%,1.0,72%,Celta Vigo,0.0,52%,2.0,77%
+203520,Real Madrid,5.0,53%,4.0,87%,Deportivo La Coruna,0.0,47%,4.0,84%
+203531,Valencia,2.0,50%,6.0,76%,Rayo Vallecano,2.0,50%,3.0,77%
+203541,Rayo Vallecano,3.0,56%,1.0,70%,Celta Vigo,0.0,44%,7.0,58%
+203573,Sevilla,2.0,52%,3.0,82%,Las Palmas,0.0,48%,3.0,81%
+203606,Rayo Vallecano,1.0,36%,3.0,75%,Barcelona,5.0,64%,3.0,83%
+203639,Las Palmas,2.0,62%,3.0,83%,Valencia,1.0,38%,5.0,72%
+203681,Eibar,1.0,48%,0.0,65%,Deportivo La Coruna,1.0,52%,1.0,70%
+203702,Barcelona,5.0,67%,1.0,87%,Espanyol,0.0,33%,2.0,69%
+192303,Newcastle,2.0,56%,2.0,82%,Southampton,2.0,44%,2.0,79%
+192333,Liverpool,0.0,62%,2.0,85%,West Ham,3.0,38%,1.0,73%
+192354,Tottenham,1.0,57%,4.0,82%,Crystal Palace,0.0,43%,5.0,73%
+192426,Crystal Palace,0.0,66%,2.0,82%,Sunderland,1.0,34%,7.0,60%
+192436,Liverpool,1.0,53%,0.0,81%,Swansea,0.0,47%,1.0,82%
+192446,Everton,1.0,62%,4.0,83%,Crystal Palace,1.0,38%,3.0,76%
+192458,Stoke City,1.0,58%,1.0,80%,Crystal Palace,2.0,42%,4.0,70%
+192468,Bournemouth,0.0,55%,0.0,79%,Crystal Palace,0.0,45%,4.0,71%
+192479,Everton,3.0,51%,1.0,85%,Stoke City,4.0,49%,0.0,86%
+192501,Manchester City,0.0,55%,2.0,90%,Everton,0.0,45%,5.0,88%
+192511,Southampton,3.0,55%,0.0,81%,West Brom,0.0,45%,1.0,73%
+192521,Manchester United,0.0,55%,1.0,72%,Southampton,1.0,45%,1.0,66%
+192542,Tottenham,1.0,65%,0.0,82%,Watford,0.0,35%,8.0,64%
+192553,Chelsea,5.0,54%,2.0,84%,Newcastle,1.0,46%,2.0,81%
+192563,Manchester United,3.0,38%,3.0,76%,Arsenal,2.0,62%,2.0,84%
+192574,Stoke City,1.0,55%,3.0,80%,Newcastle,0.0,45%,1.0,76%
+192584,Watford,0.0,50%,5.0,73%,Leicester,1.0,50%,4.0,74%
+192616,Manchester United,1.0,54%,1.0,82%,Everton,0.0,46%,1.0,76%
+192627,Norwich,0.0,64%,0.0,69%,Sunderland,3.0,36%,6.0,56%
+192637,Crystal Palace,0.0,56%,5.0,83%,Everton,0.0,44%,7.0,76%
+192649,Newcastle,1.0,49%,3.0,70%,Crystal Palace,0.0,51%,3.0,72%
+192660,Crystal Palace,2.0,57%,2.0,76%,Stoke City,1.0,43%,2.0,69%
+192670,West Brom,1.0,32%,2.0,67%,Liverpool,1.0,68%,0.0,84%
+448033,Oxford United,0.0,0%,0.0,0%,Millwall,1.0,0%,0.0,0%
+448044,Dagenham & Redbridge,0.0,0%,0.0,0%,Oxford United,2.0,0%,0.0,0%
+448054,Oxford United,2.0,0%,0.0,0%,Swindon Town,0.0,0%,0.0,0%
+448065,Shrewsbury,2.0,0%,0.0,0%,Oldham,0.0,0%,0.0,0%
+448076,Northampton,3.0,0%,0.0,0%,Colchester,2.0,0%,0.0,0%
+194574,VfL Wolfsburg,2.0,61%,5.0,84%,Eintracht Frankfurt,1.0,39%,1.0,78%
+194582,Hamburger SV,3.0,56%,3.0,68%,VfB Stuttgart,2.0,44%,2.0,59%
+194592,Borussia Dortmund,3.0,61%,3.0,85%,Hertha Berlin,1.0,39%,3.0,70%
+194599,FC Ingolstadt 04,0.0,35%,3.0,62%,VfL Wolfsburg,0.0,65%,1.0,80%
+203400,Espanyol,1.0,55%,0.0,82%,Sporting Gijon,2.0,45%,8.0,77%
+203421,Malaga,2.0,48%,1.0,74%,Deportivo La Coruna,0.0,52%,2.0,73%
+203431,Getafe,0.0,28%,4.0,72%,Barcelona,2.0,72%,0.0,89%
+203442,Malaga,0.0,57%,1.0,73%,Real Betis,1.0,43%,5.0,68%
+203465,Rayo Vallecano,0.0,66%,1.0,79%,Athletic Club,3.0,34%,3.0,62%
+203476,Espanyol,1.0,56%,4.0,80%,Levante,1.0,44%,0.0,72%
+203487,Valencia,2.0,61%,1.0,82%,Getafe,2.0,39%,5.0,70%
+203498,Levante,0.0,43%,5.0,66%,Malaga,1.0,57%,2.0,75%
+203577,Levante,3.0,46%,6.0,66%,Getafe,0.0,54%,3.0,75%
+203667,Espanyol,1.0,38%,0.0,70%,Celta Vigo,1.0,62%,2.0,80%
+203690,Real Betis,0.0,26%,2.0,69%,Barcelona,2.0,74%,1.0,88%
+203713,Espanyol,4.0,49%,6.0,74%,Eibar,2.0,51%,3.0,69%
+192312,Tottenham,2.0,53%,5.0,81%,Stoke City,2.0,47%,5.0,82%
+192323,West Brom,2.0,43%,2.0,76%,Chelsea,3.0,57%,4.0,81%
+192368,Norwich,1.0,66%,3.0,79%,Leicester,2.0,34%,1.0,60%
+192379,Manchester City,5.0,54%,0.0,83%,Bournemouth,1.0,46%,6.0,79%
+192390,Stoke City,0.0,66%,1.0,84%,Watford,2.0,34%,0.0,70%
+192435,Norwich,1.0,36%,1.0,76%,Arsenal,1.0,64%,2.0,87%
+192457,West Brom,1.0,32%,4.0,71%,Bournemouth,2.0,68%,1.0,89%
+192467,Stoke City,2.0,41%,6.0,71%,Manchester United,0.0,59%,1.0,77%
+192512,Newcastle,2.0,50%,2.0,81%,West Ham,1.0,50%,8.0,81%
+192524,West Ham,2.0,46%,1.0,74%,Manchester City,2.0,54%,1.0,79%
+192558,Stoke City,2.0,55%,0.0,79%,Aston Villa,1.0,45%,3.0,75%
+192569,Aston Villa,1.0,46%,3.0,82%,Everton,3.0,54%,4.0,82%
+192580,Swansea,1.0,55%,3.0,72%,Norwich,0.0,45%,2.0,68%
+192613,Sunderland,0.0,56%,0.0,72%,West Brom,0.0,44%,6.0,62%
+192636,Stoke City,0.0,51%,2.0,79%,Tottenham,4.0,49%,2.0,79%
+192647,Watford,3.0,64%,0.0,85%,Aston Villa,2.0,36%,2.0,74%
+192658,Sunderland,3.0,31%,6.0,69%,Chelsea,2.0,69%,1.0,86%
+192669,Chelsea,1.0,54%,4.0,83%,Leicester,1.0,46%,3.0,79%
+448043,Rochdale,0.0,0%,0.0,0%,Morecambe,1.0,0%,0.0,0%
+203549,Getafe,0.0,58%,2.0,72%,Athletic Club,1.0,42%,3.0,64%
+203571,Deportivo La Coruna,2.0,55%,0.0,70%,Real Betis,2.0,45%,8.0,66%
+203614,Sporting Gijon,0.0,45%,4.0,74%,Athletic Club,2.0,55%,1.0,77%
+203626,Granada CF,1.0,41%,2.0,71%,Espanyol,1.0,59%,0.0,77%
+203637,Rayo Vallecano,2.0,53%,3.0,74%,Getafe,0.0,47%,5.0,68%
+203672,Athletic Club,0.0,68%,1.0,84%,Atletico Madrid,1.0,32%,7.0,70%
+203683,Sevilla,2.0,55%,2.0,73%,Real Betis,0.0,45%,1.0,68%
+203693,Espanyol,1.0,42%,0.0,72%,Sevilla,0.0,58%,6.0,78%
+192372,Sunderland,2.0,44%,4.0,76%,West Ham,2.0,56%,1.0,83%
+192383,Crystal Palace,1.0,38%,1.0,72%,West Ham,3.0,62%,0.0,85%
+192394,Manchester United,0.0,58%,1.0,82%,Manchester City,0.0,42%,1.0,72%
+192405,Southampton,2.0,48%,2.0,84%,Bournemouth,0.0,52%,0.0,83%
+192415,Liverpool,1.0,63%,2.0,82%,Crystal Palace,2.0,37%,3.0,67%
+192424,Manchester City,1.0,58%,6.0,77%,Liverpool,4.0,42%,2.0,68%
+192491,Norwich,1.0,41%,4.0,69%,Southampton,0.0,59%,0.0,77%
+192526,Arsenal,0.0,46%,4.0,83%,Chelsea,1.0,54%,1.0,86%
+192590,Aston Villa,0.0,37%,6.0,72%,Tottenham,2.0,63%,2.0,83%
+192601,Chelsea,2.0,59%,3.0,80%,West Ham,2.0,41%,3.0,72%
+192634,Leicester,2.0,43%,2.0,68%,West Ham,2.0,57%,0.0,79%
+448031,Fleetwood Town,1.0,0%,0.0,0%,Barnsley,1.0,0%,0.0,0%
+448042,Plymouth,3.0,0%,0.0,0%,Millwall,5.0,0%,0.0,0%
+448053,Millwall,2.0,0%,0.0,0%,Northampton,0.0,0%,0.0,0%
+194586,VfB Stuttgart,1.0,52%,1.0,71%,Eintracht Frankfurt,4.0,48%,3.0,72%
+194597,Hannover 96,2.0,28%,3.0,67%,Borussia Dortmund,4.0,72%,1.0,86%
+194609,VfB Stuttgart,0.0,54%,5.0,75%,FC Schalke 04,1.0,46%,9.0,67%
+194620,1899 Hoffenheim,1.0,30%,3.0,66%,Borussia Dortmund,1.0,70%,4.0,83%
+194630,SV Darmstadt 98,2.0,38%,4.0,55%,FSV Mainz 05,3.0,62%,2.0,75%
+194641,VfL Wolfsburg,4.0,50%,1.0,80%,1899 Hoffenheim,2.0,50%,5.0,79%
+194653,SV Darmstadt 98,0.0,29%,5.0,59%,VfL Wolfsburg,1.0,71%,3.0,86%
+194663,VfL Wolfsburg,2.0,49%,5.0,75%,Bayer Leverkusen,1.0,51%,3.0,74%
+194674,FC Augsburg,1.0,60%,2.0,80%,Werder Bremen,2.0,40%,5.0,68%
+203436,Real Betis,1.0,52%,6.0,76%,Athletic Club,3.0,48%,2.0,75%
+203447,Real Sociedad,2.0,61%,5.0,77%,Sevilla,0.0,39%,5.0,65%
+203458,Barcelona,4.0,55%,2.0,83%,Real Sociedad,0.0,45%,2.0,80%
+203479,Celta Vigo,1.0,51%,2.0,76%,Espanyol,0.0,49%,2.0,72%
+203500,Rayo Vallecano,0.0,58%,4.0,72%,Atletico Madrid,2.0,42%,3.0,65%
+203651,Real Betis,1.0,51%,3.0,78%,Levante,0.0,49%,1.0,76%
+203661,Celta Vigo,1.0,66%,2.0,84%,Real Betis,1.0,34%,4.0,71%
+203671,Sporting Gijon,2.0,47%,7.0,76%,Sevilla,1.0,53%,1.0,81%
+203682,Levante,2.0,35%,6.0,66%,Athletic Club,2.0,65%,4.0,79%
+203703,Sevilla,1.0,60%,3.0,81%,Granada CF,4.0,40%,4.0,72%
+192378,Chelsea,2.0,49%,1.0,74%,Aston Villa,0.0,51%,2.0,78%
+192389,Aston Villa,1.0,47%,2.0,72%,Swansea,2.0,53%,2.0,76%
+192400,Crystal Palace,0.0,44%,1.0,76%,Manchester United,0.0,56%,5.0,82%
+192411,Leicester,2.0,41%,3.0,70%,Watford,1.0,59%,4.0,74%
+192421,Newcastle,0.0,54%,4.0,77%,Leicester,3.0,46%,0.0,75%
+192631,West Brom,0.0,56%,3.0,75%,Watford,1.0,44%,4.0,66%
+192663,Leicester,3.0,41%,4.0,78%,Everton,1.0,59%,5.0,82%
+203632,Real Betis,0.0,55%,4.0,76%,Malaga,1.0,45%,5.0,70%
+203687,Sporting Gijon,2.0,44%,6.0,71%,Eibar,0.0,56%,1.0,76%
+203710,Athletic Club,3.0,57%,3.0,82%,Sevilla,1.0,43%,4.0,78%
+192301,Everton,2.0,66%,3.0,81%,Watford,2.0,34%,3.0,70%
+192355,Southampton,2.0,40%,0.0,78%,Manchester United,3.0,60%,6.0,86%
+192444,Chelsea,0.0,62%,4.0,85%,Bournemouth,1.0,38%,7.0,73%
+192594,Arsenal,2.0,71%,1.0,89%,West Brom,0.0,29%,4.0,68%
+192605,Tottenham,3.0,62%,0.0,87%,Bournemouth,0.0,38%,4.0,75%
+192615,Leicester,1.0,46%,1.0,73%,Southampton,0.0,54%,4.0,79%
+192626,Tottenham,3.0,47%,1.0,71%,Manchester United,0.0,53%,7.0,72%
+448064,Port Vale,1.0,0%,0.0,0%,Carlisle,0.0,0%,0.0,0%
+448075,Millwall,1.0,0%,0.0,0%,Peterborough,0.0,0%,0.0,0%
+194585,VfL Wolfsburg,3.0,56%,1.0,84%,FC Schalke 04,0.0,44%,2.0,77%
+194595,Bayern Munich,2.0,80%,0.0,90%,FC Augsburg,1.0,20%,8.0,62%
+194606,Werder Bremen,0.0,55%,3.0,65%,FC Ingolstadt 04,1.0,45%,4.0,60%
+194617,Bayer Leverkusen,1.0,66%,2.0,79%,FSV Mainz 05,0.0,34%,5.0,58%
+194627,Hamburger SV,0.0,49%,4.0,83%,FC Schalke 04,1.0,51%,5.0,81%
+194639,FSV Mainz 05,0.0,53%,4.0,79%,Borussia Dortmund,2.0,47%,5.0,75%
+194649,Bayern Munich,4.0,73%,2.0,93%,1.FC Köln,0.0,27%,9.0,76%
+194660,Werder Bremen,1.0,26%,3.0,70%,Borussia Dortmund,3.0,74%,0.0,88%
+194671,FSV Mainz 05,2.0,34%,0.0,74%,VfL Wolfsburg,0.0,66%,3.0,88%
+194680,VfB Stuttgart,0.0,59%,3.0,78%,FC Augsburg,4.0,41%,5.0,70%
+194690,Borussia Dortmund,4.0,70%,1.0,84%,VfB Stuttgart,1.0,30%,6.0,63%
+194701,Eintracht Frankfurt,0.0,68%,3.0,77%,SV Darmstadt 98,1.0,32%,3.0,50%
+203695,Valencia,0.0,55%,1.0,88%,Villarreal,2.0,45%,1.0,82%
+192306,West Brom,0.0,30%,4.0,81%,Manchester City,3.0,70%,2.0,91%
+192316,Liverpool,1.0,54%,2.0,82%,Bournemouth,0.0,46%,1.0,76%
+192369,Manchester City,6.0,64%,3.0,84%,Newcastle,1.0,36%,5.0,75%
+192470,Tottenham,3.0,59%,3.0,80%,Norwich,0.0,41%,7.0,75%
+192502,Stoke City,3.0,64%,1.0,89%,Norwich,1.0,36%,2.0,78%
+192513,Aston Villa,1.0,56%,4.0,78%,Leicester,1.0,44%,4.0,72%
+192523,Crystal Palace,1.0,36%,8.0,67%,Tottenham,3.0,64%,3.0,82%
+192534,West Brom,1.0,45%,3.0,73%,Swansea,1.0,55%,5.0,79%
+192544,Southampton,1.0,35%,2.0,76%,West Ham,0.0,65%,1.0,88%
+192555,Aston Villa,0.0,39%,3.0,79%,Liverpool,6.0,61%,1.0,85%
+192566,Liverpool,4.0,66%,0.0,86%,Everton,0.0,34%,9.0,64%
+192586,West Brom,1.0,46%,1.0,70%,Manchester United,0.0,54%,1.0,72%
+192597,Everton,0.0,54%,1.0,78%,Arsenal,2.0,46%,2.0,80%
+192608,West Ham,2.0,66%,2.0,83%,Crystal Palace,2.0,34%,4.0,68%
+192619,Swansea,1.0,39%,2.0,76%,Chelsea,0.0,61%,5.0,84%
+192629,Everton,1.0,49%,3.0,78%,Southampton,1.0,51%,1.0,77%
+192640,Liverpool,2.0,67%,1.0,79%,Newcastle,2.0,33%,2.0,63%
+192671,Swansea,1.0,50%,4.0,78%,Manchester City,1.0,50%,0.0,81%
+194616,FC Schalke 04,2.0,50%,5.0,80%,Eintracht Frankfurt,0.0,50%,5.0,80%
+194638,Bayer Leverkusen,1.0,64%,0.0,81%,FC Augsburg,1.0,36%,7.0,61%
+194691,Bayer Leverkusen,1.0,55%,3.0,79%,FC Schalke 04,1.0,45%,6.0,74%
+194702,FSV Mainz 05,0.0,56%,2.0,72%,VfB Stuttgart,0.0,44%,4.0,66%
+194712,Hamburger SV,0.0,56%,6.0,79%,FC Augsburg,1.0,44%,2.0,74%
+194723,Hertha Berlin,0.0,64%,5.0,85%,FC Augsburg,0.0,36%,2.0,73%
+203474,Sporting Gijon,3.0,33%,6.0,69%,Las Palmas,1.0,67%,6.0,82%
+203485,Atletico Madrid,2.0,47%,4.0,73%,Athletic Club,1.0,53%,2.0,75%
+203506,Villarreal,1.0,51%,2.0,79%,Valencia,0.0,49%,2.0,79%
+203517,Barcelona,4.0,66%,4.0,86%,Granada CF,0.0,34%,4.0,77%
+203528,Celta Vigo,4.0,57%,4.0,76%,Levante,3.0,43%,2.0,66%
+203538,Malaga,1.0,34%,3.0,68%,Barcelona,2.0,66%,8.0,85%
+203560,Athletic Club,0.0,60%,2.0,78%,Villarreal,0.0,40%,1.0,65%
+203582,Rayo Vallecano,2.0,61%,5.0,75%,Sevilla,2.0,39%,3.0,54%
+203625,Las Palmas,1.0,51%,2.0,83%,Real Madrid,2.0,49%,5.0,86%
+203646,Levante,0.0,54%,1.0,71%,Sporting Gijon,0.0,46%,4.0,66%
+203657,Levante,2.0,50%,1.0,73%,Espanyol,1.0,50%,2.0,72%
+192314,Crystal Palace,1.0,40%,5.0,80%,Arsenal,2.0,60%,3.0,85%
+192325,Watford,0.0,52%,4.0,73%,Southampton,0.0,48%,0.0,75%
+192406,Tottenham,3.0,61%,1.0,82%,Aston Villa,1.0,39%,3.0,68%
+192440,Watford,2.0,50%,1.0,67%,Norwich,0.0,50%,5.0,65%
+192451,Sunderland,0.0,48%,6.0,73%,Watford,1.0,52%,3.0,73%
+192552,Norwich,2.0,48%,4.0,64%,West Ham,2.0,52%,1.0,73%
+192564,Tottenham,2.0,57%,3.0,78%,Swansea,1.0,43%,13.0,65%
+192575,Liverpool,3.0,49%,1.0,77%,Manchester City,0.0,51%,4.0,76%
+192585,Crystal Palace,1.0,38%,3.0,67%,Liverpool,2.0,62%,3.0,83%
+192596,Liverpool,1.0,55%,6.0,86%,Chelsea,1.0,45%,7.0,81%
+192607,Aston Villa,0.0,41%,4.0,77%,Chelsea,4.0,59%,4.0,87%
+192651,West Brom,0.0,40%,1.0,67%,West Ham,3.0,60%,3.0,79%
+192673,Watford,2.0,54%,2.0,77%,Sunderland,2.0,46%,4.0,70%
+194568,Bayer Leverkusen,2.0,57%,1.0,74%,1899 Hoffenheim,1.0,43%,7.0,58%
+194590,SV Darmstadt 98,0.0,30%,3.0,48%,1899 Hoffenheim,0.0,70%,1.0,80%
+194601,1899 Hoffenheim,1.0,61%,3.0,75%,Werder Bremen,3.0,39%,4.0,62%
+203516,Sporting Gijon,1.0,46%,0.0,72%,Getafe,2.0,54%,3.0,75%
+203526,Celta Vigo,0.0,55%,1.0,80%,Atletico Madrid,2.0,45%,1.0,74%
+203537,Sporting Gijon,5.0,42%,2.0,71%,Real Sociedad,1.0,58%,2.0,80%
+203588,Real Madrid,0.0,68%,4.0,86%,Atletico Madrid,1.0,32%,3.0,69%
+203620,Atletico Madrid,3.0,51%,1.0,81%,Deportivo La Coruna,0.0,49%,4.0,79%
+192304,Arsenal,0.0,61%,2.0,87%,West Ham,2.0,39%,6.0,71%
+192347,Chelsea,2.0,62%,2.0,87%,Arsenal,0.0,38%,5.0,78%
+192668,Southampton,4.0,49%,3.0,83%,Crystal Palace,1.0,51%,1.0,78%
+448041,Fleetwood Town,0.0,0%,0.0,0%,Sheffield Utd,0.0,0%,0.0,0%
+448052,Gillingham,2.0,0%,0.0,0%,Luton,1.0,0%,0.0,0%
+448063,Luton,2.0,0%,0.0,0%,Leyton Orient,1.0,0%,0.0,0%
+192350,Bournemouth,2.0,53%,2.0,78%,Sunderland,0.0,47%,3.0,76%
+192362,Manchester United,3.0,66%,4.0,87%,Sunderland,0.0,34%,4.0,74%
+192373,Chelsea,1.0,60%,2.0,79%,Southampton,3.0,40%,2.0,72%
+192384,Watford,0.0,33%,3.0,74%,Arsenal,3.0,67%,1.0,88%
+192530,Arsenal,0.0,66%,3.0,82%,Southampton,0.0,34%,10.0,65%
+192573,West Ham,1.0,34%,2.0,57%,Tottenham,0.0,66%,2.0,73%
+192618,Aston Villa,1.0,41%,1.0,75%,Bournemouth,2.0,59%,0.0,82%
+194589,FSV Mainz 05,3.0,47%,4.0,78%,Hannover 96,0.0,53%,3.0,81%
+194600,Eintracht Frankfurt,6.0,49%,5.0,79%,1.FC Köln,2.0,51%,5.0,78%
+194612,Bayern Munich,5.0,63%,1.0,90%,VfL Wolfsburg,1.0,37%,6.0,82%
+194622,VfL Wolfsburg,1.0,68%,2.0,88%,Hannover 96,1.0,32%,8.0,71%
+194634,1899 Hoffenheim,2.0,41%,5.0,65%,VfB Stuttgart,2.0,59%,2.0,74%
+194644,Werder Bremen,0.0,20%,3.0,56%,Bayern Munich,1.0,80%,2.0,89%
+194654,FC Ingolstadt 04,0.0,52%,0.0,77%,Hertha Berlin,1.0,48%,3.0,74%
+194666,Hannover 96,1.0,51%,1.0,81%,Hertha Berlin,3.0,49%,1.0,79%
+194678,Eintracht Frankfurt,1.0,41%,8.0,69%,Bayer Leverkusen,3.0,59%,0.0,80%
+194689,FSV Mainz 05,2.0,53%,4.0,81%,Eintracht Frankfurt,1.0,47%,6.0,76%
+194700,VfB Stuttgart,1.0,59%,1.0,79%,Werder Bremen,1.0,41%,3.0,71%
+194711,FC Schalke 04,1.0,48%,1.0,83%,1899 Hoffenheim,0.0,52%,2.0,81%
+194734,SV Darmstadt 98,0.0,38%,5.0,48%,FC Schalke 04,2.0,62%,2.0,69%
+194745,Hamburger SV,1.0,55%,5.0,79%,1.FC Köln,1.0,45%,3.0,76%
+194757,Bayern Munich,3.0,80%,4.0,90%,SV Darmstadt 98,1.0,20%,10.0,59%
+194768,VfB Stuttgart,1.0,59%,6.0,81%,Hannover 96,2.0,41%,8.0,74%
+203621,Rayo Vallecano,1.0,59%,0.0,69%,Eibar,1.0,41%,2.0,54%
+203631,Deportivo La Coruna,2.0,52%,0.0,77%,Levante,1.0,48%,5.0,72%
+203640,Barcelona,1.0,68%,4.0,90%,Real Madrid,2.0,32%,2.0,80%
+203647,Granada CF,0.0,49%,3.0,76%,Malaga,0.0,51%,1.0,76%
+203711,Atletico Madrid,2.0,45%,4.0,79%,Celta Vigo,0.0,55%,3.0,82%
+192311,Sunderland,1.0,43%,3.0,69%,Norwich,3.0,57%,1.0,79%
+192365,Watford,0.0,55%,2.0,75%,Crystal Palace,1.0,45%,2.0,75%
+192382,West Brom,1.0,56%,2.0,77%,Sunderland,0.0,44%,1.0,73%
+192393,Sunderland,3.0,39%,8.0,71%,Newcastle,0.0,61%,0.0,80%
+192395,Bournemouth,1.0,45%,4.0,75%,Tottenham,5.0,55%,1.0,82%
+192476,Southampton,4.0,35%,5.0,74%,Arsenal,0.0,65%,1.0,85%
+192478,West Brom,1.0,51%,2.0,76%,Newcastle,0.0,49%,3.0,79%
+192481,Watford,1.0,37%,1.0,60%,Tottenham,2.0,63%,0.0,78%
+192483,Manchester United,0.0,66%,3.0,89%,Chelsea,0.0,34%,2.0,71%
+203395,Getafe,3.0,58%,4.0,77%,Levante,0.0,42%,6.0,69%
+203412,Villarreal,1.0,32%,0.0,69%,Celta Vigo,2.0,68%,2.0,86%
+203419,Granada CF,1.0,40%,1.0,59%,Real Betis,1.0,60%,4.0,73%
+203427,Deportivo La Coruna,1.0,43%,2.0,79%,Atletico Madrid,1.0,57%,2.0,82%
+203556,Deportivo La Coruna,2.0,52%,1.0,67%,Rayo Vallecano,2.0,48%,3.0,64%
+203558,Atletico Madrid,3.0,52%,1.0,69%,Eibar,1.0,48%,1.0,63%
+203559,Rayo Vallecano,2.0,50%,4.0,73%,Las Palmas,0.0,50%,7.0,74%
+203564,Celta Vigo,1.0,73%,1.0,90%,Sevilla,1.0,27%,4.0,63%
+203592,Real Sociedad,1.0,57%,2.0,73%,Malaga,1.0,43%,2.0,69%
+203605,Espanyol,0.0,53%,3.0,73%,Real Betis,3.0,47%,3.0,73%
+203634,Villarreal,2.0,32%,4.0,78%,Barcelona,2.0,68%,5.0,89%
+192403,Watford,2.0,50%,3.0,76%,West Ham,0.0,50%,3.0,80%
+192404,Everton,6.0,67%,7.0,90%,Sunderland,2.0,33%,3.0,78%
+192410,Norwich,1.0,32%,0.0,82%,Swansea,0.0,68%,4.0,89%
+203540,Granada CF,3.0,49%,0.0,75%,Getafe,2.0,51%,6.0,74%
+203610,Deportivo La Coruna,3.0,55%,0.0,76%,Malaga,3.0,45%,3.0,70%
+192414,Aston Villa,0.0,40%,3.0,79%,Manchester City,0.0,60%,0.0,85%
+192461,Chelsea,3.0,67%,2.0,85%,Sunderland,1.0,33%,4.0,69%
+192489,Leicester,0.0,53%,0.0,79%,Bournemouth,0.0,47%,2.0,76%
+192545,Bournemouth,0.0,50%,3.0,81%,Arsenal,2.0,50%,4.0,81%
+192630,Newcastle,3.0,34%,1.0,63%,Swansea,0.0,66%,4.0,79%
+192656,Chelsea,2.0,47%,3.0,77%,Tottenham,2.0,53%,3.0,80%
+194570,Werder Bremen,0.0,58%,3.0,78%,FC Schalke 04,3.0,42%,2.0,73%
+203417,Rayo Vallecano,3.0,67%,3.0,84%,Espanyol,0.0,33%,4.0,67%
+203455,Real Betis,0.0,42%,3.0,75%,Atletico Madrid,1.0,58%,3.0,82%
+203472,Real Sociedad,2.0,64%,1.0,81%,Eibar,1.0,36%,5.0,63%
+203508,Atletico Madrid,1.0,55%,1.0,81%,Levante,0.0,45%,1.0,74%
+203518,Getafe,1.0,52%,2.0,76%,Real Betis,0.0,48%,2.0,74%
+203547,Barcelona,2.0,71%,3.0,89%,Atletico Madrid,1.0,29%,2.0,75%
+203575,Getafe,0.0,56%,2.0,88%,Atletico Madrid,1.0,44%,0.0,81%
+203616,Espanyol,2.0,33%,0.0,62%,Rayo Vallecano,1.0,67%,5.0,82%
+203636,Real Madrid,4.0,63%,4.0,89%,Sevilla,0.0,37%,8.0,80%
+203678,Rayo Vallecano,2.0,39%,2.0,72%,Real Madrid,3.0,61%,4.0,81%
+203689,Atletico Madrid,1.0,37%,2.0,62%,Rayo Vallecano,0.0,63%,5.0,76%
+203714,Sporting Gijon,2.0,52%,5.0,85%,Villarreal,0.0,48%,4.0,83%
+203567,Sporting Gijon,2.0,37%,2.0,66%,Rayo Vallecano,2.0,63%,3.0,83%
+203660,Eibar,2.0,43%,3.0,62%,Real Sociedad,1.0,57%,2.0,78%
+203669,Deportivo La Coruna,0.0,34%,1.0,81%,Barcelona,8.0,66%,5.0,92%
+192320,Norwich,1.0,42%,0.0,79%,Stoke City,1.0,58%,6.0,84%
+192425,Tottenham,4.0,55%,3.0,81%,West Ham,1.0,45%,8.0,77%
+192488,Sunderland,3.0,44%,2.0,74%,Aston Villa,1.0,56%,3.0,79%
+192515,Stoke City,0.0,45%,3.0,76%,Arsenal,0.0,55%,5.0,78%
+192611,Stoke City,2.0,47%,1.0,80%,Swansea,2.0,53%,3.0,85%
+192648,Everton,2.0,56%,1.0,82%,Bournemouth,1.0,44%,3.0,81%
+448039,Wigan,4.0,0%,0.0,0%,Blackpool,0.0,0%,0.0,0%
+448067,Morecambe,2.0,0%,0.0,0%,Walsall,0.0,0%,0.0,0%
+448077,Cambridge United,0.0,0%,0.0,0%,Dagenham & Redbridge,2.0,0%,0.0,0%
+194584,Borussia Monchengladbach,1.0,69%,2.0,88%,FSV Mainz 05,2.0,31%,5.0,76%
+194593,Werder Bremen,2.0,37%,4.0,71%,Borussia Monchengladbach,1.0,63%,3.0,78%
+203379,Granada CF,0.0,51%,2.0,72%,Real Sociedad,3.0,49%,1.0,70%
+203390,Sevilla,3.0,48%,3.0,77%,Rayo Vallecano,2.0,52%,5.0,81%
+203410,Valencia,3.0,49%,3.0,79%,Malaga,0.0,51%,1.0,73%
+203429,Villarreal,2.0,51%,2.0,78%,Sevilla,1.0,49%,3.0,74%
+203439,Levante,1.0,53%,4.0,74%,Deportivo La Coruna,1.0,47%,4.0,68%
+203468,Granada CF,0.0,44%,2.0,81%,Atletico Madrid,2.0,56%,3.0,83%
+203486,Villarreal,1.0,34%,1.0,71%,Real Madrid,0.0,66%,2.0,85%
+203515,Valencia,2.0,46%,2.0,84%,Real Madrid,2.0,54%,2.0,87%
+203536,Eibar,5.0,53%,0.0,72%,Granada CF,1.0,47%,2.0,65%
+203554,Las Palmas,2.0,58%,1.0,80%,Celta Vigo,1.0,42%,3.0,74%
+203602,Athletic Club,4.0,54%,3.0,79%,Deportivo La Coruna,1.0,46%,2.0,76%
+203706,Levante,2.0,55%,4.0,81%,Atletico Madrid,1.0,45%,3.0,81%
+192495,Crystal Palace,0.0,39%,1.0,73%,Chelsea,3.0,61%,4.0,82%
+192504,Chelsea,2.0,61%,3.0,81%,West Brom,2.0,39%,1.0,67%
+192533,Manchester United,3.0,46%,0.0,82%,Stoke City,0.0,54%,2.0,82%
+192578,Manchester City,4.0,71%,1.0,91%,Aston Villa,0.0,29%,5.0,77%
+192587,Norwich,0.0,33%,3.0,69%,Manchester City,0.0,67%,0.0,84%
+203464,Eibar,0.0,39%,4.0,69%,Real Madrid,2.0,61%,3.0,81%
+203481,Sevilla,2.0,71%,1.0,83%,Sporting Gijon,0.0,29%,5.0,65%
+203601,Malaga,1.0,46%,1.0,67%,Valencia,2.0,54%,0.0,73%
+203700,Getafe,1.0,58%,2.0,79%,Sporting Gijon,1.0,42%,8.0,68%
+192299,Norwich,1.0,62%,4.0,83%,Crystal Palace,3.0,38%,4.0,74%
+192335,Southampton,3.0,61%,1.0,85%,Norwich,0.0,39%,5.0,73%
+192344,Sunderland,0.0,43%,3.0,70%,Tottenham,1.0,57%,2.0,80%
+192538,Swansea,1.0,58%,1.0,80%,Crystal Palace,1.0,42%,2.0,72%
+192556,Manchester City,1.0,46%,1.0,79%,Tottenham,2.0,54%,3.0,82%
+192592,West Ham,3.0,46%,3.0,78%,Watford,1.0,54%,4.0,79%
+203453,Villarreal,1.0,58%,6.0,76%,Eibar,1.0,42%,3.0,62%
+203471,Real Betis,1.0,59%,0.0,76%,Celta Vigo,1.0,41%,4.0,67%
+203514,Athletic Club,2.0,41%,3.0,68%,Las Palmas,2.0,59%,2.0,80%
+203550,Villarreal,1.0,55%,2.0,80%,Granada CF,0.0,45%,6.0,74%
+203642,Athletic Club,1.0,53%,1.0,81%,Granada CF,1.0,47%,0.0,75%
+192604,Newcastle,1.0,59%,3.0,79%,Sunderland,1.0,41%,6.0,66%
+203375,Las Palmas,0.0,50%,5.0,66%,Rayo Vallecano,1.0,50%,2.0,69%
+203384,Las Palmas,2.0,43%,3.0,69%,Sevilla,0.0,57%,2.0,74%
+203393,Sporting Gijon,1.0,56%,3.0,84%,Real Betis,2.0,44%,9.0,82%
+203418,Celta Vigo,1.0,50%,5.0,84%,Real Madrid,3.0,50%,5.0,80%
+203425,Atletico Madrid,2.0,49%,0.0,77%,Valencia,1.0,51%,5.0,78%
+203434,Espanyol,1.0,57%,4.0,72%,Granada CF,1.0,43%,3.0,63%
+203437,Las Palmas,2.0,45%,6.0,76%,Real Sociedad,0.0,55%,2.0,77%
+203440,Eibar,3.0,44%,3.0,67%,Getafe,1.0,56%,4.0,75%
+203449,Espanyol,2.0,41%,5.0,68%,Malaga,0.0,59%,1.0,80%
+203450,Valencia,1.0,37%,6.0,73%,Las Palmas,1.0,63%,2.0,85%
+203451,Deportivo La Coruna,2.0,39%,4.0,66%,Celta Vigo,0.0,61%,1.0,78%
+203452,Sporting Gijon,0.0,51%,3.0,76%,Levante,3.0,49%,3.0,74%
+203457,Levante,0.0,56%,4.0,77%,Real Betis,1.0,44%,1.0,73%
+203460,Malaga,2.0,43%,2.0,71%,Granada CF,2.0,57%,5.0,81%
+203461,Las Palmas,0.0,66%,4.0,85%,Deportivo La Coruna,2.0,34%,5.0,71%
+203466,Sevilla,1.0,61%,0.0,85%,Valencia,0.0,39%,4.0,74%
+203519,Sevilla,2.0,48%,3.0,74%,Athletic Club,0.0,52%,2.0,77%
+203658,Getafe,1.0,37%,6.0,81%,Real Madrid,5.0,63%,3.0,89%
+203529,Villarreal,0.0,50%,2.0,78%,Real Betis,0.0,50%,2.0,79%
+203548,Eibar,1.0,56%,2.0,64%,Malaga,2.0,44%,2.0,59%
+203699,Villarreal,0.0,65%,2.0,90%,Deportivo La Coruna,2.0,35%,4.0,75%
+192346,West Ham,2.0,39%,4.0,76%,Newcastle,0.0,61%,1.0,83%
+192547,Sunderland,2.0,33%,5.0,63%,Manchester United,1.0,67%,3.0,82%
+192598,Crystal Palace,0.0,55%,2.0,76%,Leicester,1.0,45%,4.0,67%
+192652,Arsenal,1.0,68%,3.0,85%,Norwich,0.0,32%,2.0,66%
+203570,Valencia,2.0,58%,5.0,82%,Espanyol,1.0,42%,3.0,68%
+192338,Norwich,3.0,47%,1.0,78%,Bournemouth,1.0,53%,1.0,79%
+192427,Bournemouth,3.0,57%,3.0,82%,Everton,3.0,43%,6.0,76%
+192644,Tottenham,1.0,66%,2.0,85%,West Brom,1.0,34%,2.0,69%
+448032,Millwall,0.0,0%,0.0,0%,Oxford United,2.0,0%,0.0,0%
+448049,Bury,0.0,0%,0.0,0%,Morecambe,1.0,0%,0.0,0%
+194573,Borussia Dortmund,4.0,59%,1.0,89%,Borussia Monchengladbach,0.0,41%,2.0,82%
+194583,FC Ingolstadt 04,0.0,34%,4.0,57%,Borussia Dortmund,4.0,66%,2.0,77%
+203545,Real Betis,1.0,36%,7.0,72%,Real Madrid,1.0,64%,1.0,88%
+203598,Las Palmas,4.0,56%,2.0,85%,Getafe,0.0,44%,1.0,79%
+192416,Arsenal,1.0,54%,3.0,75%,Tottenham,1.0,46%,3.0,75%
+192609,Bournemouth,0.0,45%,3.0,84%,Manchester City,4.0,55%,2.0,84%
+203539,Espanyol,2.0,45%,3.0,80%,Villarreal,2.0,55%,3.0,81%
+203692,Athletic Club,2.0,57%,1.0,72%,Celta Vigo,1.0,43%,0.0,68%
+192361,West Ham,2.0,42%,5.0,76%,Norwich,2.0,58%,5.0,80%
+192522,Leicester,3.0,45%,2.0,72%,Stoke City,0.0,55%,2.0,76%
+192577,Tottenham,2.0,51%,2.0,75%,Arsenal,2.0,49%,9.0,71%
+448060,Stevenage,1.0,0%,0.0,0%,Dagenham & Redbridge,2.0,0%,0.0,0%
+203492,Real Sociedad,0.0,65%,3.0,85%,Villarreal,2.0,35%,2.0,73%
+192419,Everton,4.0,59%,3.0,88%,Aston Villa,0.0,41%,5.0,84%
+192447,Norwich,1.0,41%,2.0,77%,Everton,1.0,59%,0.0,83%
+192567,Norwich,1.0,47%,0.0,77%,Chelsea,2.0,53%,2.0,82%
+192638,Manchester City,4.0,53%,2.0,82%,Stoke City,0.0,47%,2.0,83%
+192448,Crystal Palace,1.0,43%,3.0,64%,Southampton,0.0,57%,4.0,75%
+192641,Aston Villa,2.0,42%,3.0,77%,Southampton,4.0,58%,4.0,83%
+192666,Liverpool,2.0,66%,3.0,85%,Watford,0.0,34%,3.0,71%
+448045,Southend,1.0,0%,0.0,0%,Bristol Rovers,0.0,0%,0.0,0%
+203408,Eibar,1.0,42%,4.0,67%,Sevilla,1.0,58%,3.0,72%
+203470,Deportivo La Coruna,1.0,43%,1.0,68%,Sevilla,1.0,57%,3.0,78%
+203504,Celta Vigo,0.0,64%,4.0,81%,Athletic Club,1.0,36%,3.0,67%
+203551,Real Sociedad,2.0,46%,0.0,77%,Real Betis,1.0,54%,2.0,79%
+203376,Barcelona,4.0,69%,3.0,90%,Levante,1.0,31%,3.0,74%
+203494,Athletic Club,2.0,53%,1.0,71%,Levante,0.0,47%,5.0,75%
+448034,Wigan,2.0,0%,0.0,0%,Barnsley,2.0,0%,0.0,0%
+203591,Real Betis,2.0,39%,2.0,67%,Rayo Vallecano,2.0,61%,2.0,76%
+192363,Southampton,3.0,41%,3.0,76%,Swansea,1.0,59%,4.0,83%
+192430,Sunderland,2.0,48%,4.0,84%,Stoke City,0.0,52%,3.0,85%
+203507,Espanyol,0.0,27%,2.0,62%,Barcelona,0.0,73%,1.0,85%
+192500,Swansea,2.0,51%,1.0,81%,Sunderland,4.0,49%,3.0,83%
+194578,Eintracht Frankfurt,1.0,54%,3.0,75%,FC Augsburg,1.0,46%,2.0,69%
+194607,1.FC Köln,1.0,40%,2.0,82%,Borussia Monchengladbach,0.0,60%,4.0,87%
+194636,FC Schalke 04,0.0,66%,1.0,84%,1.FC Köln,3.0,34%,7.0,64%
+194642,Hamburger SV,0.0,46%,3.0,66%,Bayer Leverkusen,0.0,54%,3.0,69%
+203398,Sevilla,2.0,37%,8.0,72%,Barcelona,1.0,63%,3.0,86%
+203407,Real Madrid,3.0,58%,5.0,89%,Levante,0.0,42%,3.0,80%
+203426,Athletic Club,3.0,51%,0.0,77%,Sporting Gijon,0.0,49%,3.0,77%
+192359,Liverpool,3.0,62%,2.0,89%,Aston Villa,2.0,38%,9.0,80%
+203530,Real Sociedad,1.0,63%,3.0,84%,Deportivo La Coruna,1.0,37%,5.0,69%
+192456,Leicester,2.0,34%,2.0,60%,Chelsea,1.0,66%,3.0,80%
+203493,Granada CF,0.0,49%,1.0,73%,Celta Vigo,2.0,51%,1.0,76%
+203569,Villarreal,1.0,50%,2.0,74%,Malaga,0.0,50%,4.0,72%
+203580,Real Betis,1.0,54%,2.0,77%,Sporting Gijon,1.0,46%,4.0,70%
+203581,Celta Vigo,3.0,63%,1.0,79%,Eibar,2.0,37%,6.0,62%
+203597,Atletico Madrid,3.0,52%,1.0,83%,Real Sociedad,0.0,48%,4.0,83%
+192331,Manchester City,2.0,58%,0.0,92%,Watford,0.0,42%,3.0,86%
+203653,Valencia,2.0,50%,3.0,81%,Sevilla,1.0,50%,6.0,76%
+448073,Exeter City,2.0,0%,0.0,0%,Portsmouth,0.0,0%,0.0,0%
+194579,1.FC Köln,1.0,30%,5.0,68%,VfL Wolfsburg,1.0,70%,5.0,84%
+194625,Werder Bremen,0.0,36%,3.0,57%,Bayer Leverkusen,3.0,64%,0.0,76%
+194672,SV Darmstadt 98,1.0,37%,2.0,64%,Hamburger SV,1.0,63%,2.0,75%
+203397,Celta Vigo,0.0,67%,3.0,80%,Getafe,0.0,33%,7.0,64%
+203404,Athletic Club,3.0,49%,3.0,79%,Valencia,1.0,51%,4.0,81%
+203432,Real Sociedad,2.0,41%,5.0,65%,Celta Vigo,3.0,59%,3.0,77%
+203497,Real Madrid,3.0,50%,1.0,84%,Real Sociedad,1.0,50%,10.0,84%
+192437,Stoke City,2.0,46%,4.0,74%,Manchester City,0.0,54%,2.0,72%
+192493,Manchester United,2.0,54%,3.0,83%,Swansea,1.0,46%,4.0,78%
+203488,Espanyol,1.0,48%,4.0,75%,Las Palmas,0.0,52%,1.0,77%
+203495,Malaga,1.0,61%,3.0,76%,Atletico Madrid,0.0,39%,3.0,67%
+203502,Getafe,0.0,51%,3.0,71%,Deportivo La Coruna,0.0,49%,5.0,72%
+203477,Getafe,1.0,37%,5.0,69%,Real Sociedad,1.0,63%,4.0,83%
+192494,Watford,1.0,48%,3.0,72%,Manchester City,2.0,52%,3.0,75%
+203373,Deportivo La Coruna,2.0,62%,1.0,79%,Sporting Gijon,3.0,38%,7.0,69%
+203380,Celta Vigo,4.0,43%,6.0,76%,Barcelona,1.0,57%,1.0,80%
+203387,Valencia,1.0,47%,3.0,78%,Granada CF,0.0,53%,4.0,78%
+203396,Real Sociedad,0.0,47%,2.0,65%,Athletic Club,0.0,53%,4.0,69%
+203406,Atletico Madrid,1.0,46%,1.0,83%,Real Madrid,1.0,54%,3.0,86%
+203409,Barcelona,5.0,44%,6.0,82%,Rayo Vallecano,2.0,56%,4.0,83%
+203415,Deportivo La Coruna,2.0,57%,0.0,78%,Athletic Club,2.0,43%,1.0,71%
+203430,Valencia,3.0,59%,5.0,82%,Levante,0.0,41%,3.0,69%
+203405,Levante,1.0,47%,2.0,73%,Villarreal,0.0,53%,3.0,76%
+203484,Eibar,1.0,51%,0.0,71%,Valencia,1.0,49%,4.0,69%
+192536,Everton,3.0,55%,3.0,81%,Newcastle,0.0,45%,5.0,75%
+194576,Hertha Berlin,1.0,51%,2.0,78%,Werder Bremen,1.0,49%,1.0,73%
+194604,VfL Wolfsburg,2.0,55%,4.0,85%,Hertha Berlin,0.0,45%,2.0,82%
+194581,1899 Hoffenheim,1.0,26%,7.0,57%,Bayern Munich,2.0,74%,0.0,85%
+448071,Yeovil Town,1.0,0%,0.0,0%,Barnet,0.0,0%,0.0,0%
+203401,Las Palmas,0.0,62%,2.0,82%,Eibar,2.0,38%,4.0,62%
+203414,Getafe,4.0,41%,3.0,81%,Las Palmas,0.0,59%,3.0,87%
+203422,Levante,0.0,57%,2.0,72%,Real Sociedad,4.0,43%,3.0,67%
+203374,Villarreal,3.0,46%,1.0,70%,Athletic Club,1.0,54%,4.0,71%
