@@ -1,4 +1,10 @@
 def calculate_prediction(df):
+    # Limitar los goles de casa y de visitante a un máximo de 5
+    df['home_goals'] = df['home_goals'].clip(upper=5)
+    df['away_goals'] = df['away_goals'].clip(upper=5)
+    df['home_goalkeeper_saves'] = df['home_goalkeeper_saves'].clip(upper=5)
+    df['away_goalkeeper_saves'] = df['away_goalkeeper_saves'].clip(upper=5)
+
     # Eliminamos el signo "%" de las columnas de posesión
     df['home_possession%'] = df['home_possession%'].str.rstrip('%').astype('float')
     df['away_possession%'] = df['away_possession%'].str.rstrip('%').astype('float')
