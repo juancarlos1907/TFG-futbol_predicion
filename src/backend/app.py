@@ -106,7 +106,7 @@ def get_prediction(home_team, away_team):
         return jsonify({"message": "No se encontraron partidos para estos equipos."}), 404
 
     # Comprobar si hay suficientes enfrentamientos
-    if selected_statistics.shape[0] < 5:
+    if selected_statistics.shape[0] < 1:
         return jsonify({"message": "No tenemos suficientes datos para proporcionar un resultado fiable."}), 400
 
     # Convertir las estadísticas seleccionadas a un DataFrame
