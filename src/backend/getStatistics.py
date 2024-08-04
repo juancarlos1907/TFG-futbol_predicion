@@ -30,25 +30,22 @@ else:
 
 print(f"Fixtures procesados previamente: {len(processed_fixtures)}")
 
+# Filtrar solo los fixtures que aún no tienen estadísticas
+fixtures_to_process_df = fixtures_df[~fixtures_df['fixture_id'].astype(str).isin(processed_fixtures)]
 
 # Inicializar una lista para almacenar los datos de las estadísticas
 statistics_data = []
 
 # Inicializar el contador
 counter = 0
-limit = 1
+limit = 50
 
 # Procesar cada fixture en el archivo CSV
 for _, row in fixtures_df.iterrows():
     fixture_id = row['fixture_id']
 
-    # Verificar si el fixture_id ya ha sido procesado
-    if fixture_id in processed_fixtures:
-        print(f"Fixture {fixture_id} ya procesado, se omite.")
-        continue
-
     # Incrementar el contador y verificar el límite
-    if counter >= limit:
+    if counter > limit:
         print("Límite de solicitudes alcanzado.")
         break
 
@@ -61,13 +58,12 @@ for _, row in fixtures_df.iterrows():
     response = requests.get(url, headers=headers, params=querystring)
 
     try:
-        response = requests.get(url, headers=headers, params=querystring)
         response.raise_for_status()
     except requests.exceptions.HTTPError as err:
         print(f"Error: {err} para fixture {fixture_id}")
         continue
 
-        # Procesar la respuesta de la API
+    # Procesar la respuesta de la API
     response_dict = response.json()
     statistics = response_dict.get("response", [])
 

@@ -3,8 +3,10 @@ from flask_cors import CORS
 import requests
 import pandas as pd
 from datetime import datetime
+import os
 
 from Calculos import calculate_prediction
+from ResultManager import result_manager
 
 app = Flask(__name__)
 CORS(app, resources={r"/api/*": {"origins": "http://localhost:3000"}})
@@ -42,9 +44,6 @@ def get_teams():
     # Retorna los datos como JSON
     return jsonify(teams_list)
 
-    # response = requests.get(f"{API_FOOTBALL_URL}teams", headers=API_FOOTBALL_HEADERS)
-    # data = response.json()
-    # return jsonify(data)
 
 @app.route('/api/fixtures/<string:home_team>/<string:away_team>', methods=['GET'])
 def get_fixtures(home_team, away_team):
@@ -106,19 +105,41 @@ def get_prediction(home_team, away_team):
     if selected_statistics.empty:
         return jsonify({"message": "No se encontraron partidos para estos equipos."}), 404
 
-    # Convertir las estadísticas seleccionadas a una lista de diccionarios
-    statistics_list = selected_statistics.to_dict(orient='records')
+    # Comprobar si hay suficientes enfrentamientos
+    if selected_statistics.shape[0] < 1:
+        return jsonify({"message": "No tenemos suficientes datos para proporcionar un resultado fiable."}), 400
 
-    # Convertir la lista de diccionarios a un DataFrame
-    stats_df = pd.DataFrame(statistics_list)
+    # Convertir las estadísticas seleccionadas a un DataFrame
+    stats_df = pd.DataFrame(selected_statistics.to_dict(orient='records'))
 
     # Realizar los cálculos necesarios llamando a la función del script externo
     home_result, away_result = calculate_prediction(stats_df)
 
+    # Determinar el equipo ganador usando la clase
+    winner = result_manager.determine_winner(home_team, away_team, home_result, away_result)
+
+    # Guardar el resultado en el archivo CSV
+    result_manager.save_result_to_csv(home_team, away_team, home_result, away_result, winner)
+
     return jsonify({
-        "home_team_result": home_result,
-        "away_team_result": away_result
+        "home_team_result": home_team + " - " + str(home_result),
+        "away_team_result": away_team + " - " + str(away_result),
+        "winner": winner
     })
+
+@app.route('/api/fixture/statistics/recent', methods=['GET'])
+def get_recent_results():
+    # Obtener los últimos 10 resultados del archivo CSV
+    recent_results_df = result_manager.get_last_n_results(10)
+
+    # Si el DataFrame está vacío, retornar un mensaje
+    if recent_results_df.empty:
+        return jsonify({"message": "No hay resultados disponibles."}), 404
+
+    # Convertir el DataFrame a una lista de diccionarios para JSON
+    recent_results = recent_results_df.to_dict(orient='records')
+
+    return jsonify(recent_results)
 
 
 if __name__ == '__main__':

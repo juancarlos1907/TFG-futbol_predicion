@@ -1,4 +1,10 @@
 def calculate_prediction(df):
+    # Limitar los goles de casa y de visitante a un máximo de 5
+    df['home_goals'] = df['home_goals'].clip(upper=5)
+    df['away_goals'] = df['away_goals'].clip(upper=5)
+    df['home_goalkeeper_saves'] = df['home_goalkeeper_saves'].clip(upper=5)
+    df['away_goalkeeper_saves'] = df['away_goalkeeper_saves'].clip(upper=5)
+
     # Eliminamos el signo "%" de las columnas de posesión
     df['home_possession%'] = df['home_possession%'].str.rstrip('%').astype('float')
     df['away_possession%'] = df['away_possession%'].str.rstrip('%').astype('float')
@@ -20,6 +26,14 @@ def calculate_prediction(df):
     # Aplicar la fórmula para cada equipo
     home_result = 0.35 * column_means['home_goals'] - 0.35 * column_means['away_goals'] + 0.15 * column_means['home_possession%'] + 0.1 * column_means['home_passes%'] + 0.05 * column_means['home_goalkeeper_saves']
     away_result = 0.35 * column_means['away_goals'] - 0.35 * column_means['home_goals'] + 0.15 * column_means['away_possession%'] + 0.1 * column_means['away_passes%'] + 0.05 * column_means['away_goalkeeper_saves']
+
+    # Multiplicar los resultados por 100 para hacer la diferencia más apreciable
+    home_result *= 100
+    away_result *= 100
+
+    # Redondear los resultados a 5 decimales
+    home_result = round(home_result, 5)
+    away_result = round(away_result, 5)
 
     # Obtener los nombres de los equipos
     home_team = df.loc[0, 'home_team']
