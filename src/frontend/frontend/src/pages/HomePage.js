@@ -1,14 +1,17 @@
 import React, { useState, useEffect } from 'react';
 import { useTranslation } from 'react-i18next';
+import { useNavigate } from 'react-router-dom';
 import LanguageSwitcher from '../components/LenguageSwitcher';
 import Dropdown from '../components/Dropdown';
 import './HomePage.css';
 import genioLogo from '../images/imagen genio.png';
 
 const HomePage = () => {
-    const { t } = useTranslation(); // Hook para usar traducciones
+    const { t } = useTranslation();
+    const navigate = useNavigate(); // Hook para redirección
     const [teams, setTeams] = useState([]);
     const [selectedTeams, setSelectedTeams] = useState([]);
+    const [predictionResult, setPredictionResult] = useState(null);
 
     useEffect(() => {
         const fetchData = async () => {
@@ -31,6 +34,24 @@ const HomePage = () => {
 
     const handleRemove = (team) => {
         setSelectedTeams(selectedTeams.filter(t => t.name !== team.name));
+    };
+
+    const handlePredict = async () => {
+        if (selectedTeams.length === 2) {
+            const [homeTeam, awayTeam] = selectedTeams;
+            try {
+                const response = await fetch(`http://localhost:5000/api/fixture/statistics/${homeTeam.name}/${awayTeam.name}`);
+                const result = await response.json();
+                setPredictionResult(result);
+
+                // Guardar el resultado y redirigir a la página de predicción
+                navigate('/prediction', { state: { result } });
+            } catch (error) {
+                console.error('Error fetching prediction:', error);
+            }
+        } else {
+            alert(t('Please select two teams to predict.'));
+        }
     };
 
     const countries = Object.keys(t('countries', { returnObjects: true }));
@@ -65,7 +86,7 @@ const HomePage = () => {
                         </div>
                     ))}
                 </div>
-                <button className="predict-button">{t('predict')}</button>
+                <button className="predict-button" onClick={handlePredict}>{t('predict')}</button>
             </div>
         </>
     );

@@ -3,8 +3,8 @@ body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
-    background-color: #f0f2f5;
-    color: #333;
+    background-color: #002f2f; /* Un verde muy oscuro que simula el fondo de un campo de noche */
+    color: #fff; /* Color de texto blanco para contraste en un fondo oscuro */
     overflow-x: hidden;
 }
 
@@ -13,12 +13,12 @@ body {
     display: flex;
     align-items: center;
     justify-content: space-between; /* Espacio entre el contenedor central y el selector de idioma */
-    background-color: #bacabf2a;
+    background-color: rgba(0, 51, 0, 0.8); /* Verde oscuro translúcido para no perder el contexto del fondo */
     padding: 20px;
-    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
-    color: rgb(0, 0, 0);
-    position: relative;
-    z-index: 2; /* Asegura que esté encima del contenido */
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.5); /* Sombra más pronunciada para mayor contraste */
+    color: #fff; /* Texto blanco para que destaque */
+    position: relative; /* No fija la cabecera, la mantiene en el flujo del documento */
+    z-index: 1000; /* Asegura que esté encima del contenido */
 }
 
 /* Contenedor central del logo y título */
@@ -31,15 +31,16 @@ body {
 
 /* Logo del genio */
 .header img {
-    width: 60px; /* Tamaño del logo */
-    height: 60px;
+    width: 70px; /* Tamaño del logo */
+    height: 70px;
 }
 
 /* Título */
 .header h1 {
-    font-size: 2.5rem; /* Tamaño del texto */
+    font-size: 3rem; /* Tamaño del texto */
     margin: 0;
     text-transform: uppercase;
+    color: #e0e0e0; /* Gris claro para el título */
 }
 
 /* Contenedor del selector de idioma */
@@ -48,25 +49,29 @@ body {
     gap: 10px; /* Espacio entre las banderas */
 }
 
+/* Imagen del selector de idioma */
 .flag-icon {
-    width: 30px; /* Ajusta el tamaño de las banderas */
-    height: auto;
+    width: 20px; /* Tamaño ajustado a 20px */
+    height: 20px; /* Asegura que la altura también se ajuste */
     cursor: pointer;
-    border: 1px solid #ccc;
+    border: 1px solid #ffffff00; /* Borde blanco para destacar las banderas en el fondo oscuro */
     border-radius: 5px;
     transition: transform 0.2s; /* Efecto de transición al pasar el ratón */
 }
 
+/* Efecto al pasar el ratón */
 .flag-icon:hover {
     transform: scale(1.1); /* Aumenta el tamaño al pasar el ratón */
 }
 
+
 /* Contenedor Principal (sin la cabecera) */
 .homepage-content {
     padding: 40px;
+    padding-top: 80px; /* Ajusta este valor según la altura de la cabecera si es necesario */
     margin: 0 auto;
     text-align: center;
-    background: url('../images/imagen para fondo de homepage.jpg') no-repeat center center fixed;
+    background: url('../images/imagen campo 2.jpg') no-repeat center center fixed;
     background-size: cover;
     position: relative;
     z-index: 1;
@@ -75,18 +80,6 @@ body {
     flex-direction: column;
     align-items: center;
     justify-content: flex-start;
-}
-
-/* Fondo difuminado */
-.homepage-content::before {
-    content: "";
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
-    background-color: rgba(255, 255, 255, 0.5); /* Opacidad para difuminar */
-    z-index: -1;
 }
 
 /* Contenedor de Dropdowns */
@@ -116,12 +109,17 @@ body {
     padding: 10px 12px;
     width: 100%;
     max-width: 280px; /* Tamaño máximo del dropdown */
+    background-color: #004d00; /* Verde oscuro para el fondo del dropdown */
+    color: #fff; /* Texto blanco para contraste */
+    border: 1px solid #006400; /* Borde verde más oscuro */
+    border-radius: 5px;
 }
 
 /* Etiqueta del Dropdown */
 .dropdown label {
-    font-size: 1.5rem; /* Tamaño del texto en la etiqueta */
+    font-size: 2rem; /* Tamaño del texto en la etiqueta */
     margin-bottom: 10px;
+    color: #000000; /* Gris claro para las etiquetas */
 }
 
 /* Elementos Seleccionados */
@@ -139,16 +137,16 @@ body {
 /* Equipo Seleccionado */
 .selected-team {
     display: flex;
-    flex-direction: column; /* Cambia la dirección del contenido a columna */
+    flex-direction: row; /* Cambia la dirección del contenido a columna */
     align-items: center;
-    background-color: rgba(233, 236, 239, 0.85);
-    border: 1px solid #ddd;
+    background-color: rgba(0, 51, 0, 0.85); /* Verde oscuro translúcido para los elementos seleccionados */
+    border: 1px solid #004d00; /* Borde verde oscuro */
     border-radius: 8px;
     padding: 15px;
-    width: 350px; /* Ampliado el ancho del contenedor */
+    width: 500px; /* Ampliado el ancho del contenedor */
     max-width: 100%; /* Asegura que no se desborde del contenedor padre */
     box-sizing: border-box;
-    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.3); /* Sombra más sutil para un efecto de profundidad */
     gap: 10px; /* Espacio entre los elementos dentro del contenedor */
 }
 
@@ -164,12 +162,13 @@ body {
     font-size: 1.5rem; /* Tamaño del texto del nombre del equipo */
     margin-bottom: 10px; /* Espacio entre el nombre y el botón */
     text-align: center; /* Centra el texto en el contenedor */
+    color: #e0e0e0; /* Gris claro para el texto del nombre */
 }
 
 /* Botón de eliminar equipo */
 .remove-button {
-    background-color: #dc3545;
-    color: white;
+    background-color: #dc3545; /* Rojo intenso para el botón de eliminar */
+    color: #fff;
     border: none;
     border-radius: 4px;
     padding: 7px 12px;
@@ -186,13 +185,13 @@ body {
 
 /* Estilos para Botón de Predicción */
 .predict-button {
-    background-color: #4CAF50;
-    color: white;
+    background-color: #4CAF50; /* Verde brillante para el botón de predicción */
+    color: #fff;
     padding: 10px 20px;
     border: none;
     border-radius: 4px;
     cursor: pointer;
-    font-size: 1.2rem; /* Aumentado el tamaño del texto */
+    font-size: 1.2rem; /* Tamaño del texto */
     margin-top: 30px;
 }
 
