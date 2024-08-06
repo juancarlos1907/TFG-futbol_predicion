@@ -1,3 +1,5 @@
+from collections import OrderedDict
+
 from flask import Flask, jsonify, request
 from flask_cors import CORS
 import requests
@@ -5,7 +7,7 @@ import pandas as pd
 from datetime import datetime
 import os
 
-from Calculos import calculate_prediction
+from Calculos import calculate_team_result, calculate_team_statistics, calculate_prediction
 from ResultManager import result_manager
 
 app = Flask(__name__)
@@ -125,10 +127,11 @@ def get_prediction(home_team, away_team):
     except ValueError:
         return jsonify({"message": "Los pesos deben ser valores numéricos."}), 400
 
-    # Verificar los pesos
+    # Verificar los pesos y calcular la predicción
     try:
-        home_result, away_result = calculate_prediction(
+        home_result, away_result, column_means = calculate_prediction(
             stats_df,
+            home_team, away_team,
             home_goal_weight, away_goal_weight,
             possession_weight, passes_weight, saves_weight
         )
@@ -141,11 +144,14 @@ def get_prediction(home_team, away_team):
     # Guardar el resultado en el archivo CSV
     result_manager.save_result_to_csv(home_team, away_team, home_result, away_result, winner)
 
-    return jsonify({
-        "home_team_result": f"{home_team} - {home_result}",
-        "away_team_result": f"{away_team} - {away_result}",
-        "winner": winner
-    })
+    response = OrderedDict([
+        ("column_means", column_means),
+        ("home_team_result", f"{home_team} - {home_result}"),
+        ("away_team_result", f"{away_team} - {away_result}"),
+        ("winner", winner)
+    ])
+
+    return jsonify(response)
 
 @app.route('/api/fixture/statistics/recent', methods=['GET'])
 def get_recent_results():
@@ -156,11 +162,13 @@ def get_recent_results():
     if recent_results_df.empty:
         return jsonify({"message": "No hay resultados disponibles."}), 404
 
+    # Invertir el orden de los resultados
+    recent_results_df = recent_results_df.iloc[::-1]
+
     # Convertir el DataFrame a una lista de diccionarios para JSON
     recent_results = recent_results_df.to_dict(orient='records')
 
     return jsonify(recent_results)
-
 
 if __name__ == '__main__':
     app.run(debug=True)
