@@ -43,7 +43,6 @@ fixture_id,home_team,home_goals,home_logo,away_team,away_goals,away_logo,country
 203378,Espanyol,1,https://media.api-sports.io/football/teams/540.png,Valencia,0,https://media.api-sports.io/football/teams/532.png,Spain,La liga,140,2015.0
 203379,Granada CF,0,https://media.api-sports.io/football/teams/715.png,Real Sociedad,3,https://media.api-sports.io/football/teams/548.png,Spain,La liga,140,2015.0
 203380,Celta Vigo,4,https://media.api-sports.io/football/teams/538.png,Barcelona,1,https://media.api-sports.io/football/teams/529.png,Spain,La liga,140,2015.0
-203381,Levante,2,https://media.api-sports.io/football/teams/539.png,Eibar,2,https://media.api-sports.io/football/teams/545.png,Spain,La liga,140,2015.0
 203382,Rayo Vallecano,2,https://media.api-sports.io/football/teams/728.png,Sporting Gijon,1,https://media.api-sports.io/football/teams/731.png,Spain,La liga,140,2015.0
 203383,Athletic Club,1,https://media.api-sports.io/football/teams/531.png,Real Madrid,2,https://media.api-sports.io/football/teams/541.png,Spain,La liga,140,2015.0
 203384,Las Palmas,2,https://media.api-sports.io/football/teams/534.png,Sevilla,0,https://media.api-sports.io/football/teams/536.png,Spain,La liga,140,2015.0
@@ -768,7 +767,6 @@ fixture_id,home_team,home_goals,home_logo,away_team,away_goals,away_logo,country
 448035,Fleetwood Town,2,https://media.api-sports.io/football/teams/1336.png,Morecambe,0,https://media.api-sports.io/football/teams/1375.png,England,Copa de la liga (Carabao Cup o EFL Cup),46,2015.0
 448036,Oxford United,3,https://media.api-sports.io/football/teams/1338.png,Yeovil Town,2,https://media.api-sports.io/football/teams/1377.png,England,Copa de la liga (Carabao Cup o EFL Cup),46,2015.0
 448037,Southend,0,https://media.api-sports.io/football/teams/1341.png,Millwall,2,https://media.api-sports.io/football/teams/58.png,England,Copa de la liga (Carabao Cup o EFL Cup),46,2015.0
-448038,Gillingham,1,https://media.api-sports.io/football/teams/1347.png,Yeovil Town,1,https://media.api-sports.io/football/teams/1377.png,England,Copa de la liga (Carabao Cup o EFL Cup),46,2015.0
 448039,Wigan,4,https://media.api-sports.io/football/teams/61.png,Blackpool,0,https://media.api-sports.io/football/teams/1356.png,England,Copa de la liga (Carabao Cup o EFL Cup),46,2015.0
 448040,Barnsley,2,https://media.api-sports.io/football/teams/747.png,York,1,https://media.api-sports.io/football/teams/1828.png,England,Copa de la liga (Carabao Cup o EFL Cup),46,2015.0
 448041,Fleetwood Town,0,https://media.api-sports.io/football/teams/1336.png,Sheffield Utd,0,https://media.api-sports.io/football/teams/62.png,England,Copa de la liga (Carabao Cup o EFL Cup),46,2015.0
@@ -785,18 +783,14 @@ fixture_id,home_team,home_goals,home_logo,away_team,away_goals,away_logo,country
 448052,Gillingham,2,https://media.api-sports.io/football/teams/1347.png,Luton,1,https://media.api-sports.io/football/teams/1359.png,England,Copa de la liga (Carabao Cup o EFL Cup),46,2015.0
 448053,Millwall,2,https://media.api-sports.io/football/teams/58.png,Northampton,0,https://media.api-sports.io/football/teams/1337.png,England,Copa de la liga (Carabao Cup o EFL Cup),46,2015.0
 448054,Oxford United,2,https://media.api-sports.io/football/teams/1338.png,Swindon Town,0,https://media.api-sports.io/football/teams/1353.png,England,Copa de la liga (Carabao Cup o EFL Cup),46,2015.0
-448055,Plymouth,2,https://media.api-sports.io/football/teams/1357.png,Exeter City,0,https://media.api-sports.io/football/teams/1364.png,England,Copa de la liga (Carabao Cup o EFL Cup),46,2015.0
-448056,Port Vale,1,https://media.api-sports.io/football/teams/1351.png,Blackpool,2,https://media.api-sports.io/football/teams/1356.png,England,Copa de la liga (Carabao Cup o EFL Cup),46,2015.0
 448057,Sheffield Utd,5,https://media.api-sports.io/football/teams/62.png,Notts County,1,https://media.api-sports.io/football/teams/1376.png,England,Copa de la liga (Carabao Cup o EFL Cup),46,2015.0
 448058,Yeovil Town,0,https://media.api-sports.io/football/teams/1377.png,Coventry,0,https://media.api-sports.io/football/teams/1346.png,England,Copa de la liga (Carabao Cup o EFL Cup),46,2015.0
-448059,York,2,https://media.api-sports.io/football/teams/1828.png,Doncaster,0,https://media.api-sports.io/football/teams/1354.png,England,Copa de la liga (Carabao Cup o EFL Cup),46,2015.0
 448060,Stevenage,1,https://media.api-sports.io/football/teams/1368.png,Dagenham & Redbridge,2,https://media.api-sports.io/football/teams/1821.png,England,Copa de la liga (Carabao Cup o EFL Cup),46,2015.0
 448061,Bradford,1,https://media.api-sports.io/football/teams/1343.png,Barnsley,2,https://media.api-sports.io/football/teams/747.png,England,Copa de la liga (Carabao Cup o EFL Cup),46,2015.0
 448062,Hartlepool,1,https://media.api-sports.io/football/teams/1366.png,Sheffield Utd,1,https://media.api-sports.io/football/teams/62.png,England,Copa de la liga (Carabao Cup o EFL Cup),46,2015.0
 448063,Luton,2,https://media.api-sports.io/football/teams/1359.png,Leyton Orient,1,https://media.api-sports.io/football/teams/1373.png,England,Copa de la liga (Carabao Cup o EFL Cup),46,2015.0
 448064,Port Vale,1,https://media.api-sports.io/football/teams/1351.png,Carlisle,0,https://media.api-sports.io/football/teams/1371.png,England,Copa de la liga (Carabao Cup o EFL Cup),46,2015.0
 448065,Shrewsbury,2,https://media.api-sports.io/football/teams/1352.png,Oldham,0,https://media.api-sports.io/football/teams/1349.png,England,Copa de la liga (Carabao Cup o EFL Cup),46,2015.0
-448066,Accrington ST,1,https://media.api-sports.io/football/teams/1360.png,Bury,2,https://media.api-sports.io/football/teams/1344.png,England,Copa de la liga (Carabao Cup o EFL Cup),46,2015.0
 448067,Morecambe,2,https://media.api-sports.io/football/teams/1375.png,Walsall,0,https://media.api-sports.io/football/teams/1342.png,England,Copa de la liga (Carabao Cup o EFL Cup),46,2015.0
 448068,Doncaster,0,https://media.api-sports.io/football/teams/1354.png,Burton Albion,0,https://media.api-sports.io/football/teams/748.png,England,Copa de la liga (Carabao Cup o EFL Cup),46,2015.0
 448069,Notts County,3,https://media.api-sports.io/football/teams/1376.png,Mansfield Town,1,https://media.api-sports.io/football/teams/1374.png,England,Copa de la liga (Carabao Cup o EFL Cup),46,2015.0
@@ -804,7 +798,6 @@ fixture_id,home_team,home_goals,home_logo,away_team,away_goals,away_logo,country
 448071,Yeovil Town,1,https://media.api-sports.io/football/teams/1377.png,Barnet,0,https://media.api-sports.io/football/teams/1369.png,England,Copa de la liga (Carabao Cup o EFL Cup),46,2015.0
 448072,Newport County,1,https://media.api-sports.io/football/teams/1367.png,Swindon Town,1,https://media.api-sports.io/football/teams/1353.png,England,Copa de la liga (Carabao Cup o EFL Cup),46,2015.0
 448073,Exeter City,2,https://media.api-sports.io/football/teams/1364.png,Portsmouth,0,https://media.api-sports.io/football/teams/1355.png,England,Copa de la liga (Carabao Cup o EFL Cup),46,2015.0
-448074,AFC Wimbledon,2,https://media.api-sports.io/football/teams/1333.png,Plymouth,3,https://media.api-sports.io/football/teams/1357.png,England,Copa de la liga (Carabao Cup o EFL Cup),46,2015.0
 448075,Millwall,1,https://media.api-sports.io/football/teams/58.png,Peterborough,0,https://media.api-sports.io/football/teams/1350.png,England,Copa de la liga (Carabao Cup o EFL Cup),46,2015.0
 448076,Northampton,3,https://media.api-sports.io/football/teams/1337.png,Colchester,2,https://media.api-sports.io/football/teams/1361.png,England,Copa de la liga (Carabao Cup o EFL Cup),46,2015.0
 448077,Cambridge United,0,https://media.api-sports.io/football/teams/1370.png,Dagenham & Redbridge,2,https://media.api-sports.io/football/teams/1821.png,England,Copa de la liga (Carabao Cup o EFL Cup),46,2015.0

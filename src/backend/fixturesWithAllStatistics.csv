@@ -883,3 +883,65 @@ fixture_id,home_team,home_goals,home_possession%,home_goalkeeper_saves,home_pass
 203414,Getafe,4.0,41%,3.0,81%,Las Palmas,0.0,59%,3.0,87%
 203422,Levante,0.0,57%,2.0,72%,Real Sociedad,4.0,43%,3.0,67%
 203374,Villarreal,3.0,46%,1.0,70%,Athletic Club,1.0,54%,4.0,71%
+203378,Espanyol,1.0,48%,4.0,77%,Valencia,0.0,52%,4.0,79%
+203381,Levante,2.0,59%,2.0,76%,Eibar,2.0,41%,0.0,66%
+203385,Malaga,0.0,58%,3.0,77%,Villarreal,1.0,42%,4.0,66%
+203388,Barcelona,2.0,67%,5.0,88%,Las Palmas,1.0,33%,4.0,72%
+203389,Real Madrid,0.0,69%,3.0,92%,Malaga,0.0,31%,8.0,76%
+192505,Liverpool,3.0,59%,1.0,79%,Arsenal,3.0,41%,3.0,72%
+192659,Aston Villa,0.0,45%,3.0,78%,Newcastle,0.0,55%,0.0,83%
+192676,Manchester United,3.0,66%,0.0,90%,Bournemouth,1.0,34%,2.0,78%
+194572,SV Darmstadt 98,2.0,39%,5.0,52%,Hannover 96,2.0,61%,2.0,68%
+194575,VfB Stuttgart,1.0,56%,2.0,76%,1.FC Köln,3.0,44%,6.0,67%
+194587,FC Augsburg,0.0,63%,2.0,78%,FC Ingolstadt 04,1.0,37%,2.0,69%
+194594,Borussia Monchengladbach,0.0,56%,2.0,88%,Hamburger SV,3.0,44%,2.0,85%
+194596,Bayer Leverkusen,0.0,72%,2.0,79%,SV Darmstadt 98,1.0,28%,4.0,45%
+194602,FC Schalke 04,2.0,61%,3.0,80%,FSV Mainz 05,1.0,39%,6.0,70%
+194605,Hamburger SV,0.0,50%,3.0,74%,Eintracht Frankfurt,0.0,50%,1.0,72%
+194608,SV Darmstadt 98,0.0,20%,3.0,58%,Bayern Munich,3.0,80%,2.0,92%
+194611,FC Augsburg,2.0,45%,2.0,82%,Hannover 96,0.0,55%,6.0,82%
+194613,Hertha Berlin,2.0,52%,6.0,77%,1.FC Köln,0.0,48%,6.0,79%
+194615,SV Darmstadt 98,2.0,41%,2.0,57%,Werder Bremen,1.0,59%,1.0,66%
+194618,Borussia Monchengladbach,4.0,49%,2.0,83%,FC Augsburg,2.0,51%,8.0,81%
+194619,Hannover 96,1.0,57%,9.0,72%,VfB Stuttgart,3.0,43%,2.0,68%
+194623,VfB Stuttgart,1.0,50%,3.0,72%,Borussia Monchengladbach,3.0,50%,6.0,70%
+194624,FC Augsburg,1.0,66%,2.0,80%,1899 Hoffenheim,3.0,34%,8.0,64%
+194628,Eintracht Frankfurt,1.0,43%,5.0,75%,Hertha Berlin,1.0,57%,1.0,82%
+194629,Borussia Dortmund,2.0,76%,1.0,86%,SV Darmstadt 98,2.0,24%,2.0,57%
+194631,Borussia Monchengladbach,2.0,48%,4.0,82%,VfL Wolfsburg,0.0,52%,1.0,86%
+194667,Bayern Munich,4.0,74%,2.0,89%,VfB Stuttgart,0.0,26%,10.0,69%
+194632,Hannover 96,1.0,41%,6.0,66%,Werder Bremen,0.0,59%,4.0,73%
+194633,Hertha Berlin,3.0,43%,2.0,80%,Hamburger SV,0.0,57%,3.0,82%
+194635,FC Ingolstadt 04,2.0,39%,1.0,68%,Eintracht Frankfurt,0.0,61%,2.0,77%
+194640,FC Schalke 04,2.0,56%,4.0,85%,Hertha Berlin,1.0,44%,7.0,76%
+194643,FC Augsburg,0.0,71%,2.0,84%,SV Darmstadt 98,2.0,29%,3.0,51%
+194645,Eintracht Frankfurt,1.0,49%,1.0,76%,Borussia Monchengladbach,5.0,51%,1.0,79%
+194646,1.FC Köln,0.0,62%,3.0,80%,Hannover 96,1.0,38%,5.0,70%
+194647,VfB Stuttgart,1.0,46%,6.0,64%,FC Ingolstadt 04,0.0,54%,3.0,62%
+194650,Bayer Leverkusen,4.0,63%,3.0,73%,VfB Stuttgart,3.0,37%,2.0,55%
+194651,Hannover 96,1.0,43%,2.0,78%,Eintracht Frankfurt,2.0,57%,3.0,84%
+194652,FSV Mainz 05,1.0,60%,5.0,78%,Werder Bremen,3.0,40%,4.0,64%
+194655,Borussia Dortmund,5.0,59%,2.0,83%,FC Augsburg,1.0,41%,4.0,75%
+194656,Borussia Monchengladbach,3.0,60%,4.0,82%,FC Schalke 04,1.0,40%,6.0,78%
+194657,Eintracht Frankfurt,0.0,26%,3.0,59%,Bayern Munich,0.0,74%,2.0,88%
+194658,FC Schalke 04,1.0,63%,1.0,81%,FC Ingolstadt 04,1.0,37%,2.0,64%
+194661,1.FC Köln,0.0,54%,4.0,78%,1899 Hoffenheim,0.0,46%,4.0,76%
+194662,Hertha Berlin,1.0,41%,3.0,80%,Borussia Monchengladbach,4.0,59%,5.0,85%
+194664,VfB Stuttgart,2.0,59%,5.0,70%,SV Darmstadt 98,0.0,41%,2.0,54%
+194665,Hamburger SV,1.0,56%,0.0,77%,Hannover 96,2.0,44%,3.0,72%
+194668,Bayer Leverkusen,1.0,52%,6.0,77%,1.FC Köln,2.0,48%,3.0,69%
+194669,Borussia Monchengladbach,0,59%,2.0,73%,FC Ingolstadt 04,0,41%,4.0,65%
+194673,Borussia Dortmund,3,62%,1.0,84%,FC Schalke 04,2,38%,4.0,78%
+194675,Hamburger SV,3,31%,6.0,65%,Borussia Dortmund,1,69%,1.0,85%
+194676,Borussia Monchengladbach,2,62%,7.0,86%,Hannover 96,1,38%,7.0,78%
+194677,VfL Wolfsburg,6,64%,2.0,85%,Werder Bremen,0,36%,7.0,68%
+194679,1.FC Köln,0,48%,1.0,78%,FSV Mainz 05,0,52%,3.0,81%
+194683,FC Ingolstadt 04,3,56%,1.0,69%,SV Darmstadt 98,1,44%,4.0,55%
+194684,SV Darmstadt 98,0,35%,2.0,57%,1.FC Köln,0,65%,1.0,80%
+194685,Bayern Munich,2,69%,1.0,90%,Hertha Berlin,0,31%,6.0,77%
+194686,Werder Bremen,1,51%,3.0,68%,Hamburger SV,3,49%,2.0,71%
+194687,Hannover 96,4,45%,5.0,67%,FC Ingolstadt 04,0,55%,0.0,72%
+194688,1899 Hoffenheim,3,31%,5.0,67%,Borussia Monchengladbach,3,69%,3.0,84%
+194692,FC Augsburg,0,39%,3.0,77%,VfL Wolfsburg,0,61%,4.0,82%
+194694,Borussia Monchengladbach,3,40%,5.0,71%,Bayern Munich,1,60%,3.0,81%
+194695,Hamburger SV,1,59%,3.0,80%,FSV Mainz 05,3,41%,6.0,73%

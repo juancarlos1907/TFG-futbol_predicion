@@ -1,4 +1,4 @@
-from flask import Flask, jsonify
+from flask import Flask, jsonify, request
 from flask_cors import CORS
 import requests
 import pandas as pd
@@ -92,14 +92,17 @@ def get_statistics(fixture_ids):
 
     return selected_statistics.to_dict(orient='records')
 
+
 @app.route('/api/fixture/statistics/<string:home_team>/<string:away_team>', methods=['GET'])
 def get_prediction(home_team, away_team):
     # Cargar el archivo CSV de estadísticas en un DataFrame de pandas
     df_statistics = pd.read_csv('fixturesWithStatistics.csv')
 
     # Filtrar los partidos que involucren a los equipos proporcionados
-    selected_statistics = df_statistics[((df_statistics['home_team'] == home_team) & (df_statistics['away_team'] == away_team)) |
-                                        ((df_statistics['home_team'] == away_team) & (df_statistics['away_team'] == home_team))]
+    selected_statistics = df_statistics[
+        ((df_statistics['home_team'] == home_team) & (df_statistics['away_team'] == away_team)) |
+        ((df_statistics['home_team'] == away_team) & (df_statistics['away_team'] == home_team))
+    ]
 
     # Si no hay estadísticas, retornar un mensaje
     if selected_statistics.empty:
@@ -112,8 +115,25 @@ def get_prediction(home_team, away_team):
     # Convertir las estadísticas seleccionadas a un DataFrame
     stats_df = pd.DataFrame(selected_statistics.to_dict(orient='records'))
 
-    # Realizar los cálculos necesarios llamando a la función del script externo
-    home_result, away_result = calculate_prediction(stats_df)
+    # Obtener los parámetros de pesos de la solicitud GET
+    try:
+        home_goal_weight = float(request.args.get('home_goal_weight', 0.35))
+        away_goal_weight = float(request.args.get('away_goal_weight', 0.35))
+        possession_weight = float(request.args.get('possession_weight', 0.15))
+        passes_weight = float(request.args.get('passes_weight', 0.1))
+        saves_weight = float(request.args.get('saves_weight', 0.05))
+    except ValueError:
+        return jsonify({"message": "Los pesos deben ser valores numéricos."}), 400
+
+    # Verificar los pesos
+    try:
+        home_result, away_result = calculate_prediction(
+            stats_df,
+            home_goal_weight, away_goal_weight,
+            possession_weight, passes_weight, saves_weight
+        )
+    except ValueError as e:
+        return jsonify({"message": str(e)}), 400
 
     # Determinar el equipo ganador usando la clase
     winner = result_manager.determine_winner(home_team, away_team, home_result, away_result)
@@ -122,8 +142,8 @@ def get_prediction(home_team, away_team):
     result_manager.save_result_to_csv(home_team, away_team, home_result, away_result, winner)
 
     return jsonify({
-        "home_team_result": home_team + " - " + str(home_result),
-        "away_team_result": away_team + " - " + str(away_result),
+        "home_team_result": f"{home_team} - {home_result}",
+        "away_team_result": f"{away_team} - {away_result}",
         "winner": winner
     })
 
