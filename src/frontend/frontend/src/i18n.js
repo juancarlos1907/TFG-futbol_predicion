@@ -10,6 +10,21 @@ i18n
       en: {
         translation: {
           title: "The Football Oracle",
+          header: {
+            logoAlt: "Genio Logo"
+          },
+          predictionPage: {
+            noData: "No prediction data available.",
+            errorTwoTeams: "Error: Expected statistics for exactly two teams.",
+            resultTitle: "Prediction Result",
+            winner: "Winner",
+            labels: {
+              goalkeeperSaves: "Goalkeeper Saves",
+              goals: "Goals",
+              passes: "Passes %",
+              possession: "Possession %"
+            }
+          },
           countries: {
             Spain: "Spain",
             France: "France",
@@ -18,13 +33,28 @@ i18n
             Germany: "Germany",
           },
           predict: "Launch Prediction",
-          selectTeam : "Select a team",
+          selectTeam: "Select a team",
           buttonHP: "Remove"
         }
       },
       es: {
         translation: {
           title: "El Oráculo del Fútbol",
+          header: {
+            logoAlt: "Logo de Genio"
+          },
+          predictionPage: {
+            noData: "No hay datos de predicción disponibles.",
+            errorTwoTeams: "Error: Se esperaban estadísticas para exactamente dos equipos.",
+            resultTitle: "Resultado de la Predicción",
+            winner: "Ganador",
+            labels: {
+              goalkeeperSaves: "Paradas del Portero",
+              goals: "Goles",
+              passes: "Porcentaje de Pasos",
+              possession: "Porcentaje de Posesión"
+            }
+          },
           countries: {
             Spain: "España",
             France: "Francia",
@@ -33,9 +63,8 @@ i18n
             Germany: "Alemania",
           },
           predict: "Lanzar Predicción",
-          selectTeam : "Selecciona un equipo",
+          selectTeam: "Selecciona un equipo",
           buttonHP: "Eliminar"
-          
         }
       }
     },

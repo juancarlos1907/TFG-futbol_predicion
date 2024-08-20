@@ -1,0 +1,138 @@
+/* Cabecera */
+.header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between; /* Espacio entre el contenedor central y el selector de idioma */
+    background-color: rgba(0, 51, 0, 0.8); /* Verde oscuro translúcido */
+    padding: 20px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.5); /* Sombra pronunciada para contraste */
+    color: #fff; /* Texto blanco */
+    position: relative;
+    z-index: 1000; /* Encima del contenido */
+}
+
+/* Contenedor central del logo y título */
+.header-title-container {
+    display: flex;
+    align-items: center; /* Centra verticalmente el logo y el título */
+    gap: 20px; /* Espacio entre el logo y el título */
+    margin: 0 auto; /* Centra el contenedor dentro del encabezado */
+}
+
+/* Logo del genio */
+.header img {
+    width: 70px; /* Tamaño del logo */
+    height: 70px;
+}
+
+/* Título */
+.header h1 {
+    font-size: 3rem; /* Tamaño del texto */
+    margin: 0;
+    text-transform: uppercase;
+    color: #e0e0e0; /* Gris claro para el título */
+}
+
+/* Contenedor del selector de idioma */
+.language-switcher {
+    display: flex;
+    gap: 10px; /* Espacio entre las banderas */
+}
+
+/* Imagen del selector de idioma */
+.flag-icon {
+    width: 20px; /* Tamaño ajustado a 20px */
+    height: 20px; /* Asegura que la altura también se ajuste */
+    cursor: pointer;
+    border: 1px solid #ffffff00; /* Borde transparente */
+    border-radius: 5px;
+    transition: transform 0.2s; /* Efecto de transición al pasar el ratón */
+}
+
+/* Efecto al pasar el ratón */
+.flag-icon:hover {
+    transform: scale(1.1); /* Aumenta el tamaño al pasar el ratón */
+}
+
+/* Estilos Generales */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #002f2f; /* Fondo oscuro cuando la imagen de fondo no carga */
+    color: #fff; /* Color de texto blanco para contraste en un fondo oscuro */
+    overflow-x: hidden;
+}
+
+/* Contenedor Principal */
+.prediction-page {
+    position: relative;
+    z-index: 1;
+    min-height: 100vh; /* Asegura que ocupe toda la altura de la ventana */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    overflow: hidden;
+    padding: 40px;
+}
+
+/* Fondo Desenfocado */
+.background {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: url('../images/imagen campo 2.jpg') no-repeat center center fixed;
+    background-size: cover;
+    filter: blur(5px); /* Desenfoque aplicado solo al fondo */
+    z-index: -1;
+}
+
+/* Contenido */
+.content {
+    position: relative;
+    z-index: 2; /* Asegura que el contenido esté por encima del fondo */
+    background-color: rgba(0, 0, 0, 0.7); /* Fondo semitransparente para el contenido */
+    padding: 40px;
+    border-radius: 10px;
+    color: #fff; /* Texto blanco para contraste */
+    max-width: 90%; /* Aumenta el ancho máximo al 90% del ancho de la pantalla */
+    width: 100%;
+    max-width: 1200px; /* Limita el ancho máximo a 1200px para pantallas muy grandes */
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.5); /* Sombra para destacar el contenedor */
+    text-align: center;
+}
+
+/* Título */
+.content h2 {
+    font-size: 3rem; /* Tamaño del texto más grande */
+    margin-bottom: 20px;
+    color: #e0e0e0; /* Gris claro para el título */
+}
+
+/* Resultados */
+.content p {
+    font-size: 1.8rem; /* Tamaño del texto aumentado */
+    margin: 20px 0; /* Espacio vertical más grande entre párrafos */
+}
+
+.content strong {
+    color: #4CAF50; /* Color verde brillante para destacar los resultados */
+}
+
+/* Botón de volver o predecir */
+.predict-button {
+    background-color: #4CAF50; /* Verde brillante para el botón */
+    color: #fff;
+    padding: 15px 30px; /* Botón más grande */
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 1.5rem; /* Tamaño del texto en el botón aumentado */
+    margin-top: 30px;
+}
+
+.predict-button:hover {
+    background-color: #45a049;
+}
