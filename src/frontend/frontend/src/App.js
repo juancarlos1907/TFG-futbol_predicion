@@ -6,6 +6,7 @@ import HomePage from './pages/HomePage';
 import './App.css';
 import './i18n.js';
 import PredictionPage from './pages/PredictionPage.js';
+import CustomWeightsPage from './pages/CustomWeightsPage.js';
 
 const App = () => {
     return (
@@ -13,6 +14,7 @@ const App = () => {
             <Routes>
                 <Route path="/" element={<HomePage />} />
                 <Route path="/prediction" element={<PredictionPage />} />
+                <Route path="/custom-weights" element={<CustomWeightsPage />} />
             </Routes>
         </Router>
     );

@@ -65,7 +65,7 @@ body {
 }
 
 /* Contenedor Principal (sin la cabecera) */
-.homepage-content {
+.homepage-content, .custom-weights-content {
     padding: 40px;
     padding-top: 80px; /* Ajusta este valor según la altura de la cabecera si es necesario */
     margin: 0 auto;
@@ -196,4 +196,121 @@ body {
 
 .predict-button:hover {
     background-color: #45a049;
+}
+
+/* Estilos para los Mensajes de Error */
+.validation-error, .selection-error {
+    color: red;
+    font-weight: bold;
+    margin-top: 10px;
+    font-size: 1.2rem;
+}
+
+/* Contenedor para los campos de entrada de pesos */
+.weight-inputs {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px; /* Espacio entre los campos */
+    justify-content: center; /* Centra los campos en el contenedor */
+    margin: 20px 0; /* Margen superior e inferior */
+}
+
+/* Estilo para cada grupo de etiqueta y campo de entrada */
+.input-group {
+    display: flex;
+    flex-direction: column;
+    align-items: center; /* Centra los elementos horizontalmente */
+    flex: 1 1 200px; /* Cada grupo de entrada ocupa un ancho mínimo de 200px */
+    max-width: 300px; /* Ajusta el ancho máximo para cada campo */
+    min-width: 200px; /* Ancho mínimo para mantener la legibilidad */
+    background-color: #ffffff; /* Fondo blanco para cada grupo */
+    border: 1px solid #dee2e6; /* Borde gris claro */
+    border-radius: 8px; /* Bordes redondeados */
+    padding: 15px; /* Espacio interno alrededor del contenido */
+    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1); /* Sombra suave */
+    transition: box-shadow 0.3s ease; /* Transición para la sombra */
+}
+
+/* Estilo para las etiquetas */
+.input-group label {
+    font-size: 1rem; /* Tamaño de texto para la etiqueta */
+    margin-bottom: 10px; /* Espacio entre la etiqueta y el campo */
+    color: #333; /* Color del texto de la etiqueta */
+}
+
+/* Estilo para los campos de entrada */
+.input-group input {
+    font-size: 1rem; /* Tamaño del texto en los campos de entrada */
+    padding: 10px; /* Espacio interno en el campo */
+    border: 1px solid #ced4da; /* Borde gris claro */
+    border-radius: 4px; /* Bordes redondeados */
+    box-sizing: border-box; /* Asegura que el padding no afecte el ancho total */
+    width: 100%; /* Hace que el campo ocupe todo el ancho del contenedor */
+    max-width: 120px; /* Limita el ancho máximo del campo para entradas numéricas */
+    transition: border-color 0.3s ease, box-shadow 0.3s ease; /* Transiciones suaves */
+}
+
+/* Estilo cuando el campo de entrada está enfocado */
+.input-group input:focus {
+    border-color: #80bdff; /* Borde azul claro cuando el campo está enfocado */
+    box-shadow: 0 0 5px rgba(0, 123, 255, 0.5); /* Sombra azul suave para el enfoque */
+    outline: none; /* Elimina el contorno por defecto del navegador */
+}
+
+/* Estilos para mensajes de error */
+.validation-error, .selection-error {
+    color: #dc3545; /* Rojo para errores */
+    font-size: 1rem;
+    margin: 10px 0; /* Margen superior e inferior */
+}
+
+/* Estilo para el botón de predecir */
+.predict-button {
+    background-color: #28a745; /* Verde para el botón */
+    color: #ffffff;
+    padding: 15px 30px; /* Botón más grande */
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 1.25rem; /* Tamaño del texto en el botón */
+    margin-top: 20px; /* Espacio superior */
+    transition: background-color 0.3s ease; /* Transición para el color de fondo */
+}
+
+/* Efecto al pasar el ratón sobre el botón */
+.predict-button:hover {
+    background-color: #218838; /* Verde más oscuro al pasar el ratón */
+}
+
+/* Estilo para el contenedor del resultado de la predicción */
+.prediction-result {
+    margin-top: 20px;
+    padding: 20px;
+    background-color: #f8f9fa; /* Fondo claro para el resultado */
+    border: 1px solid #dee2e6; /* Borde gris claro */
+    border-radius: 8px; /* Bordes redondeados */
+    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1); /* Sombra suave */
+}
+
+/* Estilo para el título del resultado de la predicción */
+.prediction-result h2 {
+    margin: 0 0 10px; /* Margen inferior */
+    color: #343a40; /* Color oscuro para el título */
+}
+
+/* Estilo para el preformateado del resultado de la predicción */
+.prediction-result pre {
+    background-color: #ffffff; /* Fondo blanco para el texto preformateado */
+    padding: 10px; /* Espacio interno alrededor del texto */
+    border: 1px solid #ced4da; /* Borde gris claro */
+    border-radius: 4px; /* Bordes redondeados */
+    overflow-x: auto; /* Desplazamiento horizontal si el texto es demasiado largo */
+}
+
+/* Estilos para pantallas más pequeñas */
+@media (max-width: 768px) {
+    .weight-inputs {
+        flex-direction: column; /* Apila los campos verticalmente en pantallas más pequeñas */
+        gap: 15px; /* Reduce el espacio entre los campos */
+    }
 }
