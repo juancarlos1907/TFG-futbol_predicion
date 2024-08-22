@@ -39,7 +39,7 @@ statistics_data = []
 
 # Inicializar el contador
 counter = 0
-limit = 15
+limit = 10
 retry_count = 0
 max_retries = 5
 
@@ -118,8 +118,8 @@ for _, row in fixtures_to_process_df.iterrows():
         except requests.exceptions.HTTPError as err:
             if response.status_code == 429:
                 print(f"Error 429: Too Many Requests para fixture {fixture_id}. Esperando antes de reintentar...")
-                retry_count += 1
-                wait_time = 2 ** retry_count  # Tiempo de espera exponencial
+                retry_count += 3
+                wait_time = 3 ** retry_count  # Tiempo de espera exponencial
                 time.sleep(wait_time)
             else:
                 print(f"Error: {err} para fixture {fixture_id}")
