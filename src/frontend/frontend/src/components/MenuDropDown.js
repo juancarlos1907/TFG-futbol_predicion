@@ -2,6 +2,7 @@ import React, { useState } from 'react';
 import { Link } from 'react-router-dom';
 import { useTranslation } from 'react-i18next';
 import './MenuDropDown.css'; // Asegúrate de tener los estilos correspondientes
+import { TfiMenuAlt } from "react-icons/tfi";
 
 const MenuDropDown = () => {
     const [isOpen, setIsOpen] = useState(false);
@@ -14,7 +15,7 @@ const MenuDropDown = () => {
     return (
         <div className="nav-dropdown">
             <button className="nav-dropdown-button" onClick={toggleMenu}>
-                {t('|||')}
+                <TfiMenuAlt size={30} />
             </button>
             {isOpen && (
                 <div className="nav-dropdown-content">

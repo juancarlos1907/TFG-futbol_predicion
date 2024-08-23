@@ -9,7 +9,7 @@ i18n
     resources: {
       en: {
         translation: {
-          title: "The Football Oracle",
+          title: "The Football Genie",
           header: {
             logoAlt: "Genio Logo"
           },
@@ -39,7 +39,7 @@ i18n
       },
       es: {
         translation: {
-          title: "El Oráculo del Fútbol",
+          title: "El Genio del Fútbol",
           header: {
             logoAlt: "Logo de Genio"
           },

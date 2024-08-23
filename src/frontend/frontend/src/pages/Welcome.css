@@ -72,7 +72,6 @@ body {
 .welcome-content {
     padding: 40px;
     padding-top: 150px; /* Ajusta para el espacio necesario por la cabecera fija */
-    padding-bottom: 0;
     margin: 0 auto;
     text-align: center;
     background: url('../images/fondo de web.jpg') no-repeat center center fixed;
@@ -82,45 +81,112 @@ body {
     display: flex;
     flex-direction: column;
     align-items: center;
-    justify-content: flex-start;
     min-height: calc(100vh - 60px); /* Ajusta para el footer si es necesario */
     flex-grow: 1;
     height: 100vh;
-    
 }
 
 /* Titulares del Contenido */
-.welcome-content h1 {
+.welcome-title {
     font-size: 1.5rem;
-    margin-bottom: 40px;
+    margin-bottom: 40px; /* Aumenta el margen inferior para separar del contenido */
+    position: relative;
+    z-index: 2; /* Asegúrate de que esté por encima de la feature-box */
 }
 
 /* Contenedor de Características */
 .features {
     display: flex;
-    flex-direction: row;
+    flex-direction: column; /* Muestra una característica a la vez */
+    align-items: center;
     justify-content: center;
-    flex-wrap: wrap;
     gap: 20px;
     max-width: 800px;
     margin: 0 auto;
-    overflow: hidden; /* Oculta las características fuera del contenedor */
+    position: relative;
+    z-index: 1;
 }
 
 /* Caja de Características */
 .feature-box {
-    flex: 1 1 calc(33.333% - 20px);
+    display: flex;
+    align-items: center; /* Centra verticalmente el contenido */
     padding: 20px;
     border: 1px solid #ddd;
     border-radius: 8px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
     background-color: #fff;
-    min-width: 250px;
+    min-width: 100px;
     box-sizing: border-box;
-    opacity: 0; /* Oculta inicialmente */
-    animation: fadeIn 1s ease-in-out forwards; /* Aplica la animación */
-    animation-delay: 0s; /* Inicialmente sin retraso */
+    opacity: 0; /* Inicialmente oculta */
+    transition: opacity 0.5s ease-in-out, transform 0.5s ease-in-out;
+    position: relative;
+    z-index: 1;
 }
+
+/* Imagen dentro de la feature-box */
+.feature-image {
+    width: 400px; /* Ajusta el tamaño según sea necesario */
+    height: auto; /* Mantén la proporción de la imagen */
+    margin-right: 50px; /* Espacio entre la imagen y el contenido */
+}
+
+/* Contenido dentro de la feature-box */
+.feature-content {
+    display: flex;
+    flex-direction: column;
+    gap: 10px; /* Espacio entre los elementos del contenido */
+    flex-grow: 1; /* Permite que el contenido se expanda */
+}
+
+/* Contenedor para icono y título */
+.feature-header {
+    display: flex;
+    align-items: center;
+    gap: 10px; /* Espacio entre el icono y el título */
+}
+
+
+/* Transición de desvanecimiento */
+.fade-in {
+    opacity: 1;
+    transform: translateY(0);
+}
+
+.fade-out {
+    opacity: 0;
+    transform: translateY(20px);
+}
+
+/* Contenedor de botones */
+.button-container {
+    display: flex;
+    justify-content: center; /* Centra los botones horizontalmente */
+    gap: 20px; /* Espacio entre los botones */
+    margin-top: 40px; /* Espacio superior para separar de las características */
+}
+
+/* Estilo de los botones */
+.button {
+    display: inline-block;
+    padding: 10px 20px;
+    font-size: 1rem;
+    color: #fff;
+    background-color: #4CAF50; /* Azul Marino para el fondo */
+    border: none;
+    border-radius: 5px;
+    text-decoration: none;
+    text-align: center;
+    transition: background-color 0.3s ease, transform 0.3s ease;
+}
+
+.button:hover {
+    background-color: #45a049; /* Cambia el color de fondo al pasar el ratón */
+    transform: scale(1.05); /* Efecto de aumento al pasar el ratón */
+}
+
+
+
 
 @media (max-width: 768px) {
     .features {
