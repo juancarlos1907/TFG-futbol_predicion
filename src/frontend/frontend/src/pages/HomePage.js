@@ -6,6 +6,7 @@ import Dropdown from '../components/Dropdown';
 import './HomePage.css';
 import genioLogo from '../images/imagen genio.png';
 import NavDropdownMenu from '../components/MenuDropDown';
+import Footer from '../components/Footer';
 
 const HomePage = () => {
     const { t } = useTranslation();
@@ -46,7 +47,7 @@ const HomePage = () => {
                 setPredictionResult(result);
 
                 // Guardar el resultado y redirigir a la página de predicción
-                navigate('/prediction', { state: { result } });
+                navigate('/results', { state: { result } });
             } catch (error) {
                 console.error('Error fetching prediction:', error);
             }
@@ -90,6 +91,7 @@ const HomePage = () => {
                 </div>
                 <button className="predict-button" onClick={handlePredict}>{t('predict')}</button>
             </div>
+            <Footer />
         </>
     );
 };

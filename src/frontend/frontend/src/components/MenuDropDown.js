@@ -18,8 +18,8 @@ const MenuDropDown = () => {
             </button>
             {isOpen && (
                 <div className="nav-dropdown-content">
-                    <Link to="/" className="nav-dropdown-item">{t('Predicción base')}</Link>
-                    <Link to="/custom-weights" className="nav-dropdown-item">{t('Prediccion con pesos personalizados')}</Link>
+                    <Link to="/prediction" className="nav-dropdown-item">{t('Predicción base')}</Link>
+                    <Link to="/custom-prediction" className="nav-dropdown-item">{t('Prediccion con pesos personalizados')}</Link>
                 </div>
             )}
         </div>

@@ -10,16 +10,21 @@ body {
 
 /* Cabecera */
 .header {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    z-index: 1000;
     display: flex;
     align-items: center;
-    justify-content: space-between; /* Espacio entre el contenedor central y el selector de idioma */
-    background-color: rgba(173, 216, 230, 0.8); /* Azul Claro translúcido para la cabecera */
+    justify-content: space-between;
+    background-color: #9bcccd !important; /* Fondo sólido con !important */
     padding: 20px;
-    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.3); /* Sombra sutil para mayor contraste */
-    color: #003366; /* Azul Marino para el texto */
-    position: relative; /* No fija la cabecera, la mantiene en el flujo del documento */
-    z-index: 1000; /* Asegura que esté encima del contenido */
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.3);
+    color: #003366;
 }
+
+
 
 /* Contenedor central del logo y título */
 .header-title-container {
@@ -67,19 +72,22 @@ body {
 /* Contenedor Principal (sin la cabecera) */
 .homepage-content {
     padding: 40px;
-    padding-top: 80px; /* Ajusta este valor según la altura de la cabecera si es necesario */
+    padding-top: 200px;
+    padding-bottom: 0px;
     margin: 0 auto;
     text-align: center;
     background: url('../images/fondo de web.jpg') no-repeat center center fixed;
     background-size: cover;
     position: relative;
     z-index: 1;
-    min-height: 100vh; /* Asegura que ocupe toda la altura de la ventana */
     display: flex;
     flex-direction: column;
     align-items: center;
     justify-content: flex-start;
+    min-height: calc(100vh - 60px); /* Resta la altura del footer */
+    flex-grow: 1;
 }
+
 
 /* Contenedor de Dropdowns */
 .dropdown-container {
