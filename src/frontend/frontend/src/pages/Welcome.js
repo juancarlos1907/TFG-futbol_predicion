@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import NavDropdownMenu from '../components/MenuDropDown';
 import LanguageSwitcher from '../components/LenguageSwitcher';
-import genioLogo from '../images/imagen genio.png'; // Asegúrate de poner la ruta correcta de tu logo
+import genioLogo from '../images/imagen genio.png';
 import Footer from '../components/Footer';
 import './Welcome.css';
 import { useTranslation } from 'react-i18next';
@@ -17,21 +17,20 @@ const features = [
     {
         icon: <BsClipboard2DataFill size={30} />,
         image: feature1,
-        title: 'Datos fiables y actualizados',
-        description: 'Gracias a la base de datos API-FOOTBALL, podemos ofrecer nuestras predicciones con los ultimos datos y estadisticas de los equipos mas famosos y actualizados al dia siguiente de celebrarse los partidos.'
-        
+        titleKey: 'features.dataReliable.title',
+        descriptionKey: 'features.dataReliable.description'
     },
     {
         icon: <IoFootball size={30} />,
         image: feature2,
-        title: 'Equipos y ligas Internacionales',
-        description: 'Nuestra aplicacion cuenta con mas de 100 equipos de hasta 5 paises de la Union Europea como España, Francia, Italia, Alemania y Reino Unido,asi como ligas europeas o nacionales como La Supercopa, Champions, EuropaLeague, entre muchas.'
+        titleKey: 'features.teamsLeagues.title',
+        descriptionKey: 'features.teamsLeagues.description'
     },
     {
         icon: <RiNewspaperLine size={30} />,
         image: feature3,
-        title: 'Predicciones en tiempo real',
-        description: 'Gracias a nuestro equipo de analisis de datos, estadistico y matematico, hemos creado un sistema con el que predecir los resultados de los partidos de tu equipo favorito en base a estadisticas determinantes con las cuales obtener un resultado aproximado.'
+        titleKey: 'features.realTimePredictions.title',
+        descriptionKey: 'features.realTimePredictions.description'
     }
 ];
 
@@ -57,29 +56,29 @@ function Welcome() {
             <header className="header">
                 <NavDropdownMenu />
                 <div className="header-title-container">
-                    <img src={genioLogo} alt="Genio Logo" />
+                    <img src={genioLogo} alt={t('header.logoAlt')} />
                     <h1>{t('title')}</h1>
                 </div>
                 <LanguageSwitcher className="language-switcher" />
             </header>
             <div className="welcome-content">
-                <h1 className="welcome-title">¡Tu página perfecta para saber si la apuesta con tu amigo para el partido de esta noche la ganas!</h1>
+                <h1 className="welcome-title">{t('welcomeTitle')}</h1>
                 <div className="features">
                     <div className={`feature-box ${fade ? 'fade-in' : 'fade-out'}`}>
-                        <img src={features[currentFeatureIndex].image} alt={features[currentFeatureIndex].title} className="feature-image" />
+                        <img src={features[currentFeatureIndex].image} alt={t(features[currentFeatureIndex].titleKey)} className="feature-image" />
                         <div className="feature-content">
                             <div className="feature-header">
                                 {features[currentFeatureIndex].icon}
-                                <h3>{features[currentFeatureIndex].title}</h3>
+                                <h3>{t(features[currentFeatureIndex].titleKey)}</h3>
                             </div>
-                            <p>{features[currentFeatureIndex].description}</p>
+                            <p>{t(features[currentFeatureIndex].descriptionKey)}</p>
                         </div>
                     </div>
                 </div>
-                <h2 className="welcome-startpredict">Empieza a usar nuestra aplicación y predice todos los partidos que quieras, !ya sea con nuestra formula optimizada o con tus propios gustos¡</h2>
+                <h2 className="welcome-startpredict">{t('welcomeStartPredict')}</h2>
                 <div className="button-container">
-                    <Link to="/prediction" className="button">Prediccion de Partidos</Link>
-                    <Link to="/custom-prediction" className="button">Predicción Personalizada</Link>
+                    <Link to="/prediction" className="button">{t('predict')}</Link>
+                    <Link to="/custom-prediction" className="button">{t('predictCustom')}</Link>
                 </div>
             </div>
             <Footer />
@@ -88,4 +87,3 @@ function Welcome() {
 }
 
 export default Welcome;
-
