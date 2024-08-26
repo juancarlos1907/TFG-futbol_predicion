@@ -51,7 +51,11 @@ i18n
             Germany: "Germany",
           },
           selectTeam: "Select a team",
-          buttonHP: "Remove"
+          buttonHP: "Remove",
+          home: "Home",
+          primerPredicc: "Prediction",
+          segundoPredicc:"Custom Prediction",
+          aboutUs:"About Us"
         }
       },
       es: {
@@ -98,7 +102,11 @@ i18n
             Germany: "Alemania",
           },
           selectTeam: "Selecciona un equipo",
-          buttonHP: "Eliminar"
+          buttonHP: "Eliminar",
+          home: "Inicio",
+          primerPredicc: "Predicción base",
+          segundoPredicc:"Prediccion personalizada",
+          aboutUs: "Sobre nuestra aplicación"
         }
       }
     },

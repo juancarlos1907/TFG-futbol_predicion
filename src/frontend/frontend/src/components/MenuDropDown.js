@@ -19,8 +19,10 @@ const MenuDropDown = () => {
             </button>
             {isOpen && (
                 <div className="nav-dropdown-content">
-                    <Link to="/prediction" className="nav-dropdown-item">{t('Predicción base')}</Link>
-                    <Link to="/custom-prediction" className="nav-dropdown-item">{t('Prediccion con pesos personalizados')}</Link>
+                    <Link to="/" className="nav-dropdown-item">{t('home')}</Link>
+                    <Link to="/prediction" className="nav-dropdown-item">{t('primerPredicc')}</Link>
+                    <Link to="/custom-prediction" className="nav-dropdown-item">{t('segundoPredicc')}</Link>
+                    <Link to="/aboutUs" className="nav-dropdown-item">{t('aboutUs')}</Link>
                 </div>
             )}
         </div>

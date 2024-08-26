@@ -10,7 +10,7 @@ import { IoFootball } from "react-icons/io5";
 import { RiNewspaperLine } from "react-icons/ri";
 import feature1 from '../images/feature1.jpg';
 import feature2 from '../images/feature2.jpg';
-import feature3 from '../images/feature3.jpg';
+import feature3 from '../images/feature3.png';
 import { Link } from 'react-router-dom';
 
 const features = [
