@@ -6,6 +6,7 @@ import './CustomWeightsPage.css';
 import genioLogo from '../images/imagen genio.png';
 import NavDropdownMenu from '../components/MenuDropDown';
 import LanguageSwitcher from '../components/LenguageSwitcher';
+import Footer from '../components/Footer';
 
 const CustomWeightsPage = () => {
     const { t } = useTranslation();
@@ -196,6 +197,7 @@ const CustomWeightsPage = () => {
                     </div>
                 )}
             </div>
+            <Footer />
         </>
     );
 };

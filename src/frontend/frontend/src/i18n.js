@@ -9,9 +9,27 @@ i18n
     resources: {
       en: {
         translation: {
-          title: "The Football Oracle",
+          title: "The Football Genie",
           header: {
-            logoAlt: "Genio Logo"
+            logoAlt: "Genie Logo"
+          },
+          welcomeTitle: "Your perfect page to find out if you win the bet with your friend for tonight's match!",
+          welcomeStartPredict: "Start using our app and predict all the matches you want, whether with our optimized formula or your own preferences!",
+          predict: "Match Prediction",
+          predictCustom: "Custom Prediction",
+          features: {
+            dataReliable: {
+              title: "Reliable and Updated Data",
+              description: "Thanks to the API-FOOTBALL database, we can offer our predictions with the latest data and statistics from the most famous teams, updated the day after the matches."
+            },
+            teamsLeagues: {
+              title: "International Teams and Leagues",
+              description: "Our app includes more than 100 teams from up to 5 European Union countries like Spain, France, Italy, Germany, and the United Kingdom, as well as European or national leagues such as the Super Cup, Champions, Europa League, among many others."
+            },
+            realTimePredictions: {
+              title: "Real-Time Predictions",
+              description: "Thanks to our team of data analysts, statisticians, and mathematicians, we have created a system to predict the results of your favorite team's matches based on crucial statistics to provide an approximate result."
+            }
           },
           predictionPage: {
             noData: "No prediction data available.",
@@ -32,16 +50,33 @@ i18n
             England: "England",
             Germany: "Germany",
           },
-          predict: "Launch Prediction",
           selectTeam: "Select a team",
           buttonHP: "Remove"
         }
       },
       es: {
         translation: {
-          title: "El Oráculo del Fútbol",
+          title: "El Genio del Fútbol",
           header: {
             logoAlt: "Logo de Genio"
+          },
+          welcomeTitle: "¡Tu página perfecta para saber si la apuesta con tu amigo para el partido de esta noche la ganas!",
+          welcomeStartPredict: "Empieza a usar nuestra aplicación y predice todos los partidos que quieras, ¡ya sea con nuestra fórmula optimizada o con tus propios gustos!",
+          predict: "Predicción de Partidos",
+          predictCustom: "Predicción Personalizada",
+          features: {
+            dataReliable: {
+              title: "Datos fiables y actualizados",
+              description: "Gracias a la base de datos API-FOOTBALL, podemos ofrecer nuestras predicciones con los últimos datos y estadísticas de los equipos más famosos, actualizados al día siguiente de celebrarse los partidos."
+            },
+            teamsLeagues: {
+              title: "Equipos y ligas Internacionales",
+              description: "Nuestra aplicación cuenta con más de 100 equipos de hasta 5 países de la Unión Europea como España, Francia, Italia, Alemania y Reino Unido, así como ligas europeas o nacionales como la Supercopa, Champions, Europa League, entre muchas."
+            },
+            realTimePredictions: {
+              title: "Predicciones en tiempo real",
+              description: "Gracias a nuestro equipo de análisis de datos, estadístico y matemático, hemos creado un sistema con el que predecir los resultados de los partidos de tu equipo favorito en base a estadísticas determinantes con las cuales obtener un resultado aproximado."
+            }
           },
           predictionPage: {
             noData: "No hay datos de predicción disponibles.",
@@ -62,7 +97,6 @@ i18n
             England: "Inglaterra",
             Germany: "Alemania",
           },
-          predict: "Lanzar Predicción",
           selectTeam: "Selecciona un equipo",
           buttonHP: "Eliminar"
         }
