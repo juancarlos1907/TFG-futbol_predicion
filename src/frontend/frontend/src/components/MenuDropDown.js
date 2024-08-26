@@ -15,7 +15,7 @@ const MenuDropDown = () => {
     return (
         <div className="nav-dropdown">
             <button className="nav-dropdown-button" onClick={toggleMenu}>
-                <TfiMenuAlt size={30} />
+                <TfiMenuAlt size={20} />
             </button>
             {isOpen && (
                 <div className="nav-dropdown-content">

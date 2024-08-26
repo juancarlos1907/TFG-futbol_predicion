@@ -7,7 +7,7 @@
     padding: 20px;
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.3); /* Sombra más sutil para mayor contraste */
     color: #003366; /* Azul Marino para el texto */
-    position: relative;
+    position: sticky;
     z-index: 1000; /* Encima del contenido */
 }
 
@@ -74,6 +74,7 @@ body {
     align-items: center;
     overflow: hidden;
     padding: 40px;
+    padding-top: 120px;
 }
 
 /* Fondo Desenfocado */
@@ -93,15 +94,16 @@ body {
 .content {
     position: relative;
     z-index: 2; /* Asegura que el contenido esté por encima del fondo */
-    background-color: rgba(0, 0, 0, 0.7); /* Fondo semitransparente para el contenido */
+    background-color: rgba(209, 239, 227, 0.842); /* Fondo semitransparente para el contenido */
     padding: 40px;
     border-radius: 10px;
-    color: #fff; /* Texto blanco para contraste */
+    color: #000000; /* Texto blanco para contraste */
     max-width: 90%; /* Aumenta el ancho máximo al 90% del ancho de la pantalla */
     width: 100%;
     max-width: 1200px; /* Limita el ancho máximo a 1200px para pantallas muy grandes */
     box-shadow: 0 2px 10px rgba(0, 0, 0, 0.3); /* Sombra más sutil para destacar el contenedor */
     text-align: center;
+    margin-top: 20px;
 }
 
 /* Título */
@@ -135,4 +137,24 @@ body {
 
 .predict-button:hover {
     background-color: #45a049;
+}
+
+.team-results {
+    display: flex;
+    justify-content: center; /* Centra los resultados horizontalmente */
+    gap: 50px; /* Espacio entre los resultados de los dos equipos */
+    margin-top: 20px; /* Espacio superior para separar del contenido anterior */
+    font-size: 2rem; /* Tamaño del texto */
+}
+
+.team-result {
+    display: flex;
+    align-items: center; /* Alinea el contenido verticalmente */
+    justify-content: center; /* Alinea el contenido horizontalmente */
+    gap: 10px; /* Espacio entre el nombre del equipo y su resultado */
+}
+
+.team-result p {
+    margin: 0; /* Elimina el margen para que el texto quede más compacto */
+    color: #114c83; /* Cambia el color del texto para que sea visible sobre el fondo */
 }
