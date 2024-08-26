@@ -82,7 +82,7 @@ const CustomWeightsPage = () => {
             setPredictionResult(result);
 
             // Guardar el resultado y redirigir a la página de predicción
-            navigate('/prediction', { state: { result } });
+            navigate('/results', { state: { result } });
         } catch (error) {
             console.error('Error fetching prediction:', error);
         }
