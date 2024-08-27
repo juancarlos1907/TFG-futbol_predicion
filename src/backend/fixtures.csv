@@ -1115,29 +1115,6 @@ fixture_id,home_team,home_goals,home_logo,away_team,away_goals,away_logo,country
 559750,Bayern Munich,2,https://media.api-sports.io/football/teams/157.png,Werder Bremen,0,https://media.api-sports.io/football/teams/162.png,Germany,Copa de Alemania (DFB Pokal),81,2015.0
 559751,Hertha Berlin,0,https://media.api-sports.io/football/teams/159.png,Borussia Dortmund,3,https://media.api-sports.io/football/teams/165.png,Germany,Copa de Alemania (DFB Pokal),81,2015.0
 559752,Bayern Munich,0,https://media.api-sports.io/football/teams/157.png,Borussia Dortmund,0,https://media.api-sports.io/football/teams/165.png,Germany,Copa de Alemania (DFB Pokal),81,2015.0
-559753,SpVgg Unterhaching,1,https://media.api-sports.io/football/teams/1314.png,Bayer Leverkusen,3,https://media.api-sports.io/football/teams/168.png,Germany,Copa de Alemania (DFB Pokal),81,2015.0
-559754,Borussia Monchengladbach,3,https://media.api-sports.io/football/teams/163.png,Werder Bremen,4,https://media.api-sports.io/football/teams/162.png,Germany,Copa de Alemania (DFB Pokal),81,2015.0
-559755,Erzgebirge AUE,0,https://media.api-sports.io/football/teams/190.png,FC Heidenheim,2,https://media.api-sports.io/football/teams/180.png,Germany,Copa de Alemania (DFB Pokal),81,2015.0
-559756,Bayern Munich,1,https://media.api-sports.io/football/teams/157.png,SV Darmstadt 98,0,https://media.api-sports.io/football/teams/181.png,Germany,Copa de Alemania (DFB Pokal),81,2015.0
-559757,FC Nurnberg,0,https://media.api-sports.io/football/teams/171.png,Hertha Berlin,2,https://media.api-sports.io/football/teams/159.png,Germany,Copa de Alemania (DFB Pokal),81,2015.0
-559758,VfB Stuttgart,3,https://media.api-sports.io/football/teams/172.png,Eintracht Braunschweig,2,https://media.api-sports.io/football/teams/744.png,Germany,Copa de Alemania (DFB Pokal),81,2015.0
-559759,FC Augsburg,0,https://media.api-sports.io/football/teams/170.png,Borussia Dortmund,2,https://media.api-sports.io/football/teams/165.png,Germany,Copa de Alemania (DFB Pokal),81,2015.0
-559760,TSV 1860 Munich,0,https://media.api-sports.io/football/teams/786.png,Vfl Bochum,2,https://media.api-sports.io/football/teams/176.png,Germany,Copa de Alemania (DFB Pokal),81,2015.0
-559761,Erzgebirge AUE,1,https://media.api-sports.io/football/teams/190.png,Eintracht Frankfurt,0,https://media.api-sports.io/football/teams/169.png,Germany,Copa de Alemania (DFB Pokal),81,2015.0
-559762,FSV Frankfurt,1,https://media.api-sports.io/football/teams/1332.png,Hertha Berlin,2,https://media.api-sports.io/football/teams/159.png,Germany,Copa de Alemania (DFB Pokal),81,2015.0
-559763,FSV Mainz 05,1,https://media.api-sports.io/football/teams/164.png,TSV 1860 Munich,2,https://media.api-sports.io/football/teams/786.png,Germany,Copa de Alemania (DFB Pokal),81,2015.0
-559764,FC Nurnberg,5,https://media.api-sports.io/football/teams/171.png,Fortuna Dusseldorf,1,https://media.api-sports.io/football/teams/158.png,Germany,Copa de Alemania (DFB Pokal),81,2015.0
-559765,SpVgg Unterhaching,3,https://media.api-sports.io/football/teams/1314.png,RB Leipzig,0,https://media.api-sports.io/football/teams/173.png,Germany,Copa de Alemania (DFB Pokal),81,2015.0
-559766,SV Darmstadt 98,2,https://media.api-sports.io/football/teams/181.png,Hannover 96,1,https://media.api-sports.io/football/teams/166.png,Germany,Copa de Alemania (DFB Pokal),81,2015.0
-559767,Vfl Bochum,1,https://media.api-sports.io/football/teams/176.png,FC Kaiserslautern,0,https://media.api-sports.io/football/teams/745.png,Germany,Copa de Alemania (DFB Pokal),81,2015.0
-559768,VfL Wolfsburg,1,https://media.api-sports.io/football/teams/161.png,Bayern Munich,3,https://media.api-sports.io/football/teams/157.png,Germany,Copa de Alemania (DFB Pokal),81,2015.0
-559769,FC Viktoria Koln,0,https://media.api-sports.io/football/teams/1620.png,Bayer Leverkusen,6,https://media.api-sports.io/football/teams/168.png,Germany,Copa de Alemania (DFB Pokal),81,2015.0
-559770,SV Sandhausen,0,https://media.api-sports.io/football/teams/189.png,FC Heidenheim,0,https://media.api-sports.io/football/teams/180.png,Germany,Copa de Alemania (DFB Pokal),81,2015.0
-559771,Borussia Dortmund,7,https://media.api-sports.io/football/teams/165.png,SC Paderborn 07,1,https://media.api-sports.io/football/teams/185.png,Germany,Copa de Alemania (DFB Pokal),81,2015.0
-559772,SC Freiburg,0,https://media.api-sports.io/football/teams/160.png,FC Augsburg,3,https://media.api-sports.io/football/teams/170.png,Germany,Copa de Alemania (DFB Pokal),81,2015.0
-559773,Carl Zeiss Jena,0,https://media.api-sports.io/football/teams/1325.png,VfB Stuttgart,2,https://media.api-sports.io/football/teams/172.png,Germany,Copa de Alemania (DFB Pokal),81,2015.0
-559774,FC Schalke 04,0,https://media.api-sports.io/football/teams/174.png,Borussia Monchengladbach,2,https://media.api-sports.io/football/teams/163.png,Germany,Copa de Alemania (DFB Pokal),81,2015.0
-559775,Werder Bremen,1,https://media.api-sports.io/football/teams/162.png,1.FC Köln,0,https://media.api-sports.io/football/teams/192.png,Germany,Copa de Alemania (DFB Pokal),81,2015.0
 559776,BFC Dynamo,0,https://media.api-sports.io/football/teams/1636.png,FSV Frankfurt,2,https://media.api-sports.io/football/teams/1332.png,Germany,Copa de Alemania (DFB Pokal),81,2015.0
 559777,TuS Erndtebruck,0,https://media.api-sports.io/football/teams/1647.png,SV Darmstadt 98,5,https://media.api-sports.io/football/teams/181.png,Germany,Copa de Alemania (DFB Pokal),81,2015.0
 559778,SV Elversberg,1,https://media.api-sports.io/football/teams/1660.png,FC Augsburg,3,https://media.api-sports.io/football/teams/170.png,Germany,Copa de Alemania (DFB Pokal),81,2015.0
@@ -1152,24 +1129,6 @@ fixture_id,home_team,home_goals,home_logo,away_team,away_goals,away_logo,country
 559787,Bremer Sv,0,https://media.api-sports.io/football/teams/1630.png,Eintracht Frankfurt,3,https://media.api-sports.io/football/teams/169.png,Germany,Copa de Alemania (DFB Pokal),81,2015.0
 559788,TSV 1860 Munich,2,https://media.api-sports.io/football/teams/786.png,1899 Hoffenheim,0,https://media.api-sports.io/football/teams/167.png,Germany,Copa de Alemania (DFB Pokal),81,2015.0
 559789,Holstein Kiel,1,https://media.api-sports.io/football/teams/191.png,VfB Stuttgart,2,https://media.api-sports.io/football/teams/172.png,Germany,Copa de Alemania (DFB Pokal),81,2015.0
-559790,Carl Zeiss Jena,3,https://media.api-sports.io/football/teams/1325.png,Hamburger SV,2,https://media.api-sports.io/football/teams/175.png,Germany,Copa de Alemania (DFB Pokal),81,2015.0
-559791,Bahlinger SC,0,https://media.api-sports.io/football/teams/9359.png,SV Sandhausen,0,https://media.api-sports.io/football/teams/189.png,Germany,Copa de Alemania (DFB Pokal),81,2015.0
-559792,Barmbek-Uhlenhorst,0,https://media.api-sports.io/football/teams/12734.png,SC Freiburg,5,https://media.api-sports.io/football/teams/160.png,Germany,Copa de Alemania (DFB Pokal),81,2015.0
-559793,Chemnitzer FC,0,https://media.api-sports.io/football/teams/1328.png,Borussia Dortmund,2,https://media.api-sports.io/football/teams/165.png,Germany,Copa de Alemania (DFB Pokal),81,2015.0
-559794,Salmrohr,0,https://media.api-sports.io/football/teams/4264.png,Vfl Bochum,5,https://media.api-sports.io/football/teams/176.png,Germany,Copa de Alemania (DFB Pokal),81,2015.0
-559795,VfB Lubeck,1,https://media.api-sports.io/football/teams/1625.png,SC Paderborn 07,2,https://media.api-sports.io/football/teams/185.png,Germany,Copa de Alemania (DFB Pokal),81,2015.0
-559796,Rot-weiss Essen,0,https://media.api-sports.io/football/teams/1621.png,Fortuna Dusseldorf,0,https://media.api-sports.io/football/teams/158.png,Germany,Copa de Alemania (DFB Pokal),81,2015.0
-559797,Pirmasens,1,https://media.api-sports.io/football/teams/9365.png,FC Heidenheim,4,https://media.api-sports.io/football/teams/180.png,Germany,Copa de Alemania (DFB Pokal),81,2015.0
-559798,SpVgg Unterhaching,2,https://media.api-sports.io/football/teams/1314.png,FC Ingolstadt 04,1,https://media.api-sports.io/football/teams/184.png,Germany,Copa de Alemania (DFB Pokal),81,2015.0
-559799,FC Nottingen,1,https://media.api-sports.io/football/teams/1638.png,Bayern Munich,3,https://media.api-sports.io/football/teams/157.png,Germany,Copa de Alemania (DFB Pokal),81,2015.0
-559800,Hansa Rostock,0,https://media.api-sports.io/football/teams/1321.png,FC Kaiserslautern,0,https://media.api-sports.io/football/teams/745.png,Germany,Copa de Alemania (DFB Pokal),81,2015.0
-559801,Hessen Kassel,0,https://media.api-sports.io/football/teams/12788.png,Hannover 96,2,https://media.api-sports.io/football/teams/166.png,Germany,Copa de Alemania (DFB Pokal),81,2015.0
-559802,Energie Cottbus,0,https://media.api-sports.io/football/teams/1320.png,FSV Mainz 05,3,https://media.api-sports.io/football/teams/164.png,Germany,Copa de Alemania (DFB Pokal),81,2015.0
-559803,Arminia Bielefeld,0,https://media.api-sports.io/football/teams/188.png,Hertha Berlin,2,https://media.api-sports.io/football/teams/159.png,Germany,Copa de Alemania (DFB Pokal),81,2015.0
-559804,VfL Osnabruck,0,https://media.api-sports.io/football/teams/1324.png,RB Leipzig,2,https://media.api-sports.io/football/teams/173.png,Germany,Copa de Alemania (DFB Pokal),81,2015.0
-559805,VfR Aalen,0,https://media.api-sports.io/football/teams/1327.png,FC Nurnberg,0,https://media.api-sports.io/football/teams/171.png,Germany,Copa de Alemania (DFB Pokal),81,2015.0
-559806,FC St. Pauli,1,https://media.api-sports.io/football/teams/186.png,Borussia Monchengladbach,4,https://media.api-sports.io/football/teams/163.png,Germany,Copa de Alemania (DFB Pokal),81,2015.0
-559807,Reutlingen,0,https://media.api-sports.io/football/teams/13932.png,Eintracht Braunschweig,4,https://media.api-sports.io/football/teams/744.png,Germany,Copa de Alemania (DFB Pokal),81,2015.0
 559808,Reutlingen,3,https://media.api-sports.io/football/teams/13932.png,Karlsruher SC,1,https://media.api-sports.io/football/teams/785.png,Germany,Copa de Alemania (DFB Pokal),81,2015.0
 559745,VfL Wolfsburg,1,https://media.api-sports.io/football/teams/161.png,Bayern Munich,1,https://media.api-sports.io/football/teams/157.png,Germany,Supercopa de Alemania,529,2015.0
 196403,Verona,1,https://media.api-sports.io/football/teams/504.png,AS Roma,1,https://media.api-sports.io/football/teams/497.png,Italy,Serie A,135,2015.0
@@ -1552,7 +1511,6 @@ fixture_id,home_team,home_goals,home_logo,away_team,away_goals,away_logo,country
 196780,Udinese,1,https://media.api-sports.io/football/teams/494.png,Carpi,2,https://media.api-sports.io/football/teams/519.png,Italy,Serie A,135,2015.0
 196781,Lazio,2,https://media.api-sports.io/football/teams/487.png,Fiorentina,4,https://media.api-sports.io/football/teams/502.png,Italy,Serie A,135,2015.0
 196782,Palermo,3,https://media.api-sports.io/football/teams/522.png,Verona,2,https://media.api-sports.io/football/teams/504.png,Italy,Serie A,135,2015.0
-363301,Juventus,2,https://media.api-sports.io/football/teams/496.png,Lazio,0,https://media.api-sports.io/football/teams/487.png,Italy,Supercopa de Italia,547,2015.0
 185545,Lille,0,https://media.api-sports.io/football/teams/79.png,Paris Saint Germain,1,https://media.api-sports.io/football/teams/85.png,France,Ligue 1,61,2015.0
 185546,Nantes,1,https://media.api-sports.io/football/teams/83.png,Guingamp,0,https://media.api-sports.io/football/teams/90.png,France,Ligue 1,61,2015.0
 185547,Montpellier,0,https://media.api-sports.io/football/teams/82.png,Angers,2,https://media.api-sports.io/football/teams/77.png,France,Ligue 1,61,2015.0
@@ -1933,101 +1891,17 @@ fixture_id,home_team,home_goals,home_logo,away_team,away_goals,away_logo,country
 185922,Caen,1,https://media.api-sports.io/football/teams/88.png,Bordeaux,0,https://media.api-sports.io/football/teams/78.png,France,Ligue 1,61,2015.0
 185923,Reims,4,https://media.api-sports.io/football/teams/93.png,Lyon,1,https://media.api-sports.io/football/teams/80.png,France,Ligue 1,61,2015.0
 185924,Rennes,1,https://media.api-sports.io/football/teams/94.png,Bastia,2,https://media.api-sports.io/football/teams/1305.png,France,Ligue 1,61,2015.0
-526467,Gazelec FC Ajaccio,2,https://media.api-sports.io/football/teams/100.png,Sainte-Marienne,0,https://media.api-sports.io/football/teams/9377.png,France,Copa de Francia,66,2015.0
-526468,Avranches,2,https://media.api-sports.io/football/teams/1303.png,St Malo US,2,https://media.api-sports.io/football/teams/13629.png,France,Copa de Francia,66,2015.0
-526469,Blanc Mesnil,0,https://media.api-sports.io/football/teams/3154.png,Nantes,2,https://media.api-sports.io/football/teams/83.png,France,Copa de Francia,66,2015.0
-526470,Concarneau,3,https://media.api-sports.io/football/teams/1300.png,TA Rennes,0,https://media.api-sports.io/football/teams/3310.png,France,Copa de Francia,66,2015.0
-526471,Villefranche,1,https://media.api-sports.io/football/teams/1302.png,Sarre Union,2,https://media.api-sports.io/football/teams/3297.png,France,Copa de Francia,66,2015.0
-526472,Besançon,1,https://media.api-sports.io/football/teams/3023.png,Angers,3,https://media.api-sports.io/football/teams/77.png,France,Copa de Francia,66,2015.0
-526473,Entente S St Gratien,0,https://media.api-sports.io/football/teams/1294.png,Toulouse,5,https://media.api-sports.io/football/teams/96.png,France,Copa de Francia,66,2015.0
-526474,Chambly Thelle FC,4,https://media.api-sports.io/football/teams/1291.png,Reims,1,https://media.api-sports.io/football/teams/93.png,France,Copa de Francia,66,2015.0
-526475,Granville,2,https://media.api-sports.io/football/teams/3185.png,Laval,1,https://media.api-sports.io/football/teams/433.png,France,Copa de Francia,66,2015.0
-526476,Mantes 78,2,https://media.api-sports.io/football/teams/9241.png,Stade Briochin,0,https://media.api-sports.io/football/teams/3229.png,France,Copa de Francia,66,2015.0
-526477,Dunkerque,3,https://media.api-sports.io/football/teams/1304.png,Estac Troyes,4,https://media.api-sports.io/football/teams/110.png,France,Copa de Francia,66,2015.0
-526478,Pagny Sur Moselle,0,https://media.api-sports.io/football/teams/13617.png,Sochaux,2,https://media.api-sports.io/football/teams/115.png,France,Copa de Francia,66,2015.0
-526479,Moulins,1,https://media.api-sports.io/football/teams/13614.png,Niort,2,https://media.api-sports.io/football/teams/113.png,France,Copa de Francia,66,2015.0
-526480,Rodéo,0,https://media.api-sports.io/football/teams/3291.png,Stade Montois,1,https://media.api-sports.io/football/teams/3306.png,France,Copa de Francia,66,2015.0
-526481,Sedan,0,https://media.api-sports.io/football/teams/1310.png,Bastia,2,https://media.api-sports.io/football/teams/1305.png,France,Copa de Francia,66,2015.0
-526482,Raon l'Etape,2,https://media.api-sports.io/football/teams/3100.png,Saint Etienne,2,https://media.api-sports.io/football/teams/1063.png,France,Copa de Francia,66,2015.0
-526483,Limoges,0,https://media.api-sports.io/football/teams/3070.png,Lyon,7,https://media.api-sports.io/football/teams/80.png,France,Copa de Francia,66,2015.0
-526484,Fréjus St-Raphaël,2,https://media.api-sports.io/football/teams/3051.png,Bordeaux,3,https://media.api-sports.io/football/teams/78.png,France,Copa de Francia,66,2015.0
-526485,Lorient,3,https://media.api-sports.io/football/teams/97.png,Tours,2,https://media.api-sports.io/football/teams/432.png,France,Copa de Francia,66,2015.0
-526486,Wasquehal,0,https://media.api-sports.io/football/teams/3140.png,Paris Saint Germain,1,https://media.api-sports.io/football/teams/85.png,France,Copa de Francia,66,2015.0
-526487,Épernay,0,https://media.api-sports.io/football/teams/3141.png,Montpellier,1,https://media.api-sports.io/football/teams/82.png,France,Copa de Francia,66,2015.0
-526488,Annecy,1,https://media.api-sports.io/football/teams/3012.png,Evian TG,4,https://media.api-sports.io/football/teams/3006.png,France,Copa de Francia,66,2015.0
-526489,Muret,0,https://media.api-sports.io/football/teams/9947.png,Trélissac,2,https://media.api-sports.io/football/teams/9246.png,France,Copa de Francia,66,2015.0
-526490,Sarreguemines,1,https://media.api-sports.io/football/teams/3113.png,Valenciennes,0,https://media.api-sports.io/football/teams/105.png,France,Copa de Francia,66,2015.0
-526491,Mulhouse,1,https://media.api-sports.io/football/teams/3205.png,Bourg-en-bresse 01,3,https://media.api-sports.io/football/teams/430.png,France,Copa de Francia,66,2015.0
-526492,Volvic,0,https://media.api-sports.io/football/teams/3139.png,Ajaccio,1,https://media.api-sports.io/football/teams/98.png,France,Copa de Francia,66,2015.0
-526493,Chantilly,0,https://media.api-sports.io/football/teams/3162.png,Guingamp,4,https://media.api-sports.io/football/teams/90.png,France,Copa de Francia,66,2015.0
-526494,Amiens AC,0,https://media.api-sports.io/football/teams/9251.png,Lille,1,https://media.api-sports.io/football/teams/79.png,France,Copa de Francia,66,2015.0
-526495,Saint-Omer,4,https://media.api-sports.io/football/teams/3109.png,Boulogne,4,https://media.api-sports.io/football/teams/1299.png,France,Copa de Francia,66,2015.0
-526496,Monaco,10,https://media.api-sports.io/football/teams/91.png,Saint-Jean Beaulieu,2,https://media.api-sports.io/football/teams/13624.png,France,Copa de Francia,66,2015.0
-526497,Caen,0,https://media.api-sports.io/football/teams/88.png,Marseille,0,https://media.api-sports.io/football/teams/81.png,France,Copa de Francia,66,2015.0
-526498,Nice,3,https://media.api-sports.io/football/teams/84.png,Rennes,3,https://media.api-sports.io/football/teams/94.png,France,Copa de Francia,66,2015.0
-526499,St Malo US,1,https://media.api-sports.io/football/teams/13629.png,Stade Montois,0,https://media.api-sports.io/football/teams/3306.png,France,Copa de Francia,66,2015.0
-526500,Gazelec FC Ajaccio,3,https://media.api-sports.io/football/teams/100.png,Guingamp,0,https://media.api-sports.io/football/teams/90.png,France,Copa de Francia,66,2015.0
-526501,Rennes,1,https://media.api-sports.io/football/teams/94.png,Bourg-en-bresse 01,3,https://media.api-sports.io/football/teams/430.png,France,Copa de Francia,66,2015.0
 526502,Angers,1,https://media.api-sports.io/football/teams/77.png,Bordeaux,2,https://media.api-sports.io/football/teams/78.png,France,Copa de Francia,66,2015.0
-526503,Bastia,1,https://media.api-sports.io/football/teams/1305.png,Sochaux,2,https://media.api-sports.io/football/teams/115.png,France,Copa de Francia,66,2015.0
-526504,Sarre Union,1,https://media.api-sports.io/football/teams/3297.png,Niort,0,https://media.api-sports.io/football/teams/113.png,France,Copa de Francia,66,2015.0
 526505,Paris Saint Germain,2,https://media.api-sports.io/football/teams/85.png,Toulouse,1,https://media.api-sports.io/football/teams/96.png,France,Copa de Francia,66,2015.0
-526506,Trélissac,2,https://media.api-sports.io/football/teams/9246.png,Lille,2,https://media.api-sports.io/football/teams/79.png,France,Copa de Francia,66,2015.0
-526507,Concarneau,1,https://media.api-sports.io/football/teams/1300.png,Estac Troyes,3,https://media.api-sports.io/football/teams/110.png,France,Copa de Francia,66,2015.0
-526508,Chambly Thelle FC,0,https://media.api-sports.io/football/teams/1291.png,Lyon,2,https://media.api-sports.io/football/teams/80.png,France,Copa de Francia,66,2015.0
-526509,Evian TG,1,https://media.api-sports.io/football/teams/3006.png,Monaco,3,https://media.api-sports.io/football/teams/91.png,France,Copa de Francia,66,2015.0
-526510,Mantes 78,0,https://media.api-sports.io/football/teams/9241.png,Nantes,1,https://media.api-sports.io/football/teams/83.png,France,Copa de Francia,66,2015.0
-526511,Boulogne,1,https://media.api-sports.io/football/teams/1299.png,Lorient,3,https://media.api-sports.io/football/teams/97.png,France,Copa de Francia,66,2015.0
 526512,Marseille,2,https://media.api-sports.io/football/teams/81.png,Montpellier,0,https://media.api-sports.io/football/teams/82.png,France,Copa de Francia,66,2015.0
 526513,Saint Etienne,2,https://media.api-sports.io/football/teams/1063.png,Ajaccio,1,https://media.api-sports.io/football/teams/98.png,France,Copa de Francia,66,2015.0
-526514,Granville,3,https://media.api-sports.io/football/teams/3185.png,Sarreguemines,1,https://media.api-sports.io/football/teams/3113.png,France,Copa de Francia,66,2015.0
-526515,St Malo US,1,https://media.api-sports.io/football/teams/13629.png,Gazelec FC Ajaccio,2,https://media.api-sports.io/football/teams/100.png,France,Copa de Francia,66,2015.0
-526516,Granville,1,https://media.api-sports.io/football/teams/3185.png,Bourg-en-bresse 01,0,https://media.api-sports.io/football/teams/430.png,France,Copa de Francia,66,2015.0
-526517,Sochaux,2,https://media.api-sports.io/football/teams/115.png,Monaco,1,https://media.api-sports.io/football/teams/91.png,France,Copa de Francia,66,2015.0
-526518,Sarre Union,0,https://media.api-sports.io/football/teams/3297.png,Lorient,4,https://media.api-sports.io/football/teams/97.png,France,Copa de Francia,66,2015.0
 526519,Estac Troyes,1,https://media.api-sports.io/football/teams/110.png,Saint Etienne,2,https://media.api-sports.io/football/teams/1063.png,France,Copa de Francia,66,2015.0
 526520,Bordeaux,3,https://media.api-sports.io/football/teams/78.png,Nantes,4,https://media.api-sports.io/football/teams/83.png,France,Copa de Francia,66,2015.0
-526521,Paris Saint Germain,3,https://media.api-sports.io/football/teams/85.png,Lyon,0,https://media.api-sports.io/football/teams/80.png,France,Copa de Francia,66,2015.0
-526522,Trélissac,0,https://media.api-sports.io/football/teams/9246.png,Marseille,2,https://media.api-sports.io/football/teams/81.png,France,Copa de Francia,66,2015.0
-526523,Sochaux,3,https://media.api-sports.io/football/teams/115.png,Nantes,2,https://media.api-sports.io/football/teams/83.png,France,Copa de Francia,66,2015.0
 526524,Lorient,3,https://media.api-sports.io/football/teams/97.png,Gazelec FC Ajaccio,0,https://media.api-sports.io/football/teams/100.png,France,Copa de Francia,66,2015.0
 526525,Saint Etienne,1,https://media.api-sports.io/football/teams/1063.png,Paris Saint Germain,3,https://media.api-sports.io/football/teams/85.png,France,Copa de Francia,66,2015.0
-526526,Granville,0,https://media.api-sports.io/football/teams/3185.png,Marseille,1,https://media.api-sports.io/football/teams/81.png,France,Copa de Francia,66,2015.0
 526527,Lorient,0,https://media.api-sports.io/football/teams/97.png,Paris Saint Germain,1,https://media.api-sports.io/football/teams/85.png,France,Copa de Francia,66,2015.0
 526528,Sochaux,0,https://media.api-sports.io/football/teams/115.png,Marseille,1,https://media.api-sports.io/football/teams/81.png,France,Copa de Francia,66,2015.0
 526529,Marseille,2,https://media.api-sports.io/football/teams/81.png,Paris Saint Germain,4,https://media.api-sports.io/football/teams/85.png,France,Copa de Francia,66,2015.0
-526530,Sainte-Marienne,4,https://media.api-sports.io/football/teams/9377.png,USSA Vertou,4,https://media.api-sports.io/football/teams/3127.png,France,Copa de Francia,66,2015.0
-526531,Ajaccio,0,https://media.api-sports.io/football/teams/98.png,Excelsior St-Joseph,0,https://media.api-sports.io/football/teams/3174.png,France,Copa de Francia,66,2015.0
-526532,Besançon,2,https://media.api-sports.io/football/teams/3023.png,Golden Lion,1,https://media.api-sports.io/football/teams/3053.png,France,Copa de Francia,66,2015.0
-526533,Montélimar,1,https://media.api-sports.io/football/teams/3084.png,Bourg-en-bresse 01,2,https://media.api-sports.io/football/teams/430.png,France,Copa de Francia,66,2015.0
-526534,Pontcharra-St Loup,0,https://media.api-sports.io/football/teams/13620.png,Annecy,5,https://media.api-sports.io/football/teams/3012.png,France,Copa de Francia,66,2015.0
-526535,Sarreguemines,2,https://media.api-sports.io/football/teams/3113.png,Dijon,1,https://media.api-sports.io/football/teams/89.png,France,Copa de Francia,66,2015.0
-526536,Beziers,0,https://media.api-sports.io/football/teams/109.png,Fréjus St-Raphaël,1,https://media.api-sports.io/football/teams/3051.png,France,Copa de Francia,66,2015.0
-526537,Limoges,2,https://media.api-sports.io/football/teams/3070.png,Lège-Cap-Ferret,1,https://media.api-sports.io/football/teams/3075.png,France,Copa de Francia,66,2015.0
-526538,Saint-Louis Neuweg,2,https://media.api-sports.io/football/teams/3106.png,Mulhouse,3,https://media.api-sports.io/football/teams/3205.png,France,Copa de Francia,66,2015.0
-526539,Blanc Mesnil,3,https://media.api-sports.io/football/teams/3154.png,Mainvilliers,0,https://media.api-sports.io/football/teams/13612.png,France,Copa de Francia,66,2015.0
-526540,Lyon Duchere,0,https://media.api-sports.io/football/teams/1295.png,Evian TG,1,https://media.api-sports.io/football/teams/3006.png,France,Copa de Francia,66,2015.0
-526541,Villefranche,1,https://media.api-sports.io/football/teams/1302.png,Grenoble,0,https://media.api-sports.io/football/teams/101.png,France,Copa de Francia,66,2015.0
-526542,Niort,3,https://media.api-sports.io/football/teams/113.png,Les Herbiers,1,https://media.api-sports.io/football/teams/1308.png,France,Copa de Francia,66,2015.0
-526543,Volvic,4,https://media.api-sports.io/football/teams/3139.png,Guéret,2,https://media.api-sports.io/football/teams/13604.png,France,Copa de Francia,66,2015.0
-526544,Muret,3,https://media.api-sports.io/football/teams/9947.png,Montauban TG,0,https://media.api-sports.io/football/teams/3202.png,France,Copa de Francia,66,2015.0
-526545,St Malo US,3,https://media.api-sports.io/football/teams/13629.png,Pontivy GSI,0,https://media.api-sports.io/football/teams/3098.png,France,Copa de Francia,66,2015.0
-526546,Épernay,2,https://media.api-sports.io/football/teams/3141.png,Besançon,2,https://media.api-sports.io/football/teams/3023.png,France,Copa de Francia,66,2015.0
-526547,Raon l'Etape,2,https://media.api-sports.io/football/teams/3100.png,Colmar,2,https://media.api-sports.io/football/teams/13583.png,France,Copa de Francia,66,2015.0
-526548,US Maubeuge,0,https://media.api-sports.io/football/teams/3312.png,Amiens AC,1,https://media.api-sports.io/football/teams/9251.png,France,Copa de Francia,66,2015.0
-526549,Sedan,2,https://media.api-sports.io/football/teams/1310.png,Croix Football IC,1,https://media.api-sports.io/football/teams/3043.png,France,Copa de Francia,66,2015.0
-526550,Mantes 78,2,https://media.api-sports.io/football/teams/9241.png,Marck,0,https://media.api-sports.io/football/teams/3077.png,France,Copa de Francia,66,2015.0
-526551,Paris FC,1,https://media.api-sports.io/football/teams/114.png,Boulogne,3,https://media.api-sports.io/football/teams/1299.png,France,Copa de Francia,66,2015.0
-526552,Entente S St Gratien,2,https://media.api-sports.io/football/teams/1294.png,Quevilly,1,https://media.api-sports.io/football/teams/431.png,France,Copa de Francia,66,2015.0
-526553,Moulins,1,https://media.api-sports.io/football/teams/13614.png,Nimes,0,https://media.api-sports.io/football/teams/92.png,France,Copa de Francia,66,2015.0
-526554,Trélissac,1,https://media.api-sports.io/football/teams/9246.png,Clermont Foot,0,https://media.api-sports.io/football/teams/99.png,France,Copa de Francia,66,2015.0
-526555,Concarneau,2,https://media.api-sports.io/football/teams/1300.png,Châteaubriant,0,https://media.api-sports.io/football/teams/9272.png,France,Copa de Francia,66,2015.0
-526556,Stade Briochin,2,https://media.api-sports.io/football/teams/3229.png,Stade Brestois 29,0,https://media.api-sports.io/football/teams/106.png,France,Copa de Francia,66,2015.0
-526557,Hazebrouck,0,https://media.api-sports.io/football/teams/3059.png,Dunkerque,1,https://media.api-sports.io/football/teams/1304.png,France,Copa de Francia,66,2015.0
-526558,Libourne,0,https://media.api-sports.io/football/teams/13609.png,Tours,2,https://media.api-sports.io/football/teams/432.png,France,Copa de Francia,66,2015.0
-526559,Stade Montois,2,https://media.api-sports.io/football/teams/3306.png,Anglet Genets,1,https://media.api-sports.io/football/teams/3010.png,France,Copa de Francia,66,2015.0
-526560,Rodéo,1,https://media.api-sports.io/football/teams/3291.png,Stade Bordelais,0,https://media.api-sports.io/football/teams/3228.png,France,Copa de Francia,66,2015.0
-526561,CPBB Rennes,1,https://media.api-sports.io/football/teams/13594.png,Laval,4,https://media.api-sports.io/football/teams/433.png,France,Copa de Francia,66,2015.0
 526562,Beauvais,1,https://media.api-sports.io/football/teams/3153.png,Valenciennes,2,https://media.api-sports.io/football/teams/105.png,France,Copa de Francia,66,2015.0
 526563,Chambly Thelle FC,4,https://media.api-sports.io/football/teams/1291.png,Orleans,3,https://media.api-sports.io/football/teams/103.png,France,Copa de Francia,66,2015.0
 526564,Chantilly,3,https://media.api-sports.io/football/teams/3162.png,Ailly,1,https://media.api-sports.io/football/teams/13590.png,France,Copa de Francia,66,2015.0
