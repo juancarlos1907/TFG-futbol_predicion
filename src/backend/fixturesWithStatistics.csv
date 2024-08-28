@@ -1859,3 +1859,50 @@ fixture_id,home_team,home_goals,home_possession%,home_goalkeeper_saves,home_pass
 185922,Caen,1.0,39%,4.0,72%,Bordeaux,0.0,61%,3.0,83%
 185923,Reims,4.0,33%,2.0,73%,Lyon,1.0,67%,2.0,87%
 185924,Rennes,1.0,57%,3.0,83%,Bastia,2.0,43%,6.0,75%
+20444,Barcelona,4.0,73%,2.0,88%,Eibar,2.0,27%,8.0,62%
+20445,Malaga,0.0,52%,6.0,87%,Real Madrid,2.0,48%,6.0,86%
+20447,Celta Vigo,2.0,55%,4.0,81%,Real Sociedad,2.0,45%,3.0,75%
+20448,Valencia,1.0,53%,3.0,87%,Villarreal,3.0,47%,4.0,83%
+20449,Sevilla,5.0,71%,2.0,92%,Osasuna,0.0,29%,2.0,76%
+20450,Deportivo La Coruna,3.0,35%,4.0,81%,Las Palmas,0.0,65%,2.0,88%
+20451,Leganes,1.0,50%,4.0,78%,Alaves,1.0,50%,3.0,79%
+20452,Sporting Gijon,2.0,49%,7.0,82%,Real Betis,2.0,51%,3.0,83%
+20453,Granada CF,1.0,45%,1.0,86%,Espanyol,2.0,55%,6.0,84%
+20454,Celta Vigo,1.0,52%,4.0,89%,Real Madrid,4.0,48%,5.0,85%
+20455,Athletic Club,1.0,59%,1.0,80%,Leganes,1.0,41%,5.0,72%
+20456,Real Betis,1.0,60%,1.0,86%,Atletico Madrid,1.0,40%,4.0,77%
+20457,Eibar,0.0,59%,3.0,74%,Sporting Gijon,1.0,41%,2.0,61%
+20458,Las Palmas,1.0,38%,1.0,83%,Barcelona,4.0,62%,4.0,89%
+20459,Real Madrid,4.0,49%,5.0,90%,Sevilla,1.0,51%,3.0,88%
+20460,Real Sociedad,2.0,55%,2.0,81%,Malaga,2.0,45%,2.0,77%
+20461,Villarreal,0.0,66%,1.0,89%,Deportivo La Coruna,0.0,34%,5.0,76%
+20462,Alaves,3.0,34%,3.0,71%,Celta Vigo,1.0,66%,2.0,84%
+20463,Osasuna,2.0,37%,2.0,75%,Granada CF,1.0,63%,5.0,86%
+20464,Espanyol,0.0,49%,2.0,81%,Valencia,1.0,51%,3.0,79%
+20465,Leganes,4.0,36%,3.0,64%,Real Betis,0.0,64%,0.0,78%
+20466,Malaga,3.0,42%,2.0,77%,Celta Vigo,0.0,58%,5.0,83%
+20467,Deportivo La Coruna,1.0,59%,1.0,86%,Espanyol,2.0,41%,4.0,80%
+20468,Valencia,4.0,63%,3.0,89%,Osasuna,1.0,37%,4.0,79%
+20469,Alaves,1.0,37%,6.0,69%,Athletic Club,0.0,63%,2.0,81%
+20470,Granada CF,0.0,48%,4.0,90%,Real Madrid,4.0,52%,3.0,93%
+20471,Barcelona,4.0,67%,3.0,90%,Villarreal,1.0,33%,4.0,79%
+20472,Atletico Madrid,1.0,55%,3.0,77%,Eibar,0.0,45%,4.0,72%
+20473,Sporting Gijon,1.0,40%,2.0,74%,Las Palmas,0.0,60%,2.0,84%
+20474,Sevilla,1.0,51%,2.0,80%,Real Sociedad,1.0,49%,2.0,80%
+20475,Malaga,4.0,38%,2.0,71%,Sevilla,2.0,62%,1.0,78%
+20476,Celta Vigo,0.0,48%,9.0,79%,Athletic Club,3.0,52%,0.0,78%
+20477,Eibar,2.0,47%,0.0,69%,Leganes,0.0,53%,3.0,68%
+20478,Real Betis,1.0,60%,1.0,81%,Alaves,4.0,40%,2.0,74%
+20479,Osasuna,2.0,43%,3.0,71%,Deportivo La Coruna,2.0,57%,3.0,74%
+20480,Espanyol,0.0,34%,6.0,70%,Barcelona,3.0,66%,3.0,84%
+20481,Las Palmas,0.0,50%,2.0,88%,Atletico Madrid,5.0,50%,3.0,88%
+20482,Real Madrid,2.0,59%,1.0,91%,Valencia,1.0,41%,3.0,82%
+20483,Real Sociedad,2.0,53%,3.0,84%,Granada CF,1.0,47%,3.0,79%
+20484,Villarreal,3.0,54%,6.0,84%,Sporting Gijon,1.0,46%,2.0,79%
+20485,Athletic Club,2.0,52%,2.0,76%,Real Betis,1.0,48%,7.0,75%
+20486,Sevilla,2.0,62%,0.0,85%,Celta Vigo,1.0,38%,3.0,73%
+20487,Alaves,0.0,66%,4.0,85%,Eibar,0.0,34%,3.0,65%
+20488,Deportivo La Coruna,2.0,46%,5.0,87%,Real Madrid,6.0,54%,5.0,87%
+20489,Leganes,3.0,49%,0.0,75%,Las Palmas,0.0,51%,2.0,80%
+20490,Valencia,2.0,46%,0.0,77%,Real Sociedad,3.0,54%,1.0,78%
+20491,Barcelona,7.0,76%,1.0,90%,Osasuna,1.0,24%,2.0,70%
