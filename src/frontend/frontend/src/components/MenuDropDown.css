@@ -6,7 +6,7 @@
 
 /* Button to open the dropdown */
 .nav-dropdown-button {
-    background-color: #33ff0061; /* Color de fondo del botón */
+    background-color: #007bff; /* Color de fondo del botón */
     color: rgb(0, 0, 0); /* Color del texto del botón */
     border: none;
     padding: 0.75rem 1.5rem; /* Aumenta el padding para un botón más grande */

@@ -1,21 +1,50 @@
 import React from 'react';
-import { useLocation } from 'react-router-dom';
+import { useLocation, useNavigate } from 'react-router-dom';
 import PredictionChart from '../components/PredictionChart';
 import './PredictionPage.css';
 import LanguageSwitcher from '../components/LenguageSwitcher';
 import genioLogo from '../images/imagen genio.png';
 import { useTranslation } from 'react-i18next';
 import NavDropdownMenu from '../components/MenuDropDown';
-import Footer from '../components/Footer.js'
+import Footer from '../components/Footer.js';
+import noDataImage from '../images/nodata.png';
 
 
 const PredictionPage = () => {
     const { t } = useTranslation();
     const location = useLocation();
     const { result } = location.state || {};
+    const navigate = useNavigate(); 
+
+    const handleRetry = () => {
+        navigate('/');
+    };
 
     if (!result || !result.column_means) {
-        return <div>{t('predictionPage.noData')}</div>;
+        return (
+            <>
+                <header className="header">
+                    <NavDropdownMenu />
+                    <div className="header-title-container">
+                        <img src={genioLogo} alt={t('header.logoAlt')} />
+                        <h1>{t('title')}</h1>
+                    </div>
+                    <LanguageSwitcher className="language-switcher" />
+                </header>
+                <div className="prediction-page">
+                    <div className="background"></div>
+                    <div className="content no-data-content">
+                        <img src={noDataImage} alt={t('predictionPage.noDataAlt')} className="no-data-image" />
+                        <h2>{t('noDataTitle')}</h2>
+                        <p>{t('noDataDescription')}</p>
+                        <button onClick={handleRetry} className="retry-button">
+                        {t('retryButton')}
+                        </button>
+                    </div>
+                </div>
+                <Footer />
+            </>
+        );
     }
 
     const teamNames = Object.keys(result.column_means);

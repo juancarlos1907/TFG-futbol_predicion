@@ -55,7 +55,10 @@ i18n
           home: "Home",
           primerPredicc: "Prediction",
           segundoPredicc:"Custom Prediction",
-          aboutUs:"About Us"
+          aboutUs:"About Us",
+          noDataTitle: "Parece que no hay suficientes datos para predecir",
+          noDataDescription: "Nuestra base de datos es amplia, pero no todos los equipos se pueden predecir con otros equipos de otras ligas o paises." ,
+          retryButton: "Volver a predecir",
         }
       },
       es: {
@@ -106,7 +109,10 @@ i18n
           home: "Inicio",
           primerPredicc: "Predicción base",
           segundoPredicc:"Prediccion personalizada",
-          aboutUs: "Sobre nuestra aplicación"
+          aboutUs: "Sobre nuestra aplicación",
+          noDataTitle: "Parece que no hay suficientes datos para predecir",
+          noDataDescription: "Nuestra base de datos es amplia, pero no todos los equipos se pueden predecir con otros equipos de otras ligas o paises." ,
+          retryButton: "Volver a predecir",
         }
       }
     },

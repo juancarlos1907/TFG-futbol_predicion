@@ -9,6 +9,7 @@ import PredictionPage from './pages/PredictionPage.js';
 import CustomWeightsPage from './pages/CustomWeightsPage.js';
 import Welcome from './pages/Welcome.js';
 
+
 const App = () => {
     return (
         <Router>
