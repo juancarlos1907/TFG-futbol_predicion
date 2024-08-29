@@ -1,10 +1,12 @@
 import React, { useState, useEffect } from 'react';
 import { useTranslation } from 'react-i18next';
-import { useNavigate } from 'react-router-dom';
+import { useNavigate, Link  } from 'react-router-dom';
 import LanguageSwitcher from '../components/LenguageSwitcher';
 import Dropdown from '../components/Dropdown';
 import './HomePage.css';
 import genioLogo from '../images/imagen genio.png';
+import NavDropdownMenu from '../components/MenuDropDown';
+import Footer from '../components/Footer';
 
 const HomePage = () => {
     const { t } = useTranslation();
@@ -45,7 +47,7 @@ const HomePage = () => {
                 setPredictionResult(result);
 
                 // Guardar el resultado y redirigir a la página de predicción
-                navigate('/prediction', { state: { result } });
+                navigate('/results', { state: { result } });
             } catch (error) {
                 console.error('Error fetching prediction:', error);
             }
@@ -59,6 +61,7 @@ const HomePage = () => {
     return (
         <>
             <header className="header">
+                <NavDropdownMenu />
                 <div className="header-title-container">
                     <img src={genioLogo} alt="Genio Logo" />
                     <h1>{t('title')}</h1>
@@ -82,12 +85,13 @@ const HomePage = () => {
                         <div key={team.name} className="selected-team">
                             <img src={team.logo} alt={`${team.name} logo`} />
                             <span>{team.name}</span>
-                            <button className="remove-button" onClick={() => handleRemove(team)}>Remove</button>
+                            <button className="remove-button" onClick={() => handleRemove(team)}>{t('buttonHP')}</button>
                         </div>
                     ))}
                 </div>
                 <button className="predict-button" onClick={handlePredict}>{t('predict')}</button>
             </div>
+            <Footer />
         </>
     );
 };
