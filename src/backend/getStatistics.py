@@ -6,7 +6,7 @@ import time
 # Definir la URL y los headers para la solicitud
 url = "https://api-football-v1.p.rapidapi.com/v3/fixtures/statistics"
 headers = {
-    "X-RapidAPI-Key": "798f80235dmsh5e71f1a0965e5c5p1da281jsn2d6666966440",
+    "X-RapidAPI-Key": "8b45dee1f3msh06016ead9743a2ep1a92bbjsn32b39f9e413b",
     "X-RapidAPI-Host": "api-football-v1.p.rapidapi.com"
 }
 
@@ -39,7 +39,7 @@ statistics_data = []
 
 # Inicializar el contador
 counter = 0
-limit = 10
+limit = 30
 retry_count = 0
 max_retries = 5
 
@@ -119,7 +119,7 @@ for _, row in fixtures_to_process_df.iterrows():
             if response.status_code == 429:
                 print(f"Error 429: Too Many Requests para fixture {fixture_id}. Esperando antes de reintentar...")
                 retry_count += 3
-                wait_time = 3 ** retry_count  # Tiempo de espera exponencial
+                wait_time = 2 ** retry_count  # Tiempo de espera exponencial
                 time.sleep(wait_time)
             else:
                 print(f"Error: {err} para fixture {fixture_id}")

@@ -1,6 +1,7 @@
+import json
 from collections import OrderedDict
 
-from flask import Flask, jsonify, request
+from flask import Flask, jsonify, request, Response
 from flask_cors import CORS
 import requests
 import pandas as pd
@@ -111,8 +112,14 @@ def get_prediction(home_team, away_team):
         return jsonify({"message": "No se encontraron partidos para estos equipos."}), 404
 
     # Comprobar si hay suficientes enfrentamientos
-    if selected_statistics.shape[0] < 1:
+    num_matches = selected_statistics.shape[0]
+
+    if num_matches < 3:
         return jsonify({"message": "No tenemos suficientes datos para proporcionar un resultado fiable."}), 400
+    elif num_matches <= 5:
+        reliability_warning = True  # Bandera para indicar predicción no fiable
+    else:
+        reliability_warning = False  # Predicción normal
 
     # Convertir las estadísticas seleccionadas a un DataFrame
     stats_df = pd.DataFrame(selected_statistics.to_dict(orient='records'))
@@ -144,6 +151,7 @@ def get_prediction(home_team, away_team):
     # Guardar el resultado en el archivo CSV
     result_manager.save_result_to_csv(home_team, away_team, home_result, away_result, winner)
 
+    # Preparar la respuesta
     response = OrderedDict([
         ("column_means", column_means),
         ("home_team_result", f"{home_team} - {home_result}"),
@@ -151,7 +159,14 @@ def get_prediction(home_team, away_team):
         ("winner", winner)
     ])
 
-    return jsonify(response)
+    # Añadir advertencia de fiabilidad si es necesario
+    if reliability_warning:
+        response["warning"] = "La predicción se ha realizado con pocos datos. El resultado puede no ser fiable."
+
+    # Convertir a JSON asegurando la codificación UTF-8 y formateado con indentación
+    response_json = json.dumps(response, ensure_ascii=False, indent=4)
+
+    return Response(response_json, content_type="application/json; charset=utf-8")
 
 @app.route('/api/fixture/statistics/recent', methods=['GET'])
 def get_recent_results():
