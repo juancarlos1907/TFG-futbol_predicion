@@ -1,4 +1,4 @@
-import React from 'react';
+import {React, useState} from 'react';
 import { useLocation, useNavigate } from 'react-router-dom';
 import PredictionChart from '../components/PredictionChart';
 import './PredictionPage.css';
@@ -8,6 +8,7 @@ import { useTranslation } from 'react-i18next';
 import NavDropdownMenu from '../components/MenuDropDown';
 import Footer from '../components/Footer.js';
 import noDataImage from '../images/nodata.png';
+import Modal from '../components/Modal.js';
 
 
 const PredictionPage = () => {
@@ -15,6 +16,15 @@ const PredictionPage = () => {
     const location = useLocation();
     const { result } = location.state || {};
     const navigate = useNavigate(); 
+    const [showModal, setShowModal] = useState(false);
+
+    const handleOpenModal = () => {
+        setShowModal(true);
+    };
+
+    const handleCloseModal = () => {
+        setShowModal(false);
+    };
 
     const handleRetry = () => {
         navigate('/');
@@ -153,7 +163,24 @@ const PredictionPage = () => {
             <div className="prediction-page">
                 <div className="background"></div>
                 <div className="content">
-                    <h2>{t('predictionPage.resultTitle')}</h2>
+                {}
+                    <button onClick={handleOpenModal} className="explanation-button">
+                        {t('predictionPage.explanationButton')}
+                    </button>
+                    
+                    {}
+                    <Modal show={showModal} onClose={handleCloseModal}>
+                        <h2>{t('predictionPage.modalTitle')}</h2>
+                        <p>{t('predictionPage.modalDescription')}</p>
+                        <ul>
+                            <li>{t('predictionPage.modalPoint1')}</li>
+                            <li>{t('predictionPage.modalPoint2')}</li>
+                            <li>{t('predictionPage.modalPoint3')}</li>
+                        </ul>
+                    </Modal>
+                    <h2>{t('predictionPage.resultTitle')}
+                    
+                    </h2>
                     <div className="team-results">
                         <div className="team-result">
                             <p>{result.home_team_result}</p>
@@ -162,8 +189,19 @@ const PredictionPage = () => {
                             <p>{result.away_team_result}</p>
                         </div>
                     </div>
-
-                    <p><strong>{t('predictionPage.winner')}: {result.winner}</strong></p>
+                        <div className="winner-container">
+                            <p className="winner-text">
+                                <strong>{t('predictionPage.winner')}: {result.winner}</strong>
+                            </p>
+                        {result.warning && (
+                            <div className="warning-inline">
+                                <span className="warning-icon">⚠️</span>
+                                <div className="warning-text">
+                                    {t('predictionPage.warningMessage')}
+                                </div>
+                            </div>
+                        )}
+                    </div>
                     <div style={{ width: '80%', margin: 'auto' }}>
                         <PredictionChart data={data} options={options} />
                     </div>

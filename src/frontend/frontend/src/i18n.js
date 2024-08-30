@@ -95,7 +95,12 @@ i18n
               goals: "Goles",
               passes: "Porcentaje de Pasos",
               possession: "Porcentaje de Posesión"
-            }
+            },
+            warningMessage: "Predicción con pocos datos, posible baja fiabilidad.",
+            explanationButton:"Explicación",
+            modalTitle: "Realizacion de la predicción",
+            modalDescription: "Se ha llevado a cabo varios estudios y calculos matematicos",
+            modalPoint1: "Se normalizan los datos, se pone un limite y un minimo, luego se le aplican unos pesos  la formula",
           },
           countries: {
             Spain: "España",

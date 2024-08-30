@@ -197,3 +197,75 @@ body {
 .retry-button:hover {
     background-color: #45a049; /* Verde más oscuro al pasar el ratón */
 }
+
+.content-title {
+    display: flex;
+    align-items: center;
+    font-size: 24px; /* Tamaño del título, ajusta según tu diseño */
+    margin-bottom: 20px; /* Espacio debajo del título */
+}
+
+.winner-container {
+    display: flex;
+    justify-content: center; /* Centra el texto del ganador */
+    align-items: center; /* Alinea verticalmente */
+    position: relative;
+    margin-top: 20px;
+    text-align: center;
+}
+
+.winner-text {
+    font-size: 1.2em;
+    padding-right: 10px; /* Espacio entre el texto del ganador y el warning */
+}
+
+.warning-inline {
+    display: inline-flex;
+    align-items: center;
+    background-color: #fff3cd; /* Fondo amarillo pálido */
+    color: #856404; /* Color de texto marrón */
+    padding: 8px 12px;
+    border-radius: 5px;
+    border: 1px solid #ffeeba; /* Borde amarillo suave */
+    font-family: 'Roboto', sans-serif; /* Tipografía moderna */
+    font-size: 14px; /* Tamaño de fuente más pequeño */
+    margin-left: 0; /* Elimina el margen izquierdo */
+    position: relative; /* Posiciona el warning de forma normal */
+}
+
+.warning-inline .warning-icon {
+    font-size: 18px;
+    margin-right: 8px;
+    color: #ffc107; /* Color del ícono */
+}
+
+.warning-inline .warning-text {
+    line-height: 1.4; /* Espacio entre líneas para mejor lectura */
+}
+
+
+
+/* Estilo del botón que abre el modal */
+.explanation-button {
+    position: absolute;
+    top: 10px; /* Ajusta la distancia desde la parte superior */
+    right: 10px; /* Ajusta la distancia desde la parte derecha */
+    background-color: #007bff; /* Color de fondo del botón */
+    color: #fff; /* Color del texto */
+    border: none; /* Sin borde */
+    padding: 10px 20px; /* Espaciado interno */
+    font-size: 16px; /* Tamaño del texto */
+    border-radius: 5px; /* Bordes redondeados */
+    cursor: pointer; /* Cambio de cursor a mano */
+    transition: background-color 0.3s ease; /* Transición suave */
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* Sombra para dar profundidad */
+}
+
+.explanation-button:hover {
+    background-color: #0056b3; /* Color más oscuro al pasar el ratón */
+}
+
+.explanation-button:active {
+    background-color: #00408d; /* Color más oscuro al hacer clic */
+}
+
