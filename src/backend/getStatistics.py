@@ -6,7 +6,7 @@ import time
 # Definir la URL y los headers para la solicitud
 url = "https://api-football-v1.p.rapidapi.com/v3/fixtures/statistics"
 headers = {
-    "X-RapidAPI-Key": "8b45dee1f3msh06016ead9743a2ep1a92bbjsn32b39f9e413b",
+    "X-RapidAPI-Key": "798f80235dmsh5e71f1a0965e5c5p1da281jsn2d6666966440",
     "X-RapidAPI-Host": "api-football-v1.p.rapidapi.com"
 }
 
@@ -39,7 +39,7 @@ statistics_data = []
 
 # Inicializar el contador
 counter = 0
-limit = 30
+limit = 150
 retry_count = 0
 max_retries = 5
 
