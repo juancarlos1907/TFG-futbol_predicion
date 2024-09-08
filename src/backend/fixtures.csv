@@ -8585,115 +8585,6 @@ fixture_id,home_team,home_goals,home_logo,away_team,away_goals,away_logo,country
 157392,Newcastle,1,https://media.api-sports.io/football/teams/34.png,Liverpool,3,https://media.api-sports.io/football/teams/40.png,England,Premier League,39,2019.0
 157393,Southampton,3,https://media.api-sports.io/football/teams/41.png,Sheffield Utd,1,https://media.api-sports.io/football/teams/62.png,England,Premier League,39,2019.0
 157394,West Ham,1,https://media.api-sports.io/football/teams/48.png,Aston Villa,1,https://media.api-sports.io/football/teams/66.png,England,Premier League,39,2019.0
-242421,Rotherham,0,https://media.api-sports.io/football/teams/73.png,Manchester United U21,2,https://media.api-sports.io/football/teams/7198.png,England,Copa de la liga (Carabao Cup o EFL Cup),46,2019.0
-242422,Swindon Town,2,https://media.api-sports.io/football/teams/1353.png,Chelsea U21,3,https://media.api-sports.io/football/teams/7192.png,England,Copa de la liga (Carabao Cup o EFL Cup),46,2019.0
-242423,Oldham,3,https://media.api-sports.io/football/teams/1349.png,Liverpool U21,2,https://media.api-sports.io/football/teams/7196.png,England,Copa de la liga (Carabao Cup o EFL Cup),46,2019.0
-242425,Northampton,1,https://media.api-sports.io/football/teams/1337.png,Arsenal U21,1,https://media.api-sports.io/football/teams/7189.png,England,Copa de la liga (Carabao Cup o EFL Cup),46,2019.0
-242426,Mansfield Town,1,https://media.api-sports.io/football/teams/1374.png,Everton U21,1,https://media.api-sports.io/football/teams/7193.png,England,Copa de la liga (Carabao Cup o EFL Cup),46,2019.0
-242427,Bolton,1,https://media.api-sports.io/football/teams/68.png,Bradford,1,https://media.api-sports.io/football/teams/1343.png,England,Copa de la liga (Carabao Cup o EFL Cup),46,2019.0
-242428,Forest Green,3,https://media.api-sports.io/football/teams/1378.png,Southampton U21,2,https://media.api-sports.io/football/teams/7201.png,England,Copa de la liga (Carabao Cup o EFL Cup),46,2019.0
-242429,Blackpool,5,https://media.api-sports.io/football/teams/1356.png,Morecambe,1,https://media.api-sports.io/football/teams/1375.png,England,Copa de la liga (Carabao Cup o EFL Cup),46,2019.0
-242430,Crewe,1,https://media.api-sports.io/football/teams/1363.png,Burton Albion,3,https://media.api-sports.io/football/teams/748.png,England,Copa de la liga (Carabao Cup o EFL Cup),46,2019.0
-242431,Northampton,0,https://media.api-sports.io/football/teams/1337.png,Peterborough,2,https://media.api-sports.io/football/teams/1350.png,England,Copa de la liga (Carabao Cup o EFL Cup),46,2019.0
-242432,AFC Wimbledon,0,https://media.api-sports.io/football/teams/1333.png,Brighton U21,2,https://media.api-sports.io/football/teams/7191.png,England,Copa de la liga (Carabao Cup o EFL Cup),46,2019.0
-242433,Grimsby,1,https://media.api-sports.io/football/teams/1365.png,Scunthorpe,2,https://media.api-sports.io/football/teams/1340.png,England,Copa de la liga (Carabao Cup o EFL Cup),46,2019.0
-242434,Accrington ST,2,https://media.api-sports.io/football/teams/1360.png,Fleetwood Town,1,https://media.api-sports.io/football/teams/1336.png,England,Copa de la liga (Carabao Cup o EFL Cup),46,2019.0
-242435,Coventry,0,https://media.api-sports.io/football/teams/1346.png,Walsall,0,https://media.api-sports.io/football/teams/1342.png,England,Copa de la liga (Carabao Cup o EFL Cup),46,2019.0
-242436,Doncaster,3,https://media.api-sports.io/football/teams/1354.png,Lincoln,1,https://media.api-sports.io/football/teams/1379.png,England,Copa de la liga (Carabao Cup o EFL Cup),46,2019.0
-242437,Gillingham,2,https://media.api-sports.io/football/teams/1347.png,Colchester,3,https://media.api-sports.io/football/teams/1361.png,England,Copa de la liga (Carabao Cup o EFL Cup),46,2019.0
-242438,Ipswich,2,https://media.api-sports.io/football/teams/57.png,Tottenham Hotspur U21,1,https://media.api-sports.io/football/teams/7202.png,England,Copa de la liga (Carabao Cup o EFL Cup),46,2019.0
-242439,Leyton Orient,2,https://media.api-sports.io/football/teams/1373.png,Southend,0,https://media.api-sports.io/football/teams/1341.png,England,Copa de la liga (Carabao Cup o EFL Cup),46,2019.0
-242440,Macclesfield,2,https://media.api-sports.io/football/teams/1380.png,Newcastle United U21,1,https://media.api-sports.io/football/teams/7199.png,England,Copa de la liga (Carabao Cup o EFL Cup),46,2019.0
-242441,Oxford United,2,https://media.api-sports.io/football/teams/1338.png,Norwich City U21,1,https://media.api-sports.io/football/teams/7200.png,England,Copa de la liga (Carabao Cup o EFL Cup),46,2019.0
-242442,Plymouth,1,https://media.api-sports.io/football/teams/1357.png,Bristol Rovers,1,https://media.api-sports.io/football/teams/1334.png,England,Copa de la liga (Carabao Cup o EFL Cup),46,2019.0
-242443,Port Vale,2,https://media.api-sports.io/football/teams/1351.png,Shrewsbury,1,https://media.api-sports.io/football/teams/1352.png,England,Copa de la liga (Carabao Cup o EFL Cup),46,2019.0
-242444,Portsmouth,1,https://media.api-sports.io/football/teams/1355.png,Crawley Town,0,https://media.api-sports.io/football/teams/1362.png,England,Copa de la liga (Carabao Cup o EFL Cup),46,2019.0
-242445,Stevenage,0,https://media.api-sports.io/football/teams/1368.png,Milton Keynes Dons,3,https://media.api-sports.io/football/teams/1348.png,England,Copa de la liga (Carabao Cup o EFL Cup),46,2019.0
-242446,Exeter City,1,https://media.api-sports.io/football/teams/1364.png,Cheltenham,0,https://media.api-sports.io/football/teams/1372.png,England,Copa de la liga (Carabao Cup o EFL Cup),46,2019.0
-242447,Salford City,2,https://media.api-sports.io/football/teams/1844.png,Aston Villa U21,0,https://media.api-sports.io/football/teams/7190.png,England,Copa de la liga (Carabao Cup o EFL Cup),46,2019.0
-242448,Newport County,4,https://media.api-sports.io/football/teams/1367.png,West Ham United U21,5,https://media.api-sports.io/football/teams/7203.png,England,Copa de la liga (Carabao Cup o EFL Cup),46,2019.0
-242449,Rochdale,0,https://media.api-sports.io/football/teams/1339.png,Manchester City U21,2,https://media.api-sports.io/football/teams/7197.png,England,Copa de la liga (Carabao Cup o EFL Cup),46,2019.0
-242450,Portsmouth,3,https://media.api-sports.io/football/teams/1355.png,Norwich City U21,1,https://media.api-sports.io/football/teams/7200.png,England,Copa de la liga (Carabao Cup o EFL Cup),46,2019.0
-242451,Bristol Rovers,2,https://media.api-sports.io/football/teams/1334.png,Chelsea U21,1,https://media.api-sports.io/football/teams/7192.png,England,Copa de la liga (Carabao Cup o EFL Cup),46,2019.0
-242452,Carlisle,2,https://media.api-sports.io/football/teams/1371.png,Wolves U21,4,https://media.api-sports.io/football/teams/7204.png,England,Copa de la liga (Carabao Cup o EFL Cup),46,2019.0
-242453,Macclesfield,2,https://media.api-sports.io/football/teams/1380.png,Port Vale,3,https://media.api-sports.io/football/teams/1351.png,England,Copa de la liga (Carabao Cup o EFL Cup),46,2019.0
-242454,Scunthorpe,1,https://media.api-sports.io/football/teams/1340.png,Leicester City U21,1,https://media.api-sports.io/football/teams/7195.png,England,Copa de la liga (Carabao Cup o EFL Cup),46,2019.0
-242455,Fleetwood Town,1,https://media.api-sports.io/football/teams/1336.png,Liverpool U21,1,https://media.api-sports.io/football/teams/7196.png,England,Copa de la liga (Carabao Cup o EFL Cup),46,2019.0
-242456,Walsall,1,https://media.api-sports.io/football/teams/1342.png,Southampton U21,0,https://media.api-sports.io/football/teams/7201.png,England,Copa de la liga (Carabao Cup o EFL Cup),46,2019.0
-242457,Peterborough,1,https://media.api-sports.io/football/teams/1350.png,Arsenal U21,0,https://media.api-sports.io/football/teams/7189.png,England,Copa de la liga (Carabao Cup o EFL Cup),46,2019.0
-242458,Crawley Town,1,https://media.api-sports.io/football/teams/1362.png,Norwich City U21,2,https://media.api-sports.io/football/teams/7200.png,England,Copa de la liga (Carabao Cup o EFL Cup),46,2019.0
-242459,Milton Keynes Dons,1,https://media.api-sports.io/football/teams/1348.png,Fulham U21,0,https://media.api-sports.io/football/teams/7194.png,England,Copa de la liga (Carabao Cup o EFL Cup),46,2019.0
-242460,Morecambe,2,https://media.api-sports.io/football/teams/1375.png,Wolves U21,2,https://media.api-sports.io/football/teams/7204.png,England,Copa de la liga (Carabao Cup o EFL Cup),46,2019.0
-242461,Rochdale,1,https://media.api-sports.io/football/teams/1339.png,Bolton,1,https://media.api-sports.io/football/teams/68.png,England,Copa de la liga (Carabao Cup o EFL Cup),46,2019.0
-242462,Southend,0,https://media.api-sports.io/football/teams/1341.png,Brighton U21,2,https://media.api-sports.io/football/teams/7191.png,England,Copa de la liga (Carabao Cup o EFL Cup),46,2019.0
-242463,Burton Albion,0,https://media.api-sports.io/football/teams/748.png,Everton U21,2,https://media.api-sports.io/football/teams/7193.png,England,Copa de la liga (Carabao Cup o EFL Cup),46,2019.0
-242464,Forest Green,0,https://media.api-sports.io/football/teams/1378.png,Coventry,0,https://media.api-sports.io/football/teams/1346.png,England,Copa de la liga (Carabao Cup o EFL Cup),46,2019.0
-242465,Rotherham,3,https://media.api-sports.io/football/teams/73.png,Doncaster,2,https://media.api-sports.io/football/teams/1354.png,England,Copa de la liga (Carabao Cup o EFL Cup),46,2019.0
-242466,Shrewsbury,3,https://media.api-sports.io/football/teams/1352.png,Newcastle United U21,0,https://media.api-sports.io/football/teams/7199.png,England,Copa de la liga (Carabao Cup o EFL Cup),46,2019.0
-242467,Bradford,1,https://media.api-sports.io/football/teams/1343.png,Manchester City U21,2,https://media.api-sports.io/football/teams/7197.png,England,Copa de la liga (Carabao Cup o EFL Cup),46,2019.0
-242468,Colchester,1,https://media.api-sports.io/football/teams/1361.png,Tottenham Hotspur U21,1,https://media.api-sports.io/football/teams/7202.png,England,Copa de la liga (Carabao Cup o EFL Cup),46,2019.0
-242469,Cambridge United,0,https://media.api-sports.io/football/teams/1370.png,Northampton,1,https://media.api-sports.io/football/teams/1337.png,England,Copa de la liga (Carabao Cup o EFL Cup),46,2019.0
-242470,AFC Wimbledon,3,https://media.api-sports.io/football/teams/1333.png,Leyton Orient,0,https://media.api-sports.io/football/teams/1373.png,England,Copa de la liga (Carabao Cup o EFL Cup),46,2019.0
-242471,Cheltenham,4,https://media.api-sports.io/football/teams/1372.png,West Ham United U21,3,https://media.api-sports.io/football/teams/7203.png,England,Copa de la liga (Carabao Cup o EFL Cup),46,2019.0
-242472,Ipswich,4,https://media.api-sports.io/football/teams/57.png,Gillingham,0,https://media.api-sports.io/football/teams/1347.png,England,Copa de la liga (Carabao Cup o EFL Cup),46,2019.0
-242473,Mansfield Town,1,https://media.api-sports.io/football/teams/1374.png,Crewe,1,https://media.api-sports.io/football/teams/1363.png,England,Copa de la liga (Carabao Cup o EFL Cup),46,2019.0
-242474,Newport County,0,https://media.api-sports.io/football/teams/1367.png,Exeter City,2,https://media.api-sports.io/football/teams/1364.png,England,Copa de la liga (Carabao Cup o EFL Cup),46,2019.0
-242475,Oldham,0,https://media.api-sports.io/football/teams/1349.png,Accrington ST,3,https://media.api-sports.io/football/teams/1360.png,England,Copa de la liga (Carabao Cup o EFL Cup),46,2019.0
-242476,Oxford United,2,https://media.api-sports.io/football/teams/1338.png,Portsmouth,2,https://media.api-sports.io/football/teams/1355.png,England,Copa de la liga (Carabao Cup o EFL Cup),46,2019.0
-242477,Swindon Town,0,https://media.api-sports.io/football/teams/1353.png,Plymouth,3,https://media.api-sports.io/football/teams/1357.png,England,Copa de la liga (Carabao Cup o EFL Cup),46,2019.0
-242478,Wycombe,0,https://media.api-sports.io/football/teams/1358.png,Stevenage,1,https://media.api-sports.io/football/teams/1368.png,England,Copa de la liga (Carabao Cup o EFL Cup),46,2019.0
-242479,Tranmere,2,https://media.api-sports.io/football/teams/1381.png,Aston Villa U21,1,https://media.api-sports.io/football/teams/7190.png,England,Copa de la liga (Carabao Cup o EFL Cup),46,2019.0
-242480,Sunderland,3,https://media.api-sports.io/football/teams/746.png,Grimsby,2,https://media.api-sports.io/football/teams/1365.png,England,Copa de la liga (Carabao Cup o EFL Cup),46,2019.0
-242481,Carlisle,2,https://media.api-sports.io/football/teams/1371.png,Blackpool,1,https://media.api-sports.io/football/teams/1356.png,England,Copa de la liga (Carabao Cup o EFL Cup),46,2019.0
-242482,Accrington ST,5,https://media.api-sports.io/football/teams/1360.png,Liverpool U21,2,https://media.api-sports.io/football/teams/7196.png,England,Copa de la liga (Carabao Cup o EFL Cup),46,2019.0
-242483,Doncaster,1,https://media.api-sports.io/football/teams/1354.png,Manchester United U21,2,https://media.api-sports.io/football/teams/7198.png,England,Copa de la liga (Carabao Cup o EFL Cup),46,2019.0
-242484,Plymouth,0,https://media.api-sports.io/football/teams/1357.png,Chelsea U21,1,https://media.api-sports.io/football/teams/7192.png,England,Copa de la liga (Carabao Cup o EFL Cup),46,2019.0
-242485,Stevenage,1,https://media.api-sports.io/football/teams/1368.png,Fulham U21,1,https://media.api-sports.io/football/teams/7194.png,England,Copa de la liga (Carabao Cup o EFL Cup),46,2019.0
-242486,Grimsby,1,https://media.api-sports.io/football/teams/1365.png,Leicester City U21,2,https://media.api-sports.io/football/teams/7195.png,England,Copa de la liga (Carabao Cup o EFL Cup),46,2019.0
-242487,Cambridge United,1,https://media.api-sports.io/football/teams/1370.png,Arsenal U21,1,https://media.api-sports.io/football/teams/7189.png,England,Copa de la liga (Carabao Cup o EFL Cup),46,2019.0
-242488,Blackpool,1,https://media.api-sports.io/football/teams/1356.png,Wolves U21,0,https://media.api-sports.io/football/teams/7204.png,England,Copa de la liga (Carabao Cup o EFL Cup),46,2019.0
-242489,Coventry,3,https://media.api-sports.io/football/teams/1346.png,Southampton U21,2,https://media.api-sports.io/football/teams/7201.png,England,Copa de la liga (Carabao Cup o EFL Cup),46,2019.0
-242490,Leyton Orient,1,https://media.api-sports.io/football/teams/1373.png,Brighton U21,1,https://media.api-sports.io/football/teams/7191.png,England,Copa de la liga (Carabao Cup o EFL Cup),46,2019.0
-242491,Wycombe,1,https://media.api-sports.io/football/teams/1358.png,Fulham U21,2,https://media.api-sports.io/football/teams/7194.png,England,Copa de la liga (Carabao Cup o EFL Cup),46,2019.0
-242492,Sunderland,1,https://media.api-sports.io/football/teams/746.png,Leicester City U21,2,https://media.api-sports.io/football/teams/7195.png,England,Copa de la liga (Carabao Cup o EFL Cup),46,2019.0
-242493,Crewe,2,https://media.api-sports.io/football/teams/1363.png,Everton U21,2,https://media.api-sports.io/football/teams/7193.png,England,Copa de la liga (Carabao Cup o EFL Cup),46,2019.0
-242494,Bolton,3,https://media.api-sports.io/football/teams/68.png,Manchester City U21,1,https://media.api-sports.io/football/teams/7197.png,England,Copa de la liga (Carabao Cup o EFL Cup),46,2019.0
-242495,Walsall,6,https://media.api-sports.io/football/teams/1342.png,Forest Green,0,https://media.api-sports.io/football/teams/1378.png,England,Copa de la liga (Carabao Cup o EFL Cup),46,2019.0
-242496,Bradford,1,https://media.api-sports.io/football/teams/1343.png,Rochdale,2,https://media.api-sports.io/football/teams/1339.png,England,Copa de la liga (Carabao Cup o EFL Cup),46,2019.0
-242497,Colchester,1,https://media.api-sports.io/football/teams/1361.png,Ipswich,0,https://media.api-sports.io/football/teams/57.png,England,Copa de la liga (Carabao Cup o EFL Cup),46,2019.0
-242498,Peterborough,2,https://media.api-sports.io/football/teams/1350.png,Cambridge United,1,https://media.api-sports.io/football/teams/1370.png,England,Copa de la liga (Carabao Cup o EFL Cup),46,2019.0
-242499,Shrewsbury,3,https://media.api-sports.io/football/teams/1352.png,Macclesfield,1,https://media.api-sports.io/football/teams/1380.png,England,Copa de la liga (Carabao Cup o EFL Cup),46,2019.0
-242500,Bristol Rovers,1,https://media.api-sports.io/football/teams/1334.png,Swindon Town,0,https://media.api-sports.io/football/teams/1353.png,England,Copa de la liga (Carabao Cup o EFL Cup),46,2019.0
-242501,Burton Albion,1,https://media.api-sports.io/football/teams/748.png,Mansfield Town,2,https://media.api-sports.io/football/teams/1374.png,England,Copa de la liga (Carabao Cup o EFL Cup),46,2019.0
-242502,Cheltenham,4,https://media.api-sports.io/football/teams/1372.png,Newport County,7,https://media.api-sports.io/football/teams/1367.png,England,Copa de la liga (Carabao Cup o EFL Cup),46,2019.0
-242503,Crawley Town,1,https://media.api-sports.io/football/teams/1362.png,Oxford United,4,https://media.api-sports.io/football/teams/1338.png,England,Copa de la liga (Carabao Cup o EFL Cup),46,2019.0
-242504,Fleetwood Town,5,https://media.api-sports.io/football/teams/1336.png,Oldham,2,https://media.api-sports.io/football/teams/1349.png,England,Copa de la liga (Carabao Cup o EFL Cup),46,2019.0
-242505,Gillingham,2,https://media.api-sports.io/football/teams/1347.png,Tottenham Hotspur U21,0,https://media.api-sports.io/football/teams/7202.png,England,Copa de la liga (Carabao Cup o EFL Cup),46,2019.0
-242506,Lincoln,3,https://media.api-sports.io/football/teams/1379.png,Rotherham,0,https://media.api-sports.io/football/teams/73.png,England,Copa de la liga (Carabao Cup o EFL Cup),46,2019.0
-242507,Milton Keynes Dons,1,https://media.api-sports.io/football/teams/1348.png,Wycombe,2,https://media.api-sports.io/football/teams/1358.png,England,Copa de la liga (Carabao Cup o EFL Cup),46,2019.0
-242508,Morecambe,3,https://media.api-sports.io/football/teams/1375.png,Carlisle,1,https://media.api-sports.io/football/teams/1371.png,England,Copa de la liga (Carabao Cup o EFL Cup),46,2019.0
-242509,Port Vale,2,https://media.api-sports.io/football/teams/1351.png,Newcastle United U21,1,https://media.api-sports.io/football/teams/7199.png,England,Copa de la liga (Carabao Cup o EFL Cup),46,2019.0
-242510,Scunthorpe,3,https://media.api-sports.io/football/teams/1340.png,Sunderland,0,https://media.api-sports.io/football/teams/746.png,England,Copa de la liga (Carabao Cup o EFL Cup),46,2019.0
-242511,Tranmere,0,https://media.api-sports.io/football/teams/1381.png,Salford City,2,https://media.api-sports.io/football/teams/1844.png,England,Copa de la liga (Carabao Cup o EFL Cup),46,2019.0
-242512,Southend,3,https://media.api-sports.io/football/teams/1341.png,AFC Wimbledon,1,https://media.api-sports.io/football/teams/1333.png,England,Copa de la liga (Carabao Cup o EFL Cup),46,2019.0
-242513,Exeter City,3,https://media.api-sports.io/football/teams/1364.png,West Ham United U21,1,https://media.api-sports.io/football/teams/7203.png,England,Copa de la liga (Carabao Cup o EFL Cup),46,2019.0
-243137,Lincoln,0,https://media.api-sports.io/football/teams/1379.png,Manchester United U21,1,https://media.api-sports.io/football/teams/7198.png,England,Copa de la liga (Carabao Cup o EFL Cup),46,2019.0
-289482,Port Vale,2,https://media.api-sports.io/football/teams/1351.png,Mansfield Town,2,https://media.api-sports.io/football/teams/1374.png,England,Copa de la liga (Carabao Cup o EFL Cup),46,2019.0
-289483,Accrington ST,2,https://media.api-sports.io/football/teams/1360.png,Bolton,0,https://media.api-sports.io/football/teams/68.png,England,Copa de la liga (Carabao Cup o EFL Cup),46,2019.0
-289484,Doncaster,0,https://media.api-sports.io/football/teams/1354.png,Leicester City U21,3,https://media.api-sports.io/football/teams/7195.png,England,Copa de la liga (Carabao Cup o EFL Cup),46,2019.0
-289485,Salford City,3,https://media.api-sports.io/football/teams/1844.png,Wolves U21,0,https://media.api-sports.io/football/teams/7204.png,England,Copa de la liga (Carabao Cup o EFL Cup),46,2019.0
-289486,Everton U21,0,https://media.api-sports.io/football/teams/7193.png,Fleetwood Town,4,https://media.api-sports.io/football/teams/1336.png,England,Copa de la liga (Carabao Cup o EFL Cup),46,2019.0
-289487,Shrewsbury,1,https://media.api-sports.io/football/teams/1352.png,Manchester City U21,1,https://media.api-sports.io/football/teams/7197.png,England,Copa de la liga (Carabao Cup o EFL Cup),46,2019.0
-289488,Blackpool,1,https://media.api-sports.io/football/teams/1356.png,Scunthorpe,3,https://media.api-sports.io/football/teams/1340.png,England,Copa de la liga (Carabao Cup o EFL Cup),46,2019.0
-289489,Tranmere,3,https://media.api-sports.io/football/teams/1381.png,Manchester United U21,2,https://media.api-sports.io/football/teams/7198.png,England,Copa de la liga (Carabao Cup o EFL Cup),46,2019.0
-289490,Colchester,1,https://media.api-sports.io/football/teams/1361.png,Stevenage,2,https://media.api-sports.io/football/teams/1368.png,England,Copa de la liga (Carabao Cup o EFL Cup),46,2019.0
-289491,Walsall,3,https://media.api-sports.io/football/teams/1342.png,Chelsea U21,2,https://media.api-sports.io/football/teams/7192.png,England,Copa de la liga (Carabao Cup o EFL Cup),46,2019.0
-289492,Brighton U21,0,https://media.api-sports.io/football/teams/7191.png,Newport County,0,https://media.api-sports.io/football/teams/1367.png,England,Copa de la liga (Carabao Cup o EFL Cup),46,2019.0
-289493,Portsmouth,2,https://media.api-sports.io/football/teams/1355.png,Northampton,1,https://media.api-sports.io/football/teams/1337.png,England,Copa de la liga (Carabao Cup o EFL Cup),46,2019.0
-289494,Milton Keynes Dons,2,https://media.api-sports.io/football/teams/1348.png,Coventry,0,https://media.api-sports.io/football/teams/1346.png,England,Copa de la liga (Carabao Cup o EFL Cup),46,2019.0
-289495,Exeter City,0,https://media.api-sports.io/football/teams/1364.png,Oxford United,0,https://media.api-sports.io/football/teams/1338.png,England,Copa de la liga (Carabao Cup o EFL Cup),46,2019.0
-289496,Peterborough,1,https://media.api-sports.io/football/teams/1350.png,Ipswich,1,https://media.api-sports.io/football/teams/57.png,England,Copa de la liga (Carabao Cup o EFL Cup),46,2019.0
-289497,Bristol Rovers,1,https://media.api-sports.io/football/teams/1334.png,Leyton Orient,1,https://media.api-sports.io/football/teams/1373.png,England,Copa de la liga (Carabao Cup o EFL Cup),46,2019.0
 291993,Walsall,1,https://media.api-sports.io/football/teams/1342.png,Portsmouth,2,https://media.api-sports.io/football/teams/1355.png,England,Copa de la liga (Carabao Cup o EFL Cup),46,2019.0
 307430,Exeter City,2,https://media.api-sports.io/football/teams/1364.png,Ipswich,1,https://media.api-sports.io/football/teams/57.png,England,Copa de la liga (Carabao Cup o EFL Cup),46,2019.0
 307431,Newport County,3,https://media.api-sports.io/football/teams/1367.png,Milton Keynes Dons,0,https://media.api-sports.io/football/teams/1348.png,England,Copa de la liga (Carabao Cup o EFL Cup),46,2019.0
@@ -9462,60 +9353,6 @@ fixture_id,home_team,home_goals,home_logo,away_team,away_goals,away_logo,country
 232901,Brescia,1,https://media.api-sports.io/football/teams/518.png,Sampdoria,1,https://media.api-sports.io/football/teams/498.png,Italy,Serie A,135,2019.0
 232902,Bologna,1,https://media.api-sports.io/football/teams/500.png,Torino,1,https://media.api-sports.io/football/teams/503.png,Italy,Serie A,135,2019.0
 232903,Sassuolo,0,https://media.api-sports.io/football/teams/488.png,Udinese,1,https://media.api-sports.io/football/teams/494.png,Italy,Serie A,135,2019.0
-230498,Livorno,0,https://media.api-sports.io/football/teams/868.png,Carpi,1,https://media.api-sports.io/football/teams/519.png,Italy,Copa de Italia,137,2019.0
-230499,Cittadella,3,https://media.api-sports.io/football/teams/510.png,Padova,0,https://media.api-sports.io/football/teams/870.png,Italy,Copa de Italia,137,2019.0
-230500,Triestina,3,https://media.api-sports.io/football/teams/877.png,Cavese,1,https://media.api-sports.io/football/teams/1712.png,Italy,Copa de Italia,137,2019.0
-230501,Pro Patria,1,https://media.api-sports.io/football/teams/1706.png,Matelica,0,https://media.api-sports.io/football/teams/888.png,Italy,Copa de Italia,137,2019.0
-230502,Virtus Francavilla,2,https://media.api-sports.io/football/teams/873.png,Novara,1,https://media.api-sports.io/football/teams/513.png,Italy,Copa de Italia,137,2019.0
-230503,Reggiana,3,https://media.api-sports.io/football/teams/880.png,Vicenza Virtus,2,https://media.api-sports.io/football/teams/1584.png,Italy,Copa de Italia,137,2019.0
-230504,Robur Siena,0,https://media.api-sports.io/football/teams/1583.png,Mantova,2,https://media.api-sports.io/football/teams/1693.png,Italy,Copa de Italia,137,2019.0
-230505,Monza,2,https://media.api-sports.io/football/teams/1579.png,Alessandria,0,https://media.api-sports.io/football/teams/878.png,Italy,Copa de Italia,137,2019.0
-230506,Ravenna,1,https://media.api-sports.io/football/teams/1705.png,Sanremese,0,https://media.api-sports.io/football/teams/9439.png,Italy,Copa de Italia,137,2019.0
-230507,Arezzo,1,https://media.api-sports.io/football/teams/876.png,Turris,0,https://media.api-sports.io/football/teams/5608.png,Italy,Copa de Italia,137,2019.0
-230508,Catanzaro,4,https://media.api-sports.io/football/teams/1687.png,Casertana,1,https://media.api-sports.io/football/teams/885.png,Italy,Copa de Italia,137,2019.0
-230509,Imolese,3,https://media.api-sports.io/football/teams/893.png,Sambenedettese,3,https://media.api-sports.io/football/teams/871.png,Italy,Copa de Italia,137,2019.0
-230510,PRO Vercelli,2,https://media.api-sports.io/football/teams/526.png,Rende,0,https://media.api-sports.io/football/teams/886.png,Italy,Copa de Italia,137,2019.0
-230511,Piacenza,1,https://media.api-sports.io/football/teams/872.png,Viterbese,1,https://media.api-sports.io/football/teams/1585.png,Italy,Copa de Italia,137,2019.0
-230512,Catania,3,https://media.api-sports.io/football/teams/1580.png,Fanfulla,0,https://media.api-sports.io/football/teams/5605.png,Italy,Copa de Italia,137,2019.0
-230513,Carrarese,1,https://media.api-sports.io/football/teams/1581.png,Fermana,1,https://media.api-sports.io/football/teams/1701.png,Italy,Copa de Italia,137,2019.0
-230514,SS Monopoli,4,https://media.api-sports.io/football/teams/10138.png,Ponsacco,1,https://media.api-sports.io/football/teams/5607.png,Italy,Copa de Italia,137,2019.0
-230515,Sudtirol,4,https://media.api-sports.io/football/teams/1578.png,Città di Fasano,2,https://media.api-sports.io/football/teams/5604.png,Italy,Copa de Italia,137,2019.0
-230516,Potenza,2,https://media.api-sports.io/football/teams/1710.png,Lanusei,0,https://media.api-sports.io/football/teams/5606.png,Italy,Copa de Italia,137,2019.0
-230517,Adriese,0,https://media.api-sports.io/football/teams/5603.png,Feralpisalo,1,https://media.api-sports.io/football/teams/884.png,Italy,Copa de Italia,137,2019.0
-233122,Perugia,1,https://media.api-sports.io/football/teams/524.png,Triestina,0,https://media.api-sports.io/football/teams/877.png,Italy,Copa de Italia,137,2019.0
-233123,Spezia,5,https://media.api-sports.io/football/teams/515.png,Pro Patria,0,https://media.api-sports.io/football/teams/1706.png,Italy,Copa de Italia,137,2019.0
-233124,Cremonese,4,https://media.api-sports.io/football/teams/520.png,Virtus Francavilla,0,https://media.api-sports.io/football/teams/873.png,Italy,Copa de Italia,137,2019.0
-233125,Pescara,3,https://media.api-sports.io/football/teams/525.png,Mantova,2,https://media.api-sports.io/football/teams/1693.png,Italy,Copa de Italia,137,2019.0
-233126,Benevento,3,https://media.api-sports.io/football/teams/506.png,Monza,4,https://media.api-sports.io/football/teams/1579.png,Italy,Copa de Italia,137,2019.0
-233127,Chievo,1,https://media.api-sports.io/football/teams/491.png,Ravenna,1,https://media.api-sports.io/football/teams/1705.png,Italy,Copa de Italia,137,2019.0
-233128,Crotone,4,https://media.api-sports.io/football/teams/501.png,Arezzo,3,https://media.api-sports.io/football/teams/876.png,Italy,Copa de Italia,137,2019.0
-233129,Salernitana,3,https://media.api-sports.io/football/teams/514.png,Catanzaro,1,https://media.api-sports.io/football/teams/1687.png,Italy,Copa de Italia,137,2019.0
-233130,Juve Stabia,1,https://media.api-sports.io/football/teams/863.png,Imolese,1,https://media.api-sports.io/football/teams/893.png,Italy,Copa de Italia,137,2019.0
-233131,Ascoli,5,https://media.api-sports.io/football/teams/507.png,PRO Vercelli,1,https://media.api-sports.io/football/teams/526.png,Italy,Copa de Italia,137,2019.0
-233132,Trapani,3,https://media.api-sports.io/football/teams/803.png,Piacenza,1,https://media.api-sports.io/football/teams/872.png,Italy,Copa de Italia,137,2019.0
-233133,Venezia,2,https://media.api-sports.io/football/teams/517.png,Catania,1,https://media.api-sports.io/football/teams/1580.png,Italy,Copa de Italia,137,2019.0
-233134,Frosinone,4,https://media.api-sports.io/football/teams/512.png,Carrarese,0,https://media.api-sports.io/football/teams/1581.png,Italy,Copa de Italia,137,2019.0
-233135,SS Monopoli,1,https://media.api-sports.io/football/teams/10138.png,Nuova Cosenza,0,https://media.api-sports.io/football/teams/10137.png,Italy,Copa de Italia,137,2019.0
-233136,Virtus Entella,1,https://media.api-sports.io/football/teams/527.png,Sudtirol,2,https://media.api-sports.io/football/teams/1578.png,Italy,Copa de Italia,137,2019.0
-233137,Pisa,3,https://media.api-sports.io/football/teams/801.png,Potenza,0,https://media.api-sports.io/football/teams/1710.png,Italy,Copa de Italia,137,2019.0
-234897,Empoli,2,https://media.api-sports.io/football/teams/511.png,Reggiana,1,https://media.api-sports.io/football/teams/880.png,Italy,Copa de Italia,137,2019.0
-234898,Pordenone,1,https://media.api-sports.io/football/teams/862.png,Feralpisalo,2,https://media.api-sports.io/football/teams/884.png,Italy,Copa de Italia,137,2019.0
-234916,Perugia,2,https://media.api-sports.io/football/teams/524.png,Brescia,1,https://media.api-sports.io/football/teams/518.png,Italy,Copa de Italia,137,2019.0
-235035,Genoa,4,https://media.api-sports.io/football/teams/495.png,Imolese,1,https://media.api-sports.io/football/teams/893.png,Italy,Copa de Italia,137,2019.0
-235036,Parma,3,https://media.api-sports.io/football/teams/523.png,Venezia,1,https://media.api-sports.io/football/teams/517.png,Italy,Copa de Italia,137,2019.0
-235037,Fiorentina,3,https://media.api-sports.io/football/teams/502.png,Monza,1,https://media.api-sports.io/football/teams/1579.png,Italy,Copa de Italia,137,2019.0
-235038,Verona,1,https://media.api-sports.io/football/teams/504.png,Cremonese,2,https://media.api-sports.io/football/teams/520.png,Italy,Copa de Italia,137,2019.0
-235039,Ascoli,2,https://media.api-sports.io/football/teams/507.png,Trapani,0,https://media.api-sports.io/football/teams/803.png,Italy,Copa de Italia,137,2019.0
-235040,Frosinone,5,https://media.api-sports.io/football/teams/512.png,SS Monopoli,1,https://media.api-sports.io/football/teams/10138.png,Italy,Copa de Italia,137,2019.0
-235041,Cagliari,2,https://media.api-sports.io/football/teams/490.png,Chievo,1,https://media.api-sports.io/football/teams/491.png,Italy,Copa de Italia,137,2019.0
-235042,Cittadella,3,https://media.api-sports.io/football/teams/510.png,Carpi,3,https://media.api-sports.io/football/teams/519.png,Italy,Copa de Italia,137,2019.0
-235043,Empoli,2,https://media.api-sports.io/football/teams/511.png,Pescara,1,https://media.api-sports.io/football/teams/525.png,Italy,Copa de Italia,137,2019.0
-235044,Udinese,3,https://media.api-sports.io/football/teams/494.png,Sudtirol,1,https://media.api-sports.io/football/teams/1578.png,Italy,Copa de Italia,137,2019.0
-235045,Sassuolo,1,https://media.api-sports.io/football/teams/488.png,Spezia,0,https://media.api-sports.io/football/teams/515.png,Italy,Copa de Italia,137,2019.0
-235046,Spal,3,https://media.api-sports.io/football/teams/493.png,Feralpisalo,1,https://media.api-sports.io/football/teams/884.png,Italy,Copa de Italia,137,2019.0
-235047,Lecce,4,https://media.api-sports.io/football/teams/867.png,Salernitana,0,https://media.api-sports.io/football/teams/514.png,Italy,Copa de Italia,137,2019.0
-235048,Pisa,0,https://media.api-sports.io/football/teams/801.png,Bologna,3,https://media.api-sports.io/football/teams/500.png,Italy,Copa de Italia,137,2019.0
-235049,Crotone,1,https://media.api-sports.io/football/teams/501.png,Sampdoria,3,https://media.api-sports.io/football/teams/498.png,Italy,Copa de Italia,137,2019.0
 238933,Cagliari,2,https://media.api-sports.io/football/teams/490.png,Sampdoria,1,https://media.api-sports.io/football/teams/498.png,Italy,Copa de Italia,137,2019.0
 238934,Cremonese,1,https://media.api-sports.io/football/teams/520.png,Empoli,0,https://media.api-sports.io/football/teams/511.png,Italy,Copa de Italia,137,2019.0
 238935,Fiorentina,2,https://media.api-sports.io/football/teams/502.png,Cittadella,0,https://media.api-sports.io/football/teams/510.png,Italy,Copa de Italia,137,2019.0
@@ -9813,7 +9650,6 @@ fixture_id,home_team,home_goals,home_logo,away_team,away_goals,away_logo,country
 157681,Montpellier,3,https://media.api-sports.io/football/teams/82.png,Strasbourg,0,https://media.api-sports.io/football/teams/95.png,France,Ligue 1,61,2019.0
 157682,Nantes,0,https://media.api-sports.io/football/teams/83.png,Lille,1,https://media.api-sports.io/football/teams/79.png,France,Ligue 1,61,2019.0
 157683,Nice,2,https://media.api-sports.io/football/teams/84.png,Monaco,1,https://media.api-sports.io/football/teams/91.png,France,Ligue 1,61,2019.0
-157684,Strasbourg,,https://media.api-sports.io/football/teams/95.png,Paris Saint Germain,,https://media.api-sports.io/football/teams/85.png,France,Ligue 1,61,2019.0
 157685,Dijon,2,https://media.api-sports.io/football/teams/89.png,Toulouse,1,https://media.api-sports.io/football/teams/96.png,France,Ligue 1,61,2019.0
 157686,Lille,1,https://media.api-sports.io/football/teams/79.png,Lyon,0,https://media.api-sports.io/football/teams/80.png,France,Ligue 1,61,2019.0
 157687,Saint Etienne,1,https://media.api-sports.io/football/teams/1063.png,Bordeaux,1,https://media.api-sports.io/football/teams/78.png,France,Ligue 1,61,2019.0
@@ -9822,285 +9658,11 @@ fixture_id,home_team,home_goals,home_logo,away_team,away_goals,away_logo,country
 157690,Metz,2,https://media.api-sports.io/football/teams/112.png,Nimes,1,https://media.api-sports.io/football/teams/92.png,France,Ligue 1,61,2019.0
 157691,Rennes,5,https://media.api-sports.io/football/teams/94.png,Montpellier,0,https://media.api-sports.io/football/teams/82.png,France,Ligue 1,61,2019.0
 157692,Reims,1,https://media.api-sports.io/football/teams/93.png,Stade Brestois 29,0,https://media.api-sports.io/football/teams/106.png,France,Ligue 1,61,2019.0
-157693,Paris Saint Germain,,https://media.api-sports.io/football/teams/85.png,Nice,,https://media.api-sports.io/football/teams/84.png,France,Ligue 1,61,2019.0
-157694,Lyon,,https://media.api-sports.io/football/teams/80.png,Reims,,https://media.api-sports.io/football/teams/93.png,France,Ligue 1,61,2019.0
-157695,Nantes,,https://media.api-sports.io/football/teams/83.png,Nimes,,https://media.api-sports.io/football/teams/92.png,France,Ligue 1,61,2019.0
-157696,Amiens,,https://media.api-sports.io/football/teams/87.png,Angers,,https://media.api-sports.io/football/teams/77.png,France,Ligue 1,61,2019.0
-157697,Toulouse,,https://media.api-sports.io/football/teams/96.png,Metz,,https://media.api-sports.io/football/teams/112.png,France,Ligue 1,61,2019.0
-157698,Stade Brestois 29,,https://media.api-sports.io/football/teams/106.png,Lille,,https://media.api-sports.io/football/teams/79.png,France,Ligue 1,61,2019.0
-157699,Bordeaux,,https://media.api-sports.io/football/teams/78.png,Rennes,,https://media.api-sports.io/football/teams/94.png,France,Ligue 1,61,2019.0
-157700,Monaco,,https://media.api-sports.io/football/teams/91.png,Saint Etienne,,https://media.api-sports.io/football/teams/1063.png,France,Ligue 1,61,2019.0
-157701,Strasbourg,,https://media.api-sports.io/football/teams/95.png,Dijon,,https://media.api-sports.io/football/teams/89.png,France,Ligue 1,61,2019.0
-157702,Montpellier,,https://media.api-sports.io/football/teams/82.png,Marseille,,https://media.api-sports.io/football/teams/81.png,France,Ligue 1,61,2019.0
-157703,Nice,,https://media.api-sports.io/football/teams/84.png,Montpellier,,https://media.api-sports.io/football/teams/82.png,France,Ligue 1,61,2019.0
-157704,Metz,,https://media.api-sports.io/football/teams/112.png,Stade Brestois 29,,https://media.api-sports.io/football/teams/106.png,France,Ligue 1,61,2019.0
-157705,Lille,,https://media.api-sports.io/football/teams/79.png,Monaco,,https://media.api-sports.io/football/teams/91.png,France,Ligue 1,61,2019.0
-157706,Reims,,https://media.api-sports.io/football/teams/93.png,Nantes,,https://media.api-sports.io/football/teams/83.png,France,Ligue 1,61,2019.0
-157707,Marseille,,https://media.api-sports.io/football/teams/81.png,Paris Saint Germain,,https://media.api-sports.io/football/teams/85.png,France,Ligue 1,61,2019.0
-157708,Saint Etienne,,https://media.api-sports.io/football/teams/1063.png,Strasbourg,,https://media.api-sports.io/football/teams/95.png,France,Ligue 1,61,2019.0
-157709,Nimes,,https://media.api-sports.io/football/teams/92.png,Bordeaux,,https://media.api-sports.io/football/teams/78.png,France,Ligue 1,61,2019.0
-157710,Angers,,https://media.api-sports.io/football/teams/77.png,Toulouse,,https://media.api-sports.io/football/teams/96.png,France,Ligue 1,61,2019.0
-157711,Rennes,,https://media.api-sports.io/football/teams/94.png,Lyon,,https://media.api-sports.io/football/teams/80.png,France,Ligue 1,61,2019.0
-157712,Dijon,,https://media.api-sports.io/football/teams/89.png,Amiens,,https://media.api-sports.io/football/teams/87.png,France,Ligue 1,61,2019.0
-157713,Montpellier,,https://media.api-sports.io/football/teams/82.png,Lille,,https://media.api-sports.io/football/teams/79.png,France,Ligue 1,61,2019.0
-157714,Stade Brestois 29,,https://media.api-sports.io/football/teams/106.png,Marseille,,https://media.api-sports.io/football/teams/81.png,France,Ligue 1,61,2019.0
-157715,Toulouse,,https://media.api-sports.io/football/teams/96.png,Saint Etienne,,https://media.api-sports.io/football/teams/1063.png,France,Ligue 1,61,2019.0
-157716,Lyon,,https://media.api-sports.io/football/teams/80.png,Nimes,,https://media.api-sports.io/football/teams/92.png,France,Ligue 1,61,2019.0
-157717,Monaco,,https://media.api-sports.io/football/teams/91.png,Nantes,,https://media.api-sports.io/football/teams/83.png,France,Ligue 1,61,2019.0
-157718,Bordeaux,,https://media.api-sports.io/football/teams/78.png,Reims,,https://media.api-sports.io/football/teams/93.png,France,Ligue 1,61,2019.0
-157719,Paris Saint Germain,,https://media.api-sports.io/football/teams/85.png,Metz,,https://media.api-sports.io/football/teams/112.png,France,Ligue 1,61,2019.0
-157720,Dijon,,https://media.api-sports.io/football/teams/89.png,Nice,,https://media.api-sports.io/football/teams/84.png,France,Ligue 1,61,2019.0
-157721,Amiens,,https://media.api-sports.io/football/teams/87.png,Rennes,,https://media.api-sports.io/football/teams/94.png,France,Ligue 1,61,2019.0
-157722,Strasbourg,,https://media.api-sports.io/football/teams/95.png,Angers,,https://media.api-sports.io/football/teams/77.png,France,Ligue 1,61,2019.0
-157723,Nantes,,https://media.api-sports.io/football/teams/83.png,Lyon,,https://media.api-sports.io/football/teams/80.png,France,Ligue 1,61,2019.0
-157724,Angers,,https://media.api-sports.io/football/teams/77.png,Paris Saint Germain,,https://media.api-sports.io/football/teams/85.png,France,Ligue 1,61,2019.0
-157725,Marseille,,https://media.api-sports.io/football/teams/81.png,Dijon,,https://media.api-sports.io/football/teams/89.png,France,Ligue 1,61,2019.0
-157726,Metz,,https://media.api-sports.io/football/teams/112.png,Lille,,https://media.api-sports.io/football/teams/79.png,France,Ligue 1,61,2019.0
-157727,Nimes,,https://media.api-sports.io/football/teams/92.png,Montpellier,,https://media.api-sports.io/football/teams/82.png,France,Ligue 1,61,2019.0
-157728,Nice,,https://media.api-sports.io/football/teams/84.png,Strasbourg,,https://media.api-sports.io/football/teams/95.png,France,Ligue 1,61,2019.0
-157729,Bordeaux,,https://media.api-sports.io/football/teams/78.png,Amiens,,https://media.api-sports.io/football/teams/87.png,France,Ligue 1,61,2019.0
-157730,Stade Brestois 29,,https://media.api-sports.io/football/teams/106.png,Monaco,,https://media.api-sports.io/football/teams/91.png,France,Ligue 1,61,2019.0
-157731,Reims,,https://media.api-sports.io/football/teams/93.png,Toulouse,,https://media.api-sports.io/football/teams/96.png,France,Ligue 1,61,2019.0
-157732,Saint Etienne,,https://media.api-sports.io/football/teams/1063.png,Rennes,,https://media.api-sports.io/football/teams/94.png,France,Ligue 1,61,2019.0
-157733,Toulouse,,https://media.api-sports.io/football/teams/96.png,Nantes,,https://media.api-sports.io/football/teams/83.png,France,Ligue 1,61,2019.0
-157734,Monaco,,https://media.api-sports.io/football/teams/91.png,Bordeaux,,https://media.api-sports.io/football/teams/78.png,France,Ligue 1,61,2019.0
-157735,Montpellier,,https://media.api-sports.io/football/teams/82.png,Reims,,https://media.api-sports.io/football/teams/93.png,France,Ligue 1,61,2019.0
-157736,Amiens,,https://media.api-sports.io/football/teams/87.png,Nimes,,https://media.api-sports.io/football/teams/92.png,France,Ligue 1,61,2019.0
-157737,Paris Saint Germain,,https://media.api-sports.io/football/teams/85.png,Saint Etienne,,https://media.api-sports.io/football/teams/1063.png,France,Ligue 1,61,2019.0
-157738,Lille,,https://media.api-sports.io/football/teams/79.png,Nice,,https://media.api-sports.io/football/teams/84.png,France,Ligue 1,61,2019.0
-157739,Strasbourg,,https://media.api-sports.io/football/teams/95.png,Stade Brestois 29,,https://media.api-sports.io/football/teams/106.png,France,Ligue 1,61,2019.0
-157740,Lyon,,https://media.api-sports.io/football/teams/80.png,Marseille,,https://media.api-sports.io/football/teams/81.png,France,Ligue 1,61,2019.0
-157741,Rennes,,https://media.api-sports.io/football/teams/94.png,Metz,,https://media.api-sports.io/football/teams/112.png,France,Ligue 1,61,2019.0
-157742,Dijon,,https://media.api-sports.io/football/teams/89.png,Angers,,https://media.api-sports.io/football/teams/77.png,France,Ligue 1,61,2019.0
-157743,Lyon,,https://media.api-sports.io/football/teams/80.png,Monaco,,https://media.api-sports.io/football/teams/91.png,France,Ligue 1,61,2019.0
-157744,Bordeaux,,https://media.api-sports.io/football/teams/78.png,Toulouse,,https://media.api-sports.io/football/teams/96.png,France,Ligue 1,61,2019.0
-157745,Rennes,,https://media.api-sports.io/football/teams/94.png,Strasbourg,,https://media.api-sports.io/football/teams/95.png,France,Ligue 1,61,2019.0
-157746,Saint Etienne,,https://media.api-sports.io/football/teams/1063.png,Angers,,https://media.api-sports.io/football/teams/77.png,France,Ligue 1,61,2019.0
-157747,Nantes,,https://media.api-sports.io/football/teams/83.png,Amiens,,https://media.api-sports.io/football/teams/87.png,France,Ligue 1,61,2019.0
-157748,Reims,,https://media.api-sports.io/football/teams/93.png,Paris Saint Germain,,https://media.api-sports.io/football/teams/85.png,France,Ligue 1,61,2019.0
-157749,Metz,,https://media.api-sports.io/football/teams/112.png,Dijon,,https://media.api-sports.io/football/teams/89.png,France,Ligue 1,61,2019.0
-157750,Nimes,,https://media.api-sports.io/football/teams/92.png,Lille,,https://media.api-sports.io/football/teams/79.png,France,Ligue 1,61,2019.0
-157751,Marseille,,https://media.api-sports.io/football/teams/81.png,Nice,,https://media.api-sports.io/football/teams/84.png,France,Ligue 1,61,2019.0
-157752,Stade Brestois 29,,https://media.api-sports.io/football/teams/106.png,Montpellier,,https://media.api-sports.io/football/teams/82.png,France,Ligue 1,61,2019.0
-157753,Paris Saint Germain,,https://media.api-sports.io/football/teams/85.png,Stade Brestois 29,,https://media.api-sports.io/football/teams/106.png,France,Ligue 1,61,2019.0
-157754,Dijon,,https://media.api-sports.io/football/teams/89.png,Lyon,,https://media.api-sports.io/football/teams/80.png,France,Ligue 1,61,2019.0
-157755,Monaco,,https://media.api-sports.io/football/teams/91.png,Metz,,https://media.api-sports.io/football/teams/112.png,France,Ligue 1,61,2019.0
-157756,Lille,,https://media.api-sports.io/football/teams/79.png,Reims,,https://media.api-sports.io/football/teams/93.png,France,Ligue 1,61,2019.0
-157757,Montpellier,,https://media.api-sports.io/football/teams/82.png,Bordeaux,,https://media.api-sports.io/football/teams/78.png,France,Ligue 1,61,2019.0
-157758,Nice,,https://media.api-sports.io/football/teams/84.png,Nantes,,https://media.api-sports.io/football/teams/83.png,France,Ligue 1,61,2019.0
-157759,Amiens,,https://media.api-sports.io/football/teams/87.png,Saint Etienne,,https://media.api-sports.io/football/teams/1063.png,France,Ligue 1,61,2019.0
-157760,Strasbourg,,https://media.api-sports.io/football/teams/95.png,Marseille,,https://media.api-sports.io/football/teams/81.png,France,Ligue 1,61,2019.0
-157761,Toulouse,,https://media.api-sports.io/football/teams/96.png,Nimes,,https://media.api-sports.io/football/teams/92.png,France,Ligue 1,61,2019.0
-157762,Angers,,https://media.api-sports.io/football/teams/77.png,Rennes,,https://media.api-sports.io/football/teams/94.png,France,Ligue 1,61,2019.0
-157763,Saint Etienne,,https://media.api-sports.io/football/teams/1063.png,Lille,,https://media.api-sports.io/football/teams/79.png,France,Ligue 1,61,2019.0
-157764,Reims,,https://media.api-sports.io/football/teams/93.png,Amiens,,https://media.api-sports.io/football/teams/87.png,France,Ligue 1,61,2019.0
-157765,Bordeaux,,https://media.api-sports.io/football/teams/78.png,Angers,,https://media.api-sports.io/football/teams/77.png,France,Ligue 1,61,2019.0
-157766,Nimes,,https://media.api-sports.io/football/teams/92.png,Strasbourg,,https://media.api-sports.io/football/teams/95.png,France,Ligue 1,61,2019.0
-157767,Toulouse,,https://media.api-sports.io/football/teams/96.png,Paris Saint Germain,,https://media.api-sports.io/football/teams/85.png,France,Ligue 1,61,2019.0
-157768,Rennes,,https://media.api-sports.io/football/teams/94.png,Dijon,,https://media.api-sports.io/football/teams/89.png,France,Ligue 1,61,2019.0
-157769,Metz,,https://media.api-sports.io/football/teams/112.png,Nice,,https://media.api-sports.io/football/teams/84.png,France,Ligue 1,61,2019.0
-157770,Nantes,,https://media.api-sports.io/football/teams/83.png,Stade Brestois 29,,https://media.api-sports.io/football/teams/106.png,France,Ligue 1,61,2019.0
-157771,Marseille,,https://media.api-sports.io/football/teams/81.png,Monaco,,https://media.api-sports.io/football/teams/91.png,France,Ligue 1,61,2019.0
-157772,Lyon,,https://media.api-sports.io/football/teams/80.png,Montpellier,,https://media.api-sports.io/football/teams/82.png,France,Ligue 1,61,2019.0
-157773,Dijon,,https://media.api-sports.io/football/teams/89.png,Reims,,https://media.api-sports.io/football/teams/93.png,France,Ligue 1,61,2019.0
-157774,Lille,,https://media.api-sports.io/football/teams/79.png,Amiens,,https://media.api-sports.io/football/teams/87.png,France,Ligue 1,61,2019.0
-157775,Strasbourg,,https://media.api-sports.io/football/teams/95.png,Bordeaux,,https://media.api-sports.io/football/teams/78.png,France,Ligue 1,61,2019.0
-157776,Paris Saint Germain,,https://media.api-sports.io/football/teams/85.png,Rennes,,https://media.api-sports.io/football/teams/94.png,France,Ligue 1,61,2019.0
-157777,Stade Brestois 29,,https://media.api-sports.io/football/teams/106.png,Nimes,,https://media.api-sports.io/football/teams/92.png,France,Ligue 1,61,2019.0
-157778,Nice,,https://media.api-sports.io/football/teams/84.png,Saint Etienne,,https://media.api-sports.io/football/teams/1063.png,France,Ligue 1,61,2019.0
-157779,Marseille,,https://media.api-sports.io/football/teams/81.png,Metz,,https://media.api-sports.io/football/teams/112.png,France,Ligue 1,61,2019.0
-157780,Angers,,https://media.api-sports.io/football/teams/77.png,Lyon,,https://media.api-sports.io/football/teams/80.png,France,Ligue 1,61,2019.0
-157781,Montpellier,,https://media.api-sports.io/football/teams/82.png,Nantes,,https://media.api-sports.io/football/teams/83.png,France,Ligue 1,61,2019.0
-157782,Monaco,,https://media.api-sports.io/football/teams/91.png,Toulouse,,https://media.api-sports.io/football/teams/96.png,France,Ligue 1,61,2019.0
-157783,Rennes,,https://media.api-sports.io/football/teams/94.png,Monaco,,https://media.api-sports.io/football/teams/91.png,France,Ligue 1,61,2019.0
-157784,Metz,,https://media.api-sports.io/football/teams/112.png,Angers,,https://media.api-sports.io/football/teams/77.png,France,Ligue 1,61,2019.0
-157785,Toulouse,,https://media.api-sports.io/football/teams/96.png,Montpellier,,https://media.api-sports.io/football/teams/82.png,France,Ligue 1,61,2019.0
-157786,Nimes,,https://media.api-sports.io/football/teams/92.png,Paris Saint Germain,,https://media.api-sports.io/football/teams/85.png,France,Ligue 1,61,2019.0
-157787,Nantes,,https://media.api-sports.io/football/teams/83.png,Strasbourg,,https://media.api-sports.io/football/teams/95.png,France,Ligue 1,61,2019.0
-157788,Saint Etienne,,https://media.api-sports.io/football/teams/1063.png,Dijon,,https://media.api-sports.io/football/teams/89.png,France,Ligue 1,61,2019.0
-157789,Amiens,,https://media.api-sports.io/football/teams/87.png,Nice,,https://media.api-sports.io/football/teams/84.png,France,Ligue 1,61,2019.0
-157790,Reims,,https://media.api-sports.io/football/teams/93.png,Marseille,,https://media.api-sports.io/football/teams/81.png,France,Ligue 1,61,2019.0
-157791,Bordeaux,,https://media.api-sports.io/football/teams/78.png,Lille,,https://media.api-sports.io/football/teams/79.png,France,Ligue 1,61,2019.0
-157792,Lyon,,https://media.api-sports.io/football/teams/80.png,Stade Brestois 29,,https://media.api-sports.io/football/teams/106.png,France,Ligue 1,61,2019.0
-289292,Moulien,0,https://media.api-sports.io/football/teams/3203.png,Jeunesse Evolution,2,https://media.api-sports.io/football/teams/6327.png,France,Copa de Francia,66,2019.0
-289293,Golden Star,0,https://media.api-sports.io/football/teams/9277.png,Club Franciscain,1,https://media.api-sports.io/football/teams/3258.png,France,Copa de Francia,66,2019.0
-289294,Saint-Georges,2,https://media.api-sports.io/football/teams/9307.png,CSC Cayenne,1,https://media.api-sports.io/football/teams/9270.png,France,Copa de Francia,66,2019.0
-289295,LE Havre,1,https://media.api-sports.io/football/teams/111.png,Dunkerque,3,https://media.api-sports.io/football/teams/1304.png,France,Copa de Francia,66,2019.0
-289296,Bourg-en-bresse 01,1,https://media.api-sports.io/football/teams/430.png,Estac Troyes,0,https://media.api-sports.io/football/teams/110.png,France,Copa de Francia,66,2019.0
-289297,Bourgoin-Jallieu,0,https://media.api-sports.io/football/teams/9268.png,Villefranche,2,https://media.api-sports.io/football/teams/1302.png,France,Copa de Francia,66,2019.0
-289298,Nœux-les-Mines,0,https://media.api-sports.io/football/teams/3207.png,Bastia-Borgo,2,https://media.api-sports.io/football/teams/3019.png,France,Copa de Francia,66,2019.0
-289299,Auch,0,https://media.api-sports.io/football/teams/3014.png,Rodez,5,https://media.api-sports.io/football/teams/1301.png,France,Copa de Francia,66,2019.0
-289300,Saint-Flour,3,https://media.api-sports.io/football/teams/9305.png,Ajaccio,1,https://media.api-sports.io/football/teams/98.png,France,Copa de Francia,66,2019.0
-289301,Fabrègues,3,https://media.api-sports.io/football/teams/3175.png,Agde,1,https://media.api-sports.io/football/teams/9263.png,France,Copa de Francia,66,2019.0
-289302,Belfort,1,https://media.api-sports.io/football/teams/1311.png,Gazelec FC Ajaccio,0,https://media.api-sports.io/football/teams/100.png,France,Copa de Francia,66,2019.0
-289303,Gennevilliers,0,https://media.api-sports.io/football/teams/9276.png,Le Mans,2,https://media.api-sports.io/football/teams/1298.png,France,Copa de Francia,66,2019.0
-289304,Charitoise,0,https://media.api-sports.io/football/teams/3035.png,Auxerre,4,https://media.api-sports.io/football/teams/108.png,France,Copa de Francia,66,2019.0
-289305,Bergerac,1,https://media.api-sports.io/football/teams/3022.png,Clermont Foot,0,https://media.api-sports.io/football/teams/99.png,France,Copa de Francia,66,2019.0
-289306,Ardziv,0,https://media.api-sports.io/football/teams/9264.png,Le Puy Foot,1,https://media.api-sports.io/football/teams/3069.png,France,Copa de Francia,66,2019.0
-289307,Epinal,2,https://media.api-sports.io/football/teams/1309.png,Sochaux,0,https://media.api-sports.io/football/teams/115.png,France,Copa de Francia,66,2019.0
-289308,Chateauroux,1,https://media.api-sports.io/football/teams/107.png,Niort,1,https://media.api-sports.io/football/teams/113.png,France,Copa de Francia,66,2019.0
-289309,Vénus,1,https://media.api-sports.io/football/teams/10161.png,Besançon,4,https://media.api-sports.io/football/teams/3023.png,France,Copa de Francia,66,2019.0
-289310,Jura Sud Foot,0,https://media.api-sports.io/football/teams/9255.png,Saint-Pierroise,1,https://media.api-sports.io/football/teams/3295.png,France,Copa de Francia,66,2019.0
-289311,Theix,2,https://media.api-sports.io/football/teams/3124.png,RED Star FC 93,3,https://media.api-sports.io/football/teams/104.png,France,Copa de Francia,66,2019.0
-289312,Vauban Strasbourg,3,https://media.api-sports.io/football/teams/9317.png,Hienghène Sport,1,https://media.api-sports.io/football/teams/8002.png,France,Copa de Francia,66,2019.0
-289313,Lens,3,https://media.api-sports.io/football/teams/116.png,Boulogne,1,https://media.api-sports.io/football/teams/1299.png,France,Copa de Francia,66,2019.0
-289314,Fréjus St-Raphaël,2,https://media.api-sports.io/football/teams/3051.png,Grenoble,1,https://media.api-sports.io/football/teams/101.png,France,Copa de Francia,66,2019.0
-289315,Sarre Union,0,https://media.api-sports.io/football/teams/3297.png,Creteil,2,https://media.api-sports.io/football/teams/1307.png,France,Copa de Francia,66,2019.0
-289316,Amnéville,0,https://media.api-sports.io/football/teams/3144.png,Paris FC,2,https://media.api-sports.io/football/teams/114.png,France,Copa de Francia,66,2019.0
-289317,Tours,2,https://media.api-sports.io/football/teams/432.png,Chauray,0,https://media.api-sports.io/football/teams/3037.png,France,Copa de Francia,66,2019.0
-289318,Lorient,3,https://media.api-sports.io/football/teams/97.png,Guingamp,0,https://media.api-sports.io/football/teams/90.png,France,Copa de Francia,66,2019.0
-289319,Gonfreville,1,https://media.api-sports.io/football/teams/9278.png,Le Touquet,0,https://media.api-sports.io/football/teams/9287.png,France,Copa de Francia,66,2019.0
-289320,Cambrai,0,https://media.api-sports.io/football/teams/3160.png,Quevilly,1,https://media.api-sports.io/football/teams/431.png,France,Copa de Francia,66,2019.0
-289321,Trélissac,2,https://media.api-sports.io/football/teams/9246.png,Mont-de-Marsan,0,https://media.api-sports.io/football/teams/10165.png,France,Copa de Francia,66,2019.0
-289322,Alberes Argelès,0,https://media.api-sports.io/football/teams/3143.png,PAU,1,https://media.api-sports.io/football/teams/1297.png,France,Copa de Francia,66,2019.0
-289323,Grasse,2,https://media.api-sports.io/football/teams/9257.png,Marseille Endoume,0,https://media.api-sports.io/football/teams/3199.png,France,Copa de Francia,66,2019.0
-289324,Montceau,4,https://media.api-sports.io/football/teams/3082.png,Geispolsheim,2,https://media.api-sports.io/football/teams/3183.png,France,Copa de Francia,66,2019.0
-289325,Lons,1,https://media.api-sports.io/football/teams/9289.png,Annecy,2,https://media.api-sports.io/football/teams/3012.png,France,Copa de Francia,66,2019.0
-289326,Chilly,1,https://media.api-sports.io/football/teams/9271.png,Hauts Lyonnais,0,https://media.api-sports.io/football/teams/3187.png,France,Copa de Francia,66,2019.0
-289327,Sainte Geneviève,0,https://media.api-sports.io/football/teams/3110.png,Entente S St Gratien,1,https://media.api-sports.io/football/teams/1294.png,France,Copa de Francia,66,2019.0
-289328,Moulins-Yzeure Foot 03,1,https://media.api-sports.io/football/teams/3204.png,St-Pryvé St-Hilaire,2,https://media.api-sports.io/football/teams/3117.png,France,Copa de Francia,66,2019.0
-289329,Dinan Léhon,0,https://media.api-sports.io/football/teams/9275.png,Stade Pontivy,1,https://media.api-sports.io/football/teams/3119.png,France,Copa de Francia,66,2019.0
-289330,Châteaubriant,4,https://media.api-sports.io/football/teams/9272.png,TA Rennes,0,https://media.api-sports.io/football/teams/3310.png,France,Copa de Francia,66,2019.0
-289331,Betton,0,https://media.api-sports.io/football/teams/9266.png,Concarneau,6,https://media.api-sports.io/football/teams/1300.png,France,Copa de Francia,66,2019.0
-289332,Montagnarde,1,https://media.api-sports.io/football/teams/3081.png,Stade Briochin,2,https://media.api-sports.io/football/teams/3229.png,France,Copa de Francia,66,2019.0
-289333,Granville,2,https://media.api-sports.io/football/teams/3185.png,AG Caennaise,0,https://media.api-sports.io/football/teams/3007.png,France,Copa de Francia,66,2019.0
-289334,La Flèche RC,2,https://media.api-sports.io/football/teams/9284.png,Linas-Montlhery,3,https://media.api-sports.io/football/teams/9288.png,France,Copa de Francia,66,2019.0
-289335,Ancienne Château-Gontier,0,https://media.api-sports.io/football/teams/3145.png,C' Chartres,1,https://media.api-sports.io/football/teams/9237.png,France,Copa de Francia,66,2019.0
-289336,Mûrs-Erigné,0,https://media.api-sports.io/football/teams/9295.png,Caen,6,https://media.api-sports.io/football/teams/88.png,France,Copa de Francia,66,2019.0
-289337,Montlouis,1,https://media.api-sports.io/football/teams/9293.png,Vire,2,https://media.api-sports.io/football/teams/3243.png,France,Copa de Francia,66,2019.0
-289338,Challans,3,https://media.api-sports.io/football/teams/3032.png,Le Poiré sur Vie,0,https://media.api-sports.io/football/teams/3068.png,France,Copa de Francia,66,2019.0
-289339,La Baule-Le Pouliguen,0,https://media.api-sports.io/football/teams/9283.png,Angoulême,1,https://media.api-sports.io/football/teams/3011.png,France,Copa de Francia,66,2019.0
-289340,Marssac SRDT,2,https://media.api-sports.io/football/teams/9291.png,Saint-Médard-en-Jalles,1,https://media.api-sports.io/football/teams/9308.png,France,Copa de Francia,66,2019.0
-289341,Olympique d'Alès,1,https://media.api-sports.io/football/teams/3093.png,Lattes,0,https://media.api-sports.io/football/teams/9285.png,France,Copa de Francia,66,2019.0
-289342,Villemomble Sports,1,https://media.api-sports.io/football/teams/9319.png,Orleans,5,https://media.api-sports.io/football/teams/103.png,France,Copa de Francia,66,2019.0
-289343,Bourges Foot,1,https://media.api-sports.io/football/teams/3028.png,Sablé,1,https://media.api-sports.io/football/teams/9304.png,France,Copa de Francia,66,2019.0
-289344,Sireuil,1,https://media.api-sports.io/football/teams/9310.png,Les Herbiers,7,https://media.api-sports.io/football/teams/1308.png,France,Copa de Francia,66,2019.0
-289345,Verton,0,https://media.api-sports.io/football/teams/9318.png,Le Portel,3,https://media.api-sports.io/football/teams/3273.png,France,Copa de Francia,66,2019.0
-289346,Beauvais,1,https://media.api-sports.io/football/teams/3153.png,Chambly Thelle FC,4,https://media.api-sports.io/football/teams/1291.png,France,Copa de Francia,66,2019.0
-289347,Évreux 27,3,https://media.api-sports.io/football/teams/10167.png,Mtsapere,0,https://media.api-sports.io/football/teams/3086.png,France,Copa de Francia,66,2019.0
-289348,Gravelines,2,https://media.api-sports.io/football/teams/3055.png,Rouen,3,https://media.api-sports.io/football/teams/3221.png,France,Copa de Francia,66,2019.0
-289349,Olympique Lumbrois,3,https://media.api-sports.io/football/teams/9300.png,Grande-Synthe,3,https://media.api-sports.io/football/teams/9280.png,France,Copa de Francia,66,2019.0
-289350,Saint-Omer,0,https://media.api-sports.io/football/teams/3109.png,Dieppe,1,https://media.api-sports.io/football/teams/9274.png,France,Copa de Francia,66,2019.0
-289351,Tourcoing,5,https://media.api-sports.io/football/teams/9314.png,Grand Calais Pascal,0,https://media.api-sports.io/football/teams/9279.png,France,Copa de Francia,66,2019.0
-289352,Pont Saintte-Maxence,1,https://media.api-sports.io/football/teams/9302.png,Senlis,2,https://media.api-sports.io/football/teams/3226.png,France,Copa de Francia,66,2019.0
-289353,Olympique Adamois,2,https://media.api-sports.io/football/teams/9299.png,Olympique St Quentin,3,https://media.api-sports.io/football/teams/3091.png,France,Copa de Francia,66,2019.0
-289354,Prix-lès-Mézières,2,https://media.api-sports.io/football/teams/3099.png,Wasquehal,0,https://media.api-sports.io/football/teams/3140.png,France,Copa de Francia,66,2019.0
-289355,Saint-Maximin,0,https://media.api-sports.io/football/teams/3294.png,Valenciennes,2,https://media.api-sports.io/football/teams/105.png,France,Copa de Francia,66,2019.0
-289356,Mozac,2,https://media.api-sports.io/football/teams/9294.png,Cournon,3,https://media.api-sports.io/football/teams/9273.png,France,Copa de Francia,66,2019.0
-289357,Union Saint-Jean,0,https://media.api-sports.io/football/teams/9315.png,Bayonne,1,https://media.api-sports.io/football/teams/10166.png,France,Copa de Francia,66,2019.0
-289358,Rodéo,0,https://media.api-sports.io/football/teams/3291.png,Colomiers,1,https://media.api-sports.io/football/teams/3169.png,France,Copa de Francia,66,2019.0
-289359,Saint-Galmier-Chambœuf,0,https://media.api-sports.io/football/teams/9306.png,Côte Chaude,0,https://media.api-sports.io/football/teams/3259.png,France,Copa de Francia,66,2019.0
-289360,Nancy,2,https://media.api-sports.io/football/teams/102.png,Belfort Sud,1,https://media.api-sports.io/football/teams/9265.png,France,Copa de Francia,66,2019.0
-289361,Vandœuvre,2,https://media.api-sports.io/football/teams/9316.png,Lunéville,0,https://media.api-sports.io/football/teams/3275.png,France,Copa de Francia,66,2019.0
-289362,Sundhoffen,0,https://media.api-sports.io/football/teams/9312.png,Mulhouse,3,https://media.api-sports.io/football/teams/3205.png,France,Copa de Francia,66,2019.0
-289363,Olympique de Valence,3,https://media.api-sports.io/football/teams/3094.png,Thonon Évian,1,https://media.api-sports.io/football/teams/9313.png,France,Copa de Francia,66,2019.0
-289364,Annecy-le-Vieux,0,https://media.api-sports.io/football/teams/3013.png,Limonest,4,https://media.api-sports.io/football/teams/3071.png,France,Copa de Francia,66,2019.0
-289365,4 Rivières 70,3,https://media.api-sports.io/football/teams/3142.png,Chassieu Décines,1,https://media.api-sports.io/football/teams/3036.png,France,Copa de Francia,66,2019.0
-289366,Hombourg-Haut,1,https://media.api-sports.io/football/teams/9282.png,Forbach,0,https://media.api-sports.io/football/teams/3180.png,France,Copa de Francia,66,2019.0
-289367,Boulay,2,https://media.api-sports.io/football/teams/9267.png,Meaux Academy,1,https://media.api-sports.io/football/teams/9292.png,France,Copa de Francia,66,2019.0
-289368,Reims Sainte-Anne,0,https://media.api-sports.io/football/teams/9303.png,MJEP Cormontreuil,0,https://media.api-sports.io/football/teams/9290.png,France,Copa de Francia,66,2019.0
-289369,CEP Lorient,1,https://media.api-sports.io/football/teams/9269.png,Stade Plabennec,3,https://media.api-sports.io/football/teams/9311.png,France,Copa de Francia,66,2019.0
-289370,Guichen,2,https://media.api-sports.io/football/teams/9281.png,Saint-Pierre Milizac,1,https://media.api-sports.io/football/teams/9309.png,France,Copa de Francia,66,2019.0
-289371,Le Rheu,4,https://media.api-sports.io/football/teams/9286.png,Paimpol,3,https://media.api-sports.io/football/teams/9301.png,France,Copa de Francia,66,2019.0
-289372,Nanterre,2,https://media.api-sports.io/football/teams/9296.png,Laval,0,https://media.api-sports.io/football/teams/433.png,France,Copa de Francia,66,2019.0
-289373,St Liguaire Niort,1,https://media.api-sports.io/football/teams/3302.png,Vendée Fontenay,3,https://media.api-sports.io/football/teams/3130.png,France,Copa de Francia,66,2019.0
-289374,Poitiers,5,https://media.api-sports.io/football/teams/3097.png,Nueillaubiers,0,https://media.api-sports.io/football/teams/9297.png,France,Copa de Francia,66,2019.0
-289375,Olympique Marcquois,0,https://media.api-sports.io/football/teams/3090.png,Croix Football IC,1,https://media.api-sports.io/football/teams/3043.png,France,Copa de Francia,66,2019.0
-289376,Erstein,0,https://media.api-sports.io/football/teams/3264.png,Thaon,2,https://media.api-sports.io/football/teams/3123.png,France,Copa de Francia,66,2019.0
-289377,Oberschaeffolsheim,1,https://media.api-sports.io/football/teams/9298.png,Raon l'Etape,3,https://media.api-sports.io/football/teams/3100.png,France,Copa de Francia,66,2019.0
-291073,FC Lyon,0,https://media.api-sports.io/football/teams/9376.png,Athletico Marseille,1,https://media.api-sports.io/football/teams/1306.png,France,Copa de Francia,66,2019.0
-291074,Sainte-Marienne,2,https://media.api-sports.io/football/teams/9377.png,Versailles,3,https://media.api-sports.io/football/teams/3131.png,France,Copa de Francia,66,2019.0
-291205,Vandœuvre,2,https://media.api-sports.io/football/teams/9316.png,RED Star FC 93,3,https://media.api-sports.io/football/teams/104.png,France,Copa de Francia,66,2019.0
-291206,Hombourg-Haut,2,https://media.api-sports.io/football/teams/9282.png,Auxerre,1,https://media.api-sports.io/football/teams/108.png,France,Copa de Francia,66,2019.0
-291207,Limonest,2,https://media.api-sports.io/football/teams/3071.png,Villefranche,1,https://media.api-sports.io/football/teams/1302.png,France,Copa de Francia,66,2019.0
-291208,Côte Chaude,0,https://media.api-sports.io/football/teams/3259.png,Le Puy Foot,1,https://media.api-sports.io/football/teams/3069.png,France,Copa de Francia,66,2019.0
-291209,Annecy,1,https://media.api-sports.io/football/teams/3012.png,Chambly Thelle FC,2,https://media.api-sports.io/football/teams/1291.png,France,Copa de Francia,66,2019.0
-291210,4 Rivières 70,0,https://media.api-sports.io/football/teams/3142.png,Bourg-en-bresse 01,2,https://media.api-sports.io/football/teams/430.png,France,Copa de Francia,66,2019.0
-291211,Poitiers,1,https://media.api-sports.io/football/teams/3097.png,Rodez,3,https://media.api-sports.io/football/teams/1301.png,France,Copa de Francia,66,2019.0
-291212,Cournon,0,https://media.api-sports.io/football/teams/9273.png,Niort,2,https://media.api-sports.io/football/teams/113.png,France,Copa de Francia,66,2019.0
-291213,Les Herbiers,1,https://media.api-sports.io/football/teams/1308.png,Le Mans,2,https://media.api-sports.io/football/teams/1298.png,France,Copa de Francia,66,2019.0
-291214,Sablé,2,https://media.api-sports.io/football/teams/9304.png,Concarneau,0,https://media.api-sports.io/football/teams/1300.png,France,Copa de Francia,66,2019.0
-291215,Rouen,1,https://media.api-sports.io/football/teams/3221.png,Orleans,0,https://media.api-sports.io/football/teams/103.png,France,Copa de Francia,66,2019.0
-291216,Gonfreville,5,https://media.api-sports.io/football/teams/9278.png,Creteil,2,https://media.api-sports.io/football/teams/1307.png,France,Copa de Francia,66,2019.0
-291217,C' Chartres,0,https://media.api-sports.io/football/teams/9237.png,Caen,1,https://media.api-sports.io/football/teams/88.png,France,Copa de Francia,66,2019.0
-291218,Nanterre,1,https://media.api-sports.io/football/teams/9296.png,Bastia-Borgo,2,https://media.api-sports.io/football/teams/3019.png,France,Copa de Francia,66,2019.0
-291219,Dieppe,2,https://media.api-sports.io/football/teams/9274.png,Lens,1,https://media.api-sports.io/football/teams/116.png,France,Copa de Francia,66,2019.0
-291220,Prix-lès-Mézières,3,https://media.api-sports.io/football/teams/3099.png,Quevilly,1,https://media.api-sports.io/football/teams/431.png,France,Copa de Francia,66,2019.0
-291221,Tourcoing,1,https://media.api-sports.io/football/teams/9314.png,Valenciennes,2,https://media.api-sports.io/football/teams/105.png,France,Copa de Francia,66,2019.0
-291222,Vauban Strasbourg,1,https://media.api-sports.io/football/teams/9317.png,Nancy,3,https://media.api-sports.io/football/teams/102.png,France,Copa de Francia,66,2019.0
-291223,Mulhouse,2,https://media.api-sports.io/football/teams/3205.png,Epinal,3,https://media.api-sports.io/football/teams/1309.png,France,Copa de Francia,66,2019.0
-291224,Olympique St Quentin,1,https://media.api-sports.io/football/teams/3091.png,Grande-Synthe,3,https://media.api-sports.io/football/teams/9280.png,France,Copa de Francia,66,2019.0
-291225,Montceau,3,https://media.api-sports.io/football/teams/3082.png,Besançon,0,https://media.api-sports.io/football/teams/3023.png,France,Copa de Francia,66,2019.0
-291226,Angoulême,5,https://media.api-sports.io/football/teams/3011.png,Saint-Flour,1,https://media.api-sports.io/football/teams/9305.png,France,Copa de Francia,66,2019.0
-291227,Challans,1,https://media.api-sports.io/football/teams/3032.png,Colomiers,1,https://media.api-sports.io/football/teams/3169.png,France,Copa de Francia,66,2019.0
-291228,Fréjus St-Raphaël,1,https://media.api-sports.io/football/teams/3051.png,Olympique d'Alès,1,https://media.api-sports.io/football/teams/3093.png,France,Copa de Francia,66,2019.0
-291229,Marssac SRDT,1,https://media.api-sports.io/football/teams/9291.png,PAU,4,https://media.api-sports.io/football/teams/1297.png,France,Copa de Francia,66,2019.0
-291230,Raon l'Etape,6,https://media.api-sports.io/football/teams/3100.png,Boulay,2,https://media.api-sports.io/football/teams/9267.png,France,Copa de Francia,66,2019.0
-291231,Grasse,1,https://media.api-sports.io/football/teams/9257.png,Athletico Marseille,2,https://media.api-sports.io/football/teams/1306.png,France,Copa de Francia,66,2019.0
-291232,Chilly,0,https://media.api-sports.io/football/teams/9271.png,Fabrègues,1,https://media.api-sports.io/football/teams/3175.png,France,Copa de Francia,66,2019.0
-291233,Bergerac,0,https://media.api-sports.io/football/teams/3022.png,Trélissac,0,https://media.api-sports.io/football/teams/9246.png,France,Copa de Francia,66,2019.0
-291234,Bayonne,4,https://media.api-sports.io/football/teams/10166.png,Vendée Fontenay,1,https://media.api-sports.io/football/teams/3130.png,France,Copa de Francia,66,2019.0
-291235,Tours,2,https://media.api-sports.io/football/teams/432.png,Club Franciscain,1,https://media.api-sports.io/football/teams/3258.png,France,Copa de Francia,66,2019.0
-291236,Châteaubriant,0,https://media.api-sports.io/football/teams/9272.png,Stade Briochin,0,https://media.api-sports.io/football/teams/3229.png,France,Copa de Francia,66,2019.0
-291237,Guichen,2,https://media.api-sports.io/football/teams/9281.png,Le Rheu,1,https://media.api-sports.io/football/teams/9286.png,France,Copa de Francia,66,2019.0
-291238,Stade Plabennec,0,https://media.api-sports.io/football/teams/9311.png,Granville,2,https://media.api-sports.io/football/teams/3185.png,France,Copa de Francia,66,2019.0
-291239,Linas-Montlhery,3,https://media.api-sports.io/football/teams/9288.png,Évreux 27,1,https://media.api-sports.io/football/teams/10167.png,France,Copa de Francia,66,2019.0
-291240,St-Pryvé St-Hilaire,6,https://media.api-sports.io/football/teams/3117.png,Saint-Georges,0,https://media.api-sports.io/football/teams/9307.png,France,Copa de Francia,66,2019.0
-291241,Senlis,0,https://media.api-sports.io/football/teams/3226.png,Le Portel,1,https://media.api-sports.io/football/teams/3273.png,France,Copa de Francia,66,2019.0
-291242,Jeunesse Evolution,0,https://media.api-sports.io/football/teams/6327.png,Belfort,2,https://media.api-sports.io/football/teams/1311.png,France,Copa de Francia,66,2019.0
-291243,Saint-Pierroise,1,https://media.api-sports.io/football/teams/3295.png,Thaon,1,https://media.api-sports.io/football/teams/3123.png,France,Copa de Francia,66,2019.0
-291885,Stade Pontivy,0,https://media.api-sports.io/football/teams/3119.png,Lorient,1,https://media.api-sports.io/football/teams/97.png,France,Copa de Francia,66,2019.0
-291886,Croix Football IC,0,https://media.api-sports.io/football/teams/3043.png,Entente S St Gratien,1,https://media.api-sports.io/football/teams/1294.png,France,Copa de Francia,66,2019.0
-291887,Reims Sainte-Anne,1,https://media.api-sports.io/football/teams/9303.png,Dunkerque,0,https://media.api-sports.io/football/teams/1304.png,France,Copa de Francia,66,2019.0
-291888,Olympique de Valence,0,https://media.api-sports.io/football/teams/3094.png,Paris FC,1,https://media.api-sports.io/football/teams/114.png,France,Copa de Francia,66,2019.0
-291889,Vire,0,https://media.api-sports.io/football/teams/3243.png,Versailles,3,https://media.api-sports.io/football/teams/3131.png,France,Copa de Francia,66,2019.0
-292886,Fabrègues,0,https://media.api-sports.io/football/teams/3175.png,Paris FC,2,https://media.api-sports.io/football/teams/114.png,France,Copa de Francia,66,2019.0
-292887,Bayonne,0,https://media.api-sports.io/football/teams/10166.png,Nantes,2,https://media.api-sports.io/football/teams/83.png,France,Copa de Francia,66,2019.0
-292888,Niort,1,https://media.api-sports.io/football/teams/113.png,Saint-Pierroise,2,https://media.api-sports.io/football/teams/3295.png,France,Copa de Francia,66,2019.0
-292889,Versailles,1,https://media.api-sports.io/football/teams/3131.png,Granville,2,https://media.api-sports.io/football/teams/3185.png,France,Copa de Francia,66,2019.0
-292890,Guichen,1,https://media.api-sports.io/football/teams/9281.png,Caen,2,https://media.api-sports.io/football/teams/88.png,France,Copa de Francia,66,2019.0
-292891,Monaco,2,https://media.api-sports.io/football/teams/91.png,Reims,1,https://media.api-sports.io/football/teams/93.png,France,Copa de Francia,66,2019.0
-292892,Tours,2,https://media.api-sports.io/football/teams/432.png,Nimes,2,https://media.api-sports.io/football/teams/92.png,France,Copa de Francia,66,2019.0
-292893,Le Portel,1,https://media.api-sports.io/football/teams/3273.png,Strasbourg,4,https://media.api-sports.io/football/teams/95.png,France,Copa de Francia,66,2019.0
-292894,Stade Briochin,1,https://media.api-sports.io/football/teams/3229.png,Gonfreville,1,https://media.api-sports.io/football/teams/9278.png,France,Copa de Francia,66,2019.0
-292895,Athletico Marseille,2,https://media.api-sports.io/football/teams/1306.png,Rodez,1,https://media.api-sports.io/football/teams/1301.png,France,Copa de Francia,66,2019.0
-292896,Belfort,3,https://media.api-sports.io/football/teams/1311.png,Montceau,0,https://media.api-sports.io/football/teams/3082.png,France,Copa de Francia,66,2019.0
-292897,St-Pryvé St-Hilaire,1,https://media.api-sports.io/football/teams/3117.png,Toulouse,0,https://media.api-sports.io/football/teams/96.png,France,Copa de Francia,66,2019.0
-292898,Sablé,2,https://media.api-sports.io/football/teams/9304.png,PAU,2,https://media.api-sports.io/football/teams/1297.png,France,Copa de Francia,66,2019.0
-292899,Angoulême,3,https://media.api-sports.io/football/teams/3011.png,Challans,1,https://media.api-sports.io/football/teams/3032.png,France,Copa de Francia,66,2019.0
-292900,Rennes,0,https://media.api-sports.io/football/teams/94.png,Amiens,0,https://media.api-sports.io/football/teams/87.png,France,Copa de Francia,66,2019.0
-292901,RED Star FC 93,2,https://media.api-sports.io/football/teams/104.png,Chambly Thelle FC,1,https://media.api-sports.io/football/teams/1291.png,France,Copa de Francia,66,2019.0
-292902,Bourg-en-bresse 01,0,https://media.api-sports.io/football/teams/430.png,Lyon,7,https://media.api-sports.io/football/teams/80.png,France,Copa de Francia,66,2019.0
-292903,Linas-Montlhery,0,https://media.api-sports.io/football/teams/9288.png,Paris Saint Germain,6,https://media.api-sports.io/football/teams/85.png,France,Copa de Francia,66,2019.0
-292904,Bastia-Borgo,0,https://media.api-sports.io/football/teams/3019.png,Saint Etienne,3,https://media.api-sports.io/football/teams/1063.png,France,Copa de Francia,66,2019.0
-292905,Reims Sainte-Anne,0,https://media.api-sports.io/football/teams/9303.png,Montpellier,1,https://media.api-sports.io/football/teams/82.png,France,Copa de Francia,66,2019.0
-292906,Trélissac,1,https://media.api-sports.io/football/teams/9246.png,Marseille,1,https://media.api-sports.io/football/teams/81.png,France,Copa de Francia,66,2019.0
-292907,Raon l'Etape,2,https://media.api-sports.io/football/teams/3100.png,Lille,3,https://media.api-sports.io/football/teams/79.png,France,Copa de Francia,66,2019.0
-292908,Lorient,2,https://media.api-sports.io/football/teams/97.png,Stade Brestois 29,1,https://media.api-sports.io/football/teams/106.png,France,Copa de Francia,66,2019.0
-292909,Nice,2,https://media.api-sports.io/football/teams/84.png,Fréjus St-Raphaël,0,https://media.api-sports.io/football/teams/3051.png,France,Copa de Francia,66,2019.0
-292910,Limonest,1,https://media.api-sports.io/football/teams/3071.png,Le Puy Foot,1,https://media.api-sports.io/football/teams/3069.png,France,Copa de Francia,66,2019.0
-292911,Grande-Synthe,0,https://media.api-sports.io/football/teams/9280.png,Nancy,1,https://media.api-sports.io/football/teams/102.png,France,Copa de Francia,66,2019.0
-292912,Hombourg-Haut,0,https://media.api-sports.io/football/teams/9282.png,Prix-lès-Mézières,3,https://media.api-sports.io/football/teams/3099.png,France,Copa de Francia,66,2019.0
-292913,Entente S St Gratien,0,https://media.api-sports.io/football/teams/1294.png,Epinal,1,https://media.api-sports.io/football/teams/1309.png,France,Copa de Francia,66,2019.0
-292914,Valenciennes,1,https://media.api-sports.io/football/teams/105.png,Dijon,2,https://media.api-sports.io/football/teams/89.png,France,Copa de Francia,66,2019.0
-292915,Dieppe,1,https://media.api-sports.io/football/teams/9274.png,Angers,3,https://media.api-sports.io/football/teams/77.png,France,Copa de Francia,66,2019.0
 292916,Bordeaux,2,https://media.api-sports.io/football/teams/78.png,Le Mans,0,https://media.api-sports.io/football/teams/1298.png,France,Copa de Francia,66,2019.0
 292917,Rouen,3,https://media.api-sports.io/football/teams/3221.png,Metz,0,https://media.api-sports.io/football/teams/112.png,France,Copa de Francia,66,2019.0
-313281,Prix-lès-Mézières,0,https://media.api-sports.io/football/teams/3099.png,Limonest,1,https://media.api-sports.io/football/teams/3071.png,France,Copa de Francia,66,2019.0
-313282,Epinal,1,https://media.api-sports.io/football/teams/1309.png,Saint-Pierroise,0,https://media.api-sports.io/football/teams/3295.png,France,Copa de Francia,66,2019.0
-313283,Athletico Marseille,0,https://media.api-sports.io/football/teams/1306.png,Rennes,2,https://media.api-sports.io/football/teams/94.png,France,Copa de Francia,66,2019.0
-313284,Dijon,5,https://media.api-sports.io/football/teams/89.png,Nimes,0,https://media.api-sports.io/football/teams/92.png,France,Copa de Francia,66,2019.0
 313285,PAU,3,https://media.api-sports.io/football/teams/1297.png,Bordeaux,2,https://media.api-sports.io/football/teams/78.png,France,Copa de Francia,66,2019.0
 313286,St-Pryvé St-Hilaire,1,https://media.api-sports.io/football/teams/3117.png,Monaco,3,https://media.api-sports.io/football/teams/91.png,France,Copa de Francia,66,2019.0
 313287,Nantes,3,https://media.api-sports.io/football/teams/83.png,Lyon,4,https://media.api-sports.io/football/teams/80.png,France,Copa de Francia,66,2019.0
-313288,Nice,2,https://media.api-sports.io/football/teams/84.png,RED Star FC 93,1,https://media.api-sports.io/football/teams/104.png,France,Copa de Francia,66,2019.0
-313289,Rouen,1,https://media.api-sports.io/football/teams/3221.png,Angers,4,https://media.api-sports.io/football/teams/77.png,France,Copa de Francia,66,2019.0
-313290,Paris FC,2,https://media.api-sports.io/football/teams/114.png,Saint Etienne,3,https://media.api-sports.io/football/teams/1063.png,France,Copa de Francia,66,2019.0
-313291,Belfort,3,https://media.api-sports.io/football/teams/1311.png,Nancy,1,https://media.api-sports.io/football/teams/102.png,France,Copa de Francia,66,2019.0
-313292,Gonfreville,0,https://media.api-sports.io/football/teams/9278.png,Lille,2,https://media.api-sports.io/football/teams/79.png,France,Copa de Francia,66,2019.0
-313293,Montpellier,5,https://media.api-sports.io/football/teams/82.png,Caen,0,https://media.api-sports.io/football/teams/88.png,France,Copa de Francia,66,2019.0
-313294,Lorient,0,https://media.api-sports.io/football/teams/97.png,Paris Saint Germain,1,https://media.api-sports.io/football/teams/85.png,France,Copa de Francia,66,2019.0
-313295,Angoulême,1,https://media.api-sports.io/football/teams/3011.png,Strasbourg,5,https://media.api-sports.io/football/teams/95.png,France,Copa de Francia,66,2019.0
 313296,Granville,0,https://media.api-sports.io/football/teams/3185.png,Marseille,3,https://media.api-sports.io/football/teams/81.png,France,Copa de Francia,66,2019.0
 318767,Epinal,2,https://media.api-sports.io/football/teams/1309.png,Lille,1,https://media.api-sports.io/football/teams/79.png,France,Copa de Francia,66,2019.0
 318768,Belfort,0,https://media.api-sports.io/football/teams/1311.png,Montpellier,0,https://media.api-sports.io/football/teams/82.png,France,Copa de Francia,66,2019.0
@@ -10117,7 +9679,6 @@ fixture_id,home_team,home_goals,home_logo,away_team,away_goals,away_logo,country
 324110,Saint Etienne,2,https://media.api-sports.io/football/teams/1063.png,Rennes,1,https://media.api-sports.io/football/teams/94.png,France,Copa de Francia,66,2019.0
 324111,Lyon,1,https://media.api-sports.io/football/teams/80.png,Paris Saint Germain,5,https://media.api-sports.io/football/teams/85.png,France,Copa de Francia,66,2019.0
 338394,Paris Saint Germain,1,https://media.api-sports.io/football/teams/85.png,Saint Etienne,0,https://media.api-sports.io/football/teams/1063.png,France,Copa de Francia,66,2019.0
-362348,Paris Saint Germain,2,https://media.api-sports.io/football/teams/85.png,Rennes,1,https://media.api-sports.io/football/teams/94.png,France,Supercopa de Francia,526,2019.0
 605065,Alaves,0,https://media.api-sports.io/football/teams/542.png,Real Betis,1,https://media.api-sports.io/football/teams/543.png,Spain,La liga,140,2020.0
 605066,Barcelona,3,https://media.api-sports.io/football/teams/529.png,Elche,0,https://media.api-sports.io/football/teams/797.png,Spain,La liga,140,2020.0
 605067,Eibar,0,https://media.api-sports.io/football/teams/545.png,Celta Vigo,0,https://media.api-sports.io/football/teams/538.png,Spain,La liga,140,2020.0
@@ -10498,16 +10059,6 @@ fixture_id,home_team,home_goals,home_logo,away_team,away_goals,away_logo,country
 605442,Sevilla,1,https://media.api-sports.io/football/teams/536.png,Alaves,0,https://media.api-sports.io/football/teams/542.png,Spain,La liga,140,2020.0
 605443,Valladolid,1,https://media.api-sports.io/football/teams/720.png,Atletico Madrid,2,https://media.api-sports.io/football/teams/530.png,Spain,La liga,140,2020.0
 605444,Elche,2,https://media.api-sports.io/football/teams/797.png,Athletic Club,0,https://media.api-sports.io/football/teams/531.png,Spain,La liga,140,2020.0
-646452,CF Rusadir,1,https://media.api-sports.io/football/teams/15525.png,Rincón,2,https://media.api-sports.io/football/teams/15527.png,Spain,Copa del rey,143,2020.0
-646453,AUGC Deportiva,0,https://media.api-sports.io/football/teams/15523.png,Racing Murcia,3,https://media.api-sports.io/football/teams/15317.png,Spain,Copa del rey,143,2020.0
-646454,Real Titánico,0,https://media.api-sports.io/football/teams/15334.png,Anaitasuna,2,https://media.api-sports.io/football/teams/15340.png,Spain,Copa del rey,143,2020.0
-646455,Racing Rioja,3,https://media.api-sports.io/football/teams/15324.png,Colegios Diocesanos,0,https://media.api-sports.io/football/teams/15354.png,Spain,Copa del rey,143,2020.0
-646456,Montañesa,0,https://media.api-sports.io/football/teams/15345.png,Cantolagua,1,https://media.api-sports.io/football/teams/15321.png,Spain,Copa del rey,143,2020.0
-646457,Cardassar,0,https://media.api-sports.io/football/teams/15311.png,Épila,0,https://media.api-sports.io/football/teams/15329.png,Spain,Copa del rey,143,2020.0
-646458,Tomares,3,https://media.api-sports.io/football/teams/15528.png,Chinato,0,https://media.api-sports.io/football/teams/15319.png,Spain,Copa del rey,143,2020.0
-646459,Miengo,0,https://media.api-sports.io/football/teams/15526.png,Ribadumia,1,https://media.api-sports.io/football/teams/15306.png,Spain,Copa del rey,143,2020.0
-646460,Móstoles CF,0,https://media.api-sports.io/football/teams/15351.png,Marchamalo,0,https://media.api-sports.io/football/teams/15332.png,Spain,Copa del rey,143,2020.0
-646461,Guía,0,https://media.api-sports.io/football/teams/15474.png,Buñol,1,https://media.api-sports.io/football/teams/15524.png,Spain,Copa del rey,143,2020.0
 647278,Anaitasuna,1,https://media.api-sports.io/football/teams/15340.png,Getafe,2,https://media.api-sports.io/football/teams/546.png,Spain,Copa del rey,143,2020.0
 647279,Marchamalo,2,https://media.api-sports.io/football/teams/15332.png,Huesca,3,https://media.api-sports.io/football/teams/726.png,Spain,Copa del rey,143,2020.0
 647280,Ribadumia,0,https://media.api-sports.io/football/teams/15306.png,Cadiz,2,https://media.api-sports.io/football/teams/724.png,Spain,Copa del rey,143,2020.0
@@ -10524,46 +10075,6 @@ fixture_id,home_team,home_goals,home_logo,away_team,away_goals,away_logo,country
 647291,Ucam Murcia,0,https://media.api-sports.io/football/teams/800.png,Real Betis,2,https://media.api-sports.io/football/teams/543.png,Spain,Copa del rey,143,2020.0
 647292,Ciudad de Lucena,0,https://media.api-sports.io/football/teams/9756.png,Sevilla,3,https://media.api-sports.io/football/teams/536.png,Spain,Copa del rey,143,2020.0
 647293,Leioa,0,https://media.api-sports.io/football/teams/9397.png,Albacete,6,https://media.api-sports.io/football/teams/722.png,Spain,Copa del rey,143,2020.0
-647294,Varea,0,https://media.api-sports.io/football/teams/9873.png,Las Palmas,4,https://media.api-sports.io/football/teams/534.png,Spain,Copa del rey,143,2020.0
-647295,Gimnástica Segoviana,0,https://media.api-sports.io/football/teams/9387.png,Girona,2,https://media.api-sports.io/football/teams/547.png,Spain,Copa del rey,143,2020.0
-647296,Las Rozas,1,https://media.api-sports.io/football/teams/9395.png,Mirandes,0,https://media.api-sports.io/football/teams/799.png,Spain,Copa del rey,143,2020.0
-647297,Atlético Pulpileño,1,https://media.api-sports.io/football/teams/9808.png,Lugo,2,https://media.api-sports.io/football/teams/716.png,Spain,Copa del rey,143,2020.0
-647298,Ourense CF,0,https://media.api-sports.io/football/teams/9612.png,Leganes,1,https://media.api-sports.io/football/teams/537.png,Spain,Copa del rey,143,2020.0
-647299,CD Coria,2,https://media.api-sports.io/football/teams/9827.png,Oviedo,3,https://media.api-sports.io/football/teams/718.png,Spain,Copa del rey,143,2020.0
-647300,Gimnástica Torrelavega,0,https://media.api-sports.io/football/teams/5264.png,Zaragoza,2,https://media.api-sports.io/football/teams/732.png,Spain,Copa del rey,143,2020.0
-647301,Quintanar del Rey,1,https://media.api-sports.io/football/teams/9906.png,Sporting Gijon,2,https://media.api-sports.io/football/teams/731.png,Spain,Copa del rey,143,2020.0
-647302,Teruel,2,https://media.api-sports.io/football/teams/5278.png,Rayo Vallecano,3,https://media.api-sports.io/football/teams/728.png,Spain,Copa del rey,143,2020.0
-647303,Sestao River,0,https://media.api-sports.io/football/teams/9413.png,Tenerife,2,https://media.api-sports.io/football/teams/719.png,Spain,Copa del rey,143,2020.0
-647304,Llagostera,0,https://media.api-sports.io/football/teams/9399.png,Espanyol,1,https://media.api-sports.io/football/teams/540.png,Spain,Copa del rey,143,2020.0
-647305,Ibiza Islas Pitiusas,0,https://media.api-sports.io/football/teams/9781.png,Sabadell,2,https://media.api-sports.io/football/teams/9593.png,Spain,Copa del rey,143,2020.0
-647306,Atlético Baleares,0,https://media.api-sports.io/football/teams/9381.png,Fuenlabrada,1,https://media.api-sports.io/football/teams/4906.png,Spain,Copa del rey,143,2020.0
-647307,Coruxo,0,https://media.api-sports.io/football/teams/9385.png,Malaga,4,https://media.api-sports.io/football/teams/535.png,Spain,Copa del rey,143,2020.0
-647308,Portugalete,1,https://media.api-sports.io/football/teams/9408.png,Ponferradina,0,https://media.api-sports.io/football/teams/4907.png,Spain,Copa del rey,143,2020.0
-647309,Guijuelo,0,https://media.api-sports.io/football/teams/9388.png,Mallorca,1,https://media.api-sports.io/football/teams/798.png,Spain,Copa del rey,143,2020.0
-647310,Pontevedra,2,https://media.api-sports.io/football/teams/9407.png,FC Cartagena,1,https://media.api-sports.io/football/teams/5262.png,Spain,Copa del rey,143,2020.0
-647311,Amorebieta,1,https://media.api-sports.io/football/teams/9380.png,UD Logroñés,0,https://media.api-sports.io/football/teams/5280.png,Spain,Copa del rey,143,2020.0
-647312,L'Hospitalet,1,https://media.api-sports.io/football/teams/9392.png,Almeria,4,https://media.api-sports.io/football/teams/723.png,Spain,Copa del rey,143,2020.0
-647313,San Fernando CD,0,https://media.api-sports.io/football/teams/9600.png,Castellón,2,https://media.api-sports.io/football/teams/5254.png,Spain,Copa del rey,143,2020.0
-647314,Lealtad,1,https://media.api-sports.io/football/teams/9396.png,Alcorcon,2,https://media.api-sports.io/football/teams/711.png,Spain,Copa del rey,143,2020.0
-647315,Cordoba,1,https://media.api-sports.io/football/teams/713.png,Albacete,0,https://media.api-sports.io/football/teams/722.png,Spain,Copa del rey,143,2020.0
-647316,Haro Deportivo,2,https://media.api-sports.io/football/teams/9389.png,Linense,1,https://media.api-sports.io/football/teams/9596.png,Spain,Copa del rey,143,2020.0
-647317,Marino,0,https://media.api-sports.io/football/teams/9799.png,Cornellà,1,https://media.api-sports.io/football/teams/5258.png,Spain,Copa del rey,143,2020.0
-647318,Numancia,4,https://media.api-sports.io/football/teams/717.png,Lorca Deportiva,1,https://media.api-sports.io/football/teams/9400.png,Spain,Copa del rey,143,2020.0
-647319,Deportivo La Coruna,1,https://media.api-sports.io/football/teams/544.png,El Ejido,0,https://media.api-sports.io/football/teams/9744.png,Spain,Copa del rey,143,2020.0
-647320,Burgos,2,https://media.api-sports.io/football/teams/9580.png,FC Andorra,0,https://media.api-sports.io/football/teams/8157.png,Spain,Copa del rey,143,2020.0
-647321,Peña Deportiva,4,https://media.api-sports.io/football/teams/9405.png,Tarazona,1,https://media.api-sports.io/football/teams/9416.png,Spain,Copa del rey,143,2020.0
-647322,Ibiza,2,https://media.api-sports.io/football/teams/9390.png,Compostela,1,https://media.api-sports.io/football/teams/5256.png,Spain,Copa del rey,143,2020.0
-647323,Poblense,1,https://media.api-sports.io/football/teams/5273.png,Olot,2,https://media.api-sports.io/football/teams/9403.png,Spain,Copa del rey,143,2020.0
-647324,Cultural Leonesa,1,https://media.api-sports.io/football/teams/725.png,Villanovense,0,https://media.api-sports.io/football/teams/5282.png,Spain,Copa del rey,143,2020.0
-647325,Extremadura,1,https://media.api-sports.io/football/teams/860.png,Socuéllamos,2,https://media.api-sports.io/football/teams/9414.png,Spain,Copa del rey,143,2020.0
-647326,Internacional de Madrid,0,https://media.api-sports.io/football/teams/9573.png,Linares Deportivo,3,https://media.api-sports.io/football/teams/9398.png,Spain,Copa del rey,143,2020.0
-647327,Navalcarnero,1,https://media.api-sports.io/football/teams/5271.png,Badajoz,0,https://media.api-sports.io/football/teams/9382.png,Spain,Copa del rey,143,2020.0
-647328,Alcoyano,4,https://media.api-sports.io/football/teams/9686.png,Laredo,1,https://media.api-sports.io/football/teams/9394.png,Spain,Copa del rey,143,2020.0
-647329,Calahorra,0,https://media.api-sports.io/football/teams/9581.png,La Nucía,1,https://media.api-sports.io/football/teams/9393.png,Spain,Copa del rey,143,2020.0
-647330,Zamora,2,https://media.api-sports.io/football/teams/9418.png,SD Logroñés,1,https://media.api-sports.io/football/teams/9411.png,Spain,Copa del rey,143,2020.0
-647331,Rayo Majadahonda,1,https://media.api-sports.io/football/teams/861.png,Yeclano,2,https://media.api-sports.io/football/teams/5283.png,Spain,Copa del rey,143,2020.0
-647332,Mutilvera,1,https://media.api-sports.io/football/teams/5270.png,Racing Santander,0,https://media.api-sports.io/football/teams/4665.png,Spain,Copa del rey,143,2020.0
-647333,Marbella,1,https://media.api-sports.io/football/teams/5267.png,Lleida Esportiu,0,https://media.api-sports.io/football/teams/5266.png,Spain,Copa del rey,143,2020.0
 653359,Las Rozas,3,https://media.api-sports.io/football/teams/9395.png,Eibar,4,https://media.api-sports.io/football/teams/545.png,Spain,Copa del rey,143,2020.0
 653360,Mutilvera,1,https://media.api-sports.io/football/teams/5270.png,Real Betis,3,https://media.api-sports.io/football/teams/543.png,Spain,Copa del rey,143,2020.0
 653361,Alcoyano,2,https://media.api-sports.io/football/teams/9686.png,Huesca,1,https://media.api-sports.io/football/teams/726.png,Spain,Copa del rey,143,2020.0
@@ -10577,20 +10088,11 @@ fixture_id,home_team,home_goals,home_logo,away_team,away_goals,away_logo,country
 653369,Deportivo La Coruna,0,https://media.api-sports.io/football/teams/544.png,Alaves,1,https://media.api-sports.io/football/teams/542.png,Spain,Copa del rey,143,2020.0
 653370,Cornellà,1,https://media.api-sports.io/football/teams/5258.png,Atletico Madrid,0,https://media.api-sports.io/football/teams/530.png,Spain,Copa del rey,143,2020.0
 653371,Pontevedra,0,https://media.api-sports.io/football/teams/9407.png,Cadiz,0,https://media.api-sports.io/football/teams/724.png,Spain,Copa del rey,143,2020.0
-653372,La Nucía,0,https://media.api-sports.io/football/teams/9393.png,Elche,1,https://media.api-sports.io/football/teams/797.png,Spain,Copa del rey,143,2020.0
-653373,Socuéllamos,0,https://media.api-sports.io/football/teams/9414.png,Leganes,2,https://media.api-sports.io/football/teams/537.png,Spain,Copa del rey,143,2020.0
-653374,Amorebieta,0,https://media.api-sports.io/football/teams/9380.png,Sporting Gijon,1,https://media.api-sports.io/football/teams/731.png,Spain,Copa del rey,143,2020.0
-653375,Peña Deportiva,0,https://media.api-sports.io/football/teams/9405.png,Sabadell,0,https://media.api-sports.io/football/teams/9593.png,Spain,Copa del rey,143,2020.0
-653376,Burgos,0,https://media.api-sports.io/football/teams/9580.png,Espanyol,2,https://media.api-sports.io/football/teams/540.png,Spain,Copa del rey,143,2020.0
-653377,Navalcarnero,1,https://media.api-sports.io/football/teams/5271.png,Las Palmas,0,https://media.api-sports.io/football/teams/534.png,Spain,Copa del rey,143,2020.0
-653378,Numancia,1,https://media.api-sports.io/football/teams/717.png,Almeria,2,https://media.api-sports.io/football/teams/723.png,Spain,Copa del rey,143,2020.0
-653379,Alcorcon,2,https://media.api-sports.io/football/teams/711.png,Zaragoza,1,https://media.api-sports.io/football/teams/732.png,Spain,Copa del rey,143,2020.0
 653380,Castellón,0,https://media.api-sports.io/football/teams/5254.png,Tenerife,2,https://media.api-sports.io/football/teams/719.png,Spain,Copa del rey,143,2020.0
 653381,Fuenlabrada,2,https://media.api-sports.io/football/teams/4906.png,Mallorca,2,https://media.api-sports.io/football/teams/798.png,Spain,Copa del rey,143,2020.0
 653382,Malaga,1,https://media.api-sports.io/football/teams/535.png,Oviedo,0,https://media.api-sports.io/football/teams/718.png,Spain,Copa del rey,143,2020.0
 653383,Girona,2,https://media.api-sports.io/football/teams/547.png,Lugo,1,https://media.api-sports.io/football/teams/716.png,Spain,Copa del rey,143,2020.0
 653694,Zamora,1,https://media.api-sports.io/football/teams/9418.png,Villarreal,4,https://media.api-sports.io/football/teams/533.png,Spain,Copa del rey,143,2020.0
-653695,Haro Deportivo,1,https://media.api-sports.io/football/teams/9389.png,Rayo Vallecano,3,https://media.api-sports.io/football/teams/728.png,Spain,Copa del rey,143,2020.0
 655279,Olot,0,https://media.api-sports.io/football/teams/9403.png,Osasuna,3,https://media.api-sports.io/football/teams/727.png,Spain,Copa del rey,143,2020.0
 656683,Peña Deportiva,1,https://media.api-sports.io/football/teams/9405.png,Valladolid,4,https://media.api-sports.io/football/teams/720.png,Spain,Copa del rey,143,2020.0
 656684,Navalcarnero,3,https://media.api-sports.io/football/teams/5271.png,Eibar,1,https://media.api-sports.io/football/teams/545.png,Spain,Copa del rey,143,2020.0
@@ -11454,13 +10956,11 @@ fixture_id,home_team,home_goals,home_logo,away_team,away_goals,away_logo,country
 574021,FC Ingolstadt 04,0,https://media.api-sports.io/football/teams/184.png,Fortuna Dusseldorf,1,https://media.api-sports.io/football/teams/158.png,Germany,Copa de Alemania (DFB Pokal),81,2020.0
 574022,Karlsruher SC,0,https://media.api-sports.io/football/teams/785.png,Union Berlin,1,https://media.api-sports.io/football/teams/182.png,Germany,Copa de Alemania (DFB Pokal),81,2020.0
 609062,Havelse,1,https://media.api-sports.io/football/teams/9342.png,FSV Mainz 05,5,https://media.api-sports.io/football/teams/164.png,Germany,Copa de Alemania (DFB Pokal),81,2020.0
-609063,Union Fürstenwalde,1,https://media.api-sports.io/football/teams/9357.png,VfL Wolfsburg,4,https://media.api-sports.io/football/teams/161.png,Germany,Copa de Alemania (DFB Pokal),81,2020.0
 609064,Todesfelde,0,https://media.api-sports.io/football/teams/12880.png,VfL Osnabruck,1,https://media.api-sports.io/football/teams/1324.png,Germany,Copa de Alemania (DFB Pokal),81,2020.0
 609065,TSV 1860 Munich,1,https://media.api-sports.io/football/teams/786.png,Eintracht Frankfurt,2,https://media.api-sports.io/football/teams/169.png,Germany,Copa de Alemania (DFB Pokal),81,2020.0
 609066,FV Engers 07,0,https://media.api-sports.io/football/teams/12767.png,Vfl Bochum,3,https://media.api-sports.io/football/teams/176.png,Germany,Copa de Alemania (DFB Pokal),81,2020.0
 609067,Oberneuland,0,https://media.api-sports.io/football/teams/4263.png,Borussia Monchengladbach,8,https://media.api-sports.io/football/teams/163.png,Germany,Copa de Alemania (DFB Pokal),81,2020.0
 609068,Altglienicke,0,https://media.api-sports.io/football/teams/9349.png,1.FC Köln,6,https://media.api-sports.io/football/teams/192.png,Germany,Copa de Alemania (DFB Pokal),81,2020.0
-609069,Eintracht Celle,0,https://media.api-sports.io/football/teams/12758.png,FC Augsburg,7,https://media.api-sports.io/football/teams/170.png,Germany,Copa de Alemania (DFB Pokal),81,2020.0
 609070,Meinerzhagen,1,https://media.api-sports.io/football/teams/12814.png,SpVgg Greuther Furth,6,https://media.api-sports.io/football/teams/178.png,Germany,Copa de Alemania (DFB Pokal),81,2020.0
 609071,SSV ULM 1846,2,https://media.api-sports.io/football/teams/1652.png,Erzgebirge AUE,0,https://media.api-sports.io/football/teams/190.png,Germany,Copa de Alemania (DFB Pokal),81,2020.0
 609072,Carl Zeiss Jena,0,https://media.api-sports.io/football/teams/1325.png,Werder Bremen,2,https://media.api-sports.io/football/teams/162.png,Germany,Copa de Alemania (DFB Pokal),81,2020.0
@@ -11473,7 +10973,6 @@ fixture_id,home_team,home_goals,home_logo,away_team,away_goals,away_logo,country
 609079,Hansa Rostock,0,https://media.api-sports.io/football/teams/1321.png,VfB Stuttgart,1,https://media.api-sports.io/football/teams/172.png,Germany,Copa de Alemania (DFB Pokal),81,2020.0
 609080,SV Elversberg,4,https://media.api-sports.io/football/teams/1660.png,FC St. Pauli,2,https://media.api-sports.io/football/teams/186.png,Germany,Copa de Alemania (DFB Pokal),81,2020.0
 609081,Waldhof Mannheim,1,https://media.api-sports.io/football/teams/4268.png,SC Freiburg,2,https://media.api-sports.io/football/teams/160.png,Germany,Copa de Alemania (DFB Pokal),81,2020.0
-609082,Rot-weiss Essen,1,https://media.api-sports.io/football/teams/1621.png,Arminia Bielefeld,0,https://media.api-sports.io/football/teams/188.png,Germany,Copa de Alemania (DFB Pokal),81,2020.0
 609083,Düren Merzenich,0,https://media.api-sports.io/football/teams/12754.png,Bayern Munich,3,https://media.api-sports.io/football/teams/157.png,Germany,Copa de Alemania (DFB Pokal),81,2020.0
 612460,FC Schweinfurt 05,1,https://media.api-sports.io/football/teams/1635.png,FC Schalke 04,4,https://media.api-sports.io/football/teams/174.png,Germany,Copa de Alemania (DFB Pokal),81,2020.0
 646330,VfB Stuttgart,1,https://media.api-sports.io/football/teams/172.png,SC Freiburg,0,https://media.api-sports.io/football/teams/160.png,Germany,Copa de Alemania (DFB Pokal),81,2020.0
@@ -11491,7 +10990,6 @@ fixture_id,home_team,home_goals,home_logo,away_team,away_goals,away_logo,country
 646342,SV Elversberg,0,https://media.api-sports.io/football/teams/1660.png,Borussia Monchengladbach,5,https://media.api-sports.io/football/teams/163.png,Germany,Copa de Alemania (DFB Pokal),81,2020.0
 646343,SV Wehen,0,https://media.api-sports.io/football/teams/1319.png,Jahn Regensburg,0,https://media.api-sports.io/football/teams/177.png,Germany,Copa de Alemania (DFB Pokal),81,2020.0
 646344,Dynamo Dresden,0,https://media.api-sports.io/football/teams/183.png,SV Darmstadt 98,3,https://media.api-sports.io/football/teams/181.png,Germany,Copa de Alemania (DFB Pokal),81,2020.0
-646345,Rot-weiss Essen,3,https://media.api-sports.io/football/teams/1621.png,Fortuna Dusseldorf,2,https://media.api-sports.io/football/teams/158.png,Germany,Copa de Alemania (DFB Pokal),81,2020.0
 655483,Borussia Dortmund,3,https://media.api-sports.io/football/teams/165.png,SC Paderborn 07,2,https://media.api-sports.io/football/teams/185.png,Germany,Copa de Alemania (DFB Pokal),81,2020.0
 655484,RB Leipzig,4,https://media.api-sports.io/football/teams/173.png,Vfl Bochum,0,https://media.api-sports.io/football/teams/176.png,Germany,Copa de Alemania (DFB Pokal),81,2020.0
 655485,Jahn Regensburg,2,https://media.api-sports.io/football/teams/177.png,1.FC Köln,2,https://media.api-sports.io/football/teams/192.png,Germany,Copa de Alemania (DFB Pokal),81,2020.0
@@ -11888,62 +11386,7 @@ fixture_id,home_team,home_goals,home_logo,away_team,away_goals,away_logo,country
 608912,Spezia,2,https://media.api-sports.io/football/teams/515.png,AS Roma,2,https://media.api-sports.io/football/teams/497.png,Italy,Serie A,135,2020.0
 608913,Inter,5,https://media.api-sports.io/football/teams/505.png,Udinese,1,https://media.api-sports.io/football/teams/494.png,Italy,Serie A,135,2020.0
 608914,Napoli,1,https://media.api-sports.io/football/teams/492.png,Verona,1,https://media.api-sports.io/football/teams/504.png,Italy,Serie A,135,2020.0
-625719,Ascoli,1,https://media.api-sports.io/football/teams/507.png,Perugia,4,https://media.api-sports.io/football/teams/524.png,Italy,Copa de Italia,137,2020.0
-625720,Brescia,3,https://media.api-sports.io/football/teams/518.png,Trapani,0,https://media.api-sports.io/football/teams/803.png,Italy,Copa de Italia,137,2020.0
-625721,Alessandria,3,https://media.api-sports.io/football/teams/878.png,Sambenedettese,2,https://media.api-sports.io/football/teams/871.png,Italy,Copa de Italia,137,2020.0
-625722,Bari,4,https://media.api-sports.io/football/teams/508.png,Trastevere,0,https://media.api-sports.io/football/teams/874.png,Italy,Copa de Italia,137,2020.0
-625723,Carpi,1,https://media.api-sports.io/football/teams/519.png,Casarano,3,https://media.api-sports.io/football/teams/9542.png,Italy,Copa de Italia,137,2020.0
-625724,Carrarese,4,https://media.api-sports.io/football/teams/1581.png,Ambrosiana,0,https://media.api-sports.io/football/teams/9463.png,Italy,Copa de Italia,137,2020.0
-625725,Catania,1,https://media.api-sports.io/football/teams/1580.png,San Nicolò,2,https://media.api-sports.io/football/teams/9518.png,Italy,Copa de Italia,137,2020.0
-625726,Catanzaro,2,https://media.api-sports.io/football/teams/1687.png,Virtus Francavilla,1,https://media.api-sports.io/football/teams/873.png,Italy,Copa de Italia,137,2020.0
-625727,Feralpisalo,1,https://media.api-sports.io/football/teams/884.png,Pineto,0,https://media.api-sports.io/football/teams/9514.png,Italy,Copa de Italia,137,2020.0
-625728,Juve Stabia,2,https://media.api-sports.io/football/teams/863.png,Tritium,1,https://media.api-sports.io/football/teams/9459.png,Italy,Copa de Italia,137,2020.0
-625729,Livorno,1,https://media.api-sports.io/football/teams/868.png,Pro Patria,2,https://media.api-sports.io/football/teams/1706.png,Italy,Copa de Italia,137,2020.0
-625730,SS Monopoli,1,https://media.api-sports.io/football/teams/10138.png,Modena,0,https://media.api-sports.io/football/teams/899.png,Italy,Copa de Italia,137,2020.0
-625731,Novara,3,https://media.api-sports.io/football/teams/513.png,Gelbison,1,https://media.api-sports.io/football/teams/9544.png,Italy,Copa de Italia,137,2020.0
-625732,Padova,2,https://media.api-sports.io/football/teams/870.png,Breno,0,https://media.api-sports.io/football/teams/9481.png,Italy,Copa de Italia,137,2020.0
-625733,Piacenza,1,https://media.api-sports.io/football/teams/872.png,Teramo,2,https://media.api-sports.io/football/teams/1683.png,Italy,Copa de Italia,137,2020.0
-625734,Pontedera,1,https://media.api-sports.io/football/teams/1591.png,Arezzo,2,https://media.api-sports.io/football/teams/876.png,Italy,Copa de Italia,137,2020.0
-625735,Potenza,0,https://media.api-sports.io/football/teams/1710.png,Triestina,2,https://media.api-sports.io/football/teams/877.png,Italy,Copa de Italia,137,2020.0
-625736,Renate,2,https://media.api-sports.io/football/teams/875.png,Avellino,1,https://media.api-sports.io/football/teams/528.png,Italy,Copa de Italia,137,2020.0
-625737,Sudtirol,2,https://media.api-sports.io/football/teams/1578.png,Latte Dolce,1,https://media.api-sports.io/football/teams/9528.png,Italy,Copa de Italia,137,2020.0
-625738,Ternana,1,https://media.api-sports.io/football/teams/516.png,Albinoleffe,2,https://media.api-sports.io/football/teams/879.png,Italy,Copa de Italia,137,2020.0
-635339,Monza,3,https://media.api-sports.io/football/teams/1579.png,Triestina,0,https://media.api-sports.io/football/teams/877.png,Italy,Copa de Italia,137,2020.0
-635340,Reggina,1,https://media.api-sports.io/football/teams/1692.png,Teramo,0,https://media.api-sports.io/football/teams/1683.png,Italy,Copa de Italia,137,2020.0
-635341,Cremonese,4,https://media.api-sports.io/football/teams/520.png,Arezzo,0,https://media.api-sports.io/football/teams/876.png,Italy,Copa de Italia,137,2020.0
-635342,Nuova Cosenza,0,https://media.api-sports.io/football/teams/10137.png,Alessandria,0,https://media.api-sports.io/football/teams/878.png,Italy,Copa de Italia,137,2020.0
-635343,Cittadella,3,https://media.api-sports.io/football/teams/510.png,Novara,1,https://media.api-sports.io/football/teams/513.png,Italy,Copa de Italia,137,2020.0
-635344,Frosinone,1,https://media.api-sports.io/football/teams/512.png,Padova,3,https://media.api-sports.io/football/teams/870.png,Italy,Copa de Italia,137,2020.0
-635345,Pisa,2,https://media.api-sports.io/football/teams/801.png,Juve Stabia,0,https://media.api-sports.io/football/teams/863.png,Italy,Copa de Italia,137,2020.0
-635346,Pescara,1,https://media.api-sports.io/football/teams/525.png,San Nicolò,1,https://media.api-sports.io/football/teams/9518.png,Italy,Copa de Italia,137,2020.0
-635347,Venezia,2,https://media.api-sports.io/football/teams/517.png,Carrarese,0,https://media.api-sports.io/football/teams/1581.png,Italy,Copa de Italia,137,2020.0
-635348,Vicenza Virtus,3,https://media.api-sports.io/football/teams/1584.png,Pro Patria,2,https://media.api-sports.io/football/teams/1706.png,Italy,Copa de Italia,137,2020.0
-635349,Virtus Entella,2,https://media.api-sports.io/football/teams/527.png,Albinoleffe,1,https://media.api-sports.io/football/teams/879.png,Italy,Copa de Italia,137,2020.0
-635350,Empoli,2,https://media.api-sports.io/football/teams/511.png,Renate,1,https://media.api-sports.io/football/teams/875.png,Italy,Copa de Italia,137,2020.0
-635351,Reggiana,2,https://media.api-sports.io/football/teams/880.png,SS Monopoli,2,https://media.api-sports.io/football/teams/10138.png,Italy,Copa de Italia,137,2020.0
-635352,Lecce,2,https://media.api-sports.io/football/teams/867.png,Feralpisalo,0,https://media.api-sports.io/football/teams/884.png,Italy,Copa de Italia,137,2020.0
-635353,Pordenone,3,https://media.api-sports.io/football/teams/862.png,Casarano,0,https://media.api-sports.io/football/teams/9542.png,Italy,Copa de Italia,137,2020.0
-635354,Salernitana,3,https://media.api-sports.io/football/teams/514.png,Sudtirol,0,https://media.api-sports.io/football/teams/1578.png,Italy,Copa de Italia,137,2020.0
-635355,Chievo,1,https://media.api-sports.io/football/teams/491.png,Catanzaro,1,https://media.api-sports.io/football/teams/1687.png,Italy,Copa de Italia,137,2020.0
-635356,Spal,0,https://media.api-sports.io/football/teams/493.png,Bari,0,https://media.api-sports.io/football/teams/508.png,Italy,Copa de Italia,137,2020.0
-635585,Cagliari,1,https://media.api-sports.io/football/teams/490.png,Cremonese,0,https://media.api-sports.io/football/teams/520.png,Italy,Copa de Italia,137,2020.0
-635586,Parma,3,https://media.api-sports.io/football/teams/523.png,Pescara,1,https://media.api-sports.io/football/teams/525.png,Italy,Copa de Italia,137,2020.0
-635587,Benevento,2,https://media.api-sports.io/football/teams/506.png,Empoli,4,https://media.api-sports.io/football/teams/511.png,Italy,Copa de Italia,137,2020.0
-635588,Cittadella,0,https://media.api-sports.io/football/teams/510.png,Spezia,2,https://media.api-sports.io/football/teams/515.png,Italy,Copa de Italia,137,2020.0
-635589,Bologna,2,https://media.api-sports.io/football/teams/500.png,Reggina,0,https://media.api-sports.io/football/teams/1692.png,Italy,Copa de Italia,137,2020.0
-635590,Fiorentina,2,https://media.api-sports.io/football/teams/502.png,Padova,1,https://media.api-sports.io/football/teams/870.png,Italy,Copa de Italia,137,2020.0
-635591,Virtus Entella,3,https://media.api-sports.io/football/teams/527.png,Pisa,1,https://media.api-sports.io/football/teams/801.png,Italy,Copa de Italia,137,2020.0
-635592,Pordenone,0,https://media.api-sports.io/football/teams/862.png,Monza,0,https://media.api-sports.io/football/teams/1579.png,Italy,Copa de Italia,137,2020.0
-643172,Sampdoria,1,https://media.api-sports.io/football/teams/498.png,Salernitana,0,https://media.api-sports.io/football/teams/514.png,Italy,Copa de Italia,137,2020.0
-643173,Torino,3,https://media.api-sports.io/football/teams/503.png,Lecce,1,https://media.api-sports.io/football/teams/867.png,Italy,Copa de Italia,137,2020.0
-643174,Nuova Cosenza,2,https://media.api-sports.io/football/teams/10137.png,SS Monopoli,1,https://media.api-sports.io/football/teams/10138.png,Italy,Copa de Italia,137,2020.0
-643175,Brescia,3,https://media.api-sports.io/football/teams/518.png,Perugia,0,https://media.api-sports.io/football/teams/524.png,Italy,Copa de Italia,137,2020.0
-643176,Verona,3,https://media.api-sports.io/football/teams/504.png,Venezia,3,https://media.api-sports.io/football/teams/517.png,Italy,Copa de Italia,137,2020.0
-643177,Crotone,1,https://media.api-sports.io/football/teams/501.png,Spal,1,https://media.api-sports.io/football/teams/493.png,Italy,Copa de Italia,137,2020.0
-643178,Genoa,2,https://media.api-sports.io/football/teams/495.png,Catanzaro,1,https://media.api-sports.io/football/teams/1687.png,Italy,Copa de Italia,137,2020.0
-643179,Udinese,3,https://media.api-sports.io/football/teams/494.png,Vicenza Virtus,1,https://media.api-sports.io/football/teams/1584.png,Italy,Copa de Italia,137,2020.0
 644878,Cagliari,2,https://media.api-sports.io/football/teams/490.png,Verona,1,https://media.api-sports.io/football/teams/504.png,Italy,Copa de Italia,137,2020.0
-644879,Empoli,3,https://media.api-sports.io/football/teams/511.png,Brescia,0,https://media.api-sports.io/football/teams/518.png,Italy,Copa de Italia,137,2020.0
 644880,Parma,2,https://media.api-sports.io/football/teams/523.png,Nuova Cosenza,1,https://media.api-sports.io/football/teams/10137.png,Italy,Copa de Italia,137,2020.0
 644881,Sampdoria,1,https://media.api-sports.io/football/teams/498.png,Genoa,3,https://media.api-sports.io/football/teams/495.png,Italy,Copa de Italia,137,2020.0
 644882,Spal,2,https://media.api-sports.io/football/teams/493.png,Monza,0,https://media.api-sports.io/football/teams/1579.png,Italy,Copa de Italia,137,2020.0
@@ -12350,155 +11793,17 @@ fixture_id,home_team,home_goals,home_logo,away_team,away_goals,away_logo,country
 571851,Strasbourg,1,https://media.api-sports.io/football/teams/95.png,Lorient,1,https://media.api-sports.io/football/teams/97.png,France,Ligue 1,61,2020.0
 705636,Toulouse,1,https://media.api-sports.io/football/teams/96.png,Nantes,2,https://media.api-sports.io/football/teams/83.png,France,Ligue 1,61,2020.0
 705637,Nantes,0,https://media.api-sports.io/football/teams/83.png,Toulouse,1,https://media.api-sports.io/football/teams/96.png,France,Ligue 1,61,2020.0
-652095,Pamandzi,0,https://media.api-sports.io/football/teams/15588.png,Mtsapere,2,https://media.api-sports.io/football/teams/3086.png,France,Copa de Francia,66,2020.0
-652096,Saint-Pierroise,2,https://media.api-sports.io/football/teams/3295.png,Sainte-Marienne,2,https://media.api-sports.io/football/teams/9377.png,France,Copa de Francia,66,2020.0
-652097,Phare du Canal,1,https://media.api-sports.io/football/teams/3285.png,USR Sainte-Rose,0,https://media.api-sports.io/football/teams/3126.png,France,Copa de Francia,66,2020.0
-652098,Grand Santi,0,https://media.api-sports.io/football/teams/15587.png,Sinnamary,2,https://media.api-sports.io/football/teams/15589.png,France,Copa de Francia,66,2020.0
-652782,Saint-Pierroise,1,https://media.api-sports.io/football/teams/3295.png,Mtsapere,1,https://media.api-sports.io/football/teams/3086.png,France,Copa de Francia,66,2020.0
-652783,Sinnamary,2,https://media.api-sports.io/football/teams/15589.png,Phare du Canal,0,https://media.api-sports.io/football/teams/3285.png,France,Copa de Francia,66,2020.0
-653658,Club Franciscain,2,https://media.api-sports.io/football/teams/3258.png,Samaritaine,0,https://media.api-sports.io/football/teams/15592.png,France,Copa de Francia,66,2020.0
 656796,Dijon,0,https://media.api-sports.io/football/teams/89.png,Lille,1,https://media.api-sports.io/football/teams/79.png,France,Copa de Francia,66,2020.0
 656797,Angers,2,https://media.api-sports.io/football/teams/77.png,Rennes,1,https://media.api-sports.io/football/teams/94.png,France,Copa de Francia,66,2020.0
 656798,Nimes,1,https://media.api-sports.io/football/teams/92.png,Nice,3,https://media.api-sports.io/football/teams/84.png,France,Copa de Francia,66,2020.0
 656799,Strasbourg,0,https://media.api-sports.io/football/teams/95.png,Montpellier,2,https://media.api-sports.io/football/teams/82.png,France,Copa de Francia,66,2020.0
 656800,Nantes,2,https://media.api-sports.io/football/teams/83.png,Lens,4,https://media.api-sports.io/football/teams/116.png,France,Copa de Francia,66,2020.0
-656801,Valenciennes,2,https://media.api-sports.io/football/teams/105.png,Chambly Thelle FC,0,https://media.api-sports.io/football/teams/1291.png,France,Copa de Francia,66,2020.0
-656802,Dunkerque,1,https://media.api-sports.io/football/teams/1304.png,Amiens,1,https://media.api-sports.io/football/teams/87.png,France,Copa de Francia,66,2020.0
-656803,PAU,0,https://media.api-sports.io/football/teams/1297.png,Rodez,0,https://media.api-sports.io/football/teams/1301.png,France,Copa de Francia,66,2020.0
-656804,Toulouse,1,https://media.api-sports.io/football/teams/96.png,Niort,0,https://media.api-sports.io/football/teams/113.png,France,Copa de Francia,66,2020.0
-656805,Clermont Foot,1,https://media.api-sports.io/football/teams/99.png,Grenoble,1,https://media.api-sports.io/football/teams/101.png,France,Copa de Francia,66,2020.0
-656806,Chateauroux,0,https://media.api-sports.io/football/teams/107.png,Ajaccio,2,https://media.api-sports.io/football/teams/98.png,France,Copa de Francia,66,2020.0
-656807,Nancy,0,https://media.api-sports.io/football/teams/102.png,Sochaux,1,https://media.api-sports.io/football/teams/115.png,France,Copa de Francia,66,2020.0
-656808,Auxerre,1,https://media.api-sports.io/football/teams/108.png,Estac Troyes,0,https://media.api-sports.io/football/teams/110.png,France,Copa de Francia,66,2020.0
-656809,Guingamp,1,https://media.api-sports.io/football/teams/90.png,Caen,3,https://media.api-sports.io/football/teams/88.png,France,Copa de Francia,66,2020.0
-656810,LE Havre,0,https://media.api-sports.io/football/teams/111.png,Paris FC,1,https://media.api-sports.io/football/teams/114.png,France,Copa de Francia,66,2020.0
-657883,Sinnamary,1,https://media.api-sports.io/football/teams/15589.png,Club Franciscain,1,https://media.api-sports.io/football/teams/3258.png,France,Copa de Francia,66,2020.0
-658494,Amiens,1,https://media.api-sports.io/football/teams/87.png,Metz,2,https://media.api-sports.io/football/teams/112.png,France,Copa de Francia,66,2020.0
-658495,Reims,3,https://media.api-sports.io/football/teams/93.png,Valenciennes,4,https://media.api-sports.io/football/teams/105.png,France,Copa de Francia,66,2020.0
-658496,Bordeaux,0,https://media.api-sports.io/football/teams/78.png,Toulouse,2,https://media.api-sports.io/football/teams/96.png,France,Copa de Francia,66,2020.0
-658497,Stade Brestois 29,2,https://media.api-sports.io/football/teams/106.png,Rodez,1,https://media.api-sports.io/football/teams/1301.png,France,Copa de Francia,66,2020.0
-658498,Lyon,5,https://media.api-sports.io/football/teams/80.png,Ajaccio,1,https://media.api-sports.io/football/teams/98.png,France,Copa de Francia,66,2020.0
-658499,Auxerre,0,https://media.api-sports.io/football/teams/108.png,Marseille,2,https://media.api-sports.io/football/teams/81.png,France,Copa de Francia,66,2020.0
-658500,Lorient,2,https://media.api-sports.io/football/teams/97.png,Paris FC,1,https://media.api-sports.io/football/teams/114.png,France,Copa de Francia,66,2020.0
-659225,Grenoble,0,https://media.api-sports.io/football/teams/101.png,Monaco,1,https://media.api-sports.io/football/teams/91.png,France,Copa de Francia,66,2020.0
-659226,Caen,0,https://media.api-sports.io/football/teams/88.png,Paris Saint Germain,1,https://media.api-sports.io/football/teams/85.png,France,Copa de Francia,66,2020.0
-659227,Sochaux,1,https://media.api-sports.io/football/teams/115.png,Saint Etienne,0,https://media.api-sports.io/football/teams/1063.png,France,Copa de Francia,66,2020.0
-674518,Quevilly,3,https://media.api-sports.io/football/teams/431.png,Avranches,2,https://media.api-sports.io/football/teams/1303.png,France,Copa de Francia,66,2020.0
-674519,Stade Briochin,3,https://media.api-sports.io/football/teams/3229.png,Vannes,0,https://media.api-sports.io/football/teams/3129.png,France,Copa de Francia,66,2020.0
-674520,Orleans,2,https://media.api-sports.io/football/teams/103.png,Bourges 18,2,https://media.api-sports.io/football/teams/9919.png,France,Copa de Francia,66,2020.0
-674521,Andrézieux,4,https://media.api-sports.io/football/teams/3009.png,Villefranche,0,https://media.api-sports.io/football/teams/1302.png,France,Copa de Francia,66,2020.0
-674522,Sedan,2,https://media.api-sports.io/football/teams/1310.png,Epinal,1,https://media.api-sports.io/football/teams/1309.png,France,Copa de Francia,66,2020.0
-674523,Creteil,4,https://media.api-sports.io/football/teams/1307.png,St Maur Lusitanos,2,https://media.api-sports.io/football/teams/3115.png,France,Copa de Francia,66,2020.0
-674524,Seyssinet-Pariset,0,https://media.api-sports.io/football/teams/3227.png,Annecy,4,https://media.api-sports.io/football/teams/3012.png,France,Copa de Francia,66,2020.0
-674525,Olympique Marcquois,2,https://media.api-sports.io/football/teams/3090.png,Boulogne,3,https://media.api-sports.io/football/teams/1299.png,France,Copa de Francia,66,2020.0
-674526,Thonon Évian,2,https://media.api-sports.io/football/teams/9313.png,Vénissieux,3,https://media.api-sports.io/football/teams/13754.png,France,Copa de Francia,66,2020.0
-674527,Jura Sud Foot,1,https://media.api-sports.io/football/teams/9255.png,Besançon,1,https://media.api-sports.io/football/teams/3023.png,France,Copa de Francia,66,2020.0
-674528,OS Aire-Sur-La-Lys,1,https://media.api-sports.io/football/teams/13743.png,Chantilly,1,https://media.api-sports.io/football/teams/3162.png,France,Copa de Francia,66,2020.0
-674529,Mérignac-Arlac,1,https://media.api-sports.io/football/teams/3206.png,Aixoise,0,https://media.api-sports.io/football/teams/3247.png,France,Copa de Francia,66,2020.0
-674530,Le Puy Foot,4,https://media.api-sports.io/football/teams/3069.png,Aurillac Arpajon,2,https://media.api-sports.io/football/teams/3015.png,France,Copa de Francia,66,2020.0
-674531,Limonest,0,https://media.api-sports.io/football/teams/3071.png,Rumilly Vallières,0,https://media.api-sports.io/football/teams/9973.png,France,Copa de Francia,66,2020.0
-674532,Rhone-Vallee,0,https://media.api-sports.io/football/teams/3290.png,Saint-Priest,2,https://media.api-sports.io/football/teams/3296.png,France,Copa de Francia,66,2020.0
-674533,Hombourg-Haut,1,https://media.api-sports.io/football/teams/9282.png,Saint-Louis Neuweg,1,https://media.api-sports.io/football/teams/3106.png,France,Copa de Francia,66,2020.0
-674534,Prix-lès-Mézières,2,https://media.api-sports.io/football/teams/3099.png,Thaon,1,https://media.api-sports.io/football/teams/3123.png,France,Copa de Francia,66,2020.0
-674535,Saint-Malo,4,https://media.api-sports.io/football/teams/3108.png,Stade Plabennec,2,https://media.api-sports.io/football/teams/9311.png,France,Copa de Francia,66,2020.0
-674536,Liffré,1,https://media.api-sports.io/football/teams/3197.png,Montagnarde,4,https://media.api-sports.io/football/teams/3081.png,France,Copa de Francia,66,2020.0
-674537,Saint-Pierre Milizac,1,https://media.api-sports.io/football/teams/9309.png,Dinan Léhon,1,https://media.api-sports.io/football/teams/9275.png,France,Copa de Francia,66,2020.0
-674538,Saint-Colomban Locminé,5,https://media.api-sports.io/football/teams/3224.png,Saint-Renan,2,https://media.api-sports.io/football/teams/13626.png,France,Copa de Francia,66,2020.0
-674539,Plouzané,1,https://media.api-sports.io/football/teams/3287.png,Guichen,2,https://media.api-sports.io/football/teams/9281.png,France,Copa de Francia,66,2020.0
-674540,Romorantin,1,https://media.api-sports.io/football/teams/3220.png,Tours,0,https://media.api-sports.io/football/teams/432.png,France,Copa de Francia,66,2020.0
-674541,Saumur,0,https://media.api-sports.io/football/teams/3225.png,Vendée Fontenay,0,https://media.api-sports.io/football/teams/3130.png,France,Copa de Francia,66,2020.0
-674542,Changé,0,https://media.api-sports.io/football/teams/3161.png,Les Herbiers,1,https://media.api-sports.io/football/teams/1308.png,France,Copa de Francia,66,2020.0
-674543,Rouen,3,https://media.api-sports.io/football/teams/3221.png,Vire,0,https://media.api-sports.io/football/teams/3243.png,France,Copa de Francia,66,2020.0
-674544,AG Caennaise,0,https://media.api-sports.io/football/teams/3007.png,Châteaubriant,1,https://media.api-sports.io/football/teams/9272.png,France,Copa de Francia,66,2020.0
-674545,Drancy,2,https://media.api-sports.io/football/teams/1293.png,Sénart Moissy,0,https://media.api-sports.io/football/teams/3308.png,France,Copa de Francia,66,2020.0
-674546,Pontarlier,0,https://media.api-sports.io/football/teams/3214.png,Fleury 91,3,https://media.api-sports.io/football/teams/3179.png,France,Copa de Francia,66,2020.0
-674547,Libourne,2,https://media.api-sports.io/football/teams/13609.png,Lège-Cap-Ferret,2,https://media.api-sports.io/football/teams/3075.png,France,Copa de Francia,66,2020.0
-674548,Colomiers,1,https://media.api-sports.io/football/teams/3169.png,Canet Roussillon,1,https://media.api-sports.io/football/teams/3030.png,France,Copa de Francia,66,2020.0
-674549,Lesquin,0,https://media.api-sports.io/football/teams/13734.png,Amiens AC,4,https://media.api-sports.io/football/teams/9251.png,France,Copa de Francia,66,2020.0
-674550,Loon-Plage,1,https://media.api-sports.io/football/teams/13654.png,Entente Itancourt-Neu.,0,https://media.api-sports.io/football/teams/3171.png,France,Copa de Francia,66,2020.0
-674551,Arras,2,https://media.api-sports.io/football/teams/3147.png,Olympique St Quentin,1,https://media.api-sports.io/football/teams/3091.png,France,Copa de Francia,66,2020.0
-674552,Longueau,1,https://media.api-sports.io/football/teams/3072.png,Beauvais,3,https://media.api-sports.io/football/teams/3153.png,France,Copa de Francia,66,2020.0
-674553,Vitry,0,https://media.api-sports.io/football/teams/13753.png,Saint-Brice,4,https://media.api-sports.io/football/teams/3223.png,France,Copa de Francia,66,2020.0
-674554,Chamalières,0,https://media.api-sports.io/football/teams/3033.png,Moulins-Yzeure Foot 03,0,https://media.api-sports.io/football/teams/3204.png,France,Copa de Francia,66,2020.0
-674555,Belfort,1,https://media.api-sports.io/football/teams/1311.png,Louhans-Cuiseaux,3,https://media.api-sports.io/football/teams/3073.png,France,Copa de Francia,66,2020.0
-674556,St Liguaire Niort,0,https://media.api-sports.io/football/teams/3302.png,Trélissac,0,https://media.api-sports.io/football/teams/9246.png,France,Copa de Francia,66,2020.0
-674557,Panazol,0,https://media.api-sports.io/football/teams/13618.png,Olympique d'Alès,3,https://media.api-sports.io/football/teams/3093.png,France,Copa de Francia,66,2020.0
-674558,Fabrègues,1,https://media.api-sports.io/football/teams/3175.png,Onet-le-Château,0,https://media.api-sports.io/football/teams/13705.png,France,Copa de Francia,66,2020.0
-674559,Castelnau le Cres,2,https://media.api-sports.io/football/teams/13765.png,Montauban TG,0,https://media.api-sports.io/football/teams/3202.png,France,Copa de Francia,66,2020.0
-674560,Gazelec FC Ajaccio,2,https://media.api-sports.io/football/teams/100.png,Furiani-Agliani,2,https://media.api-sports.io/football/teams/3181.png,France,Copa de Francia,66,2020.0
-674561,Anglet Genets,0,https://media.api-sports.io/football/teams/3010.png,Poitiers,1,https://media.api-sports.io/football/teams/3097.png,France,Copa de Francia,66,2020.0
-674562,Nord Vignoble,1,https://media.api-sports.io/football/teams/16407.png,Feurs,2,https://media.api-sports.io/football/teams/3177.png,France,Copa de Francia,66,2020.0
-674563,Ribeauvillé,0,https://media.api-sports.io/football/teams/16410.png,Soleil Bischheim,3,https://media.api-sports.io/football/teams/3301.png,France,Copa de Francia,66,2020.0
-674564,Saint-Meziery,0,https://media.api-sports.io/football/teams/16413.png,Reims Sainte-Anne,0,https://media.api-sports.io/football/teams/9303.png,France,Copa de Francia,66,2020.0
-674565,Portugais Saint-Francois,0,https://media.api-sports.io/football/teams/16409.png,Amnéville,3,https://media.api-sports.io/football/teams/3144.png,France,Copa de Francia,66,2020.0
-674566,Gonfreville,4,https://media.api-sports.io/football/teams/9278.png,Falaise,0,https://media.api-sports.io/football/teams/16404.png,France,Copa de Francia,66,2020.0
-674567,Mâcon,2,https://media.api-sports.io/football/teams/3277.png,Union Cosnoise,1,https://media.api-sports.io/football/teams/16417.png,France,Copa de Francia,66,2020.0
-674568,St Clément Montferrier,2,https://media.api-sports.io/football/teams/16415.png,Marssac SRDT,1,https://media.api-sports.io/football/teams/9291.png,France,Copa de Francia,66,2020.0
-674569,Lambresienne,4,https://media.api-sports.io/football/teams/16405.png,US Laon,0,https://media.api-sports.io/football/teams/13674.png,France,Copa de Francia,66,2020.0
-674570,Bailleulois,1,https://media.api-sports.io/football/teams/16403.png,Steenvoorde,2,https://media.api-sports.io/football/teams/3307.png,France,Copa de Francia,66,2020.0
-674571,Saint-Maurice Loos,0,https://media.api-sports.io/football/teams/16412.png,Saint-Omer,0,https://media.api-sports.io/football/teams/3109.png,France,Copa de Francia,66,2020.0
-674572,Obermodern,0,https://media.api-sports.io/football/teams/16408.png,Schiltigheim,0,https://media.api-sports.io/football/teams/3114.png,France,Copa de Francia,66,2020.0
-674573,Strasbourg Koenigshoffen,1,https://media.api-sports.io/football/teams/16416.png,Haguenau,2,https://media.api-sports.io/football/teams/3058.png,France,Copa de Francia,66,2020.0
-674574,Saint-Zacharie,0,https://media.api-sports.io/football/teams/16414.png,Athletico Marseille,0,https://media.api-sports.io/football/teams/1306.png,France,Copa de Francia,66,2020.0
-674575,Maximoise,1,https://media.api-sports.io/football/teams/16406.png,Aubagne,3,https://media.api-sports.io/football/teams/9930.png,France,Copa de Francia,66,2020.0
-674576,Saint-Laurent Billère,0,https://media.api-sports.io/football/teams/16411.png,Bayonne,1,https://media.api-sports.io/football/teams/10166.png,France,Copa de Francia,66,2020.0
-675059,Vénissieux,0,https://media.api-sports.io/football/teams/13754.png,Annecy,1,https://media.api-sports.io/football/teams/3012.png,France,Copa de Francia,66,2020.0
-675060,Orleans,1,https://media.api-sports.io/football/teams/103.png,Romorantin,1,https://media.api-sports.io/football/teams/3220.png,France,Copa de Francia,66,2020.0
-675061,Boulogne,5,https://media.api-sports.io/football/teams/1299.png,Lambresienne,0,https://media.api-sports.io/football/teams/16405.png,France,Copa de Francia,66,2020.0
-675062,Saint-Malo,0,https://media.api-sports.io/football/teams/3108.png,Stade Briochin,2,https://media.api-sports.io/football/teams/3229.png,France,Copa de Francia,66,2020.0
-675063,Quevilly,1,https://media.api-sports.io/football/teams/431.png,Rouen,0,https://media.api-sports.io/football/teams/3221.png,France,Copa de Francia,66,2020.0
-675064,Feurs,0,https://media.api-sports.io/football/teams/3177.png,Le Puy Foot,0,https://media.api-sports.io/football/teams/3069.png,France,Copa de Francia,66,2020.0
-675065,Rumilly Vallières,5,https://media.api-sports.io/football/teams/9973.png,Saint-Priest,1,https://media.api-sports.io/football/teams/3296.png,France,Copa de Francia,66,2020.0
-675066,Montagnarde,1,https://media.api-sports.io/football/teams/3081.png,Dinan Léhon,0,https://media.api-sports.io/football/teams/9275.png,France,Copa de Francia,66,2020.0
-675067,Saint-Colomban Locminé,0,https://media.api-sports.io/football/teams/3224.png,Guichen,1,https://media.api-sports.io/football/teams/9281.png,France,Copa de Francia,66,2020.0
-675068,Soleil Bischheim,0,https://media.api-sports.io/football/teams/3301.png,Schiltigheim,1,https://media.api-sports.io/football/teams/3114.png,France,Copa de Francia,66,2020.0
-675069,Haguenau,2,https://media.api-sports.io/football/teams/3058.png,Saint-Louis Neuweg,2,https://media.api-sports.io/football/teams/3106.png,France,Copa de Francia,66,2020.0
-675070,Sedan,5,https://media.api-sports.io/football/teams/1310.png,Saint-Meziery,0,https://media.api-sports.io/football/teams/16413.png,France,Copa de Francia,66,2020.0
-675071,Amnéville,0,https://media.api-sports.io/football/teams/3144.png,Prix-lès-Mézières,0,https://media.api-sports.io/football/teams/3099.png,France,Copa de Francia,66,2020.0
-675072,OS Aire-Sur-La-Lys,0,https://media.api-sports.io/football/teams/13743.png,Amiens AC,0,https://media.api-sports.io/football/teams/9251.png,France,Copa de Francia,66,2020.0
-675073,Loon-Plage,1,https://media.api-sports.io/football/teams/13654.png,Arras,1,https://media.api-sports.io/football/teams/3147.png,France,Copa de Francia,66,2020.0
-675074,Steenvoorde,2,https://media.api-sports.io/football/teams/3307.png,Beauvais,4,https://media.api-sports.io/football/teams/3153.png,France,Copa de Francia,66,2020.0
-675075,Saint-Omer,0,https://media.api-sports.io/football/teams/3109.png,Gazelec FC Ajaccio,1,https://media.api-sports.io/football/teams/100.png,France,Copa de Francia,66,2020.0
-675076,Athletico Marseille,0,https://media.api-sports.io/football/teams/1306.png,Aubagne,0,https://media.api-sports.io/football/teams/9930.png,France,Copa de Francia,66,2020.0
-675077,St Liguaire Niort,0,https://media.api-sports.io/football/teams/3302.png,Olympique d'Alès,2,https://media.api-sports.io/football/teams/3093.png,France,Copa de Francia,66,2020.0
-675078,St Clément Montferrier,0,https://media.api-sports.io/football/teams/16415.png,Canet Roussillon,2,https://media.api-sports.io/football/teams/3030.png,France,Copa de Francia,66,2020.0
-675079,Fabrègues,4,https://media.api-sports.io/football/teams/3175.png,Castelnau le Cres,1,https://media.api-sports.io/football/teams/13765.png,France,Copa de Francia,66,2020.0
-675080,Mérignac-Arlac,1,https://media.api-sports.io/football/teams/3206.png,Poitiers,4,https://media.api-sports.io/football/teams/3097.png,France,Copa de Francia,66,2020.0
-675081,Saint-Brice,2,https://media.api-sports.io/football/teams/3223.png,Drancy,0,https://media.api-sports.io/football/teams/1293.png,France,Copa de Francia,66,2020.0
-675082,Besançon,0,https://media.api-sports.io/football/teams/3023.png,Mâcon,1,https://media.api-sports.io/football/teams/3277.png,France,Copa de Francia,66,2020.0
-675083,Louhans-Cuiseaux,0,https://media.api-sports.io/football/teams/3073.png,Fleury 91,1,https://media.api-sports.io/football/teams/3179.png,France,Copa de Francia,66,2020.0
-675084,Gonfreville,0,https://media.api-sports.io/football/teams/9278.png,Châteaubriant,2,https://media.api-sports.io/football/teams/9272.png,France,Copa de Francia,66,2020.0
-675085,Chamalières,1,https://media.api-sports.io/football/teams/3033.png,Andrézieux,1,https://media.api-sports.io/football/teams/3009.png,France,Copa de Francia,66,2020.0
-675086,Lège-Cap-Ferret,1,https://media.api-sports.io/football/teams/3075.png,Bayonne,0,https://media.api-sports.io/football/teams/10166.png,France,Copa de Francia,66,2020.0
-675087,St-Philbert Gd Lieu,1,https://media.api-sports.io/football/teams/15110.png,Laval,3,https://media.api-sports.io/football/teams/433.png,France,Copa de Francia,66,2020.0
-675088,RED Star FC 93,1,https://media.api-sports.io/football/teams/104.png,Bobigny,0,https://media.api-sports.io/football/teams/3027.png,France,Copa de Francia,66,2020.0
-675089,Élan de Gorges,0,https://media.api-sports.io/football/teams/16438.png,Sablé,0,https://media.api-sports.io/football/teams/9304.png,France,Copa de Francia,66,2020.0
-676889,Fleury 91,1,https://media.api-sports.io/football/teams/3179.png,Annecy,1,https://media.api-sports.io/football/teams/3012.png,France,Copa de Francia,66,2020.0
-676890,Olympique d'Alès,2,https://media.api-sports.io/football/teams/3093.png,Fabrègues,0,https://media.api-sports.io/football/teams/3175.png,France,Copa de Francia,66,2020.0
-676891,Le Puy Foot,0,https://media.api-sports.io/football/teams/3069.png,Chamalières,0,https://media.api-sports.io/football/teams/3033.png,France,Copa de Francia,66,2020.0
-676892,Aubagne,2,https://media.api-sports.io/football/teams/9930.png,Lège-Cap-Ferret,2,https://media.api-sports.io/football/teams/3075.png,France,Copa de Francia,66,2020.0
-676893,Canet Roussillon,1,https://media.api-sports.io/football/teams/3030.png,Poitiers,1,https://media.api-sports.io/football/teams/3097.png,France,Copa de Francia,66,2020.0
-676894,Schiltigheim,0,https://media.api-sports.io/football/teams/3114.png,Sedan,4,https://media.api-sports.io/football/teams/1310.png,France,Copa de Francia,66,2020.0
-676895,Mâcon,0,https://media.api-sports.io/football/teams/3277.png,Saint-Louis Neuweg,0,https://media.api-sports.io/football/teams/3106.png,France,Copa de Francia,66,2020.0
-676896,Rumilly Vallières,0,https://media.api-sports.io/football/teams/9973.png,Prix-lès-Mézières,0,https://media.api-sports.io/football/teams/3099.png,France,Copa de Francia,66,2020.0
-676897,OS Aire-Sur-La-Lys,1,https://media.api-sports.io/football/teams/13743.png,Beauvais,4,https://media.api-sports.io/football/teams/3153.png,France,Copa de Francia,66,2020.0
-676898,Saint-Brice,0,https://media.api-sports.io/football/teams/3223.png,Gazelec FC Ajaccio,1,https://media.api-sports.io/football/teams/100.png,France,Copa de Francia,66,2020.0
-676899,Creteil,1,https://media.api-sports.io/football/teams/1307.png,RED Star FC 93,2,https://media.api-sports.io/football/teams/104.png,France,Copa de Francia,66,2020.0
-676900,Les Herbiers,3,https://media.api-sports.io/football/teams/1308.png,Laval,0,https://media.api-sports.io/football/teams/433.png,France,Copa de Francia,66,2020.0
-676901,Sablé,1,https://media.api-sports.io/football/teams/9304.png,Saumur,4,https://media.api-sports.io/football/teams/3225.png,France,Copa de Francia,66,2020.0
-677348,Montagnarde,1,https://media.api-sports.io/football/teams/3081.png,Stade Briochin,1,https://media.api-sports.io/football/teams/3229.png,France,Copa de Francia,66,2020.0
-677349,Loon-Plage,0,https://media.api-sports.io/football/teams/13654.png,Boulogne,3,https://media.api-sports.io/football/teams/1299.png,France,Copa de Francia,66,2020.0
-677350,RED Star FC 93,2,https://media.api-sports.io/football/teams/104.png,Quevilly,1,https://media.api-sports.io/football/teams/431.png,France,Copa de Francia,66,2020.0
-677351,Guichen,0,https://media.api-sports.io/football/teams/9281.png,Saumur,1,https://media.api-sports.io/football/teams/3225.png,France,Copa de Francia,66,2020.0
-677352,Les Herbiers,0,https://media.api-sports.io/football/teams/1308.png,Châteaubriant,1,https://media.api-sports.io/football/teams/9272.png,France,Copa de Francia,66,2020.0
-677353,Romorantin,2,https://media.api-sports.io/football/teams/3220.png,Mtsapere,0,https://media.api-sports.io/football/teams/3086.png,France,Copa de Francia,66,2020.0
 678985,RED Star FC 93,3,https://media.api-sports.io/football/teams/104.png,Lens,2,https://media.api-sports.io/football/teams/116.png,France,Copa de Francia,66,2020.0
 678986,Beauvais,0,https://media.api-sports.io/football/teams/3153.png,Boulogne,2,https://media.api-sports.io/football/teams/1299.png,France,Copa de Francia,66,2020.0
 678987,Gazelec FC Ajaccio,1,https://media.api-sports.io/football/teams/100.png,Lille,3,https://media.api-sports.io/football/teams/79.png,France,Copa de Francia,66,2020.0
 678988,Valenciennes,0,https://media.api-sports.io/football/teams/105.png,Metz,4,https://media.api-sports.io/football/teams/112.png,France,Copa de Francia,66,2020.0
 678989,Nice,0,https://media.api-sports.io/football/teams/84.png,Monaco,2,https://media.api-sports.io/football/teams/91.png,France,Copa de Francia,66,2020.0
 678990,Rumilly Vallières,1,https://media.api-sports.io/football/teams/9973.png,Annecy,1,https://media.api-sports.io/football/teams/3012.png,France,Copa de Francia,66,2020.0
-678991,Saint-Louis Neuweg,0,https://media.api-sports.io/football/teams/3106.png,Sedan,2,https://media.api-sports.io/football/teams/1310.png,France,Copa de Francia,66,2020.0
 678992,Lyon,5,https://media.api-sports.io/football/teams/80.png,Sochaux,2,https://media.api-sports.io/football/teams/115.png,France,Copa de Francia,66,2020.0
 678993,Canet Roussillon,2,https://media.api-sports.io/football/teams/3030.png,Marseille,1,https://media.api-sports.io/football/teams/81.png,France,Copa de Francia,66,2020.0
 678994,Olympique d'Alès,1,https://media.api-sports.io/football/teams/3093.png,Montpellier,2,https://media.api-sports.io/football/teams/82.png,France,Copa de Francia,66,2020.0
@@ -12506,7 +11811,6 @@ fixture_id,home_team,home_goals,home_logo,away_team,away_goals,away_logo,country
 678996,Aubagne,0,https://media.api-sports.io/football/teams/9930.png,Toulouse,2,https://media.api-sports.io/football/teams/96.png,France,Copa de Francia,66,2020.0
 678997,Stade Brestois 29,0,https://media.api-sports.io/football/teams/106.png,Paris Saint Germain,3,https://media.api-sports.io/football/teams/85.png,France,Copa de Francia,66,2020.0
 678998,Le Puy Foot,1,https://media.api-sports.io/football/teams/3069.png,Lorient,0,https://media.api-sports.io/football/teams/97.png,France,Copa de Francia,66,2020.0
-678999,Saumur,3,https://media.api-sports.io/football/teams/3225.png,Montagnarde,3,https://media.api-sports.io/football/teams/3081.png,France,Copa de Francia,66,2020.0
 679863,Romorantin,1,https://media.api-sports.io/football/teams/3220.png,Châteaubriant,3,https://media.api-sports.io/football/teams/9272.png,France,Copa de Francia,66,2020.0
 682854,Paris Saint Germain,3,https://media.api-sports.io/football/teams/85.png,Lille,0,https://media.api-sports.io/football/teams/79.png,France,Copa de Francia,66,2020.0
 682855,Saumur,1,https://media.api-sports.io/football/teams/3225.png,Toulouse,2,https://media.api-sports.io/football/teams/96.png,France,Copa de Francia,66,2020.0
@@ -12905,16 +12209,6 @@ fixture_id,home_team,home_goals,home_logo,away_team,away_goals,away_logo,country
 721116,Valencia,2,https://media.api-sports.io/football/teams/532.png,Celta Vigo,0,https://media.api-sports.io/football/teams/538.png,Spain,La liga,140,2021.0
 721117,Rayo Vallecano,2,https://media.api-sports.io/football/teams/728.png,Levante,4,https://media.api-sports.io/football/teams/539.png,Spain,La liga,140,2021.0
 721118,Elche,3,https://media.api-sports.io/football/teams/797.png,Getafe,1,https://media.api-sports.io/football/teams/546.png,Spain,La liga,140,2021.0
-809921,Aldeano,1,https://media.api-sports.io/football/teams/18087.png,Unami,3,https://media.api-sports.io/football/teams/18100.png,Spain,Copa del rey,143,2021.0
-809922,Victoria CF,1,https://media.api-sports.io/football/teams/18102.png,Hernani,0,https://media.api-sports.io/football/teams/18091.png,Spain,Copa del rey,143,2021.0
-809923,Nalón,1,https://media.api-sports.io/football/teams/18097.png,Solares,1,https://media.api-sports.io/football/teams/9647.png,Spain,Copa del rey,143,2021.0
-809924,Utrillas,2,https://media.api-sports.io/football/teams/18101.png,Injerto,0,https://media.api-sports.io/football/teams/18093.png,Spain,Copa del rey,143,2021.0
-809925,Mollerussa,1,https://media.api-sports.io/football/teams/18096.png,Penya Independent,0,https://media.api-sports.io/football/teams/18098.png,Spain,Copa del rey,143,2021.0
-809926,CFI Alicante,7,https://media.api-sports.io/football/teams/18089.png,Ceuta 6 de Junio,1,https://media.api-sports.io/football/teams/18090.png,Spain,Copa del rey,143,2021.0
-809927,Villa de Fortuna,1,https://media.api-sports.io/football/teams/18103.png,Atlético Espeleño,0,https://media.api-sports.io/football/teams/18088.png,Spain,Copa del rey,143,2021.0
-809928,Huracán Melilla,2,https://media.api-sports.io/football/teams/18092.png,Atarfe Industrial,1,https://media.api-sports.io/football/teams/17499.png,Spain,Copa del rey,143,2021.0
-809929,Laguna,4,https://media.api-sports.io/football/teams/18095.png,Jaraíz,1,https://media.api-sports.io/football/teams/18094.png,Spain,Copa del rey,143,2021.0
-809930,San Agustín,6,https://media.api-sports.io/football/teams/18099.png,Mora,2,https://media.api-sports.io/football/teams/6688.png,Spain,Copa del rey,143,2021.0
 812838,Huracán Melilla,0,https://media.api-sports.io/football/teams/18092.png,Levante,8,https://media.api-sports.io/football/teams/539.png,Spain,Copa del rey,143,2021.0
 812839,Utrillas,0,https://media.api-sports.io/football/teams/18101.png,Valencia,3,https://media.api-sports.io/football/teams/532.png,Spain,Copa del rey,143,2021.0
 812840,CFI Alicante,0,https://media.api-sports.io/football/teams/18089.png,Real Betis,4,https://media.api-sports.io/football/teams/543.png,Spain,Copa del rey,143,2021.0
@@ -12931,46 +12225,6 @@ fixture_id,home_team,home_goals,home_logo,away_team,away_goals,away_logo,country
 812851,Leioa,0,https://media.api-sports.io/football/teams/9397.png,Elche,2,https://media.api-sports.io/football/teams/797.png,Spain,Copa del rey,143,2021.0
 812852,Panadería Pulido,0,https://media.api-sports.io/football/teams/9800.png,Real Sociedad,4,https://media.api-sports.io/football/teams/548.png,Spain,Copa del rey,143,2021.0
 812853,Gimnástica Segoviana,0,https://media.api-sports.io/football/teams/9387.png,Mallorca,2,https://media.api-sports.io/football/teams/798.png,Spain,Copa del rey,143,2021.0
-812854,Gernika,1,https://media.api-sports.io/football/teams/5263.png,Eibar,2,https://media.api-sports.io/football/teams/545.png,Spain,Copa del rey,143,2021.0
-812855,Mensajero,0,https://media.api-sports.io/football/teams/5269.png,Zaragoza,1,https://media.api-sports.io/football/teams/732.png,Spain,Copa del rey,143,2021.0
-812856,Teruel,0,https://media.api-sports.io/football/teams/5278.png,Alcorcon,1,https://media.api-sports.io/football/teams/711.png,Spain,Copa del rey,143,2021.0
-812857,Ceares,0,https://media.api-sports.io/football/teams/9620.png,Sporting Gijon,1,https://media.api-sports.io/football/teams/731.png,Spain,Copa del rey,143,2021.0
-812858,San Roque Lepe,0,https://media.api-sports.io/football/teams/9767.png,Mirandes,3,https://media.api-sports.io/football/teams/799.png,Spain,Copa del rey,143,2021.0
-812859,Europa Fc,0,https://media.api-sports.io/football/teams/593.png,Amorebieta,1,https://media.api-sports.io/football/teams/9380.png,Spain,Copa del rey,143,2021.0
-812860,Montijo,0,https://media.api-sports.io/football/teams/9835.png,Burgos,1,https://media.api-sports.io/football/teams/9580.png,Spain,Copa del rey,143,2021.0
-812861,Cayón,0,https://media.api-sports.io/football/teams/15339.png,Huesca,2,https://media.api-sports.io/football/teams/726.png,Spain,Copa del rey,143,2021.0
-812862,Calvo Sotelo,1,https://media.api-sports.io/football/teams/9899.png,Girona,5,https://media.api-sports.io/football/teams/547.png,Spain,Copa del rey,143,2021.0
-812863,Alzira,0,https://media.api-sports.io/football/teams/9687.png,Fuenlabrada,1,https://media.api-sports.io/football/teams/4906.png,Spain,Copa del rey,143,2021.0
-812864,Peña Sport,0,https://media.api-sports.io/football/teams/9406.png,Malaga,3,https://media.api-sports.io/football/teams/535.png,Spain,Copa del rey,143,2021.0
-812865,Ibiza Islas Pitiusas,1,https://media.api-sports.io/football/teams/9781.png,Tenerife,2,https://media.api-sports.io/football/teams/719.png,Spain,Copa del rey,143,2021.0
-812866,Águilas,1,https://media.api-sports.io/football/teams/9823.png,Almeria,1,https://media.api-sports.io/football/teams/723.png,Spain,Copa del rey,143,2021.0
-812867,Racing Rioja,0,https://media.api-sports.io/football/teams/15324.png,FC Cartagena,2,https://media.api-sports.io/football/teams/5262.png,Spain,Copa del rey,143,2021.0
-812868,Unión Adarve,2,https://media.api-sports.io/football/teams/9719.png,Lugo,2,https://media.api-sports.io/football/teams/716.png,Spain,Copa del rey,143,2021.0
-812869,Marchamalo,0,https://media.api-sports.io/football/teams/15332.png,Valladolid,1,https://media.api-sports.io/football/teams/720.png,Spain,Copa del rey,143,2021.0
-812870,Cacereño,1,https://media.api-sports.io/football/teams/9384.png,Ponferradina,2,https://media.api-sports.io/football/teams/4907.png,Spain,Copa del rey,143,2021.0
-812871,Xerez Deportivo,1,https://media.api-sports.io/football/teams/9771.png,Leganes,2,https://media.api-sports.io/football/teams/537.png,Spain,Copa del rey,143,2021.0
-812872,Andratx,2,https://media.api-sports.io/football/teams/8151.png,Oviedo,1,https://media.api-sports.io/football/teams/718.png,Spain,Copa del rey,143,2021.0
-812873,Vélez,2,https://media.api-sports.io/football/teams/9739.png,Las Palmas,3,https://media.api-sports.io/football/teams/534.png,Spain,Copa del rey,143,2021.0
-812874,Brea,0,https://media.api-sports.io/football/teams/9883.png,Ibiza,2,https://media.api-sports.io/football/teams/9390.png,Spain,Copa del rey,143,2021.0
-812875,Cristo Atlético,2,https://media.api-sports.io/football/teams/9728.png,Real Unión,0,https://media.api-sports.io/football/teams/9586.png,Spain,Copa del rey,143,2021.0
-812876,Atlético Pulpileño,0,https://media.api-sports.io/football/teams/9808.png,Castellón,1,https://media.api-sports.io/football/teams/5254.png,Spain,Copa del rey,143,2021.0
-812877,Bergantiños,2,https://media.api-sports.io/football/teams/9383.png,Tudelano,0,https://media.api-sports.io/football/teams/5279.png,Spain,Copa del rey,143,2021.0
-812878,Eldense,0,https://media.api-sports.io/football/teams/9692.png,Rayo Majadahonda,1,https://media.api-sports.io/football/teams/861.png,Spain,Copa del rey,143,2021.0
-812879,Náxara,0,https://media.api-sports.io/football/teams/9868.png,FC Andorra,1,https://media.api-sports.io/football/teams/8157.png,Spain,Copa del rey,143,2021.0
-812880,San Juan,1,https://media.api-sports.io/football/teams/9855.png,SS Reyes,2,https://media.api-sports.io/football/teams/9412.png,Spain,Copa del rey,143,2021.0
-812881,Llanera,2,https://media.api-sports.io/football/teams/9627.png,UD Logroñés,1,https://media.api-sports.io/football/teams/5280.png,Spain,Copa del rey,143,2021.0
-812882,Mancha Real,2,https://media.api-sports.io/football/teams/9749.png,Internacional de Madrid,1,https://media.api-sports.io/football/teams/9573.png,Spain,Copa del rey,143,2021.0
-812883,Arenteiro,2,https://media.api-sports.io/football/teams/9604.png,SD Logroñés,1,https://media.api-sports.io/football/teams/9411.png,Spain,Copa del rey,143,2021.0
-812884,Calahorra,1,https://media.api-sports.io/football/teams/9581.png,Atlético Baleares,1,https://media.api-sports.io/football/teams/9381.png,Spain,Copa del rey,143,2021.0
-812885,Extremadura,1,https://media.api-sports.io/football/teams/860.png,Zamora,4,https://media.api-sports.io/football/teams/9418.png,Spain,Copa del rey,143,2021.0
-812886,Albacete,2,https://media.api-sports.io/football/teams/722.png,Racing Ferrol,1,https://media.api-sports.io/football/teams/9409.png,Spain,Copa del rey,143,2021.0
-812887,Ucam Murcia,3,https://media.api-sports.io/football/teams/800.png,Deportivo La Coruna,4,https://media.api-sports.io/football/teams/544.png,Spain,Copa del rey,143,2021.0
-812888,Sanluqueño,2,https://media.api-sports.io/football/teams/9601.png,Sabadell,0,https://media.api-sports.io/football/teams/9593.png,Spain,Copa del rey,143,2021.0
-812889,Badajoz,0,https://media.api-sports.io/football/teams/9382.png,Alcoyano,3,https://media.api-sports.io/football/teams/9686.png,Spain,Copa del rey,143,2021.0
-812890,Linares Deportivo,0,https://media.api-sports.io/football/teams/9398.png,Gimnastic,0,https://media.api-sports.io/football/teams/714.png,Spain,Copa del rey,143,2021.0
-812891,San Fernando CD,2,https://media.api-sports.io/football/teams/9600.png,Cultural Leonesa,3,https://media.api-sports.io/football/teams/725.png,Spain,Copa del rey,143,2021.0
-812892,CF Talavera,2,https://media.api-sports.io/football/teams/5253.png,Cornellà,0,https://media.api-sports.io/football/teams/5258.png,Spain,Copa del rey,143,2021.0
-812893,Algeciras,1,https://media.api-sports.io/football/teams/9597.png,Unionistas de Salamanca,2,https://media.api-sports.io/football/teams/5281.png,Spain,Copa del rey,143,2021.0
 814988,FC Andorra,1,https://media.api-sports.io/football/teams/8157.png,Celta Vigo,2,https://media.api-sports.io/football/teams/538.png,Spain,Copa del rey,143,2021.0
 814989,SS Reyes,0,https://media.api-sports.io/football/teams/9412.png,Fuenlabrada,0,https://media.api-sports.io/football/teams/4906.png,Spain,Copa del rey,143,2021.0
 814990,Rayo Majadahonda,1,https://media.api-sports.io/football/teams/861.png,Malaga,0,https://media.api-sports.io/football/teams/535.png,Spain,Copa del rey,143,2021.0
@@ -13433,14 +12687,12 @@ fixture_id,home_team,home_goals,home_logo,away_team,away_goals,away_logo,country
 734778,Swindon Town,2,https://media.api-sports.io/football/teams/1353.png,Arsenal U21,1,https://media.api-sports.io/football/teams/7189.png,England,Copa de la liga (Carabao Cup o EFL Cup),46,2021.0
 734779,Charlton,6,https://media.api-sports.io/football/teams/1335.png,Crawley Town,1,https://media.api-sports.io/football/teams/1362.png,England,Copa de la liga (Carabao Cup o EFL Cup),46,2021.0
 734780,Cambridge United,4,https://media.api-sports.io/football/teams/1370.png,Oxford United,1,https://media.api-sports.io/football/teams/1338.png,England,Copa de la liga (Carabao Cup o EFL Cup),46,2021.0
-734781,Stevenage,3,https://media.api-sports.io/football/teams/1368.png,Tottenham Hotspur U21,4,https://media.api-sports.io/football/teams/7202.png,England,Copa de la liga (Carabao Cup o EFL Cup),46,2021.0
 734782,Accrington ST,2,https://media.api-sports.io/football/teams/1360.png,Barrow,2,https://media.api-sports.io/football/teams/1819.png,England,Copa de la liga (Carabao Cup o EFL Cup),46,2021.0
 734783,Fleetwood Town,4,https://media.api-sports.io/football/teams/1336.png,Leicester City U21,1,https://media.api-sports.io/football/teams/7195.png,England,Copa de la liga (Carabao Cup o EFL Cup),46,2021.0
 734784,Harrogate Town,3,https://media.api-sports.io/football/teams/1842.png,Mansfield Town,1,https://media.api-sports.io/football/teams/1374.png,England,Copa de la liga (Carabao Cup o EFL Cup),46,2021.0
 734785,Doncaster,0,https://media.api-sports.io/football/teams/1354.png,Rotherham,6,https://media.api-sports.io/football/teams/73.png,England,Copa de la liga (Carabao Cup o EFL Cup),46,2021.0
 734786,Colchester,0,https://media.api-sports.io/football/teams/1361.png,Gillingham,1,https://media.api-sports.io/football/teams/1347.png,England,Copa de la liga (Carabao Cup o EFL Cup),46,2021.0
 734787,AFC Wimbledon,5,https://media.api-sports.io/football/teams/1333.png,Portsmouth,3,https://media.api-sports.io/football/teams/1355.png,England,Copa de la liga (Carabao Cup o EFL Cup),46,2021.0
-734788,Morecambe,0,https://media.api-sports.io/football/teams/1375.png,Everton U21,1,https://media.api-sports.io/football/teams/7193.png,England,Copa de la liga (Carabao Cup o EFL Cup),46,2021.0
 734789,Tranmere,4,https://media.api-sports.io/football/teams/1381.png,Leeds United U21,1,https://media.api-sports.io/football/teams/14430.png,England,Copa de la liga (Carabao Cup o EFL Cup),46,2021.0
 734790,Walsall,1,https://media.api-sports.io/football/teams/1342.png,Brighton U21,0,https://media.api-sports.io/football/teams/7191.png,England,Copa de la liga (Carabao Cup o EFL Cup),46,2021.0
 734791,Newport County,2,https://media.api-sports.io/football/teams/1367.png,Plymouth,0,https://media.api-sports.io/football/teams/1357.png,England,Copa de la liga (Carabao Cup o EFL Cup),46,2021.0
@@ -13508,8 +12760,6 @@ fixture_id,home_team,home_goals,home_logo,away_team,away_goals,away_logo,country
 734853,Ipswich,0,https://media.api-sports.io/football/teams/57.png,Colchester,0,https://media.api-sports.io/football/teams/1361.png,England,Copa de la liga (Carabao Cup o EFL Cup),46,2021.0
 734854,Sutton Utd,1,https://media.api-sports.io/football/teams/1835.png,AFC Wimbledon,0,https://media.api-sports.io/football/teams/1333.png,England,Copa de la liga (Carabao Cup o EFL Cup),46,2021.0
 734855,Plymouth,1,https://media.api-sports.io/football/teams/1357.png,Arsenal U21,1,https://media.api-sports.io/football/teams/7189.png,England,Copa de la liga (Carabao Cup o EFL Cup),46,2021.0
-734856,Sutton Utd,3,https://media.api-sports.io/football/teams/1835.png,Crystal Palace U21,0,https://media.api-sports.io/football/teams/17000.png,England,Copa de la liga (Carabao Cup o EFL Cup),46,2021.0
-734857,AFC Wimbledon,0,https://media.api-sports.io/football/teams/1333.png,Crystal Palace U21,2,https://media.api-sports.io/football/teams/17000.png,England,Copa de la liga (Carabao Cup o EFL Cup),46,2021.0
 734858,Portsmouth,3,https://media.api-sports.io/football/teams/1355.png,Crystal Palace U21,0,https://media.api-sports.io/football/teams/17000.png,England,Copa de la liga (Carabao Cup o EFL Cup),46,2021.0
 812475,Tranmere,1,https://media.api-sports.io/football/teams/1381.png,Harrogate Town,2,https://media.api-sports.io/football/teams/1842.png,England,Copa de la liga (Carabao Cup o EFL Cup),46,2021.0
 812476,Bolton,1,https://media.api-sports.io/football/teams/68.png,Fleetwood Town,0,https://media.api-sports.io/football/teams/1336.png,England,Copa de la liga (Carabao Cup o EFL Cup),46,2021.0
@@ -14305,12 +13555,6 @@ fixture_id,home_team,home_goals,home_logo,away_team,away_goals,away_logo,country
 734889,Pordenone,1,https://media.api-sports.io/football/teams/862.png,Spezia,3,https://media.api-sports.io/football/teams/515.png,Italy,Copa de Italia,137,2021.0
 734890,Crotone,2,https://media.api-sports.io/football/teams/501.png,Brescia,2,https://media.api-sports.io/football/teams/518.png,Italy,Copa de Italia,137,2021.0
 734891,Fiorentina,4,https://media.api-sports.io/football/teams/502.png,Cosenza,0,https://media.api-sports.io/football/teams/10137.png,Italy,Copa de Italia,137,2021.0
-734892,Parma,1,https://media.api-sports.io/football/teams/523.png,Lecce,3,https://media.api-sports.io/football/teams/867.png,Italy,Copa de Italia,137,2021.0
-734893,Empoli,4,https://media.api-sports.io/football/teams/511.png,Vicenza,2,https://media.api-sports.io/football/teams/1584.png,Italy,Copa de Italia,137,2021.0
-734894,Calcio Padova,0,https://media.api-sports.io/football/teams/870.png,Alessandria,2,https://media.api-sports.io/football/teams/878.png,Italy,Copa de Italia,137,2021.0
-734895,Ternana,1,https://media.api-sports.io/football/teams/516.png,Avellino,1,https://media.api-sports.io/football/teams/528.png,Italy,Copa de Italia,137,2021.0
-734896,Perugia,1,https://media.api-sports.io/football/teams/524.png,Südtirol,0,https://media.api-sports.io/football/teams/1578.png,Italy,Copa de Italia,137,2021.0
-734897,como,2,https://media.api-sports.io/football/teams/895.png,Catanzaro,2,https://media.api-sports.io/football/teams/1687.png,Italy,Copa de Italia,137,2021.0
 764935,Verona,3,https://media.api-sports.io/football/teams/504.png,Catanzaro,0,https://media.api-sports.io/football/teams/1687.png,Italy,Copa de Italia,137,2021.0
 765059,Genoa,3,https://media.api-sports.io/football/teams/495.png,Perugia,2,https://media.api-sports.io/football/teams/524.png,Italy,Copa de Italia,137,2021.0
 765060,Bologna,4,https://media.api-sports.io/football/teams/500.png,Ternana,5,https://media.api-sports.io/football/teams/516.png,Italy,Copa de Italia,137,2021.0
@@ -14723,179 +13967,22 @@ fixture_id,home_team,home_goals,home_logo,away_team,away_goals,away_logo,country
 718730,Reims,2,https://media.api-sports.io/football/teams/93.png,Nice,3,https://media.api-sports.io/football/teams/84.png,France,Ligue 1,61,2021.0
 862971,Auxerre,1,https://media.api-sports.io/football/teams/108.png,Saint Etienne,1,https://media.api-sports.io/football/teams/1063.png,France,Ligue 1,61,2021.0
 862972,Saint Etienne,1,https://media.api-sports.io/football/teams/1063.png,Auxerre,1,https://media.api-sports.io/football/teams/108.png,France,Ligue 1,61,2021.0
-811633,Morhange,0,https://media.api-sports.io/football/teams/13659.png,Thaon,4,https://media.api-sports.io/football/teams/3123.png,France,Copa de Francia,66,2021.0
-811634,Sedan,2,https://media.api-sports.io/football/teams/1310.png,Paris FC,2,https://media.api-sports.io/football/teams/114.png,France,Copa de Francia,66,2021.0
-811635,Schiltigheim,1,https://media.api-sports.io/football/teams/3114.png,Sarre Union,1,https://media.api-sports.io/football/teams/3297.png,France,Copa de Francia,66,2021.0
-811636,Jura Dolois,0,https://media.api-sports.io/football/teams/9937.png,Bourg-en-bresse 01,4,https://media.api-sports.io/football/teams/430.png,France,Copa de Francia,66,2021.0
-811637,Lons,2,https://media.api-sports.io/football/teams/9289.png,Jura Sud Foot,4,https://media.api-sports.io/football/teams/9255.png,France,Copa de Francia,66,2021.0
-811638,Saint-Apollinaire,0,https://media.api-sports.io/football/teams/14775.png,Dijon,3,https://media.api-sports.io/football/teams/89.png,France,Copa de Francia,66,2021.0
-811639,Illzach Modenheim,0,https://media.api-sports.io/football/teams/13731.png,Mulhouse,2,https://media.api-sports.io/football/teams/3205.png,France,Copa de Francia,66,2021.0
-811640,Koetzingue,0,https://media.api-sports.io/football/teams/13691.png,Lyon Duchere,4,https://media.api-sports.io/football/teams/1295.png,France,Copa de Francia,66,2021.0
-811641,Côte Chaude,0,https://media.api-sports.io/football/teams/3259.png,Hauts Lyonnais,3,https://media.api-sports.io/football/teams/3187.png,France,Copa de Francia,66,2021.0
-811642,Bourgoin-Jallieu,0,https://media.api-sports.io/football/teams/9268.png,Ain Sud,0,https://media.api-sports.io/football/teams/9968.png,France,Copa de Francia,66,2021.0
-811643,RC Vichy,1,https://media.api-sports.io/football/teams/13663.png,Andrézieux,2,https://media.api-sports.io/football/teams/3009.png,France,Copa de Francia,66,2021.0
-811644,Limonest,2,https://media.api-sports.io/football/teams/3071.png,Auxerre,4,https://media.api-sports.io/football/teams/108.png,France,Copa de Francia,66,2021.0
-811645,Chambéry,2,https://media.api-sports.io/football/teams/9969.png,Villefranche,1,https://media.api-sports.io/football/teams/1302.png,France,Copa de Francia,66,2021.0
-811646,Vénissieux,2,https://media.api-sports.io/football/teams/13754.png,Union Cosnoise,2,https://media.api-sports.io/football/teams/16417.png,France,Copa de Francia,66,2021.0
-811647,Neuville,1,https://media.api-sports.io/football/teams/13741.png,Moulins-Yzeure Foot 03,2,https://media.api-sports.io/football/teams/3204.png,France,Copa de Francia,66,2021.0
-811648,Cannes,1,https://media.api-sports.io/football/teams/9932.png,Le Puy Foot,1,https://media.api-sports.io/football/teams/3069.png,France,Copa de Francia,66,2021.0
-811649,Cannet Rocheville,3,https://media.api-sports.io/football/teams/15114.png,Istres,2,https://media.api-sports.io/football/teams/3267.png,France,Copa de Francia,66,2021.0
-811650,Olympique d'Alès,0,https://media.api-sports.io/football/teams/3093.png,Bastia-Borgo,2,https://media.api-sports.io/football/teams/3019.png,France,Copa de Francia,66,2021.0
-811651,Aubagne,2,https://media.api-sports.io/football/teams/9930.png,Martigues,2,https://media.api-sports.io/football/teams/3200.png,France,Copa de Francia,66,2021.0
-811652,Montluçon,0,https://media.api-sports.io/football/teams/3083.png,Bergerac,1,https://media.api-sports.io/football/teams/3022.png,France,Copa de Francia,66,2021.0
-811653,Stade Bordelais,2,https://media.api-sports.io/football/teams/3228.png,Muret,1,https://media.api-sports.io/football/teams/9947.png,France,Copa de Francia,66,2021.0
-811654,Canet Roussillon,2,https://media.api-sports.io/football/teams/3030.png,PAU,2,https://media.api-sports.io/football/teams/1297.png,France,Copa de Francia,66,2021.0
-811655,Libourne,0,https://media.api-sports.io/football/teams/13609.png,Toulouse,0,https://media.api-sports.io/football/teams/96.png,France,Copa de Francia,66,2021.0
-811656,Tourcoing,0,https://media.api-sports.io/football/teams/9314.png,Valenciennes,1,https://media.api-sports.io/football/teams/105.png,France,Copa de Francia,66,2021.0
-811657,Chambly Thelle FC,3,https://media.api-sports.io/football/teams/1291.png,Rouen,2,https://media.api-sports.io/football/teams/3221.png,France,Copa de Francia,66,2021.0
-811658,Étaples,1,https://media.api-sports.io/football/teams/3316.png,Quevilly,3,https://media.api-sports.io/football/teams/431.png,France,Copa de Francia,66,2021.0
-811659,Linas-Montlhery,1,https://media.api-sports.io/football/teams/9288.png,Dunkerque,0,https://media.api-sports.io/football/teams/1304.png,France,Copa de Francia,66,2021.0
-811660,Loon-Plage,3,https://media.api-sports.io/football/teams/13654.png,Évreux 27,3,https://media.api-sports.io/football/teams/10167.png,France,Copa de Francia,66,2021.0
-811661,Olympique Lumbrois,2,https://media.api-sports.io/football/teams/9300.png,Versailles,3,https://media.api-sports.io/football/teams/3131.png,France,Copa de Francia,66,2021.0
-811662,Vierzon,0,https://media.api-sports.io/football/teams/3242.png,LE Havre,2,https://media.api-sports.io/football/teams/111.png,France,Copa de Francia,66,2021.0
-811663,Ouest Tourangeau,0,https://media.api-sports.io/football/teams/9926.png,Chauvigny,1,https://media.api-sports.io/football/teams/3038.png,France,Copa de Francia,66,2021.0
-811664,Guéret,1,https://media.api-sports.io/football/teams/13604.png,C' Chartres,1,https://media.api-sports.io/football/teams/9237.png,France,Copa de Francia,66,2021.0
-811665,Ajaccio,0,https://media.api-sports.io/football/teams/98.png,Orleans,0,https://media.api-sports.io/football/teams/103.png,France,Copa de Francia,66,2021.0
-811666,Feytiat,0,https://media.api-sports.io/football/teams/3178.png,Poitiers,2,https://media.api-sports.io/football/teams/3097.png,France,Copa de Francia,66,2021.0
-811667,Panazol,2,https://media.api-sports.io/football/teams/13618.png,Sénart Moissy,1,https://media.api-sports.io/football/teams/3308.png,France,Copa de Francia,66,2021.0
-811668,Mainvilliers,1,https://media.api-sports.io/football/teams/13612.png,Angoulême,3,https://media.api-sports.io/football/teams/3011.png,France,Copa de Francia,66,2021.0
-811669,Dinan Léhon,1,https://media.api-sports.io/football/teams/9275.png,Caen,1,https://media.api-sports.io/football/teams/88.png,France,Copa de Francia,66,2021.0
-811670,Stade Plabennec,0,https://media.api-sports.io/football/teams/9311.png,Saint-Malo,0,https://media.api-sports.io/football/teams/3108.png,France,Copa de Francia,66,2021.0
-811671,AG Caennaise,2,https://media.api-sports.io/football/teams/3007.png,Vitré,3,https://media.api-sports.io/football/teams/3138.png,France,Copa de Francia,66,2021.0
-811672,Liffré,0,https://media.api-sports.io/football/teams/3197.png,Guingamp,8,https://media.api-sports.io/football/teams/90.png,France,Copa de Francia,66,2021.0
-811673,Saint-Lô Manche,1,https://media.api-sports.io/football/teams/3107.png,Stade Briochin,2,https://media.api-sports.io/football/teams/3229.png,France,Copa de Francia,66,2021.0
-811674,Plédran,1,https://media.api-sports.io/football/teams/3213.png,Les Jumeaux M'Zouasia,5,https://media.api-sports.io/football/teams/13608.png,France,Copa de Francia,66,2021.0
-811675,Trouville Deauville,1,https://media.api-sports.io/football/teams/13673.png,Plancoët-Arguenon,1,https://media.api-sports.io/football/teams/3211.png,France,Copa de Francia,66,2021.0
-811676,Drapeau Fougères,0,https://media.api-sports.io/football/teams/9959.png,Bastia,2,https://media.api-sports.io/football/teams/1305.png,France,Copa de Francia,66,2021.0
-811677,Les Herbiers,1,https://media.api-sports.io/football/teams/1308.png,Saumur,1,https://media.api-sports.io/football/teams/3225.png,France,Copa de Francia,66,2021.0
-811678,St-Philbert Gd Lieu,0,https://media.api-sports.io/football/teams/15110.png,Vannes,2,https://media.api-sports.io/football/teams/3129.png,France,Copa de Francia,66,2021.0
-811679,Luçon,0,https://media.api-sports.io/football/teams/13584.png,Laval,2,https://media.api-sports.io/football/teams/433.png,France,Copa de Francia,66,2021.0
-811680,La Roche sur Yon,1,https://media.api-sports.io/football/teams/10684.png,Le Mans,4,https://media.api-sports.io/football/teams/1298.png,France,Copa de Francia,66,2021.0
-811681,Carquefou,0,https://media.api-sports.io/football/teams/13585.png,Trégunc,0,https://media.api-sports.io/football/teams/9961.png,France,Copa de Francia,66,2021.0
-811682,Châteaubriant,0,https://media.api-sports.io/football/teams/9272.png,La Roche sur Yon,2,https://media.api-sports.io/football/teams/10684.png,France,Copa de Francia,66,2021.0
-811683,Thionville,0,https://media.api-sports.io/football/teams/18154.png,Biesheim,5,https://media.api-sports.io/football/teams/3025.png,France,Copa de Francia,66,2021.0
-811684,Lorraine de Plantières,1,https://media.api-sports.io/football/teams/18139.png,Nancy,3,https://media.api-sports.io/football/teams/102.png,France,Copa de Francia,66,2021.0
-811685,Champigneulles,1,https://media.api-sports.io/football/teams/18125.png,Soleil Bischheim,1,https://media.api-sports.io/football/teams/3301.png,France,Copa de Francia,66,2021.0
-811686,Reims Sainte-Anne,1,https://media.api-sports.io/football/teams/9303.png,FC 93 B-B-G,1,https://media.api-sports.io/football/teams/18135.png,France,Copa de Francia,66,2021.0
-811687,Magny Renaissance,1,https://media.api-sports.io/football/teams/13611.png,Éloyes,1,https://media.api-sports.io/football/teams/18158.png,France,Copa de Francia,66,2021.0
-811688,Sarrebourg,1,https://media.api-sports.io/football/teams/3298.png,Esperance Aulnay,1,https://media.api-sports.io/football/teams/18133.png,France,Copa de Francia,66,2021.0
-811689,Molsheim Ernolsheim,1,https://media.api-sports.io/football/teams/18142.png,Creteil,1,https://media.api-sports.io/football/teams/1307.png,France,Copa de Francia,66,2021.0
-811690,Montchat Lyon,1,https://media.api-sports.io/football/teams/18143.png,Saint-Marcel,0,https://media.api-sports.io/football/teams/18151.png,France,Copa de Francia,66,2021.0
-811691,Bresse Jura Foot,1,https://media.api-sports.io/football/teams/18123.png,Sochaux,3,https://media.api-sports.io/football/teams/115.png,France,Copa de Francia,66,2021.0
-811692,Morteau Montlebon,4,https://media.api-sports.io/football/teams/3085.png,Nogentais,0,https://media.api-sports.io/football/teams/18144.png,France,Copa de Francia,66,2021.0
-811693,Saint-Cyr Collonges,1,https://media.api-sports.io/football/teams/18148.png,Grenoble,2,https://media.api-sports.io/football/teams/101.png,France,Copa de Francia,66,2021.0
-811694,Langlade,1,https://media.api-sports.io/football/teams/18137.png,Agde,2,https://media.api-sports.io/football/teams/9263.png,France,Copa de Francia,66,2021.0
-811695,Chemin Bas d'Avignon,0,https://media.api-sports.io/football/teams/18127.png,Frontignan,0,https://media.api-sports.io/football/teams/3265.png,France,Copa de Francia,66,2021.0
-811696,US Blavozy,1,https://media.api-sports.io/football/teams/18156.png,Rodez,2,https://media.api-sports.io/football/teams/1301.png,France,Copa de Francia,66,2021.0
-811697,Chusclan-Laudun-l'Ardois,0,https://media.api-sports.io/football/teams/18128.png,Nimes,3,https://media.api-sports.io/football/teams/92.png,France,Copa de Francia,66,2021.0
-811698,SAG Cestas,0,https://media.api-sports.io/football/teams/18147.png,Cholet,2,https://media.api-sports.io/football/teams/1292.png,France,Copa de Francia,66,2021.0
-811699,Toulouse Métropole,1,https://media.api-sports.io/football/teams/18155.png,Brive,0,https://media.api-sports.io/football/teams/13641.png,France,Copa de Francia,66,2021.0
-811700,Limens,1,https://media.api-sports.io/football/teams/18138.png,Montauban TG,1,https://media.api-sports.io/football/teams/3202.png,France,Copa de Francia,66,2021.0
-811701,ES Anzin-Saint-Aubin,0,https://media.api-sports.io/football/teams/18131.png,Amiens,5,https://media.api-sports.io/football/teams/87.png,France,Copa de Francia,66,2021.0
-811702,Cambrai,3,https://media.api-sports.io/football/teams/3160.png,Raismes,0,https://media.api-sports.io/football/teams/18146.png,France,Copa de Francia,66,2021.0
-811703,Dutemple,1,https://media.api-sports.io/football/teams/18130.png,Amiens AC,2,https://media.api-sports.io/football/teams/9251.png,France,Copa de Francia,66,2021.0
-811704,ES Bully-les-Mines,0,https://media.api-sports.io/football/teams/18132.png,Feignies-Aulnoye,6,https://media.api-sports.io/football/teams/3176.png,France,Copa de Francia,66,2021.0
-811705,Cite 6,0,https://media.api-sports.io/football/teams/18129.png,Oissel,0,https://media.api-sports.io/football/teams/3089.png,France,Copa de Francia,66,2021.0
-811706,Hamel,1,https://media.api-sports.io/football/teams/18136.png,Salouël,3,https://media.api-sports.io/football/teams/18152.png,France,Copa de Francia,66,2021.0
-811707,Wasquehal,4,https://media.api-sports.io/football/teams/3140.png,Stade Béthunois,0,https://media.api-sports.io/football/teams/18153.png,France,Copa de Francia,66,2021.0
-811708,Mineurs Waziers,1,https://media.api-sports.io/football/teams/18141.png,Beauvais,3,https://media.api-sports.io/football/teams/3153.png,France,Copa de Francia,66,2021.0
-811709,J3 Amilly,3,https://media.api-sports.io/football/teams/15112.png,Cergy-Pontoise,1,https://media.api-sports.io/football/teams/18124.png,France,Copa de Francia,66,2021.0
-811710,Val de Reuil,0,https://media.api-sports.io/football/teams/18157.png,Gazelec FC Ajaccio,3,https://media.api-sports.io/football/teams/100.png,France,Copa de Francia,66,2021.0
-811711,Esquelbecq,1,https://media.api-sports.io/football/teams/18134.png,RED Star FC 93,3,https://media.api-sports.io/football/teams/104.png,France,Copa de Francia,66,2021.0
-811712,Saint-Julien,1,https://media.api-sports.io/football/teams/18150.png,Poissy,2,https://media.api-sports.io/football/teams/9242.png,France,Copa de Francia,66,2021.0
-811713,Chatou,3,https://media.api-sports.io/football/teams/18126.png,Nanterre,2,https://media.api-sports.io/football/teams/9296.png,France,Copa de Francia,66,2021.0
-811714,Perros-Louannec,1,https://media.api-sports.io/football/teams/18145.png,Lannion,1,https://media.api-sports.io/football/teams/3067.png,France,Copa de Francia,66,2021.0
-811715,Makes,1,https://media.api-sports.io/football/teams/18140.png,Saint-Denis,9,https://media.api-sports.io/football/teams/18149.png,France,Copa de Francia,66,2021.0
-811833,ASC Ouest,0,https://media.api-sports.io/football/teams/18160.png,CSC Cayenne,2,https://media.api-sports.io/football/teams/9270.png,France,Copa de Francia,66,2021.0
-811834,Solidarité Scolaire,2,https://media.api-sports.io/football/teams/4398.png,Gosier,1,https://media.api-sports.io/football/teams/4394.png,France,Copa de Francia,66,2021.0
-811835,Club Colonial,0,https://media.api-sports.io/football/teams/3167.png,Club Franciscain,1,https://media.api-sports.io/football/teams/3258.png,France,Copa de Francia,66,2021.0
-811836,Trélissac,2,https://media.api-sports.io/football/teams/9246.png,Vénus,0,https://media.api-sports.io/football/teams/10161.png,France,Copa de Francia,66,2021.0
-812561,Biesheim,0,https://media.api-sports.io/football/teams/3025.png,Thaon,1,https://media.api-sports.io/football/teams/3123.png,France,Copa de Francia,66,2021.0
-812562,Soleil Bischheim,0,https://media.api-sports.io/football/teams/3301.png,Nancy,1,https://media.api-sports.io/football/teams/102.png,France,Copa de Francia,66,2021.0
-812563,Reims Sainte-Anne,3,https://media.api-sports.io/football/teams/9303.png,Magny Renaissance,0,https://media.api-sports.io/football/teams/13611.png,France,Copa de Francia,66,2021.0
-812564,Sarrebourg,1,https://media.api-sports.io/football/teams/3298.png,Creteil,3,https://media.api-sports.io/football/teams/1307.png,France,Copa de Francia,66,2021.0
-812565,Montchat Lyon,0,https://media.api-sports.io/football/teams/18143.png,Sochaux,3,https://media.api-sports.io/football/teams/115.png,France,Copa de Francia,66,2021.0
-812566,Bourg-en-bresse 01,2,https://media.api-sports.io/football/teams/430.png,Jura Sud Foot,3,https://media.api-sports.io/football/teams/9255.png,France,Copa de Francia,66,2021.0
-812567,Morteau Montlebon,0,https://media.api-sports.io/football/teams/3085.png,Dijon,2,https://media.api-sports.io/football/teams/89.png,France,Copa de Francia,66,2021.0
-812568,Mulhouse,1,https://media.api-sports.io/football/teams/3205.png,Lyon Duchere,3,https://media.api-sports.io/football/teams/1295.png,France,Copa de Francia,66,2021.0
-812569,Hauts Lyonnais,3,https://media.api-sports.io/football/teams/3187.png,Bourgoin-Jallieu,3,https://media.api-sports.io/football/teams/9268.png,France,Copa de Francia,66,2021.0
-812570,Andrézieux,3,https://media.api-sports.io/football/teams/3009.png,Grenoble,0,https://media.api-sports.io/football/teams/101.png,France,Copa de Francia,66,2021.0
-812571,Chambéry,4,https://media.api-sports.io/football/teams/9969.png,Auxerre,6,https://media.api-sports.io/football/teams/108.png,France,Copa de Francia,66,2021.0
-812572,Vénissieux,1,https://media.api-sports.io/football/teams/13754.png,Moulins-Yzeure Foot 03,1,https://media.api-sports.io/football/teams/3204.png,France,Copa de Francia,66,2021.0
-812573,Chemin Bas d'Avignon,1,https://media.api-sports.io/football/teams/18127.png,Agde,0,https://media.api-sports.io/football/teams/9263.png,France,Copa de Francia,66,2021.0
-812574,Cannes,1,https://media.api-sports.io/football/teams/9932.png,Rodez,1,https://media.api-sports.io/football/teams/1301.png,France,Copa de Francia,66,2021.0
-812575,Cannet Rocheville,1,https://media.api-sports.io/football/teams/15114.png,Bastia-Borgo,1,https://media.api-sports.io/football/teams/3019.png,France,Copa de Francia,66,2021.0
-812576,Aubagne,2,https://media.api-sports.io/football/teams/9930.png,Nimes,2,https://media.api-sports.io/football/teams/92.png,France,Copa de Francia,66,2021.0
-812577,Bergerac,4,https://media.api-sports.io/football/teams/3022.png,Stade Bordelais,0,https://media.api-sports.io/football/teams/3228.png,France,Copa de Francia,66,2021.0
-812578,Toulouse Métropole,0,https://media.api-sports.io/football/teams/18155.png,Montauban TG,0,https://media.api-sports.io/football/teams/3202.png,France,Copa de Francia,66,2021.0
-812579,Trélissac,1,https://media.api-sports.io/football/teams/9246.png,Toulouse,3,https://media.api-sports.io/football/teams/96.png,France,Copa de Francia,66,2021.0
-812580,Cambrai,1,https://media.api-sports.io/football/teams/3160.png,Amiens,4,https://media.api-sports.io/football/teams/87.png,France,Copa de Francia,66,2021.0
-812581,Amiens AC,1,https://media.api-sports.io/football/teams/9251.png,Feignies-Aulnoye,1,https://media.api-sports.io/football/teams/3176.png,France,Copa de Francia,66,2021.0
-812582,Cite 6,0,https://media.api-sports.io/football/teams/18129.png,Valenciennes,4,https://media.api-sports.io/football/teams/105.png,France,Copa de Francia,66,2021.0
-812583,Salouël,0,https://media.api-sports.io/football/teams/18152.png,Wasquehal,3,https://media.api-sports.io/football/teams/3140.png,France,Copa de Francia,66,2021.0
-812584,J3 Amilly,0,https://media.api-sports.io/football/teams/15112.png,Quevilly,5,https://media.api-sports.io/football/teams/431.png,France,Copa de Francia,66,2021.0
-812585,Gazelec FC Ajaccio,1,https://media.api-sports.io/football/teams/100.png,RED Star FC 93,2,https://media.api-sports.io/football/teams/104.png,France,Copa de Francia,66,2021.0
-812586,Linas-Montlhery,1,https://media.api-sports.io/football/teams/9288.png,Évreux 27,1,https://media.api-sports.io/football/teams/10167.png,France,Copa de Francia,66,2021.0
-812587,Versailles,1,https://media.api-sports.io/football/teams/3131.png,Poissy,0,https://media.api-sports.io/football/teams/9242.png,France,Copa de Francia,66,2021.0
-812588,Chauvigny,0,https://media.api-sports.io/football/teams/3038.png,LE Havre,0,https://media.api-sports.io/football/teams/111.png,France,Copa de Francia,66,2021.0
-812589,Chatou,4,https://media.api-sports.io/football/teams/18126.png,C' Chartres,5,https://media.api-sports.io/football/teams/9237.png,France,Copa de Francia,66,2021.0
-812590,Poitiers,1,https://media.api-sports.io/football/teams/3097.png,Orleans,1,https://media.api-sports.io/football/teams/103.png,France,Copa de Francia,66,2021.0
-812591,Panazol,1,https://media.api-sports.io/football/teams/13618.png,Angoulême,1,https://media.api-sports.io/football/teams/3011.png,France,Copa de Francia,66,2021.0
-812592,Dinan Léhon,2,https://media.api-sports.io/football/teams/9275.png,Saint-Malo,2,https://media.api-sports.io/football/teams/3108.png,France,Copa de Francia,66,2021.0
-812593,Perros-Louannec,0,https://media.api-sports.io/football/teams/18145.png,Vitré,3,https://media.api-sports.io/football/teams/3138.png,France,Copa de Francia,66,2021.0
-812594,Guingamp,1,https://media.api-sports.io/football/teams/90.png,Stade Briochin,0,https://media.api-sports.io/football/teams/3229.png,France,Copa de Francia,66,2021.0
-812595,Les Herbiers,1,https://media.api-sports.io/football/teams/1308.png,Bastia,1,https://media.api-sports.io/football/teams/1305.png,France,Copa de Francia,66,2021.0
-812596,Ergué-Gaberic,1,https://media.api-sports.io/football/teams/9960.png,Vannes,2,https://media.api-sports.io/football/teams/3129.png,France,Copa de Francia,66,2021.0
-812597,Laval,1,https://media.api-sports.io/football/teams/433.png,Le Mans,1,https://media.api-sports.io/football/teams/1298.png,France,Copa de Francia,66,2021.0
-812598,Trégunc,0,https://media.api-sports.io/football/teams/9961.png,La Roche VF,3,https://media.api-sports.io/football/teams/9915.png,France,Copa de Francia,66,2021.0
-812599,Club Franciscain,1,https://media.api-sports.io/football/teams/3258.png,Cholet,2,https://media.api-sports.io/football/teams/1292.png,France,Copa de Francia,66,2021.0
-812600,Paris FC,14,https://media.api-sports.io/football/teams/114.png,CSC Cayenne,0,https://media.api-sports.io/football/teams/9270.png,France,Copa de Francia,66,2021.0
-812601,Canet Roussillon,1,https://media.api-sports.io/football/teams/3030.png,Saint-Denis,1,https://media.api-sports.io/football/teams/18149.png,France,Copa de Francia,66,2021.0
-812602,Plancoët-Arguenon,1,https://media.api-sports.io/football/teams/3211.png,Les Jumeaux M'Zouasia,3,https://media.api-sports.io/football/teams/13608.png,France,Copa de Francia,66,2021.0
-812603,Solidarité Scolaire,0,https://media.api-sports.io/football/teams/4398.png,Sarre Union,2,https://media.api-sports.io/football/teams/3297.png,France,Copa de Francia,66,2021.0
-813375,Chambly Thelle FC,0,https://media.api-sports.io/football/teams/1291.png,Beauvais,0,https://media.api-sports.io/football/teams/3153.png,France,Copa de Francia,66,2021.0
-814239,Bordeaux,10,https://media.api-sports.io/football/teams/78.png,Les Jumeaux M'Zouasia,0,https://media.api-sports.io/football/teams/13608.png,France,Copa de Francia,66,2021.0
-814240,Panazol,1,https://media.api-sports.io/football/teams/13618.png,Vitré,1,https://media.api-sports.io/football/teams/3138.png,France,Copa de Francia,66,2021.0
-814241,Wasquehal,0,https://media.api-sports.io/football/teams/3140.png,Vannes,4,https://media.api-sports.io/football/teams/3129.png,France,Copa de Francia,66,2021.0
-814242,Linas-Montlhery,2,https://media.api-sports.io/football/teams/9288.png,Angers,0,https://media.api-sports.io/football/teams/77.png,France,Copa de Francia,66,2021.0
-814243,Rennes,1,https://media.api-sports.io/football/teams/94.png,Lorient,0,https://media.api-sports.io/football/teams/97.png,France,Copa de Francia,66,2021.0
-814244,Quevilly,1,https://media.api-sports.io/football/teams/431.png,Laval,1,https://media.api-sports.io/football/teams/433.png,France,Copa de Francia,66,2021.0
-814245,Dinan Léhon,0,https://media.api-sports.io/football/teams/9275.png,Stade Brestois 29,0,https://media.api-sports.io/football/teams/106.png,France,Copa de Francia,66,2021.0
-814246,Guingamp,2,https://media.api-sports.io/football/teams/90.png,Amiens,3,https://media.api-sports.io/football/teams/87.png,France,Copa de Francia,66,2021.0
-814247,Toulouse,4,https://media.api-sports.io/football/teams/96.png,Nimes,1,https://media.api-sports.io/football/teams/92.png,France,Copa de Francia,66,2021.0
-814248,Chauvigny,2,https://media.api-sports.io/football/teams/3038.png,C' Chartres,1,https://media.api-sports.io/football/teams/9237.png,France,Copa de Francia,66,2021.0
 814249,Paris FC,,https://media.api-sports.io/football/teams/114.png,Lyon,,https://media.api-sports.io/football/teams/80.png,France,Copa de Francia,66,2021.0
-814250,Montauban TG,1,https://media.api-sports.io/football/teams/3202.png,La Roche VF,2,https://media.api-sports.io/football/teams/9915.png,France,Copa de Francia,66,2021.0
 814251,Poitiers,0,https://media.api-sports.io/football/teams/3097.png,Lens,1,https://media.api-sports.io/football/teams/116.png,France,Copa de Francia,66,2021.0
-814252,Chemin Bas d'Avignon,0,https://media.api-sports.io/football/teams/18127.png,Clermont Foot,4,https://media.api-sports.io/football/teams/99.png,France,Copa de Francia,66,2021.0
 814253,Bergerac,0,https://media.api-sports.io/football/teams/3022.png,Metz,0,https://media.api-sports.io/football/teams/112.png,France,Copa de Francia,66,2021.0
 814254,RED Star FC 93,0,https://media.api-sports.io/football/teams/104.png,Monaco,2,https://media.api-sports.io/football/teams/91.png,France,Copa de Francia,66,2021.0
 814255,Sochaux,0,https://media.api-sports.io/football/teams/115.png,Nantes,0,https://media.api-sports.io/football/teams/83.png,France,Copa de Francia,66,2021.0
 814256,Lyon Duchere,0,https://media.api-sports.io/football/teams/1295.png,Saint Etienne,1,https://media.api-sports.io/football/teams/1063.png,France,Copa de Francia,66,2021.0
-814257,Andrézieux,0,https://media.api-sports.io/football/teams/3009.png,Montpellier,1,https://media.api-sports.io/football/teams/82.png,France,Copa de Francia,66,2021.0
-814258,Cannes,1,https://media.api-sports.io/football/teams/9932.png,Dijon,1,https://media.api-sports.io/football/teams/89.png,France,Copa de Francia,66,2021.0
-814259,Jura Sud Foot,5,https://media.api-sports.io/football/teams/9255.png,Saint-Denis,2,https://media.api-sports.io/football/teams/18149.png,France,Copa de Francia,66,2021.0
-814260,Marseille,4,https://media.api-sports.io/football/teams/81.png,Cannet Rocheville,1,https://media.api-sports.io/football/teams/15114.png,France,Copa de Francia,66,2021.0
-814261,Feignies-Aulnoye,0,https://media.api-sports.io/football/teams/3176.png,Paris Saint Germain,3,https://media.api-sports.io/football/teams/85.png,France,Copa de Francia,66,2021.0
-814262,Thaon,3,https://media.api-sports.io/football/teams/3123.png,Beauvais,3,https://media.api-sports.io/football/teams/3153.png,France,Copa de Francia,66,2021.0
 814263,Lille,3,https://media.api-sports.io/football/teams/79.png,Auxerre,1,https://media.api-sports.io/football/teams/108.png,France,Copa de Francia,66,2021.0
-814264,Creteil,3,https://media.api-sports.io/football/teams/1307.png,Vénissieux,0,https://media.api-sports.io/football/teams/13754.png,France,Copa de Francia,66,2021.0
 814265,Estac Troyes,1,https://media.api-sports.io/football/teams/110.png,Nancy,1,https://media.api-sports.io/football/teams/102.png,France,Copa de Francia,66,2021.0
 814266,Reims Sainte-Anne,0,https://media.api-sports.io/football/teams/9303.png,Reims,1,https://media.api-sports.io/football/teams/93.png,France,Copa de Francia,66,2021.0
 814267,Valenciennes,0,https://media.api-sports.io/football/teams/105.png,Strasbourg,1,https://media.api-sports.io/football/teams/95.png,France,Copa de Francia,66,2021.0
-815198,Hauts Lyonnais,1,https://media.api-sports.io/football/teams/3187.png,Bastia,3,https://media.api-sports.io/football/teams/1305.png,France,Copa de Francia,66,2021.0
-815199,Sarre Union,0,https://media.api-sports.io/football/teams/3297.png,Versailles,1,https://media.api-sports.io/football/teams/3131.png,France,Copa de Francia,66,2021.0
 816176,Cholet,0,https://media.api-sports.io/football/teams/1292.png,Nice,1,https://media.api-sports.io/football/teams/84.png,France,Copa de Francia,66,2021.0
-818698,Cannes,0,https://media.api-sports.io/football/teams/9932.png,Toulouse,1,https://media.api-sports.io/football/teams/96.png,France,Copa de Francia,66,2021.0
 818699,Linas-Montlhery,3,https://media.api-sports.io/football/teams/9288.png,Amiens,3,https://media.api-sports.io/football/teams/87.png,France,Copa de Francia,66,2021.0
 818700,Bergerac,0,https://media.api-sports.io/football/teams/3022.png,Creteil,0,https://media.api-sports.io/football/teams/1307.png,France,Copa de Francia,66,2021.0
 818701,Nancy,1,https://media.api-sports.io/football/teams/102.png,Rennes,1,https://media.api-sports.io/football/teams/94.png,France,Copa de Francia,66,2021.0
-818702,Versailles,4,https://media.api-sports.io/football/teams/3131.png,La Roche VF,0,https://media.api-sports.io/football/teams/9915.png,France,Copa de Francia,66,2021.0
 818703,Stade Brestois 29,3,https://media.api-sports.io/football/teams/106.png,Bordeaux,0,https://media.api-sports.io/football/teams/78.png,France,Copa de Francia,66,2021.0
-818704,Chauvigny,0,https://media.api-sports.io/football/teams/3038.png,Marseille,3,https://media.api-sports.io/football/teams/81.png,France,Copa de Francia,66,2021.0
 818705,Bastia,2,https://media.api-sports.io/football/teams/1305.png,Clermont Foot,0,https://media.api-sports.io/football/teams/99.png,France,Copa de Francia,66,2021.0
-818706,Thaon,0,https://media.api-sports.io/football/teams/3123.png,Reims,1,https://media.api-sports.io/football/teams/93.png,France,Copa de Francia,66,2021.0
-818707,Jura Sud Foot,1,https://media.api-sports.io/football/teams/9255.png,Saint Etienne,4,https://media.api-sports.io/football/teams/1063.png,France,Copa de Francia,66,2021.0
 818708,Montpellier,1,https://media.api-sports.io/football/teams/82.png,Strasbourg,0,https://media.api-sports.io/football/teams/95.png,France,Copa de Francia,66,2021.0
 818709,Nantes,2,https://media.api-sports.io/football/teams/83.png,Vitré,0,https://media.api-sports.io/football/teams/3138.png,France,Copa de Francia,66,2021.0
 818710,Quevilly,1,https://media.api-sports.io/football/teams/431.png,Monaco,3,https://media.api-sports.io/football/teams/91.png,France,Copa de Francia,66,2021.0
