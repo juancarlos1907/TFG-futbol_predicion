@@ -156,7 +156,8 @@ def get_prediction(home_team, away_team):
         ("column_means", column_means),
         ("home_team_result", f"{home_team} - {home_result}"),
         ("away_team_result", f"{away_team} - {away_result}"),
-        ("winner", winner)
+        ("winner", winner),
+        ("num_matches", num_matches)
     ])
 
     # Añadir advertencia de fiabilidad si es necesario

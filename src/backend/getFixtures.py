@@ -2,14 +2,16 @@ import requests
 import pandas as pd
 
 COUNTRIES_LIGUES = {
-    "Spain": ["La liga - 140", "Copa del rey - 143", "Supercopa - 556"],
-    "England": ["Premier League - 39", "Copa de la liga (Carabao Cup o EFL Cup) - 46", "Supercopa (Community Shield) - 528"],
-    "Germany": ["Bundesliga - 78", "Copa de Alemania (DFB Pokal) - 81", "Supercopa de Alemania - 529"],
-    "Italy": ["Serie A - 135", "Copa de Italia - 137", "Supercopa de Italia - 547"],
-    "France": ["Ligue 1 - 61", "Copa de Francia - 66", "Supercopa de Francia - 526"]
+    #"Spain": ["La liga - 140", "Copa del rey - 143", "Supercopa - 556"],
+    #"England": ["Premier League - 39", "Copa de la liga (Carabao Cup o EFL Cup) - 46", "Supercopa (Community Shield) - 528"],
+    #"Germany": ["Bundesliga - 78", "Copa de Alemania (DFB Pokal) - 81", "Supercopa de Alemania - 529"],
+    #"Italy": ["Serie A - 135", "Copa de Italia - 137", "Supercopa de Italia - 547"],
+    #"France": ["Ligue 1 - 61", "Copa de Francia - 66", "Supercopa de Francia - 526"]
+    "Internacional": ["Confederations Cup - 21", "FIFA Club World Cup - 15", "UEFA Champion League - 2"],
+    "Internacional2": ["UEFA Europa League - 3", "International Campions Cup - 26", "UEFA Super Cup - 531"]
 }
 
-YEARS = [2023, 2024] #[2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023]
+YEARS = [2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024]
 
 
 url = "https://api-football-v1.p.rapidapi.com/v3/fixtures"
@@ -74,4 +76,4 @@ for year in YEARS:
                 df = pd.concat([df, pd.DataFrame([fixture_data])], ignore_index=True)
 
 
-df.to_csv('fixtures23y24.csv', index=False)
+df.to_csv('fixturesInternacionales.csv', index=False)
