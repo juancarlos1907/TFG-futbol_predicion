@@ -48,21 +48,22 @@ def calculate_team_statistics(df, team):
     all_stats['passes%'] = all_stats['passes%'].round(5)
 
     # Calcular la media de cada columna
-    column_means = all_stats[['goals', 'possession%', 'goalkeeper_saves', 'passes%']].mean().round(5).to_dict()
+    column_means = all_stats[['goals', 'possession%', 'goalkeeper_saves', 'passes%']].mean().round(3).to_dict()
 
     return column_means
 
-def calculate_team_result(stats, home_goal_weight, away_goal_weight, possession_weight, passes_weight, saves_weight):
-    """Calcula el resultado de un equipo basado en sus estadísticas y pesos proporcionados."""
+def calculate_team_result(stats, home_goal_weight, away_goal_weight, possession_weight, passes_weight, saves_weight, opponent_goals):
+    """Calcula el resultado de un equipo basado en sus estadísticas y los goles del equipo contrario."""
     result = (
-        home_goal_weight * stats['goals'] -
-        away_goal_weight * stats['goals'] +
-        possession_weight * stats['possession%'] +
-        passes_weight * stats['passes%'] +
-        saves_weight * stats['goalkeeper_saves']
+        home_goal_weight * stats['goals'] -  # Multiplicar los goles del equipo actual
+        away_goal_weight * opponent_goals +  # Restar los goles del equipo contrario
+        possession_weight * stats['possession%'] +  # Añadir la posesión
+        passes_weight * stats['passes%'] +  # Añadir la precisión de pases
+        saves_weight * stats['goalkeeper_saves']  # Añadir las salvadas
     )
 
-    return round(result * 100, 5)
+    return round(result * 100, 3)
+
 
 def calculate_prediction(
     df,
@@ -75,7 +76,7 @@ def calculate_prediction(
         home_goal_weight, away_goal_weight, possession_weight, passes_weight, saves_weight
     )
 
-    # Limitar los goles y salvadas a un máximo de 5
+    # Limitar los goles y paradas a un máximo de 5
     df['home_goals'] = df['home_goals'].clip(upper=5)
     df['away_goals'] = df['away_goals'].clip(upper=5)
     df['home_goalkeeper_saves'] = df['home_goalkeeper_saves'].clip(upper=5)
@@ -85,7 +86,7 @@ def calculate_prediction(
     for column in ['home_possession%', 'away_possession%', 'home_passes%', 'away_passes%']:
         df[column] = df[column].str.replace('%', '', regex=False).astype(float)
 
-    # Normalizar los porcentajes a una escala de 0 a 5 (como antes)
+    # Normalizar los porcentajes a una escala de 0 a 5
     df[['home_possession%', 'away_possession%', 'home_passes%', 'away_passes%']] /= 100
     df[['home_possession%', 'away_possession%', 'home_passes%', 'away_passes%']] *= 5
 
@@ -103,12 +104,15 @@ def calculate_prediction(
     # Aplicar la fórmula para cada equipo con pesos personalizados
     home_result = calculate_team_result(
         home_team_stats,
-        home_goal_weight, away_goal_weight, possession_weight, passes_weight, saves_weight
+        home_goal_weight, away_goal_weight, possession_weight, passes_weight, saves_weight,
+        opponent_goals=away_team_stats['goals']  # Pasar los goles del equipo visitante
     )
 
+    # Aplicar la fórmula para el equipo visitante
     away_result = calculate_team_result(
         away_team_stats,
-        away_goal_weight, home_goal_weight, possession_weight, passes_weight, saves_weight
+        away_goal_weight, home_goal_weight, possession_weight, passes_weight, saves_weight,
+        opponent_goals=home_team_stats['goals']  # Pasar los goles del equipo local
     )
 
     return home_result, away_result, {
