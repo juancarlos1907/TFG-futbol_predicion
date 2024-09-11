@@ -6,8 +6,15 @@ const Modal = ({ show, onClose, children }) => {
         return null;
     }
 
+    // Función para manejar el clic en el overlay
+    const handleOverlayClick = (e) => {
+        if (e.target === e.currentTarget) {
+            onClose();
+        }
+    };
+
     return (
-        <div className={`modal-overlay ${show ? 'modal-show' : ''}`}>
+        <div className="modal-overlay" onClick={handleOverlayClick}>
             <div className="modal-content">
                 <button className="modal-close" onClick={onClose}>×</button>
                 <div className="modal-body">
@@ -19,3 +26,4 @@ const Modal = ({ show, onClose, children }) => {
 };
 
 export default Modal;
+
