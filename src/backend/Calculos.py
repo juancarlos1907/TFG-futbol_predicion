@@ -111,7 +111,7 @@ def calculate_prediction(
     # Aplicar la fórmula para el equipo visitante
     away_result = calculate_team_result(
         away_team_stats,
-        away_goal_weight, home_goal_weight, possession_weight, passes_weight, saves_weight,
+        home_goal_weight, away_goal_weight, possession_weight, passes_weight, saves_weight,
         opponent_goals=home_team_stats['goals']  # Pasar los goles del equipo local
     )
 
