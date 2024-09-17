@@ -39,8 +39,8 @@ i18n
             labels: {
               goalkeeperSaves: "Goalkeeper Saves",
               goals: "Goals",
-              passes: "Passes %",
-              possession: "Possession %"
+              passes: "Precise Soccer Passes",
+              possession: "Ball Possession"
             }
           },
           countries: {
@@ -93,8 +93,8 @@ i18n
             labels: {
               goalkeeperSaves: "Paradas del Portero",
               goals: "Goles",
-              passes: "Porcentaje de Pasos",
-              possession: "Porcentaje de Posesión"
+              passes: "Pases precisos",
+              possession: "Posesión del balón"
             },
             warningMessage: "Predicción con pocos datos, posible baja fiabilidad.",
             explanationButton:"Explicación",

@@ -47,8 +47,8 @@ const CustomWeightsPage = () => {
 
     const validateWeights = () => {
         const totalWeight = homeGoalWeight + awayGoalWeight + possessionWeight + passesWeight + savesWeight;
-        if (totalWeight < 0.99 || totalWeight > 1.01) {
-            setValidationError('La suma de los pesos debe ser aproximadamente 1.');
+        if (totalWeight < 0.999 || totalWeight > 1.000) {
+            setValidationError('La suma de los pesos debe ser 1.');
             return false;
         }
         setValidationError('');

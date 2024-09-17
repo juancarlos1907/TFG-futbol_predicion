@@ -27,7 +27,7 @@ const PredictionPage = () => {
     };
 
     const handleRetry = () => {
-        navigate('/');
+        navigate(-1);
     };
 
     if (!result || !result.column_means) {
