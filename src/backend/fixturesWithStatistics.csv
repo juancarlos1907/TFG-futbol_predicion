@@ -18909,3 +18909,1899 @@ fixture_id,home_team,home_goals,home_possession%,home_goalkeeper_saves,home_pass
 349852,Vitesse,1.0,40%,5.0,83%,Nice,0.0,60%,8.0,88%
 349853,Vardar Skopje,1.0,53%,2.0,89%,Rosenborg,1.0,47%,4.0,88%
 349854,Real Sociedad,1.0,72%,3.0,88%,Zenit Saint Petersburg,3.0,28%,5.0,65%
+362367,Real Madrid,2.0,63%,5.0,88%,Manchester United,1.0,37%,4.0,81%
+39146,Barcelona,4.0,74%,1.0,91%,PSV Eindhoven,0.0,26%,5.0,73%
+39147,Inter,2.0,46%,5.0,82%,Tottenham,1.0,54%,2.0,85%
+39148,Club Brugge KV,0.0,35%,1.0,78%,Borussia Dortmund,1.0,65%,2.0,89%
+39149,Monaco,1.0,40%,1.0,77%,Atletico Madrid,2.0,60%,1.0,83%
+39150,FK Crvena Zvezda,0.0,26%,7.0,66%,Napoli,0.0,74%,3.0,87%
+39151,Liverpool,3.0,52%,3.0,83%,Paris Saint Germain,2.0,48%,4.0,88%
+39152,FC Schalke 04,1.0,39%,4.0,67%,FC Porto,1.0,61%,1.0,76%
+39153,Galatasaray,3.0,44%,2.0,80%,Lokomotiv Moscow,0.0,56%,5.0,82%
+39154,Ajax,3.0,67%,0.0,87%,AEK Athens FC,0.0,33%,3.0,70%
+39155,Shakhtar Donetsk,2.0,65%,4.0,88%,1899 Hoffenheim,2.0,35%,2.0,78%
+39156,Benfica,0.0,43%,4.0,79%,Bayern Munich,2.0,57%,4.0,85%
+39157,Manchester City,1.0,69%,2.0,90%,Lyon,2.0,31%,7.0,76%
+39158,Plzen,2.0,42%,5.0,71%,CSKA Moscow,2.0,58%,2.0,80%
+39159,Real Madrid,3.0,61%,4.0,90%,AS Roma,0.0,39%,8.0,81%
+39160,BSC Young Boys,0.0,43%,2.0,81%,Manchester United,3.0,57%,4.0,87%
+39161,Valencia,0.0,54%,3.0,88%,Juventus,2.0,46%,6.0,86%
+39162,1899 Hoffenheim,1.0,33%,4.0,77%,Manchester City,2.0,67%,1.0,90%
+39163,Juventus,3.0,60%,1.0,89%,BSC Young Boys,0.0,40%,5.0,81%
+39164,AEK Athens FC,2.0,64%,3.0,88%,Benfica,3.0,36%,4.0,79%
+39165,Bayern Munich,1.0,59%,6.0,83%,Ajax,1.0,41%,3.0,78%
+39166,Lyon,2.0,50%,5.0,87%,Shakhtar Donetsk,2.0,50%,5.0,87%
+39167,AS Roma,5.0,65%,1.0,89%,Plzen,0.0,35%,8.0,78%
+39168,CSKA Moscow,1.0,27%,4.0,73%,Real Madrid,0.0,73%,2.0,92%
+39169,Manchester United,0.0,52%,1.0,85%,Valencia,0.0,48%,4.0,81%
+39170,Paris Saint Germain,6.0,74%,2.0,91%,FK Crvena Zvezda,1.0,26%,11.0,71%
+39171,Lokomotiv Moscow,0.0,48%,4.0,70%,FC Schalke 04,1.0,52%,1.0,78%
+39172,Atletico Madrid,3.0,60%,0.0,86%,Club Brugge KV,1.0,40%,3.0,81%
+39173,Borussia Dortmund,3.0,58%,5.0,86%,Monaco,0.0,42%,3.0,79%
+39174,PSV Eindhoven,1.0,41%,6.0,82%,Inter,2.0,59%,3.0,88%
+39175,Tottenham,2.0,38%,4.0,86%,Barcelona,4.0,62%,4.0,88%
+39176,Napoli,1.0,56%,0.0,86%,Liverpool,0.0,44%,4.0,80%
+39177,FC Porto,1.0,56%,3.0,81%,Galatasaray,0.0,44%,4.0,68%
+39178,AEK Athens FC,0.0,33%,5.0,76%,Bayern Munich,2.0,67%,1.0,89%
+39179,BSC Young Boys,1.0,45%,1.0,81%,Valencia,1.0,55%,6.0,81%
+39180,Ajax,1.0,57%,2.0,82%,Benfica,0.0,43%,8.0,76%
+39181,1899 Hoffenheim,3.0,55%,3.0,86%,Lyon,3.0,45%,6.0,81%
+39182,Shakhtar Donetsk,0.0,47%,2.0,81%,Manchester City,3.0,53%,2.0,86%
+39183,AS Roma,3.0,53%,4.0,85%,CSKA Moscow,0.0,47%,9.0,79%
+39184,Real Madrid,2.0,68%,1.0,92%,Plzen,1.0,32%,6.0,79%
+39185,Manchester United,0.0,39%,4.0,81%,Juventus,1.0,61%,2.0,89%
+39186,Club Brugge KV,1.0,59%,2.0,88%,Monaco,1.0,41%,4.0,81%
+39187,PSV Eindhoven,2.0,29%,7.0,70%,Tottenham,2.0,71%,1.0,87%
+39188,Borussia Dortmund,4.0,48%,2.0,82%,Atletico Madrid,0.0,52%,1.0,84%
+39189,Barcelona,2.0,67%,2.0,90%,Inter,0.0,33%,9.0,77%
+39190,Liverpool,4.0,65%,0.0,82%,FK Crvena Zvezda,0.0,35%,7.0,69%
+39191,Paris Saint Germain,2.0,52%,3.0,90%,Napoli,2.0,48%,5.0,85%
+39192,Galatasaray,0.0,58%,6.0,85%,FC Schalke 04,0.0,42%,2.0,79%
+39193,Lokomotiv Moscow,1.0,38%,2.0,70%,FC Porto,3.0,62%,4.0,83%
+39194,Monaco,0.0,64%,2.0,88%,Club Brugge KV,4.0,36%,6.0,75%
+39195,FK Crvena Zvezda,2.0,28%,4.0,58%,Liverpool,0.0,72%,2.0,82%
+39196,Atletico Madrid,2.0,31%,0.0,77%,Borussia Dortmund,0.0,69%,6.0,88%
+39197,Inter,1.0,34%,7.0,82%,Barcelona,1.0,66%,0.0,90%
+39198,Tottenham,2.0,75%,3.0,84%,PSV Eindhoven,1.0,25%,7.0,58%
+39199,Napoli,1.0,43%,2.0,87%,Paris Saint Germain,1.0,57%,4.0,90%
+39200,FC Porto,4.0,53%,1.0,79%,Lokomotiv Moscow,1.0,47%,3.0,75%
+39201,FC Schalke 04,2.0,44%,0.0,81%,Galatasaray,0.0,56%,3.0,87%
+39202,CSKA Moscow,1.0,50%,4.0,77%,AS Roma,2.0,50%,5.0,78%
+39203,Valencia,3.0,54%,1.0,83%,BSC Young Boys,1.0,46%,2.0,79%
+39204,Bayern Munich,2.0,61%,1.0,87%,AEK Athens FC,0.0,39%,6.0,78%
+39205,Benfica,1.0,42%,3.0,69%,Ajax,1.0,58%,7.0,79%
+39206,Lyon,2.0,51%,4.0,83%,1899 Hoffenheim,2.0,49%,9.0,80%
+39207,Manchester City,6.0,61%,2.0,91%,Shakhtar Donetsk,0.0,39%,2.0,84%
+39208,Plzen,0.0,38%,1.0,80%,Real Madrid,5.0,62%,2.0,90%
+39209,Juventus,1.0,54%,2.0,88%,Manchester United,2.0,46%,3.0,85%
+39210,AEK Athens FC,0.0,33%,3.0,73%,Ajax,2.0,67%,2.0,88%
+39211,CSKA Moscow,1.0,52%,5.0,80%,Plzen,2.0,48%,4.0,76%
+39212,Bayern Munich,5.0,58%,1.0,88%,Benfica,1.0,42%,5.0,82%
+39213,1899 Hoffenheim,2.0,58%,5.0,87%,Shakhtar Donetsk,3.0,42%,2.0,82%
+39214,Lyon,2.0,41%,4.0,85%,Manchester City,2.0,59%,2.0,91%
+39215,AS Roma,0.0,41%,5.0,80%,Real Madrid,2.0,59%,5.0,86%
+39216,Juventus,1.0,56%,1.0,88%,Valencia,0.0,44%,5.0,82%
+39217,Manchester United,1.0,65%,0.0,86%,BSC Young Boys,0.0,35%,4.0,74%
+39218,Atletico Madrid,2.0,56%,3.0,88%,Monaco,0.0,44%,2.0,88%
+39219,Lokomotiv Moscow,2.0,42%,2.0,77%,Galatasaray,0.0,58%,2.0,85%
+39220,Borussia Dortmund,0.0,73%,0.0,93%,Club Brugge KV,0.0,27%,2.0,77%
+39221,PSV Eindhoven,1.0,34%,4.0,80%,Barcelona,2.0,66%,8.0,84%
+39222,Tottenham,1.0,51%,2.0,84%,Inter,0.0,49%,4.0,79%
+39223,Napoli,3.0,66%,2.0,89%,FK Crvena Zvezda,1.0,34%,5.0,83%
+39224,Paris Saint Germain,2.0,43%,0.0,81%,Liverpool,1.0,57%,6.0,84%
+39225,FC Porto,3.0,60%,1.0,83%,FC Schalke 04,1.0,40%,3.0,75%
+39226,FC Schalke 04,1.0,57%,1.0,81%,Lokomotiv Moscow,0.0,43%,5.0,75%
+39227,Galatasaray,2.0,63%,0.0,81%,FC Porto,3.0,37%,3.0,70%
+39228,Club Brugge KV,0.0,43%,3.0,73%,Atletico Madrid,0.0,57%,2.0,79%
+39229,Monaco,0.0,37%,2.0,86%,Borussia Dortmund,2.0,63%,0.0,89%
+39230,Barcelona,1.0,48%,6.0,85%,Tottenham,1.0,52%,2.0,86%
+39231,Inter,1.0,65%,4.0,87%,PSV Eindhoven,1.0,35%,8.0,78%
+39232,FK Crvena Zvezda,1.0,29%,5.0,73%,Paris Saint Germain,4.0,71%,2.0,88%
+39233,Liverpool,1.0,48%,3.0,79%,Napoli,0.0,52%,4.0,76%
+39234,Plzen,2.0,37%,3.0,74%,AS Roma,1.0,63%,2.0,87%
+39235,Real Madrid,0.0,68%,3.0,92%,CSKA Moscow,3.0,32%,6.0,81%
+39236,Ajax,3.0,54%,6.0,84%,Bayern Munich,3.0,46%,5.0,78%
+39237,Benfica,1.0,59%,0.0,86%,AEK Athens FC,0.0,41%,7.0,76%
+39238,Manchester City,2.0,62%,4.0,89%,1899 Hoffenheim,1.0,38%,6.0,79%
+39239,Shakhtar Donetsk,1.0,53%,5.0,82%,Lyon,1.0,47%,1.0,85%
+39240,BSC Young Boys,2.0,40%,5.0,80%,Juventus,1.0,60%,1.0,88%
+39241,Valencia,2.0,45%,4.0,81%,Manchester United,1.0,55%,2.0,86%
+65905,AS Roma,2.0,42%,1.0,73%,FC Porto,1.0,58%,7.0,81%
+65906,Manchester United,0.0,44%,3.0,84%,Paris Saint Germain,2.0,56%,1.0,87%
+65907,Ajax,1.0,50%,6.0,83%,Real Madrid,2.0,50%,6.0,83%
+65908,Tottenham,3.0,53%,5.0,88%,Borussia Dortmund,0.0,47%,2.0,85%
+65909,Liverpool,0.0,49%,1.0,78%,Bayern Munich,0.0,51%,2.0,83%
+65910,Lyon,0.0,36%,5.0,82%,Barcelona,0.0,64%,2.0,88%
+65911,Atletico Madrid,2.0,36%,2.0,73%,Juventus,0.0,64%,3.0,87%
+65912,FC Schalke 04,2.0,33%,3.0,75%,Manchester City,3.0,67%,0.0,89%
+65913,Borussia Dortmund,0.0,64%,0.0,90%,Tottenham,1.0,36%,7.0,83%
+65914,Real Madrid,1.0,57%,4.0,80%,Ajax,4.0,43%,7.0,78%
+65915,FC Porto,3.0,59%,0.0,81%,AS Roma,1.0,41%,6.0,69%
+65916,Paris Saint Germain,1.0,72%,2.0,91%,Manchester United,3.0,28%,3.0,76%
+65917,Juventus,3.0,62%,0.0,83%,Atletico Madrid,0.0,38%,1.0,72%
+65918,Manchester City,7.0,72%,1.0,92%,FC Schalke 04,0.0,28%,4.0,73%
+65919,Barcelona,5.0,55%,1.0,88%,Lyon,1.0,45%,4.0,87%
+65920,Bayern Munich,1.0,57%,3.0,82%,Liverpool,3.0,43%,2.0,74%
+78583,PAOK,1.0,52%,2.0,79%,Benfica,4.0,48%,7.0,74%
+78584,PSV Eindhoven,3.0,55%,2.0,82%,Bate Borisov,0.0,45%,7.0,77%
+78585,Red Bull Salzburg,2.0,66%,1.0,81%,FK Crvena Zvezda,2.0,34%,9.0,57%
+78586,AEK Athens FC,1.0,48%,3.0,79%,Fehérvár FC,1.0,52%,3.0,78%
+78587,Dinamo Zagreb,1.0,50%,4.0,63%,BSC Young Boys,2.0,50%,2.0,66%
+78588,Dynamo Kyiv,0.0,46%,5.0,73%,Ajax,0.0,54%,2.0,79%
+78589,Ajax,3.0,53%,3.0,84%,Dynamo Kyiv,1.0,47%,2.0,81%
+78590,BSC Young Boys,1.0,59%,2.0,79%,Dinamo Zagreb,1.0,41%,5.0,71%
+78591,Fehérvár FC,1.0,43%,4.0,85%,AEK Athens FC,2.0,57%,3.0,88%
+78592,Bate Borisov,2.0,41%,3.0,72%,PSV Eindhoven,3.0,59%,4.0,85%
+78593,Benfica,1.0,64%,0.0,87%,PAOK,1.0,36%,7.0,76%
+78594,FK Crvena Zvezda,0.0,31%,2.0,67%,Red Bull Salzburg,0.0,69%,3.0,82%
+78595,Ajax,3.0,65%,3.0,89%,Standard Liege,0.0,35%,3.0,76%
+78597,Shkendija,0.0,58%,3.0,76%,Red Bull Salzburg,1.0,42%,4.0,64%
+78600,Fenerbahce,1.0,56%,1.0,78%,Benfica,1.0,44%,4.0,77%
+78607,Red Bull Salzburg,3.0,55%,4.0,85%,Shkendija,0.0,45%,4.0,80%
+78608,Benfica,1.0,66%,1.0,88%,Fenerbahce,0.0,34%,5.0,74%
+78610,Standard Liege,2.0,50%,3.0,86%,Ajax,2.0,50%,1.0,83%
+78616,Sturm Graz,1.0,47%,5.0,83%,Ajax,3.0,53%,3.0,87%
+78628,Ajax,2.0,65%,2.0,89%,Sturm Graz,0.0,35%,4.0,77%
+107692,Liverpool,2.0,64%,3.0,83%,FC Porto,0.0,36%,1.0,67%
+107693,Tottenham,1.0,41%,2.0,78%,Manchester City,0.0,59%,3.0,87%
+107694,Ajax,1.0,60%,0.0,85%,Juventus,1.0,40%,5.0,76%
+107695,Manchester United,0.0,33%,3.0,84%,Barcelona,1.0,67%,0.0,91%
+107696,Barcelona,3.0,65%,3.0,92%,Manchester United,0.0,35%,3.0,86%
+107697,Juventus,1.0,51%,2.0,76%,Ajax,2.0,49%,2.0,74%
+107698,FC Porto,1.0,51%,1.0,76%,Liverpool,4.0,49%,7.0,75%
+107699,Manchester City,4.0,65%,4.0,88%,Tottenham,3.0,35%,4.0,75%
+112254,Tottenham,0.0,51%,1.0,72%,Ajax,1.0,49%,1.0,75%
+112255,Barcelona,3.0,47%,3.0,84%,Liverpool,0.0,53%,2.0,83%
+112256,Liverpool,4.0,42%,5.0,78%,Barcelona,0.0,58%,3.0,83%
+112257,Ajax,2.0,40%,4.0,73%,Tottenham,3.0,60%,2.0,80%
+125534,Tottenham,0.0,64%,1.0,80%,Liverpool,2.0,36%,8.0,64%
+40711,Rapid Vienna,2.0,49%,3.0,74%,Spartak Moscow,0.0,51%,5.0,76%
+40712,Villarreal,2.0,58%,1.0,85%,Rangers,2.0,42%,2.0,82%
+40713,Lazio,2.0,50%,3.0,88%,Apollon Limassol,1.0,50%,3.0,91%
+40714,Marseille,1.0,65%,2.0,85%,Eintracht Frankfurt,2.0,35%,6.0,73%
+40715,Besiktas,3.0,65%,4.0,80%,Sarpsborg 08 FF,1.0,35%,0.0,61%
+40716,Genk,2.0,59%,0.0,86%,Malmo FF,0.0,41%,4.0,77%
+40717,Akhisar Belediye,0.0,41%,1.0,73%,Krasnodar,1.0,59%,4.0,80%
+40718,Sevilla,5.0,55%,1.0,85%,Standard Liege,1.0,45%,7.0,80%
+40719,Dynamo Kyiv,2.0,51%,2.0,79%,FC Astana,2.0,49%,5.0,80%
+40720,Rennes,2.0,60%,0.0,78%,FK Jablonec,1.0,40%,4.0,66%
+40721,PAOK,0.0,31%,4.0,79%,Chelsea,1.0,69%,1.0,91%
+40722,Fehérvár FC,0.0,57%,4.0,77%,Bate Borisov,2.0,43%,2.0,71%
+40723,AEK Larnaca,0.0,55%,5.0,79%,FC Zurich,1.0,45%,1.0,73%
+40724,Ludogorets,2.0,43%,2.0,75%,Bayer Leverkusen,3.0,57%,0.0,82%
+40725,Celtic,1.0,64%,0.0,87%,Rosenborg,0.0,36%,6.0,74%
+40726,RB Leipzig,2.0,55%,2.0,74%,Red Bull Salzburg,3.0,45%,2.0,66%
+40727,FC Copenhagen,1.0,52%,1.0,79%,Zenit Saint Petersburg,1.0,48%,3.0,78%
+40728,Slavia Praha,1.0,51%,1.0,79%,Bordeaux,0.0,49%,4.0,76%
+40729,Dinamo Zagreb,4.0,36%,2.0,75%,Fenerbahce,1.0,64%,3.0,85%
+40731,Arsenal,4.0,68%,1.0,89%,Vorskla Poltava,2.0,32%,1.0,74%
+40732,Sporting CP,2.0,55%,2.0,80%,Qarabag,0.0,45%,1.0,77%
+40733,F91 Dudelange,0.0,42%,4.0,86%,AC Milan,1.0,58%,1.0,87%
+40734,Olympiakos Piraeus,0.0,26%,4.0,75%,Real Betis,0.0,74%,5.0,92%
+40735,FC Astana,2.0,40%,3.0,74%,Rennes,0.0,60%,0.0,83%
+40736,Bayer Leverkusen,4.0,54%,3.0,85%,AEK Larnaca,2.0,46%,5.0,82%
+40737,FC Zurich,1.0,48%,3.0,72%,Ludogorets,0.0,52%,1.0,67%
+40738,Red Bull Salzburg,3.0,64%,1.0,88%,Celtic,1.0,36%,3.0,73%
+40739,Rosenborg,1.0,35%,9.0,68%,RB Leipzig,3.0,65%,3.0,81%
+40740,Bordeaux,1.0,53%,3.0,78%,FC Copenhagen,2.0,47%,4.0,77%
+40741,Zenit Saint Petersburg,1.0,46%,11.0,79%,Slavia Praha,0.0,54%,1.0,83%
+40742,Anderlecht,0.0,60%,8.0,82%,Dinamo Zagreb,2.0,40%,2.0,71%
+40743,Fenerbahce,2.0,61%,0.0,79%,Spartak Trnava,0.0,39%,3.0,69%
+40744,Qarabag,0.0,47%,1.0,87%,Arsenal,3.0,53%,4.0,87%
+40745,Vorskla Poltava,1.0,40%,5.0,72%,Sporting CP,2.0,60%,0.0,83%
+40746,AC Milan,3.0,51%,2.0,88%,Olympiakos Piraeus,1.0,49%,3.0,89%
+40747,Real Betis,3.0,65%,5.0,89%,F91 Dudelange,0.0,35%,3.0,75%
+40748,Rangers,3.0,54%,0.0,77%,Rapid Vienna,1.0,46%,2.0,71%
+40749,Spartak Moscow,3.0,51%,4.0,81%,Villarreal,3.0,49%,1.0,77%
+40750,Apollon Limassol,2.0,50%,1.0,83%,Marseille,2.0,50%,2.0,81%
+40751,Eintracht Frankfurt,4.0,46%,4.0,77%,Lazio,1.0,54%,3.0,80%
+40752,Malmo FF,2.0,44%,4.0,75%,Besiktas,0.0,56%,1.0,83%
+40753,Sarpsborg 08 FF,3.0,30%,1.0,61%,Genk,1.0,70%,4.0,85%
+40754,Krasnodar,2.0,49%,2.0,82%,Sevilla,1.0,51%,2.0,78%
+40755,Standard Liege,2.0,54%,2.0,84%,Akhisar Belediye,1.0,46%,0.0,79%
+40756,FK Jablonec,2.0,46%,3.0,68%,Dynamo Kyiv,2.0,54%,2.0,70%
+40757,Bate Borisov,1.0,33%,1.0,76%,PAOK,4.0,67%,2.0,88%
+40758,Chelsea,1.0,76%,3.0,91%,Fehérvár FC,0.0,24%,4.0,66%
+40759,AEK Larnaca,1.0,52%,1.0,76%,Ludogorets,1.0,48%,5.0,77%
+40760,FC Zurich,3.0,40%,3.0,70%,Bayer Leverkusen,2.0,60%,3.0,79%
+40761,RB Leipzig,2.0,51%,1.0,83%,Celtic,0.0,49%,1.0,82%
+40762,Red Bull Salzburg,3.0,61%,2.0,87%,Rosenborg,0.0,39%,7.0,75%
+40763,FC Copenhagen,0.0,55%,2.0,74%,Slavia Praha,1.0,45%,0.0,70%
+40764,Zenit Saint Petersburg,2.0,54%,3.0,83%,Bordeaux,1.0,46%,1.0,84%
+40765,Anderlecht,2.0,57%,4.0,79%,Fenerbahce,2.0,43%,4.0,72%
+40766,Spartak Trnava,1.0,42%,4.0,63%,Dinamo Zagreb,2.0,58%,3.0,72%
+40767,Qarabag,0.0,66%,0.0,87%,Vorskla Poltava,1.0,34%,1.0,75%
+40768,Sporting CP,0.0,33%,6.0,68%,Arsenal,1.0,67%,0.0,88%
+40769,AC Milan,1.0,49%,1.0,85%,Real Betis,2.0,51%,0.0,86%
+40770,F91 Dudelange,0.0,47%,10.0,85%,Olympiakos Piraeus,2.0,53%,1.0,90%
+40771,Rangers,0.0,58%,1.0,75%,Spartak Moscow,0.0,42%,3.0,64%
+40772,Villarreal,5.0,49%,3.0,86%,Rapid Vienna,0.0,51%,2.0,83%
+40773,Eintracht Frankfurt,2.0,52%,1.0,81%,Apollon Limassol,0.0,48%,6.0,82%
+40774,Marseille,1.0,67%,1.0,87%,Lazio,3.0,33%,3.0,73%
+40775,Besiktas,2.0,54%,3.0,80%,Genk,4.0,46%,4.0,78%
+40776,Sarpsborg 08 FF,1.0,45%,2.0,66%,Malmo FF,1.0,55%,3.0,73%
+40777,Sevilla,6.0,55%,2.0,87%,Akhisar Belediye,0.0,45%,2.0,85%
+40778,Standard Liege,2.0,43%,7.0,73%,Krasnodar,1.0,57%,3.0,82%
+40779,FK Jablonec,1.0,55%,2.0,74%,FC Astana,1.0,45%,2.0,70%
+40780,Rennes,1.0,52%,0.0,81%,Dynamo Kyiv,2.0,48%,5.0,77%
+40781,Chelsea,3.0,69%,1.0,91%,Bate Borisov,1.0,31%,7.0,77%
+40782,PAOK,0.0,73%,1.0,87%,Fehérvár FC,2.0,27%,3.0,66%
+40783,Fenerbahce,2.0,38%,0.0,82%,Anderlecht,0.0,62%,4.0,89%
+40784,FC Astana,2.0,58%,1.0,74%,FK Jablonec,1.0,42%,3.0,63%
+40785,Rapid Vienna,0.0,43%,5.0,78%,Villarreal,0.0,57%,4.0,84%
+40786,Spartak Moscow,4.0,57%,0.0,77%,Rangers,3.0,43%,4.0,66%
+40787,Apollon Limassol,2.0,60%,0.0,85%,Eintracht Frankfurt,3.0,40%,4.0,77%
+40788,Lazio,2.0,41%,5.0,78%,Marseille,1.0,59%,4.0,87%
+40789,Genk,1.0,61%,1.0,85%,Besiktas,1.0,39%,4.0,75%
+40790,Malmo FF,1.0,68%,1.0,76%,Sarpsborg 08 FF,1.0,32%,3.0,55%
+40791,Akhisar Belediye,2.0,37%,5.0,79%,Sevilla,3.0,63%,1.0,88%
+40792,Krasnodar,2.0,65%,2.0,84%,Standard Liege,1.0,35%,4.0,68%
+40793,Dynamo Kyiv,3.0,54%,4.0,85%,Rennes,1.0,46%,4.0,79%
+40794,Bate Borisov,0.0,26%,3.0,67%,Chelsea,1.0,74%,1.0,89%
+40795,Fehérvár FC,1.0,26%,0.0,54%,PAOK,0.0,74%,1.0,85%
+40796,Bayer Leverkusen,1.0,65%,1.0,87%,FC Zurich,0.0,35%,4.0,72%
+40797,Ludogorets,0.0,57%,4.0,84%,AEK Larnaca,0.0,43%,4.0,76%
+40798,Celtic,2.0,46%,4.0,68%,RB Leipzig,1.0,54%,2.0,71%
+40799,Rosenborg,2.0,41%,5.0,77%,Red Bull Salzburg,5.0,59%,3.0,85%
+40800,Bordeaux,1.0,57%,1.0,87%,Zenit Saint Petersburg,1.0,43%,4.0,80%
+40801,Slavia Praha,0.0,54%,0.0,71%,FC Copenhagen,0.0,46%,4.0,65%
+40802,Dinamo Zagreb,3.0,56%,0.0,77%,Spartak Trnava,1.0,44%,5.0,66%
+40803,Arsenal,0.0,70%,0.0,88%,Sporting CP,0.0,30%,2.0,70%
+40804,Vorskla Poltava,0.0,57%,1.0,77%,Qarabag,1.0,43%,2.0,71%
+40805,Real Betis,1.0,64%,3.0,91%,AC Milan,1.0,36%,1.0,85%
+40806,Olympiakos Piraeus,5.0,55%,2.0,90%,F91 Dudelange,1.0,45%,6.0,85%
+40807,FC Astana,0.0,53%,1.0,81%,Dynamo Kyiv,1.0,47%,2.0,78%
+40808,Bayer Leverkusen,1.0,61%,1.0,86%,Ludogorets,1.0,39%,3.0,76%
+40809,FC Zurich,1.0,51%,1.0,74%,AEK Larnaca,2.0,49%,4.0,77%
+40810,Red Bull Salzburg,1.0,54%,2.0,71%,RB Leipzig,0.0,46%,4.0,56%
+40811,Rosenborg,0.0,37%,5.0,77%,Celtic,1.0,63%,0.0,88%
+40812,Bordeaux,2.0,47%,2.0,80%,Slavia Praha,0.0,53%,6.0,81%
+40813,Zenit Saint Petersburg,1.0,39%,3.0,76%,FC Copenhagen,0.0,61%,1.0,86%
+40814,Anderlecht,0.0,68%,2.0,87%,Spartak Trnava,0.0,32%,2.0,63%
+40815,Fenerbahce,0.0,67%,4.0,85%,Dinamo Zagreb,0.0,33%,2.0,71%
+40816,Qarabag,1.0,43%,1.0,76%,Sporting CP,6.0,57%,0.0,85%
+40817,Vorskla Poltava,0.0,43%,6.0,79%,Arsenal,3.0,57%,2.0,88%
+40818,AC Milan,5.0,59%,0.0,88%,F91 Dudelange,2.0,41%,6.0,84%
+40819,Real Betis,1.0,60%,1.0,89%,Olympiakos Piraeus,0.0,40%,7.0,80%
+40820,Spartak Moscow,1.0,50%,3.0,72%,Rapid Vienna,2.0,50%,0.0,70%
+40821,Krasnodar,2.0,66%,1.0,86%,Akhisar Belediye,1.0,34%,6.0,73%
+40822,Bate Borisov,2.0,47%,1.0,70%,Fehérvár FC,0.0,53%,0.0,70%
+40823,Rangers,0.0,34%,5.0,70%,Villarreal,0.0,66%,2.0,84%
+40824,Apollon Limassol,2.0,38%,0.0,71%,Lazio,0.0,62%,1.0,83%
+40825,Eintracht Frankfurt,4.0,46%,4.0,78%,Marseille,0.0,54%,2.0,81%
+40826,Malmo FF,2.0,40%,6.0,73%,Genk,2.0,60%,2.0,82%
+40827,Sarpsborg 08 FF,2.0,34%,6.0,51%,Besiktas,3.0,66%,4.0,74%
+40828,Standard Liege,1.0,30%,0.0,70%,Sevilla,0.0,70%,3.0,86%
+40829,FK Jablonec,0.0,59%,2.0,76%,Rennes,1.0,41%,6.0,69%
+40830,Chelsea,4.0,62%,0.0,93%,PAOK,0.0,38%,6.0,81%
+40831,Rapid Vienna,1.0,49%,1.0,68%,Rangers,0.0,51%,3.0,70%
+40832,Villarreal,2.0,47%,4.0,80%,Spartak Moscow,0.0,53%,5.0,81%
+40833,Lazio,1.0,50%,1.0,79%,Eintracht Frankfurt,2.0,50%,4.0,79%
+40834,Marseille,1.0,43%,0.0,89%,Apollon Limassol,3.0,57%,3.0,91%
+40835,Besiktas,0.0,56%,2.0,76%,Malmo FF,1.0,44%,2.0,68%
+40836,Genk,4.0,57%,2.0,78%,Sarpsborg 08 FF,0.0,43%,3.0,70%
+40837,Akhisar Belediye,0.0,49%,1.0,78%,Standard Liege,0.0,51%,2.0,80%
+40838,Sevilla,3.0,58%,3.0,88%,Krasnodar,0.0,42%,4.0,81%
+40839,Dynamo Kyiv,0.0,66%,4.0,84%,FK Jablonec,1.0,34%,5.0,69%
+40840,Rennes,2.0,62%,3.0,85%,FC Astana,0.0,38%,5.0,71%
+40841,PAOK,1.0,68%,0.0,86%,Bate Borisov,3.0,32%,4.0,69%
+40842,Fehérvár FC,2.0,24%,3.0,67%,Chelsea,2.0,76%,2.0,90%
+40843,AEK Larnaca,1.0,40%,3.0,77%,Bayer Leverkusen,5.0,60%,3.0,86%
+40844,Ludogorets,1.0,55%,0.0,78%,FC Zurich,1.0,45%,5.0,70%
+40845,Celtic,1.0,48%,4.0,75%,Red Bull Salzburg,2.0,52%,3.0,79%
+40846,RB Leipzig,1.0,59%,1.0,75%,Rosenborg,1.0,41%,8.0,62%
+40847,FC Copenhagen,0.0,61%,1.0,85%,Bordeaux,1.0,39%,2.0,78%
+40848,Slavia Praha,2.0,45%,0.0,75%,Zenit Saint Petersburg,0.0,55%,2.0,80%
+40849,Dinamo Zagreb,0.0,38%,2.0,73%,Anderlecht,0.0,62%,2.0,82%
+40850,Spartak Trnava,1.0,42%,1.0,74%,Fenerbahce,0.0,58%,2.0,82%
+40851,Arsenal,1.0,66%,0.0,90%,Qarabag,0.0,34%,3.0,77%
+40852,Sporting CP,3.0,62%,1.0,86%,Vorskla Poltava,0.0,38%,7.0,74%
+40853,F91 Dudelange,0.0,23%,4.0,71%,Real Betis,0.0,77%,0.0,91%
+40854,Olympiakos Piraeus,3.0,51%,7.0,84%,AC Milan,1.0,49%,5.0,82%
+65873,Fenerbahce,1.0,55%,2.0,81%,Zenit Saint Petersburg,0.0,45%,4.0,72%
+65874,Bate Borisov,1.0,23%,4.0,55%,Arsenal,0.0,77%,2.0,87%
+65875,Galatasaray,1.0,66%,4.0,83%,Benfica,2.0,34%,2.0,71%
+65876,Krasnodar,0.0,30%,3.0,65%,Bayer Leverkusen,0.0,70%,4.0,85%
+65878,Olympiakos Piraeus,2.0,40%,2.0,79%,Dynamo Kyiv,2.0,60%,2.0,83%
+65879,Rapid Vienna,0.0,37%,2.0,76%,Inter,1.0,63%,2.0,86%
+65880,Rennes,3.0,25%,6.0,72%,Real Betis,3.0,75%,3.0,92%
+65881,Slavia Praha,0.0,45%,3.0,69%,Genk,0.0,55%,5.0,69%
+65882,Celtic,0.0,63%,3.0,90%,Valencia,2.0,37%,2.0,83%
+65883,Club Brugge KV,2.0,53%,4.0,75%,Red Bull Salzburg,1.0,47%,3.0,70%
+65884,FC Zurich,1.0,35%,7.0,75%,Napoli,3.0,65%,2.0,84%
+65885,Malmo FF,1.0,26%,2.0,73%,Chelsea,2.0,74%,1.0,92%
+65886,Plzen,2.0,54%,2.0,75%,Dinamo Zagreb,1.0,46%,1.0,71%
+65887,Shakhtar Donetsk,2.0,41%,3.0,78%,Eintracht Frankfurt,2.0,59%,2.0,85%
+65888,Sporting CP,0.0,53%,1.0,78%,Villarreal,1.0,47%,3.0,76%
+65889,Sevilla,2.0,48%,3.0,79%,Lazio,0.0,52%,3.0,83%
+65890,Arsenal,3.0,68%,1.0,87%,Bate Borisov,0.0,32%,6.0,68%
+65891,Dinamo Zagreb,3.0,37%,2.0,69%,Plzen,0.0,63%,5.0,78%
+65892,Eintracht Frankfurt,4.0,35%,3.0,77%,Shakhtar Donetsk,1.0,65%,1.0,88%
+65893,Napoli,2.0,64%,1.0,89%,FC Zurich,0.0,36%,4.0,76%
+65894,Red Bull Salzburg,4.0,39%,3.0,70%,Club Brugge KV,0.0,61%,2.0,80%
+65895,Valencia,1.0,54%,2.0,89%,Celtic,0.0,46%,5.0,89%
+65896,Villarreal,1.0,58%,1.0,85%,Sporting CP,1.0,42%,8.0,78%
+65897,Zenit Saint Petersburg,3.0,39%,2.0,76%,Fenerbahce,1.0,61%,4.0,86%
+65898,Bayer Leverkusen,1.0,65%,2.0,86%,Krasnodar,1.0,35%,5.0,73%
+65899,Benfica,0.0,48%,1.0,80%,Galatasaray,0.0,52%,3.0,79%
+65900,Chelsea,3.0,72%,0.0,88%,Malmo FF,0.0,28%,4.0,63%
+65901,Dynamo Kyiv,1.0,45%,5.0,74%,Olympiakos Piraeus,0.0,55%,4.0,80%
+65902,Genk,1.0,56%,4.0,77%,Slavia Praha,4.0,44%,1.0,74%
+65903,Inter,4.0,62%,1.0,88%,Rapid Vienna,0.0,38%,2.0,80%
+65904,Real Betis,1.0,58%,4.0,81%,Rennes,3.0,42%,6.0,76%
+90890,Dinamo Zagreb,1.0,34%,2.0,61%,Benfica,0.0,66%,3.0,77%
+90891,Eintracht Frankfurt,0.0,50%,4.0,72%,Inter,0.0,50%,6.0,74%
+90892,Rennes,3.0,51%,3.0,83%,Arsenal,1.0,49%,6.0,80%
+90893,Sevilla,2.0,56%,1.0,74%,Slavia Praha,2.0,44%,5.0,64%
+90894,Zenit Saint Petersburg,1.0,40%,5.0,75%,Villarreal,3.0,60%,3.0,85%
+90895,Chelsea,3.0,59%,0.0,90%,Dynamo Kyiv,0.0,41%,5.0,82%
+90896,Napoli,3.0,53%,6.0,79%,Red Bull Salzburg,0.0,47%,1.0,80%
+90897,Valencia,2.0,47%,1.0,83%,Krasnodar,1.0,53%,2.0,83%
+90898,Dynamo Kyiv,0.0,37%,3.0,81%,Chelsea,5.0,63%,2.0,89%
+90899,Krasnodar,1.0,58%,3.0,80%,Valencia,1.0,42%,2.0,74%
+90900,Red Bull Salzburg,3.0,57%,4.0,84%,Napoli,1.0,43%,2.0,76%
+90901,Arsenal,3.0,54%,2.0,75%,Rennes,0.0,46%,1.0,71%
+90902,Benfica,3.0,68%,3.0,83%,Dinamo Zagreb,0.0,32%,8.0,65%
+90903,Inter,0.0,54%,7.0,76%,Eintracht Frankfurt,1.0,46%,4.0,74%
+90904,Slavia Praha,4.0,42%,2.0,64%,Sevilla,3.0,58%,3.0,72%
+90905,Villarreal,2.0,42%,2.0,83%,Zenit Saint Petersburg,1.0,58%,3.0,85%
+107700,Arsenal,2.0,42%,2.0,79%,Napoli,0.0,58%,6.0,81%
+107701,Benfica,4.0,61%,2.0,85%,Eintracht Frankfurt,2.0,39%,2.0,74%
+107702,Slavia Praha,0.0,43%,1.0,76%,Chelsea,1.0,57%,3.0,82%
+107703,Villarreal,1.0,58%,1.0,88%,Valencia,3.0,42%,5.0,79%
+107704,Chelsea,4.0,55%,1.0,84%,Slavia Praha,3.0,45%,1.0,81%
+107705,Eintracht Frankfurt,2.0,48%,2.0,66%,Benfica,0.0,52%,2.0,69%
+107706,Napoli,0.0,69%,3.0,87%,Arsenal,1.0,31%,3.0,66%
+107707,Valencia,2.0,39%,5.0,82%,Villarreal,0.0,61%,2.0,89%
+112250,Arsenal,3.0,58%,2.0,83%,Valencia,1.0,42%,3.0,78%
+112251,Eintracht Frankfurt,1.0,33%,4.0,67%,Chelsea,1.0,67%,0.0,84%
+112252,Chelsea,2.0,60%,3.0,81%,Eintracht Frankfurt,2.0,40%,5.0,68%
+112253,Valencia,2.0,55%,1.0,86%,Arsenal,4.0,45%,1.0,77%
+125535,Chelsea,4.0,50%,1.0,85%,Arsenal,1.0,50%,4.0,86%
+362366,Real Madrid,2.0,59%,1.0,90%,Atletico Madrid,4.0,41%,4.0,81%
+162490,Olympiakos Piraeus ,4.0,60%,0.0,84%,Plzen,0.0,40%,7.0,78%
+162491,PSV Eindhoven,3.0,62%,0.0,87%,FC Basel 1893,2.0,38%,4.0,77%
+162492,FC Basel 1893,2.0,46%,4.0,71%,PSV Eindhoven,1.0,54%,1.0,75%
+216917,PAOK,2.0,32%,4.0,72%,Ajax,2.0,68%,1.0,87%
+216918,Ajax,3.0,62%,2.0,80%,PAOK,2.0,38%,7.0,68%
+232977,Olympiakos Piraeus,2.0,47%,6.0,78%,Istanbul Basaksehir,0.0,53%,2.0,82%
+232978,FC Basel 1893,1.0,49%,1.0,67%,Lask Linz,2.0,51%,3.0,65%
+232979,Lask Linz,3.0,37%,2.0,59%,FC Basel 1893,1.0,63%,1.0,74%
+234980,CFR 1907 Cluj,0.0,37%,1.0,51%,Slavia Praha,1.0,63%,2.0,71%
+234981,Slavia Praha,1.0,50%,2.0,62%,CFR 1907 Cluj,0.0,50%,3.0,62%
+234982,Apoel Nicosia,0.0,28%,5.0,58%,Ajax,0.0,72%,3.0,85%
+234983,Ajax,2.0,68%,0.0,83%,Apoel Nicosia,0.0,32%,7.0,61%
+234984,Lask Linz,0.0,56%,3.0,62%,Club Brugge KV,1.0,44%,1.0,51%
+234985,Club Brugge KV,2.0,58%,0.0,70%,Lask Linz,1.0,42%,3.0,59%
+234986,Dinamo Zagreb,2.0,47%,3.0,67%,Rosenborg,0.0,53%,3.0,72%
+234987,Rosenborg,1.0,56%,4.0,71%,Dinamo Zagreb,1.0,44%,7.0,63%
+234988,BSC Young Boys,2.0,64%,0.0,83%,FK Crvena Zvezda,2.0,36%,5.0,69%
+234989,FK Crvena Zvezda,1.0,43%,4.0,68%,BSC Young Boys,1.0,57%,1.0,71%
+234990,Olympiakos Piraeus,4.0,55%,2.0,82%,Krasnodar,0.0,45%,3.0,76%
+234991,Krasnodar,1.0,52%,4.0,81%,Olympiakos Piraeus,2.0,48%,2.0,80%
+240513,Lyon,1.0,58%,2.0,88%,Zenit Saint Petersburg,1.0,42%,6.0,81%
+240514,Inter,1.0,55%,4.0,78%,Slavia Praha,1.0,45%,4.0,77%
+240515,Chelsea,0.0,59%,1.0,89%,Valencia,1.0,41%,6.0,82%
+240516,Ajax,3.0,61%,6.0,85%,Lille,0.0,39%,4.0,77%
+240517,Benfica,1.0,47%,1.0,84%,RB Leipzig,2.0,53%,6.0,83%
+240518,Borussia Dortmund,0.0,41%,1.0,86%,Barcelona,0.0,59%,4.0,88%
+240519,Napoli,2.0,47%,4.0,85%,Liverpool,0.0,53%,3.0,85%
+240520,Red Bull Salzburg,6.0,46%,2.0,77%,Genk,2.0,54%,7.0,78%
+240521,Club Brugge KV,0.0,42%,1.0,73%,Galatasaray,0.0,58%,2.0,80%
+240522,Olympiakos Piraeus,2.0,44%,3.0,86%,Tottenham,2.0,56%,3.0,88%
+240523,Paris Saint Germain,3.0,52%,0.0,90%,Real Madrid,0.0,48%,2.0,86%
+240524,Bayern Munich,3.0,72%,0.0,89%,FK Crvena Zvezda,0.0,28%,7.0,80%
+240525,Shakhtar Donetsk,0.0,46%,2.0,89%,Manchester City,3.0,54%,1.0,92%
+240526,Dinamo Zagreb,4.0,46%,2.0,72%,Atalanta,0.0,54%,2.0,73%
+240527,Atletico Madrid,2.0,46%,3.0,86%,Juventus,2.0,54%,6.0,89%
+240528,Bayer Leverkusen,1.0,78%,2.0,89%,Lokomotiv Moscow,2.0,22%,5.0,66%
+240529,Real Madrid,2.0,73%,2.0,90%,Club Brugge KV,2.0,27%,5.0,66%
+240530,Atalanta,1.0,56%,4.0,88%,Shakhtar Donetsk,2.0,44%,4.0,82%
+240531,Galatasaray,0.0,50%,5.0,77%,Paris Saint Germain,1.0,50%,1.0,78%
+240532,Tottenham,2.0,41%,3.0,82%,Bayern Munich,7.0,59%,5.0,86%
+240533,FK Crvena Zvezda,3.0,58%,1.0,82%,Olympiakos Piraeus,1.0,42%,3.0,71%
+240534,Manchester City,2.0,80%,1.0,89%,Dinamo Zagreb,0.0,20%,4.0,53%
+240535,Juventus,3.0,45%,0.0,85%,Bayer Leverkusen,0.0,55%,4.0,87%
+240536,Lokomotiv Moscow,0.0,39%,7.0,77%,Atletico Madrid,2.0,61%,3.0,85%
+240537,Genk,0.0,37%,2.0,72%,Napoli,0.0,63%,2.0,85%
+240538,Slavia Praha,0.0,49%,2.0,80%,Borussia Dortmund,2.0,51%,7.0,79%
+240539,Liverpool,4.0,69%,2.0,84%,Red Bull Salzburg,3.0,31%,1.0,70%
+240540,Zenit Saint Petersburg,3.0,43%,6.0,79%,Benfica,1.0,57%,4.0,84%
+240541,RB Leipzig,0.0,58%,0.0,84%,Lyon,2.0,42%,4.0,78%
+240542,Barcelona,2.0,65%,2.0,90%,Inter,1.0,35%,5.0,83%
+240543,Valencia,0.0,54%,3.0,88%,Ajax,3.0,46%,5.0,85%
+240544,Lille,1.0,37%,1.0,77%,Chelsea,2.0,63%,2.0,87%
+240545,Shakhtar Donetsk,2.0,65%,2.0,90%,Dinamo Zagreb,2.0,35%,2.0,78%
+240546,Atletico Madrid,1.0,40%,1.0,75%,Bayer Leverkusen,0.0,60%,1.0,84%
+240547,Club Brugge KV,0.0,45%,3.0,81%,Paris Saint Germain,5.0,55%,0.0,85%
+240548,Galatasaray,0.0,55%,11.0,83%,Real Madrid,1.0,45%,3.0,81%
+240549,Tottenham,5.0,58%,5.0,88%,FK Crvena Zvezda,0.0,42%,7.0,84%
+240550,Olympiakos Piraeus,2.0,40%,3.0,79%,Bayern Munich,3.0,60%,2.0,87%
+240551,Manchester City,5.0,55%,6.0,88%,Atalanta,1.0,45%,5.0,84%
+240552,Juventus,2.0,77%,2.0,90%,Lokomotiv Moscow,1.0,23%,5.0,66%
+240553,RB Leipzig,2.0,64%,1.0,87%,Zenit Saint Petersburg,1.0,36%,4.0,68%
+240554,Ajax,0.0,52%,3.0,80%,Chelsea,1.0,48%,2.0,80%
+240555,Red Bull Salzburg,2.0,53%,1.0,79%,Napoli,3.0,47%,3.0,79%
+240556,Genk,1.0,25%,3.0,73%,Liverpool,4.0,75%,3.0,89%
+240557,Benfica,2.0,43%,1.0,77%,Lyon,1.0,57%,0.0,86%
+240558,Inter,2.0,42%,2.0,87%,Borussia Dortmund,0.0,58%,2.0,89%
+240559,Slavia Praha,1.0,48%,6.0,79%,Barcelona,2.0,52%,8.0,81%
+240560,Lille,1.0,55%,2.0,86%,Valencia,1.0,45%,5.0,79%
+240561,Zenit Saint Petersburg,0.0,31%,6.0,70%,RB Leipzig,2.0,69%,5.0,86%
+240562,Barcelona,0.0,62%,0.0,85%,Slavia Praha,0.0,38%,6.0,79%
+240563,Liverpool,2.0,71%,2.0,87%,Genk,1.0,29%,6.0,67%
+240564,Napoli,1.0,55%,0.0,82%,Red Bull Salzburg,1.0,45%,3.0,76%
+240565,Lyon,3.0,53%,2.0,83%,Benfica,1.0,47%,3.0,80%
+240566,Borussia Dortmund,3.0,61%,2.0,88%,Inter,2.0,39%,3.0,83%
+240567,Chelsea,4.0,53%,3.0,81%,Ajax,4.0,47%,5.0,72%
+240568,Valencia,4.0,55%,3.0,76%,Lille,1.0,45%,5.0,74%
+240569,Bayern Munich,2.0,69%,0.0,90%,Olympiakos Piraeus,0.0,31%,9.0,72%
+240570,Lokomotiv Moscow,1.0,31%,7.0,76%,Juventus,2.0,69%,4.0,89%
+240571,Paris Saint Germain,1.0,64%,2.0,90%,Club Brugge KV,0.0,36%,1.0,82%
+240572,Real Madrid,6.0,68%,1.0,92%,Galatasaray,0.0,32%,5.0,81%
+240573,FK Crvena Zvezda,0.0,33%,1.0,73%,Tottenham,4.0,67%,3.0,88%
+240574,Dinamo Zagreb,3.0,40%,5.0,79%,Shakhtar Donetsk,3.0,60%,2.0,87%
+240575,Atalanta,1.0,41%,3.0,82%,Manchester City,1.0,59%,1.0,87%
+240576,Bayer Leverkusen,2.0,52%,7.0,82%,Atletico Madrid,1.0,48%,3.0,80%
+240577,Galatasaray,1.0,45%,5.0,70%,Club Brugge KV,1.0,55%,2.0,77%
+240578,Lokomotiv Moscow,0.0,44%,5.0,75%,Bayer Leverkusen,2.0,56%,5.0,80%
+240579,Real Madrid,2.0,53%,2.0,91%,Paris Saint Germain,2.0,47%,10.0,87%
+240580,Tottenham,4.0,58%,1.0,86%,Olympiakos Piraeus,2.0,42%,1.0,79%
+240581,FK Crvena Zvezda,0.0,29%,10.0,69%,Bayern Munich,6.0,71%,1.0,89%
+240582,Manchester City,1.0,63%,1.0,89%,Shakhtar Donetsk,1.0,37%,5.0,78%
+240583,Atalanta,2.0,58%,1.0,80%,Dinamo Zagreb,0.0,42%,6.0,69%
+240584,Juventus,1.0,59%,2.0,87%,Atletico Madrid,0.0,41%,1.0,78%
+240585,Zenit Saint Petersburg,2.0,45%,6.0,77%,Lyon,0.0,55%,2.0,82%
+240586,Valencia,2.0,49%,3.0,83%,Chelsea,2.0,51%,4.0,84%
+240587,Liverpool,1.0,71%,0.0,88%,Napoli,1.0,29%,3.0,71%
+240588,Genk,1.0,48%,2.0,74%,Red Bull Salzburg,4.0,52%,4.0,76%
+240589,RB Leipzig,2.0,66%,2.0,87%,Benfica,2.0,34%,8.0,75%
+240590,Barcelona,3.0,46%,3.0,88%,Borussia Dortmund,1.0,54%,3.0,89%
+240591,Slavia Praha,1.0,60%,2.0,83%,Inter,3.0,40%,4.0,72%
+240592,Lille,0.0,41%,1.0,77%,Ajax,2.0,59%,5.0,82%
+240593,Napoli,4.0,55%,3.0,88%,Genk,0.0,45%,1.0,87%
+240594,Red Bull Salzburg,0.0,42%,5.0,76%,Liverpool,2.0,58%,7.0,81%
+240595,Benfica,3.0,61%,1.0,88%,Zenit Saint Petersburg,0.0,39%,4.0,79%
+240596,Lyon,2.0,46%,1.0,76%,RB Leipzig,2.0,54%,5.0,80%
+240597,Borussia Dortmund,2.0,48%,7.0,80%,Slavia Praha,1.0,52%,6.0,80%
+240598,Inter,1.0,36%,3.0,80%,Barcelona,2.0,64%,7.0,84%
+240599,Chelsea,2.0,64%,1.0,85%,Lille,1.0,36%,7.0,71%
+240600,Ajax,0.0,64%,2.0,79%,Valencia,1.0,36%,2.0,67%
+240601,Shakhtar Donetsk,0.0,49%,5.0,84%,Atalanta,3.0,51%,2.0,87%
+240602,Dinamo Zagreb,1.0,24%,3.0,75%,Manchester City,4.0,76%,1.0,93%
+240603,Paris Saint Germain,5.0,59%,0.0,89%,Galatasaray,0.0,41%,5.0,82%
+240604,Club Brugge KV,1.0,43%,2.0,83%,Real Madrid,3.0,57%,1.0,86%
+240605,Bayern Munich,3.0,70%,4.0,89%,Tottenham,1.0,30%,8.0,70%
+240606,Olympiakos Piraeus,1.0,70%,2.0,83%,FK Crvena Zvezda,0.0,30%,8.0,62%
+240607,Atletico Madrid,2.0,67%,1.0,89%,Lokomotiv Moscow,0.0,33%,4.0,74%
+240608,Bayer Leverkusen,0.0,53%,0.0,87%,Juventus,2.0,47%,1.0,83%
+292852,Borussia Dortmund,2.0,47%,2.0,88%,Paris Saint Germain,1.0,53%,1.0,89%
+292853,Paris Saint Germain,2.0,46%,2.0,87%,Borussia Dortmund,0.0,54%,2.0,86%
+292854,Atletico Madrid,1.0,27%,0.0,68%,Liverpool,0.0,73%,1.0,85%
+292855,Liverpool,2.0,71%,3.0,84%,Atletico Madrid,3.0,29%,9.0,59%
+292856,Atalanta,4.0,51%,3.0,79%,Valencia,1.0,49%,1.0,81%
+292857,Valencia,3.0,59%,1.0,81%,Atalanta,4.0,41%,4.0,73%
+292858,Tottenham,0.0,43%,4.0,80%,RB Leipzig,1.0,57%,5.0,84%
+292859,RB Leipzig,3.0,54%,3.0,80%,Tottenham,0.0,46%,2.0,81%
+292860,Chelsea,0.0,36%,3.0,80%,Bayern Munich,3.0,64%,3.0,88%
+292861,Bayern Munich,4.0,63%,3.0,89%,Chelsea,1.0,37%,3.0,84%
+292862,Napoli,1.0,33%,1.0,85%,Barcelona,1.0,67%,3.0,91%
+292863,Barcelona,3.0,51%,2.0,91%,Napoli,1.0,49%,1.0,91%
+292864,Real Madrid,1.0,48%,6.0,86%,Manchester City,2.0,52%,2.0,88%
+292865,Manchester City,2.0,55%,3.0,87%,Real Madrid,1.0,45%,5.0,85%
+292866,Lyon,1.0,36%,0.0,78%,Juventus,0.0,64%,1.0,88%
+292867,Juventus,2.0,62%,1.0,89%,Lyon,1.0,38%,3.0,78%
+570966,Atalanta,1.0,36%,4.0,74%,Paris Saint Germain,2.0,64%,3.0,85%
+570967,RB Leipzig,2.0,57%,2.0,86%,Atletico Madrid,1.0,43%,2.0,80%
+584118,Manchester City,1.0,71%,4.0,86%,Lyon,3.0,29%,6.0,70%
+585042,Barcelona,2.0,50%,5.0,86%,Bayern Munich,8.0,50%,4.0,87%
+589000,RB Leipzig,0.0,42%,6.0,84%,Paris Saint Germain,3.0,58%,3.0,90%
+589197,Lyon,0.0,34%,5.0,77%,Bayern Munich,3.0,66%,3.0,88%
+591151,Paris Saint Germain,0.0,38%,1.0,75%,Bayern Munich,1.0,62%,3.0,84%
+368635,Istanbul Basaksehir,1.0,46%,1.0,77%,FC Copenhagen,0.0,54%,2.0,81%
+368639,Eintracht Frankfurt,0.0,63%,2.0,82%,FC Basel 1893,3.0,37%,4.0,74%
+368640,FC Basel 1893,1.0,33%,1.0,70%,Eintracht Frankfurt,0.0,67%,5.0,81%
+368641,Lask Linz,0.0,43%,5.0,68%,Manchester United,5.0,57%,0.0,77%
+368643,Olympiakos Piraeus,1.0,51%,3.0,85%,Wolves,1.0,49%,2.0,87%
+368644,Wolves,1.0,35%,5.0,72%,Olympiakos Piraeus,0.0,65%,3.0,86%
+368645,Rangers,1.0,35%,4.0,76%,Bayer Leverkusen,3.0,65%,2.0,87%
+368646,Bayer Leverkusen,1.0,64%,1.0,88%,Rangers,0.0,36%,1.0,79%
+368647,VfL Wolfsburg,1.0,51%,4.0,82%,Shakhtar Donetsk,2.0,49%,3.0,84%
+368651,Sporting CP,3.0,47%,1.0,83%,Istanbul Basaksehir,1.0,53%,5.0,82%
+368652,Istanbul Basaksehir,4.0,55%,5.0,84%,Sporting CP,1.0,45%,5.0,80%
+368653,Getafe,2.0,34%,0.0,56%,Ajax,0.0,66%,2.0,73%
+368654,Ajax,2.0,69%,0.0,79%,Getafe,1.0,31%,1.0,55%
+368655,FC Copenhagen,1.0,55%,4.0,79%,Celtic,1.0,45%,1.0,72%
+368656,Celtic,1.0,61%,0.0,76%,FC Copenhagen,3.0,39%,3.0,63%
+368657,CFR 1907 Cluj,1.0,31%,1.0,50%,Sevilla,1.0,69%,0.0,82%
+368658,Sevilla,0.0,72%,7.0,82%,CFR 1907 Cluj,0.0,28%,5.0,53%
+368659,Club Brugge KV,1.0,40%,4.0,79%,Manchester United,1.0,60%,2.0,85%
+368660,Manchester United,5.0,67%,0.0,89%,Club Brugge KV,0.0,33%,5.0,76%
+368661,Ludogorets,0.0,44%,4.0,79%,Inter,2.0,56%,0.0,85%
+368662,Inter,2.0,50%,3.0,86%,Ludogorets,1.0,50%,6.0,87%
+368663,Shakhtar Donetsk,2.0,57%,3.0,87%,Benfica,1.0,43%,6.0,84%
+368664,Benfica,3.0,49%,6.0,85%,Shakhtar Donetsk,3.0,51%,4.0,83%
+368665,Eintracht Frankfurt,4.0,48%,3.0,69%,Red Bull Salzburg,1.0,52%,3.0,68%
+368666,Red Bull Salzburg,2.0,63%,6.0,74%,Eintracht Frankfurt,2.0,37%,4.0,58%
+368667,Rangers,3.0,42%,2.0,71%,SC Braga,2.0,58%,5.0,82%
+368668,SC Braga,0.0,69%,4.0,85%,Rangers,1.0,31%,1.0,68%
+368669,Wolves,4.0,43%,4.0,78%,Espanyol,0.0,57%,1.0,81%
+368670,Espanyol,3.0,62%,1.0,87%,Wolves,2.0,38%,3.0,78%
+368671,Bayer Leverkusen,2.0,65%,5.0,85%,FC Porto,1.0,35%,5.0,75%
+368672,FC Porto,1.0,46%,3.0,77%,Bayer Leverkusen,3.0,54%,0.0,80%
+368673,Apoel Nicosia,0.0,45%,3.0,78%,FC Basel 1893,3.0,55%,1.0,81%
+368674,FC Basel 1893,1.0,64%,1.0,86%,Apoel Nicosia,0.0,36%,4.0,80%
+368675,AZ Alkmaar,1.0,62%,4.0,71%,Lask Linz,1.0,38%,3.0,56%
+368676,Lask Linz,2.0,36%,1.0,69%,AZ Alkmaar,0.0,64%,2.0,79%
+368677,VfL Wolfsburg,2.0,63%,0.0,83%,Malmo FF,1.0,37%,4.0,71%
+368678,Malmo FF,0.0,53%,1.0,78%,VfL Wolfsburg,3.0,47%,2.0,79%
+368679,AS Roma,1.0,51%,5.0,84%,Gent,0.0,49%,2.0,84%
+368680,Gent,1.0,55%,0.0,83%,AS Roma,1.0,45%,5.0,76%
+368681,Olympiakos Piraeus,0.0,51%,2.0,85%,Arsenal,1.0,49%,3.0,86%
+368682,Arsenal,1.0,60%,2.0,89%,Olympiakos Piraeus,2.0,40%,3.0,82%
+368683,Apoel Nicosia,3.0,57%,4.0,82%,F91 Dudelange,4.0,43%,8.0,73%
+368684,Qarabag,0.0,29%,3.0,79%,Sevilla,3.0,71%,1.0,92%
+368685,Dynamo Kyiv,1.0,62%,2.0,85%,Malmo FF,0.0,38%,3.0,71%
+368686,FC Copenhagen,1.0,58%,1.0,88%,FC Lugano,0.0,42%,1.0,80%
+368687,FC Basel 1893,5.0,54%,6.0,81%,Krasnodar,0.0,46%,6.0,78%
+368688,Getafe,1.0,40%,0.0,70%,Trabzonspor,0.0,60%,5.0,80%
+368689,PSV Eindhoven,3.0,48%,7.0,76%,Sporting CP,2.0,52%,7.0,79%
+368690,Lask Linz,1.0,46%,1.0,71%,Rosenborg,0.0,54%,3.0,70%
+368691,Rennes,1.0,51%,1.0,78%,Celtic,1.0,49%,1.0,80%
+368692,CFR 1907 Cluj,2.0,33%,4.0,66%,Lazio,1.0,67%,0.0,83%
+368693,Eintracht Frankfurt,0.0,56%,3.0,79%,Arsenal,3.0,44%,7.0,72%
+368694,Standard Liege,2.0,48%,5.0,82%,Guimaraes,0.0,52%,1.0,83%
+368695,VfL Wolfsburg,3.0,61%,0.0,81%,Oleksandria,1.0,39%,3.0,75%
+368696,Gent,3.0,47%,2.0,80%,Saint Etienne,2.0,53%,0.0,83%
+368697,AS Roma,4.0,57%,1.0,85%,Istanbul Basaksehir,0.0,43%,8.0,80%
+368698,Borussia Monchengladbach,0.0,69%,3.0,83%,Wolfsberger AC,4.0,31%,4.0,56%
+368699,Wolves,0.0,59%,1.0,82%,SC Braga,1.0,41%,5.0,77%
+368700,Slovan Bratislava,4.0,28%,3.0,76%,Besiktas,2.0,72%,2.0,90%
+368701,Manchester United,1.0,74%,0.0,89%,FC Astana,0.0,26%,6.0,62%
+368702,FK Partizan,2.0,60%,0.0,87%,AZ Alkmaar,2.0,40%,4.0,76%
+368703,FC Porto,2.0,51%,2.0,78%,BSC Young Boys,1.0,49%,4.0,73%
+368704,Rangers,1.0,36%,5.0,76%,Feyenoord,0.0,64%,2.0,86%
+368705,Ludogorets,5.0,60%,4.0,84%,CSKA Moscow,1.0,40%,5.0,80%
+368706,Espanyol,1.0,67%,2.0,89%,Ferencvarosi TC,1.0,33%,3.0,73%
+368707,FC Astana,1.0,53%,4.0,82%,FK Partizan,2.0,47%,2.0,82%
+368708,BSC Young Boys,2.0,48%,3.0,77%,Rangers,1.0,52%,2.0,78%
+368709,Feyenoord,2.0,39%,4.0,71%,FC Porto,0.0,61%,4.0,82%
+368710,Saint Etienne,1.0,52%,1.0,80%,VfL Wolfsburg,1.0,48%,4.0,78%
+368711,Oleksandria,1.0,39%,1.0,73%,Gent,1.0,61%,4.0,80%
+368712,CSKA Moscow,0.0,50%,2.0,80%,Espanyol,2.0,50%,4.0,78%
+368713,Ferencvarosi TC,0.0,55%,2.0,87%,Ludogorets,3.0,45%,5.0,80%
+368714,Istanbul Basaksehir,1.0,43%,3.0,75%,Borussia Monchengladbach,1.0,57%,4.0,81%
+368715,Wolfsberger AC,1.0,35%,4.0,68%,AS Roma,1.0,65%,4.0,83%
+368716,Besiktas,0.0,61%,3.0,85%,Wolves,1.0,39%,1.0,78%
+368717,SC Braga,2.0,61%,3.0,87%,Slovan Bratislava,2.0,39%,3.0,74%
+368718,AZ Alkmaar,0.0,52%,0.0,88%,Manchester United,0.0,48%,4.0,87%
+368719,Lazio,2.0,47%,3.0,86%,Rennes,1.0,53%,2.0,89%
+368720,Celtic,2.0,56%,2.0,69%,CFR 1907 Cluj,0.0,44%,3.0,59%
+368721,Guimaraes,0.0,45%,4.0,70%,Eintracht Frankfurt,1.0,55%,3.0,71%
+368722,Arsenal,4.0,62%,2.0,90%,Standard Liege,0.0,38%,3.0,79%
+368723,Sevilla,1.0,78%,0.0,91%,Apoel Nicosia,0.0,22%,7.0,72%
+368724,F91 Dudelange,1.0,39%,9.0,85%,Qarabag,4.0,61%,2.0,90%
+368725,Malmo FF,1.0,48%,1.0,69%,FC Copenhagen,1.0,52%,3.0,73%
+368726,FC Lugano,0.0,31%,3.0,72%,Dynamo Kyiv,0.0,69%,4.0,89%
+368727,Krasnodar,1.0,60%,1.0,75%,Getafe,2.0,40%,3.0,65%
+368728,Trabzonspor,2.0,51%,0.0,81%,FC Basel 1893,2.0,49%,2.0,82%
+368729,Sporting CP,2.0,47%,6.0,69%,Lask Linz,1.0,53%,2.0,72%
+368730,Rosenborg,1.0,51%,1.0,80%,PSV Eindhoven,4.0,49%,4.0,77%
+368731,Qarabag,2.0,70%,0.0,88%,Apoel Nicosia,2.0,30%,4.0,73%
+368732,FC Porto,1.0,49%,1.0,82%,Rangers,1.0,51%,2.0,81%
+368733,BSC Young Boys,2.0,34%,2.0,73%,Feyenoord,0.0,66%,1.0,84%
+368734,Gent,2.0,56%,3.0,76%,VfL Wolfsburg,2.0,44%,1.0,69%
+368735,Saint Etienne,1.0,66%,1.0,85%,Oleksandria,1.0,34%,2.0,69%
+368736,CSKA Moscow,0.0,54%,4.0,81%,Ferencvarosi TC,1.0,46%,4.0,78%
+368737,Ludogorets,0.0,59%,1.0,79%,Espanyol,1.0,41%,2.0,71%
+368738,AS Roma,1.0,44%,2.0,76%,Borussia Monchengladbach,1.0,56%,0.0,83%
+368739,Istanbul Basaksehir,1.0,53%,2.0,74%,Wolfsberger AC,0.0,47%,3.0,70%
+368740,Besiktas,1.0,58%,4.0,83%,SC Braga,2.0,42%,3.0,77%
+368741,Slovan Bratislava,1.0,39%,2.0,74%,Wolves,2.0,61%,2.0,82%
+368742,FK Partizan,0.0,39%,0.0,70%,Manchester United,1.0,61%,2.0,85%
+368743,AZ Alkmaar,6.0,66%,1.0,90%,FC Astana,0.0,34%,7.0,81%
+368744,Celtic,2.0,49%,4.0,80%,Lazio,1.0,51%,0.0,76%
+368745,Rennes,0.0,49%,2.0,80%,CFR 1907 Cluj,1.0,51%,1.0,80%
+368746,Arsenal,3.0,67%,3.0,84%,Guimaraes,2.0,33%,2.0,69%
+368747,Eintracht Frankfurt,2.0,62%,1.0,80%,Standard Liege,1.0,38%,3.0,68%
+368748,Sevilla,3.0,73%,0.0,90%,F91 Dudelange,0.0,27%,7.0,71%
+368749,Dynamo Kyiv,1.0,61%,3.0,82%,FC Copenhagen,1.0,39%,2.0,67%
+368750,Malmo FF,2.0,49%,4.0,81%,FC Lugano,1.0,51%,1.0,81%
+368751,Getafe,0.0,64%,1.0,75%,FC Basel 1893,1.0,36%,4.0,57%
+368752,Trabzonspor,0.0,51%,0.0,82%,Krasnodar,2.0,49%,7.0,80%
+368753,Sporting CP,1.0,60%,3.0,82%,Rosenborg,0.0,40%,5.0,67%
+368754,PSV Eindhoven,0.0,57%,1.0,69%,Lask Linz,0.0,43%,6.0,61%
+368755,Guimaraes,1.0,35%,0.0,75%,Arsenal,1.0,65%,3.0,88%
+368756,FC Astana,0.0,36%,5.0,79%,AZ Alkmaar,5.0,64%,2.0,89%
+368757,Lazio,1.0,56%,2.0,79%,Celtic,2.0,44%,6.0,75%
+368758,CFR 1907 Cluj,1.0,36%,11.0,57%,Rennes,0.0,64%,2.0,77%
+368759,Standard Liege,2.0,42%,3.0,73%,Eintracht Frankfurt,1.0,58%,4.0,78%
+368760,Apoel Nicosia,2.0,51%,3.0,75%,Qarabag,1.0,49%,2.0,74%
+368761,F91 Dudelange,2.0,27%,5.0,81%,Sevilla,5.0,73%,1.0,92%
+368762,FC Copenhagen,1.0,38%,3.0,65%,Dynamo Kyiv,1.0,62%,0.0,78%
+368763,FC Lugano,0.0,46%,0.0,68%,Malmo FF,0.0,54%,6.0,73%
+368764,FC Basel 1893,2.0,45%,1.0,75%,Getafe,1.0,55%,2.0,70%
+368765,Krasnodar,3.0,51%,4.0,77%,Trabzonspor,1.0,49%,3.0,79%
+368766,Rosenborg,0.0,52%,3.0,84%,Sporting CP,2.0,48%,3.0,81%
+368767,Lask Linz,4.0,50%,1.0,75%,PSV Eindhoven,1.0,50%,5.0,74%
+368768,Feyenoord,1.0,51%,3.0,78%,BSC Young Boys,1.0,49%,2.0,77%
+368769,Rangers,2.0,51%,0.0,78%,FC Porto,0.0,49%,1.0,77%
+368770,VfL Wolfsburg,1.0,59%,1.0,81%,Gent,3.0,41%,2.0,76%
+368771,Oleksandria,2.0,50%,0.0,70%,Saint Etienne,2.0,50%,3.0,73%
+368772,Espanyol,6.0,74%,0.0,88%,Ludogorets,0.0,26%,6.0,60%
+368773,Ferencvarosi TC,0.0,46%,4.0,79%,CSKA Moscow,0.0,54%,2.0,83%
+368774,Borussia Monchengladbach,2.0,59%,3.0,83%,AS Roma,1.0,41%,3.0,76%
+368775,Wolfsberger AC,0.0,49%,6.0,67%,Istanbul Basaksehir,3.0,51%,3.0,70%
+368776,SC Braga,3.0,59%,1.0,85%,Besiktas,1.0,41%,5.0,76%
+368777,Wolves,1.0,65%,1.0,88%,Slovan Bratislava,0.0,35%,6.0,73%
+368778,Manchester United,3.0,63%,0.0,86%,FK Partizan,0.0,37%,4.0,72%
+368779,Krasnodar,1.0,58%,1.0,81%,FC Basel 1893,0.0,42%,2.0,75%
+368780,Trabzonspor,0.0,59%,1.0,81%,Getafe,1.0,41%,2.0,75%
+368781,FC Astana,2.0,34%,4.0,82%,Manchester United,1.0,66%,3.0,92%
+368782,BSC Young Boys,1.0,46%,5.0,72%,FC Porto,2.0,54%,1.0,79%
+368783,Feyenoord,2.0,49%,1.0,83%,Rangers,2.0,51%,3.0,84%
+368784,Saint Etienne,0.0,52%,0.0,80%,Gent,0.0,48%,3.0,77%
+368785,Oleksandria,0.0,41%,5.0,65%,VfL Wolfsburg,1.0,59%,2.0,76%
+368786,CSKA Moscow,1.0,56%,1.0,80%,Ludogorets,1.0,44%,2.0,77%
+368787,Ferencvarosi TC,2.0,45%,3.0,71%,Espanyol,2.0,55%,5.0,78%
+368788,Istanbul Basaksehir,0.0,44%,1.0,83%,AS Roma,3.0,56%,1.0,88%
+368789,Wolfsberger AC,0.0,45%,5.0,68%,Borussia Monchengladbach,1.0,55%,3.0,74%
+368790,Besiktas,2.0,65%,2.0,86%,Slovan Bratislava,1.0,35%,4.0,72%
+368791,SC Braga,3.0,47%,2.0,81%,Wolves,3.0,53%,1.0,82%
+368792,AZ Alkmaar,2.0,74%,3.0,85%,FK Partizan,2.0,26%,0.0,60%
+368793,Lazio,1.0,63%,4.0,85%,CFR 1907 Cluj,0.0,37%,0.0,72%
+368794,Celtic,3.0,63%,7.0,84%,Rennes,1.0,37%,5.0,76%
+368795,Guimaraes,1.0,46%,4.0,71%,Standard Liege,1.0,54%,6.0,77%
+368796,Arsenal,1.0,58%,2.0,79%,Eintracht Frankfurt,2.0,42%,5.0,71%
+368797,Sevilla,2.0,71%,3.0,91%,Qarabag,0.0,29%,3.0,74%
+368798,F91 Dudelange,0.0,63%,3.0,86%,Apoel Nicosia,2.0,37%,2.0,73%
+368799,Malmo FF,4.0,37%,4.0,70%,Dynamo Kyiv,3.0,63%,3.0,81%
+368800,FC Lugano,0.0,56%,1.0,81%,FC Copenhagen,1.0,44%,2.0,79%
+368801,Sporting CP,4.0,49%,2.0,89%,PSV Eindhoven,0.0,51%,4.0,86%
+368802,Rosenborg,1.0,50%,4.0,65%,Lask Linz,2.0,50%,1.0,64%
+368803,Rennes,2.0,48%,0.0,77%,Lazio,0.0,52%,5.0,75%
+368804,CFR 1907 Cluj,2.0,33%,3.0,57%,Celtic,0.0,67%,5.0,81%
+368805,Eintracht Frankfurt,2.0,55%,1.0,78%,Guimaraes,3.0,45%,3.0,74%
+368806,Standard Liege,2.0,42%,4.0,80%,Arsenal,2.0,58%,2.0,84%
+368807,Apoel Nicosia,1.0,25%,2.0,68%,Sevilla,0.0,75%,3.0,88%
+368808,Qarabag,1.0,57%,2.0,81%,F91 Dudelange,1.0,43%,1.0,77%
+368809,Dynamo Kyiv,1.0,72%,0.0,87%,FC Lugano,1.0,28%,4.0,67%
+368810,FC Copenhagen,0.0,52%,4.0,78%,Malmo FF,1.0,48%,1.0,76%
+368811,FC Basel 1893,2.0,50%,1.0,84%,Trabzonspor,0.0,50%,6.0,85%
+368812,Getafe,3.0,45%,1.0,66%,Krasnodar,0.0,55%,2.0,69%
+368813,PSV Eindhoven,1.0,69%,1.0,80%,Rosenborg,1.0,31%,1.0,56%
+368814,Lask Linz,3.0,60%,1.0,86%,Sporting CP,0.0,40%,6.0,73%
+368815,FC Porto,3.0,53%,2.0,85%,Feyenoord,2.0,47%,3.0,80%
+368816,Rangers,1.0,48%,2.0,68%,BSC Young Boys,1.0,52%,6.0,70%
+368817,VfL Wolfsburg,1.0,43%,1.0,82%,Saint Etienne,0.0,57%,6.0,83%
+368818,Gent,2.0,51%,1.0,79%,Oleksandria,1.0,49%,5.0,77%
+368819,Ludogorets,1.0,49%,6.0,78%,Ferencvarosi TC,1.0,51%,4.0,78%
+368820,Espanyol,0.0,50%,3.0,74%,CSKA Moscow,1.0,50%,4.0,74%
+368821,AS Roma,2.0,52%,2.0,78%,Wolfsberger AC,2.0,48%,4.0,76%
+368822,Borussia Monchengladbach,1.0,62%,3.0,86%,Istanbul Basaksehir,2.0,38%,4.0,72%
+368823,Wolves,4.0,52%,0.0,82%,Besiktas,0.0,48%,3.0,81%
+368824,Slovan Bratislava,2.0,40%,7.0,74%,SC Braga,4.0,60%,4.0,85%
+368825,Manchester United,4.0,49%,4.0,90%,AZ Alkmaar,0.0,51%,3.0,91%
+368826,FK Partizan,4.0,54%,4.0,84%,FC Astana,1.0,46%,6.0,83%
+574027,Sevilla,2.0,56%,1.0,84%,AS Roma,0.0,44%,5.0,81%
+574711,FC Copenhagen,3.0,43%,1.0,74%,Istanbul Basaksehir,0.0,57%,3.0,80%
+574712,Manchester United,2.0,63%,3.0,80%,Lask Linz,1.0,37%,1.0,66%
+574713,Shakhtar Donetsk,3.0,55%,2.0,86%,VfL Wolfsburg,0.0,45%,6.0,82%
+574714,Inter,2.0,53%,2.0,76%,Getafe,0.0,47%,4.0,72%
+584106,Manchester United,1.0,55%,0.0,85%,FC Copenhagen,0.0,45%,13.0,82%
+584107,Inter,2.0,36%,1.0,82%,Bayer Leverkusen,1.0,64%,5.0,88%
+584108,Shakhtar Donetsk,4.0,55%,1.0,89%,FC Basel 1893,1.0,45%,4.0,85%
+584109,Wolves,0.0,24%,4.0,68%,Sevilla,1.0,76%,2.0,90%
+588589,Sevilla,2.0,52%,6.0,87%,Manchester United,1.0,48%,1.0,84%
+588590,Inter,5.0,37%,1.0,84%,Shakhtar Donetsk,0.0,63%,4.0,89%
+590075,Sevilla,3.0,47%,2.0,84%,Inter,2.0,53%,3.0,83%
+362365,Liverpool,3.0,52%,4.0,82%,Chelsea,3.0,48%,9.0,82%
+658561,Tigres UANL,2.0,53%,3.0,86%,Ulsan Hyundai FC,1.0,47%,4.0,81%
+658562,Al-Duhail SC,0.0,38%,0.0,77%,Al Ahly,1.0,62%,6.0,86%
+673780,Palmeiras,0.0,49%,3.0,79%,Tigres UANL,1.0,51%,1.0,79%
+673781,Al Ahly,0.0,31%,5.0,78%,Bayern Munich,2.0,69%,2.0,89%
+673782,Ulsan Hyundai FC,1.0,56%,7.0,89%,Al-Duhail SC,3.0,44%,2.0,88%
+675012,Bayern Munich,1.0,55%,1.0,86%,Tigres UANL,0.0,45%,8.0,80%
+675013,Al Ahly,0.0,47%,3.0,82%,Palmeiras,0.0,53%,1.0,80%
+590762,AZ Alkmaar,3.0,54%,3.0,78%,Plzen,1.0,46%,3.0,70%
+590764,NK Lokomotiva Zagreb,0.0,50%,5.0,79%,Rapid Vienna,1.0,50%,1.0,79%
+590944,Ludogorets,0.0,52%,6.0,76%,FC Midtjylland,1.0,48%,3.0,74%
+590948,Celtic,1.0,70%,1.0,87%,Ferencvarosi TC,2.0,30%,8.0,67%
+605058,FC Midtjylland,3.0,42%,3.0,72%,BSC Young Boys,0.0,58%,4.0,75%
+605060,PAOK,2.0,27%,4.0,63%,Benfica,1.0,73%,1.0,86%
+605061,Dynamo Kyiv,2.0,40%,1.0,82%,AZ Alkmaar,0.0,60%,2.0,86%
+605062,Gent,2.0,45%,5.0,71%,Rapid Vienna,1.0,55%,1.0,75%
+628769,Krasnodar,2.0,58%,3.0,83%,PAOK,1.0,42%,2.0,77%
+628770,PAOK,1.0,54%,3.0,78%,Krasnodar,2.0,46%,4.0,72%
+628771,Gent,1.0,36%,6.0,80%,Dynamo Kyiv,2.0,64%,1.0,90%
+628772,Dynamo Kyiv,3.0,45%,12.0,77%,Gent,0.0,55%,1.0,84%
+628950,Molde,3.0,54%,1.0,81%,Ferencvarosi TC,3.0,46%,1.0,80%
+628951,Ferencvarosi TC,0.0,50%,1.0,79%,Molde,0.0,50%,2.0,78%
+628952,Slavia Praha,0.0,56%,3.0,69%,FC Midtjylland,0.0,44%,4.0,70%
+628953,FC Midtjylland,4.0,48%,2.0,74%,Slavia Praha,1.0,52%,2.0,75%
+628954,Maccabi Tel Aviv,1.0,43%,8.0,73%,Red Bull Salzburg,2.0,57%,8.0,79%
+628955,Red Bull Salzburg,3.0,59%,1.0,83%,Maccabi Tel Aviv,1.0,41%,7.0,77%
+628956,Olympiakos Piraeus,2.0,65%,2.0,86%,Omonia Nicosia,0.0,35%,4.0,75%
+632082,Omonia Nicosia,0.0,38%,10.0,79%,Olympiakos Piraeus,0.0,62%,1.0,86%
+639924,Zenit Saint Petersburg,1.0,52%,1.0,76%,Club Brugge KV,2.0,48%,3.0,73%
+639925,Dynamo Kyiv,0.0,47%,4.0,85%,Juventus,2.0,53%,4.0,87%
+639926,Chelsea,0.0,44%,2.0,80%,Sevilla,0.0,56%,4.0,84%
+639927,Rennes,1.0,62%,3.0,86%,Krasnodar,1.0,38%,6.0,76%
+639928,Lazio,3.0,35%,6.0,80%,Borussia Dortmund,1.0,65%,2.0,88%
+639929,Barcelona,5.0,61%,1.0,90%,Ferencvarosi TC,1.0,39%,6.0,87%
+639930,Paris Saint Germain,1.0,61%,4.0,86%,Manchester United,2.0,39%,5.0,79%
+639931,RB Leipzig,2.0,48%,3.0,77%,Istanbul Basaksehir,0.0,52%,5.0,80%
+639932,Red Bull Salzburg,2.0,54%,1.0,76%,Lokomotiv Moscow,2.0,46%,5.0,70%
+639933,Real Madrid,2.0,58%,3.0,90%,Shakhtar Donetsk,3.0,42%,3.0,86%
+639934,Bayern Munich,4.0,58%,1.0,85%,Atletico Madrid,0.0,42%,1.0,79%
+639935,Inter,2.0,57%,0.0,86%,Borussia Monchengladbach,2.0,43%,2.0,78%
+639936,Manchester City,3.0,68%,1.0,87%,FC Porto,1.0,32%,3.0,76%
+639937,Olympiakos Piraeus,1.0,50%,2.0,81%,Marseille,0.0,50%,2.0,81%
+639938,Ajax,0.0,48%,6.0,75%,Liverpool,1.0,52%,4.0,75%
+639939,FC Midtjylland,0.0,47%,6.0,81%,Atalanta,4.0,53%,3.0,82%
+639940,Lokomotiv Moscow,1.0,35%,2.0,76%,Bayern Munich,2.0,65%,5.0,87%
+639941,Shakhtar Donetsk,0.0,41%,4.0,82%,Inter,0.0,59%,1.0,86%
+639942,Atletico Madrid,3.0,49%,2.0,77%,Red Bull Salzburg,2.0,51%,5.0,78%
+639943,Borussia Monchengladbach,2.0,34%,4.0,80%,Real Madrid,2.0,66%,3.0,90%
+639944,FC Porto,2.0,43%,3.0,80%,Olympiakos Piraeus,0.0,57%,4.0,82%
+639945,Marseille,0.0,35%,1.0,83%,Manchester City,3.0,65%,2.0,92%
+639946,Liverpool,2.0,63%,1.0,85%,FC Midtjylland,0.0,37%,0.0,73%
+639947,Atalanta,2.0,44%,5.0,75%,Ajax,2.0,56%,5.0,78%
+639948,Krasnodar,0.0,29%,3.0,71%,Chelsea,4.0,71%,4.0,88%
+639949,Istanbul Basaksehir,0.0,46%,2.0,83%,Paris Saint Germain,2.0,54%,4.0,85%
+639950,Sevilla,1.0,65%,2.0,87%,Rennes,0.0,35%,8.0,75%
+639951,Borussia Dortmund,2.0,69%,0.0,90%,Zenit Saint Petersburg,0.0,31%,3.0,81%
+639952,Club Brugge KV,1.0,59%,2.0,84%,Lazio,1.0,41%,2.0,78%
+639953,Juventus,0.0,40%,2.0,88%,Barcelona,2.0,60%,0.0,90%
+639954,Ferencvarosi TC,2.0,50%,1.0,86%,Dynamo Kyiv,2.0,50%,2.0,85%
+639955,Manchester United,5.0,47%,2.0,83%,RB Leipzig,0.0,53%,2.0,82%
+639956,Lokomotiv Moscow,1.0,34%,5.0,76%,Atletico Madrid,1.0,66%,0.0,86%
+639957,Shakhtar Donetsk,0.0,53%,5.0,89%,Borussia Monchengladbach,6.0,47%,1.0,86%
+639958,Red Bull Salzburg,2.0,40%,4.0,75%,Bayern Munich,6.0,60%,8.0,85%
+639959,Real Madrid,3.0,55%,1.0,85%,Inter,2.0,45%,4.0,82%
+639960,Manchester City,3.0,58%,1.0,89%,Olympiakos Piraeus,0.0,42%,4.0,87%
+639961,FC Porto,3.0,39%,0.0,77%,Marseille,0.0,61%,1.0,83%
+639962,FC Midtjylland,1.0,44%,2.0,71%,Ajax,2.0,56%,3.0,79%
+639963,Atalanta,0.0,43%,7.0,82%,Liverpool,5.0,57%,6.0,87%
+639964,Zenit Saint Petersburg,1.0,46%,2.0,80%,Lazio,1.0,54%,1.0,84%
+639965,Istanbul Basaksehir,2.0,31%,1.0,74%,Manchester United,1.0,69%,1.0,86%
+639966,Sevilla,3.0,62%,1.0,88%,Krasnodar,2.0,38%,8.0,78%
+639967,Chelsea,3.0,57%,2.0,88%,Rennes,0.0,43%,1.0,86%
+639968,Club Brugge KV,0.0,46%,3.0,85%,Borussia Dortmund,3.0,54%,4.0,86%
+639969,Barcelona,2.0,63%,6.0,93%,Dynamo Kyiv,1.0,37%,12.0,88%
+639970,Ferencvarosi TC,1.0,46%,5.0,88%,Juventus,4.0,54%,2.0,90%
+639971,RB Leipzig,2.0,49%,1.0,75%,Paris Saint Germain,1.0,51%,3.0,80%
+639972,Krasnodar,1.0,40%,6.0,74%,Sevilla,2.0,60%,2.0,86%
+639973,Rennes,1.0,51%,3.0,81%,Chelsea,2.0,49%,4.0,83%
+639974,Lazio,3.0,48%,4.0,86%,Zenit Saint Petersburg,1.0,52%,4.0,86%
+639975,Borussia Dortmund,3.0,52%,0.0,87%,Club Brugge KV,0.0,48%,5.0,85%
+639976,Juventus,2.0,66%,1.0,87%,Ferencvarosi TC,1.0,34%,5.0,76%
+639977,Dynamo Kyiv,0.0,30%,3.0,77%,Barcelona,4.0,70%,3.0,90%
+639978,Paris Saint Germain,1.0,38%,3.0,75%,RB Leipzig,0.0,62%,2.0,85%
+639979,Manchester United,4.0,52%,3.0,84%,Istanbul Basaksehir,1.0,48%,4.0,83%
+639980,Borussia Monchengladbach,4.0,46%,3.0,82%,Shakhtar Donetsk,0.0,54%,2.0,85%
+639981,Olympiakos Piraeus,0.0,40%,10.0,78%,Manchester City,1.0,60%,0.0,87%
+639982,Bayern Munich,3.0,59%,10.0,83%,Red Bull Salzburg,1.0,41%,2.0,75%
+639983,Atletico Madrid,0.0,64%,1.0,87%,Lokomotiv Moscow,0.0,36%,5.0,76%
+639984,Inter,0.0,37%,4.0,87%,Real Madrid,2.0,63%,1.0,92%
+639985,Marseille,0.0,56%,2.0,84%,FC Porto,2.0,44%,2.0,81%
+639986,Liverpool,0.0,53%,2.0,85%,Atalanta,2.0,47%,0.0,83%
+639987,Ajax,3.0,59%,4.0,76%,FC Midtjylland,1.0,41%,5.0,70%
+639988,Lokomotiv Moscow,1.0,50%,3.0,73%,Red Bull Salzburg,3.0,50%,2.0,71%
+639989,Shakhtar Donetsk,2.0,41%,8.0,83%,Real Madrid,0.0,59%,2.0,88%
+639990,Atletico Madrid,1.0,45%,1.0,84%,Bayern Munich,1.0,55%,2.0,86%
+639991,Borussia Monchengladbach,2.0,54%,1.0,88%,Inter,3.0,46%,3.0,84%
+639992,FC Porto,0.0,32%,5.0,73%,Manchester City,0.0,68%,1.0,88%
+639993,Marseille,2.0,53%,1.0,81%,Olympiakos Piraeus,1.0,47%,3.0,76%
+639994,Liverpool,1.0,43%,4.0,81%,Ajax,0.0,57%,4.0,83%
+639995,Atalanta,1.0,67%,3.0,80%,FC Midtjylland,1.0,33%,7.0,59%
+639996,Krasnodar,1.0,43%,5.0,74%,Rennes,0.0,57%,2.0,83%
+639997,Istanbul Basaksehir,3.0,45%,3.0,75%,RB Leipzig,4.0,55%,1.0,79%
+639998,Sevilla,0.0,55%,2.0,85%,Chelsea,4.0,45%,3.0,83%
+639999,Borussia Dortmund,1.0,56%,5.0,90%,Lazio,1.0,44%,3.0,88%
+640000,Club Brugge KV,3.0,50%,0.0,81%,Zenit Saint Petersburg,0.0,50%,2.0,80%
+640001,Juventus,3.0,53%,3.0,88%,Dynamo Kyiv,0.0,47%,4.0,88%
+640002,Ferencvarosi TC,0.0,37%,2.0,85%,Barcelona,3.0,63%,2.0,92%
+640003,Manchester United,1.0,44%,3.0,83%,Paris Saint Germain,3.0,56%,4.0,88%
+640004,Zenit Saint Petersburg,1.0,44%,3.0,84%,Borussia Dortmund,2.0,56%,3.0,86%
+640005,Lazio,2.0,51%,1.0,86%,Club Brugge KV,2.0,49%,6.0,81%
+640006,Chelsea,1.0,63%,1.0,87%,Krasnodar,1.0,37%,4.0,78%
+640007,Rennes,1.0,49%,2.0,86%,Sevilla,3.0,51%,5.0,84%
+640008,Barcelona,0.0,59%,1.0,91%,Juventus,3.0,41%,7.0,84%
+640009,Dynamo Kyiv,1.0,41%,2.0,73%,Ferencvarosi TC,0.0,59%,1.0,79%
+640010,Paris Saint Germain,5.0,68%,3.0,93%,Istanbul Basaksehir,1.0,32%,4.0,79%
+640011,RB Leipzig,3.0,44%,7.0,75%,Manchester United,2.0,56%,1.0,80%
+640012,Ajax,0.0,63%,0.0,84%,Atalanta,1.0,37%,2.0,71%
+640013,FC Midtjylland,1.0,49%,3.0,76%,Liverpool,1.0,51%,5.0,75%
+640014,Bayern Munich,2.0,69%,3.0,89%,Lokomotiv Moscow,0.0,31%,5.0,76%
+640015,Red Bull Salzburg,0.0,57%,2.0,76%,Atletico Madrid,2.0,43%,2.0,71%
+640016,Real Madrid,2.0,63%,1.0,90%,Borussia Monchengladbach,0.0,37%,5.0,84%
+640017,Inter,0.0,56%,3.0,86%,Shakhtar Donetsk,0.0,44%,4.0,82%
+640018,Manchester City,3.0,52%,2.0,87%,Marseille,0.0,48%,6.0,85%
+640019,Olympiakos Piraeus,0.0,56%,1.0,81%,FC Porto,2.0,44%,1.0,75%
+652230,RB Leipzig,0.0,47%,1.0,77%,Liverpool,2.0,53%,2.0,80%
+652231,Liverpool,2.0,40%,2.0,72%,RB Leipzig,0.0,60%,5.0,83%
+652232,Barcelona,1.0,52%,4.0,90%,Paris Saint Germain,4.0,48%,3.0,88%
+652233,Paris Saint Germain,1.0,27%,9.0,79%,Barcelona,1.0,73%,2.0,90%
+652234,FC Porto,2.0,34%,4.0,69%,Juventus,1.0,66%,3.0,86%
+652235,Juventus,3.0,68%,5.0,87%,FC Porto,2.0,32%,10.0,71%
+652236,Sevilla,2.0,65%,2.0,89%,Borussia Dortmund,3.0,35%,2.0,80%
+652237,Borussia Dortmund,2.0,31%,6.0,66%,Sevilla,2.0,69%,3.0,86%
+652238,Lazio,1.0,43%,4.0,85%,Bayern Munich,4.0,57%,4.0,91%
+652239,Bayern Munich,2.0,58%,1.0,88%,Lazio,1.0,42%,2.0,81%
+652240,Atletico Madrid,0.0,36%,4.0,75%,Chelsea,1.0,64%,0.0,87%
+652241,Chelsea,2.0,56%,4.0,85%,Atletico Madrid,0.0,44%,3.0,78%
+652242,Borussia Monchengladbach,0.0,39%,2.0,84%,Manchester City,2.0,61%,1.0,92%
+652243,Manchester City,2.0,67%,3.0,92%,Borussia Monchengladbach,0.0,33%,4.0,84%
+652244,Atalanta,0.0,31%,3.0,75%,Real Madrid,1.0,69%,0.0,89%
+652245,Real Madrid,3.0,52%,4.0,85%,Atalanta,1.0,48%,3.0,82%
+686308,Manchester City,2.0,61%,2.0,91%,Borussia Dortmund,1.0,39%,4.0,86%
+686309,Borussia Dortmund,1.0,38%,3.0,84%,Manchester City,2.0,62%,2.0,91%
+686310,Real Madrid,3.0,45%,0.0,82%,Liverpool,1.0,55%,4.0,86%
+686311,Liverpool,0.0,56%,2.0,83%,Real Madrid,0.0,44%,4.0,78%
+686312,FC Porto,0.0,39%,1.0,79%,Chelsea,2.0,61%,5.0,85%
+686313,Chelsea,0.0,46%,1.0,79%,FC Porto,1.0,54%,1.0,80%
+686314,Bayern Munich,2.0,63%,1.0,87%,Paris Saint Germain,3.0,37%,10.0,76%
+686315,Paris Saint Germain,0.0,44%,4.0,82%,Bayern Munich,1.0,56%,3.0,85%
+698179,Real Madrid,1.0,50%,4.0,87%,Chelsea,1.0,50%,0.0,89%
+698180,Chelsea,2.0,32%,5.0,81%,Real Madrid,0.0,68%,3.0,89%
+698181,Paris Saint Germain,1.0,40%,4.0,87%,Manchester City,2.0,60%,3.0,92%
+698182,Manchester City,2.0,44%,0.0,88%,Paris Saint Germain,0.0,56%,3.0,91%
+701961,Manchester City,0.0,60%,1.0,88%,Chelsea,1.0,40%,1.0,80%
+635675,HNK Rijeka,0.0,34%,5.0,68%,Real Sociedad,1.0,66%,2.0,84%
+635676,Napoli,0.0,73%,1.0,91%,AZ Alkmaar,1.0,27%,6.0,72%
+635677,Slovan Liberec,1.0,27%,4.0,50%,Gent,0.0,73%,1.0,83%
+635678,1899 Hoffenheim,2.0,61%,0.0,83%,FK Crvena Zvezda,0.0,39%,4.0,74%
+635679,Wolfsberger AC,1.0,50%,3.0,74%,CSKA Moscow,1.0,50%,2.0,72%
+635680,Dinamo Zagreb,0.0,59%,5.0,82%,Feyenoord,0.0,41%,3.0,74%
+635681,Ludogorets,1.0,52%,3.0,84%,Antwerp,2.0,48%,3.0,79%
+635682,Tottenham,3.0,55%,4.0,81%,Lask Linz,0.0,45%,3.0,77%
+635683,Villarreal,5.0,67%,3.0,89%,Sivasspor,3.0,33%,6.0,76%
+635684,Maccabi Tel Aviv,1.0,47%,3.0,78%,Qarabag,0.0,53%,2.0,77%
+635685,Celtic,1.0,45%,1.0,84%,AC Milan,3.0,55%,1.0,84%
+635686,Sparta Praha,1.0,49%,1.0,79%,Lille,4.0,51%,1.0,83%
+635687,Leicester,3.0,45%,2.0,84%,Zorya Luhansk,0.0,55%,2.0,83%
+635688,SC Braga,3.0,54%,3.0,83%,AEK Athens FC,0.0,46%,5.0,82%
+635689,BSC Young Boys,1.0,44%,0.0,74%,AS Roma,2.0,56%,3.0,79%
+635690,CSKA Sofia,0.0,63%,1.0,80%,CFR 1907 Cluj,2.0,37%,4.0,65%
+635692,Rapid Vienna,1.0,32%,2.0,72%,Arsenal,2.0,68%,3.0,86%
+635693,Bayer Leverkusen,6.0,57%,1.0,87%,Nice,2.0,43%,3.0,83%
+635694,Hapoel Beer Sheva,3.0,31%,6.0,64%,Slavia Praha,1.0,69%,0.0,84%
+635695,Standard Liege,0.0,50%,2.0,77%,Rangers,2.0,50%,0.0,78%
+635696,Lech Poznan,2.0,47%,2.0,82%,Benfica,4.0,53%,7.0,80%
+635697,PSV Eindhoven,1.0,55%,2.0,76%,Granada CF,2.0,45%,3.0,68%
+635698,PAOK,1.0,67%,1.0,85%,Omonia Nicosia,1.0,33%,6.0,69%
+635699,AEK Athens FC,1.0,52%,4.0,74%,Leicester,2.0,48%,2.0,71%
+635700,Zorya Luhansk,1.0,57%,3.0,83%,SC Braga,2.0,43%,3.0,75%
+635701,AC Milan,3.0,55%,0.0,89%,Sparta Praha,0.0,45%,3.0,82%
+635702,Lille,2.0,71%,1.0,88%,Celtic,2.0,29%,4.0,78%
+635703,Qarabag,1.0,46%,7.0,83%,Villarreal,3.0,54%,0.0,84%
+635704,Sivasspor,1.0,41%,1.0,79%,Maccabi Tel Aviv,2.0,59%,1.0,84%
+635705,Lask Linz,4.0,41%,1.0,75%,Ludogorets,3.0,59%,4.0,80%
+635706,Antwerp,1.0,43%,2.0,72%,Tottenham,0.0,57%,2.0,80%
+635707,CSKA Moscow,0.0,50%,1.0,81%,Dinamo Zagreb,0.0,50%,7.0,78%
+635708,Feyenoord,1.0,66%,1.0,85%,Wolfsberger AC,4.0,34%,3.0,65%
+635709,FK Crvena Zvezda,5.0,61%,1.0,84%,Slovan Liberec,1.0,39%,4.0,74%
+635710,Gent,1.0,42%,11.0,82%,1899 Hoffenheim,4.0,58%,3.0,87%
+635711,AS Roma,0.0,62%,4.0,83%,CSKA Sofia,0.0,38%,6.0,78%
+635712,CFR 1907 Cluj,1.0,37%,3.0,58%,BSC Young Boys,1.0,63%,2.0,75%
+635713,Arsenal,3.0,62%,1.0,92%,Dundalk,0.0,38%,3.0,82%
+635714,Molde,1.0,59%,2.0,83%,Rapid Vienna,0.0,41%,6.0,75%
+635715,Slavia Praha,1.0,50%,1.0,82%,Bayer Leverkusen,0.0,50%,7.0,78%
+635716,Nice,1.0,64%,2.0,89%,Hapoel Beer Sheva,0.0,36%,3.0,75%
+635717,Benfica,3.0,66%,1.0,89%,Standard Liege,0.0,34%,2.0,74%
+635718,Rangers,1.0,50%,0.0,82%,Lech Poznan,0.0,50%,2.0,84%
+635719,Granada CF,0.0,55%,2.0,81%,PAOK,0.0,45%,4.0,73%
+635720,Omonia Nicosia,1.0,33%,2.0,69%,PSV Eindhoven,2.0,67%,1.0,83%
+635721,AZ Alkmaar,4.0,45%,1.0,82%,HNK Rijeka,1.0,55%,2.0,82%
+635722,Real Sociedad,0.0,65%,0.0,88%,Napoli,1.0,35%,3.0,78%
+635723,AS Roma,5.0,66%,4.0,90%,CFR 1907 Cluj,0.0,34%,2.0,76%
+635724,Rapid Vienna,4.0,62%,0.0,79%,Dundalk,3.0,38%,7.0,72%
+635725,Slavia Praha,3.0,45%,2.0,81%,Nice,2.0,55%,2.0,85%
+635726,Hapoel Beer Sheva,2.0,32%,5.0,71%,Bayer Leverkusen,4.0,68%,0.0,89%
+635727,Benfica,3.0,41%,2.0,87%,Rangers,3.0,59%,0.0,92%
+635728,Lech Poznan,3.0,60%,1.0,84%,Standard Liege,1.0,40%,1.0,76%
+635729,PAOK,4.0,38%,1.0,82%,PSV Eindhoven,1.0,62%,1.0,89%
+635730,Omonia Nicosia,0.0,39%,4.0,76%,Granada CF,2.0,61%,2.0,86%
+635731,HNK Rijeka,1.0,24%,4.0,68%,Napoli,2.0,76%,2.0,91%
+635732,Real Sociedad,1.0,66%,1.0,81%,AZ Alkmaar,0.0,34%,8.0,60%
+635733,Sivasspor,2.0,31%,3.0,74%,Qarabag,0.0,69%,3.0,88%
+635734,Ludogorets,1.0,43%,6.0,83%,Tottenham,3.0,57%,3.0,87%
+652247,Tottenham,4.0,55%,3.0,86%,Wolfsberger AC,0.0,45%,3.0,81%
+652249,Club Brugge KV,0.0,46%,2.0,80%,Dynamo Kyiv,1.0,54%,3.0,83%
+652250,Real Sociedad,0.0,59%,5.0,87%,Manchester United,4.0,41%,2.0,83%
+652251,Manchester United,0.0,57%,1.0,87%,Real Sociedad,0.0,43%,4.0,79%
+652252,FK Crvena Zvezda,2.0,47%,4.0,78%,AC Milan,2.0,53%,5.0,80%
+652253,AC Milan,1.0,51%,1.0,76%,FK Crvena Zvezda,1.0,49%,3.0,75%
+652254,Slavia Praha,0.0,47%,1.0,68%,Leicester,0.0,53%,3.0,74%
+652255,Leicester,0.0,61%,1.0,79%,Slavia Praha,2.0,39%,3.0,68%
+652256,SC Braga,0.0,52%,1.0,85%,AS Roma,2.0,48%,1.0,84%
+652257,AS Roma,3.0,44%,3.0,84%,SC Braga,1.0,56%,1.0,86%
+652258,Krasnodar,2.0,66%,6.0,81%,Dinamo Zagreb,3.0,34%,2.0,65%
+652259,Dinamo Zagreb,1.0,37%,2.0,73%,Krasnodar,0.0,63%,4.0,79%
+652260,BSC Young Boys,4.0,40%,6.0,76%,Bayer Leverkusen,3.0,60%,4.0,81%
+652261,Bayer Leverkusen,0.0,70%,1.0,81%,BSC Young Boys,2.0,30%,4.0,54%
+652262,Olympiakos Piraeus,4.0,42%,3.0,73%,PSV Eindhoven,2.0,58%,2.0,80%
+652263,PSV Eindhoven,2.0,48%,1.0,76%,Olympiakos Piraeus,1.0,52%,2.0,80%
+652264,Benfica,1.0,40%,1.0,82%,Arsenal,1.0,60%,3.0,87%
+652265,Arsenal,3.0,52%,0.0,89%,Benfica,2.0,48%,2.0,85%
+652266,Antwerp,3.0,43%,2.0,82%,Rangers,4.0,57%,2.0,87%
+652267,Rangers,5.0,43%,2.0,77%,Antwerp,2.0,57%,3.0,82%
+652268,Red Bull Salzburg,0.0,47%,2.0,82%,Villarreal,2.0,53%,2.0,83%
+652269,Villarreal,2.0,48%,1.0,77%,Red Bull Salzburg,1.0,52%,2.0,79%
+652270,Molde,3.0,44%,9.0,71%,1899 Hoffenheim,3.0,56%,1.0,77%
+652271,1899 Hoffenheim,0.0,73%,0.0,84%,Molde,2.0,27%,9.0,57%
+652272,Granada CF,2.0,38%,1.0,82%,Napoli,0.0,62%,2.0,90%
+652273,Napoli,2.0,65%,1.0,82%,Granada CF,1.0,35%,5.0,65%
+652274,Maccabi Tel Aviv,0.0,32%,4.0,80%,Shakhtar Donetsk,2.0,68%,3.0,91%
+652275,Shakhtar Donetsk,1.0,57%,2.0,83%,Maccabi Tel Aviv,0.0,43%,1.0,79%
+652276,Lille,1.0,36%,3.0,76%,Ajax,2.0,64%,0.0,85%
+652277,Ajax,2.0,47%,3.0,79%,Lille,1.0,53%,5.0,83%
+679948,Ajax,3.0,66%,0.0,87%,BSC Young Boys,0.0,34%,5.0,70%
+679949,BSC Young Boys,0.0,49%,6.0,81%,Ajax,2.0,51%,2.0,81%
+679950,Dynamo Kyiv,0.0,50%,4.0,84%,Villarreal,2.0,50%,0.0,83%
+679951,Villarreal,2.0,57%,3.0,90%,Dynamo Kyiv,0.0,43%,2.0,85%
+679952,Manchester United,1.0,50%,4.0,85%,AC Milan,1.0,50%,1.0,86%
+679953,AC Milan,0.0,50%,3.0,82%,Manchester United,1.0,50%,4.0,85%
+679954,Slavia Praha,1.0,59%,1.0,76%,Rangers,1.0,41%,2.0,72%
+679955,Rangers,0.0,50%,2.0,80%,Slavia Praha,2.0,50%,1.0,76%
+679956,AS Roma,3.0,37%,4.0,81%,Shakhtar Donetsk,0.0,63%,4.0,87%
+679957,Shakhtar Donetsk,1.0,64%,2.0,90%,AS Roma,2.0,36%,3.0,80%
+679958,Olympiakos Piraeus,1.0,40%,5.0,82%,Arsenal,3.0,60%,1.0,89%
+679959,Arsenal,0.0,46%,1.0,81%,Olympiakos Piraeus,1.0,54%,4.0,83%
+679960,Dinamo Zagreb,3.0,43%,5.0,72%,Tottenham,0.0,57%,3.0,79%
+679961,Tottenham,2.0,67%,2.0,88%,Dinamo Zagreb,0.0,33%,3.0,70%
+679962,Granada CF,2.0,44%,4.0,71%,Molde,0.0,56%,4.0,78%
+679963,Molde,2.0,44%,3.0,74%,Granada CF,1.0,56%,5.0,78%
+686300,Granada CF,0.0,32%,1.0,59%,Manchester United,2.0,68%,3.0,86%
+686301,Manchester United,2.0,58%,3.0,86%,Granada CF,0.0,42%,1.0,79%
+686302,Arsenal,1.0,54%,3.0,80%,Slavia Praha,1.0,46%,1.0,76%
+686303,Slavia Praha,0.0,61%,1.0,87%,Arsenal,4.0,39%,0.0,82%
+686304,Ajax,1.0,65%,2.0,86%,AS Roma,2.0,35%,8.0,75%
+686305,AS Roma,1.0,28%,2.0,69%,Ajax,1.0,72%,2.0,86%
+686306,Dinamo Zagreb,0.0,39%,3.0,75%,Villarreal,1.0,61%,4.0,83%
+686307,Villarreal,2.0,58%,2.0,86%,Dinamo Zagreb,1.0,42%,3.0,84%
+698709,Villarreal,2.0,47%,1.0,84%,Arsenal,1.0,53%,4.0,85%
+698710,Arsenal,0.0,55%,3.0,86%,Villarreal,0.0,45%,2.0,79%
+698711,Manchester United,6.0,63%,1.0,87%,AS Roma,2.0,37%,5.0,72%
+698712,AS Roma,3.0,52%,3.0,87%,Manchester United,2.0,48%,10.0,86%
+702510,Villarreal,1.0,39%,1.0,74%,Manchester United,1.0,61%,0.0,86%
+597377,Bayern Munich,2.0,64%,4.0,86%,Sevilla,1.0,36%,5.0,73%
+814700,Al Ahly,1.0,37%,2.0,75%,Monterrey,0.0,63%,3.0,86%
+814701,Al-Jazira,4.0,73%,2.0,90%,Pirae,1.0,27%,4.0,72%
+836861,Al-Hilal Saudi FC,6.0,51%,5.0,82%,Al-Jazira,1.0,49%,4.0,79%
+839009,Palmeiras,2.0,42%,5.0,78%,Al Ahly,0.0,58%,2.0,82%
+839024,Al-Hilal Saudi FC,0.0,47%,4.0,79%,Chelsea,1.0,53%,3.0,84%
+839025,Monterrey,3.0,53%,1.0,85%,Al-Jazira,1.0,47%,3.0,81%
+839854,Chelsea,2.0,71%,2.0,87%,Palmeiras,1.0,29%,1.0,67%
+839855,Al-Hilal Saudi FC,0.0,28%,6.0,70%,Al Ahly,4.0,72%,0.0,89%
+708773,Celtic,1.0,63%,0.0,86%,FC Midtjylland,1.0,37%,3.0,73%
+708774,FC Midtjylland,2.0,37%,1.0,68%,Celtic,1.0,63%,2.0,81%
+708775,Rapid Vienna,2.0,55%,2.0,73%,Sparta Praha,1.0,45%,4.0,67%
+708776,Sparta Praha,2.0,59%,1.0,71%,Rapid Vienna,0.0,41%,1.0,56%
+708777,PSV Eindhoven,5.0,64%,1.0,87%,Galatasaray,1.0,36%,3.0,76%
+708778,Galatasaray,1.0,56%,1.0,81%,PSV Eindhoven,2.0,44%,1.0,73%
+727925,Slovan Bratislava,0.0,38%,2.0,61%,BSC Young Boys,0.0,62%,2.0,79%
+727926,BSC Young Boys,3.0,61%,1.0,82%,Slovan Bratislava,2.0,39%,2.0,71%
+739879,Spartak Moscow,0.0,40%,3.0,76%,Benfica,2.0,60%,4.0,88%
+739880,Benfica,2.0,69%,3.0,90%,Spartak Moscow,0.0,31%,0.0,76%
+748123,PSV Eindhoven,3.0,68%,0.0,81%,FC Midtjylland,0.0,32%,4.0,62%
+748124,FC Midtjylland,0.0,47%,3.0,71%,PSV Eindhoven,1.0,53%,2.0,78%
+748125,Sparta Praha,0.0,50%,3.0,78%,Monaco,2.0,50%,2.0,79%
+748126,Monaco,3.0,60%,1.0,83%,Sparta Praha,1.0,40%,7.0,74%
+748127,CFR 1907 Cluj,1.0,26%,5.0,48%,BSC Young Boys,1.0,74%,0.0,82%
+748128,BSC Young Boys,3.0,69%,1.0,86%,CFR 1907 Cluj,1.0,31%,3.0,64%
+757727,Red Bull Salzburg,2.0,75%,0.0,82%,Brondby,1.0,25%,9.0,38%
+757728,Brondby,1.0,50%,2.0,71%,Red Bull Salzburg,2.0,50%,2.0,79%
+765594,BSC Young Boys,3.0,36%,3.0,74%,Ferencvarosi TC,2.0,64%,4.0,84%
+765595,Ferencvarosi TC,2.0,52%,2.0,81%,BSC Young Boys,3.0,48%,1.0,79%
+765596,Malmo FF,2.0,42%,3.0,77%,Ludogorets,0.0,58%,4.0,81%
+765597,Ludogorets,2.0,50%,4.0,69%,Malmo FF,1.0,50%,0.0,73%
+765598,Sheriff Tiraspol,3.0,39%,3.0,68%,Dinamo Zagreb,0.0,61%,1.0,80%
+765599,Dinamo Zagreb,0.0,73%,2.0,84%,Sheriff Tiraspol,0.0,27%,6.0,57%
+765600,Monaco,0.0,46%,3.0,85%,Shakhtar Donetsk,1.0,54%,6.0,88%
+765601,Shakhtar Donetsk,2.0,51%,6.0,80%,Monaco,2.0,49%,1.0,81%
+765602,Benfica,2.0,40%,5.0,75%,PSV Eindhoven,1.0,60%,2.0,84%
+765603,PSV Eindhoven,0.0,73%,1.0,83%,Benfica,0.0,27%,8.0,61%
+787560,BSC Young Boys,2.0,54%,1.0,86%,Manchester United,1.0,46%,3.0,79%
+787561,Sevilla,1.0,48%,7.0,77%,Red Bull Salzburg,1.0,52%,1.0,81%
+787562,Barcelona,0.0,48%,4.0,88%,Bayern Munich,3.0,52%,0.0,89%
+787563,Dynamo Kyiv,0.0,32%,4.0,74%,Benfica,0.0,68%,4.0,89%
+787564,Villarreal,2.0,48%,2.0,78%,Atalanta,2.0,52%,5.0,80%
+787565,Lille,0.0,53%,0.0,82%,VfL Wolfsburg,0.0,47%,4.0,78%
+787566,Chelsea,1.0,66%,2.0,92%,Zenit Saint Petersburg,0.0,34%,1.0,84%
+787567,Malmo FF,0.0,40%,5.0,84%,Juventus,3.0,60%,1.0,89%
+787568,Besiktas,1.0,58%,5.0,88%,Borussia Dortmund,2.0,42%,2.0,82%
+787569,Sheriff Tiraspol,2.0,25%,3.0,71%,Shakhtar Donetsk,0.0,75%,2.0,91%
+787570,Manchester City,6.0,50%,0.0,86%,RB Leipzig,3.0,50%,3.0,83%
+787571,Club Brugge KV,1.0,36%,3.0,81%,Paris Saint Germain,1.0,64%,6.0,89%
+787572,Atletico Madrid,0.0,56%,1.0,83%,FC Porto,0.0,44%,2.0,78%
+787573,Liverpool,3.0,61%,1.0,87%,AC Milan,2.0,39%,6.0,78%
+787574,Sporting CP,1.0,46%,1.0,82%,Ajax,5.0,54%,2.0,84%
+787575,Inter,0.0,47%,1.0,88%,Real Madrid,1.0,53%,5.0,88%
+787576,Ajax,2.0,71%,0.0,89%,Besiktas,0.0,29%,5.0,72%
+787577,Shakhtar Donetsk,0.0,66%,2.0,90%,Inter,0.0,34%,1.0,81%
+787578,Paris Saint Germain,2.0,46%,7.0,86%,Manchester City,0.0,54%,1.0,89%
+787579,RB Leipzig,1.0,66%,3.0,80%,Club Brugge KV,2.0,34%,3.0,63%
+787580,FC Porto,1.0,33%,8.0,75%,Liverpool,5.0,67%,2.0,86%
+787581,AC Milan,1.0,36%,3.0,77%,Atletico Madrid,2.0,64%,2.0,87%
+787582,Borussia Dortmund,1.0,59%,1.0,85%,Sporting CP,0.0,41%,2.0,80%
+787583,Real Madrid,1.0,76%,1.0,89%,Sheriff Tiraspol,2.0,24%,10.0,70%
+787584,Atalanta,1.0,64%,1.0,86%,BSC Young Boys,0.0,36%,6.0,70%
+787585,Zenit Saint Petersburg,4.0,55%,3.0,90%,Malmo FF,0.0,45%,5.0,86%
+787586,Bayern Munich,5.0,63%,2.0,90%,Dynamo Kyiv,0.0,37%,2.0,80%
+787587,Benfica,3.0,40%,0.0,84%,Barcelona,0.0,60%,3.0,89%
+787588,Manchester United,2.0,56%,6.0,90%,Villarreal,1.0,44%,5.0,85%
+787589,Red Bull Salzburg,2.0,46%,1.0,72%,Lille,1.0,54%,2.0,75%
+787590,VfL Wolfsburg,1.0,31%,3.0,68%,Sevilla,1.0,69%,1.0,86%
+787591,Juventus,1.0,27%,1.0,75%,Chelsea,0.0,73%,0.0,90%
+787592,Club Brugge KV,1.0,37%,4.0,75%,Manchester City,5.0,63%,1.0,89%
+787593,Besiktas,1.0,64%,5.0,84%,Sporting CP,4.0,36%,1.0,68%
+787594,Paris Saint Germain,3.0,65%,2.0,89%,RB Leipzig,2.0,35%,1.0,81%
+787595,Atletico Madrid,2.0,32%,3.0,73%,Liverpool,3.0,68%,3.0,88%
+787596,FC Porto,1.0,53%,1.0,76%,AC Milan,0.0,47%,1.0,77%
+787597,Ajax,4.0,56%,4.0,88%,Borussia Dortmund,0.0,44%,5.0,82%
+787598,Shakhtar Donetsk,0.0,42%,6.0,88%,Real Madrid,5.0,58%,4.0,92%
+787599,Inter,3.0,70%,2.0,88%,Sheriff Tiraspol,1.0,30%,5.0,75%
+787600,Barcelona,1.0,62%,0.0,88%,Dynamo Kyiv,0.0,38%,2.0,81%
+787601,Red Bull Salzburg,3.0,54%,1.0,80%,VfL Wolfsburg,1.0,46%,3.0,80%
+787602,Benfica,0.0,35%,4.0,76%,Bayern Munich,4.0,65%,3.0,88%
+787603,BSC Young Boys,1.0,49%,2.0,86%,Villarreal,4.0,51%,4.0,83%
+787604,Manchester United,3.0,56%,4.0,84%,Atalanta,2.0,44%,6.0,79%
+787605,Lille,0.0,38%,5.0,78%,Sevilla,0.0,62%,2.0,86%
+787606,Chelsea,4.0,73%,0.0,90%,Malmo FF,0.0,27%,4.0,66%
+787607,Zenit Saint Petersburg,0.0,42%,1.0,85%,Juventus,1.0,58%,2.0,88%
+787608,VfL Wolfsburg,2.0,42%,5.0,72%,Red Bull Salzburg,1.0,58%,2.0,79%
+787609,Malmo FF,0.0,27%,9.0,61%,Chelsea,1.0,73%,0.0,87%
+787610,Bayern Munich,5.0,65%,0.0,91%,Benfica,2.0,35%,7.0,80%
+787611,Dynamo Kyiv,0.0,35%,2.0,77%,Barcelona,1.0,65%,3.0,89%
+787612,Atalanta,2.0,47%,2.0,83%,Manchester United,2.0,53%,2.0,83%
+787613,Villarreal,2.0,50%,3.0,86%,BSC Young Boys,0.0,50%,5.0,83%
+787614,Sevilla,1.0,59%,2.0,83%,Lille,2.0,41%,2.0,78%
+787615,Juventus,4.0,58%,3.0,90%,Zenit Saint Petersburg,2.0,42%,6.0,83%
+787616,AC Milan,1.0,52%,4.0,77%,FC Porto,1.0,48%,2.0,76%
+787617,Real Madrid,2.0,54%,4.0,92%,Shakhtar Donetsk,1.0,46%,4.0,90%
+787618,Manchester City,4.0,71%,3.0,90%,Club Brugge KV,1.0,29%,4.0,75%
+787619,RB Leipzig,2.0,54%,2.0,83%,Paris Saint Germain,2.0,46%,3.0,82%
+787620,Liverpool,2.0,73%,0.0,91%,Atletico Madrid,0.0,27%,4.0,72%
+787621,Borussia Dortmund,1.0,30%,2.0,72%,Ajax,3.0,70%,3.0,89%
+787622,Sporting CP,4.0,59%,4.0,82%,Besiktas,0.0,41%,3.0,74%
+787623,Sheriff Tiraspol,1.0,35%,5.0,81%,Inter,3.0,65%,1.0,89%
+787624,Dynamo Kyiv,1.0,39%,3.0,84%,Bayern Munich,2.0,61%,4.0,88%
+787625,Villarreal,0.0,51%,4.0,88%,Manchester United,2.0,49%,3.0,87%
+787626,Barcelona,0.0,65%,3.0,85%,Benfica,0.0,35%,3.0,74%
+787627,BSC Young Boys,3.0,59%,2.0,82%,Atalanta,3.0,41%,4.0,76%
+787628,Sevilla,2.0,61%,1.0,83%,VfL Wolfsburg,0.0,39%,5.0,73%
+787629,Lille,1.0,48%,2.0,77%,Red Bull Salzburg,0.0,52%,0.0,78%
+787630,Chelsea,4.0,54%,1.0,83%,Juventus,0.0,46%,4.0,82%
+787631,Malmo FF,1.0,45%,2.0,78%,Zenit Saint Petersburg,1.0,55%,0.0,82%
+787632,Besiktas,1.0,44%,4.0,76%,Ajax,2.0,56%,2.0,83%
+787633,Inter,2.0,42%,2.0,85%,Shakhtar Donetsk,0.0,58%,7.0,90%
+787634,Manchester City,2.0,54%,1.0,93%,Paris Saint Germain,1.0,46%,3.0,90%
+787635,Club Brugge KV,0.0,55%,8.0,72%,RB Leipzig,5.0,45%,3.0,67%
+787636,Atletico Madrid,0.0,42%,3.0,77%,AC Milan,1.0,58%,2.0,85%
+787637,Liverpool,2.0,58%,1.0,83%,FC Porto,0.0,42%,3.0,72%
+787638,Sporting CP,3.0,35%,3.0,75%,Borussia Dortmund,1.0,65%,3.0,85%
+787639,Sheriff Tiraspol,0.0,30%,5.0,81%,Real Madrid,3.0,70%,5.0,91%
+787640,Paris Saint Germain,4.0,60%,5.0,89%,Club Brugge KV,1.0,40%,5.0,83%
+787641,RB Leipzig,2.0,44%,2.0,84%,Manchester City,1.0,56%,3.0,87%
+787642,AC Milan,1.0,49%,5.0,78%,Liverpool,2.0,51%,2.0,82%
+787643,FC Porto,1.0,68%,2.0,83%,Atletico Madrid,3.0,32%,5.0,63%
+787644,Borussia Dortmund,5.0,70%,0.0,89%,Besiktas,0.0,30%,2.0,73%
+787645,Ajax,4.0,58%,2.0,87%,Sporting CP,2.0,42%,3.0,84%
+787646,Real Madrid,2.0,50%,3.0,91%,Inter,0.0,50%,3.0,91%
+787647,Shakhtar Donetsk,1.0,69%,3.0,90%,Sheriff Tiraspol,1.0,31%,4.0,77%
+787648,Juventus,1.0,59%,2.0,87%,Malmo FF,0.0,41%,6.0,78%
+787649,Zenit Saint Petersburg,3.0,46%,5.0,83%,Chelsea,3.0,54%,4.0,87%
+787650,Bayern Munich,3.0,52%,2.0,86%,Barcelona,0.0,48%,3.0,82%
+787651,Benfica,2.0,36%,3.0,80%,Dynamo Kyiv,0.0,64%,4.0,88%
+787652,Manchester United,1.0,49%,3.0,81%,BSC Young Boys,1.0,51%,4.0,82%
+787653,Atalanta,2.0,64%,3.0,81%,Villarreal,3.0,36%,3.0,64%
+787654,Red Bull Salzburg,1.0,34%,1.0,60%,Sevilla,0.0,66%,1.0,80%
+787655,VfL Wolfsburg,1.0,56%,3.0,77%,Lille,3.0,44%,1.0,73%
+816240,Sporting CP,0.0,37%,2.0,80%,Manchester City,5.0,63%,0.0,93%
+816241,Manchester City,0.0,69%,3.0,93%,Sporting CP,0.0,31%,4.0,82%
+816242,Paris Saint Germain,1.0,57%,0.0,91%,Real Madrid,0.0,43%,8.0,85%
+816243,Real Madrid,3.0,44%,3.0,88%,Paris Saint Germain,1.0,56%,4.0,89%
+816244,Red Bull Salzburg,1.0,28%,8.0,58%,Bayern Munich,1.0,72%,4.0,85%
+816245,Bayern Munich,7.0,72%,3.0,89%,Red Bull Salzburg,1.0,28%,2.0,70%
+816247,Liverpool,0.0,62%,2.0,87%,Inter,1.0,38%,2.0,79%
+816248,Chelsea,2.0,51%,2.0,85%,Lille,0.0,49%,2.0,81%
+816249,Lille,1.0,44%,2.0,81%,Chelsea,2.0,56%,0.0,86%
+816250,Villarreal,1.0,54%,1.0,87%,Juventus,1.0,46%,2.0,83%
+816251,Juventus,0.0,58%,0.0,90%,Villarreal,3.0,42%,5.0,85%
+816252,Benfica,2.0,40%,7.0,76%,Ajax,2.0,60%,3.0,85%
+816253,Ajax,0.0,69%,0.0,84%,Benfica,1.0,31%,2.0,65%
+816254,Atletico Madrid,1.0,37%,1.0,72%,Manchester United,1.0,63%,0.0,83%
+816255,Manchester United,0.0,60%,2.0,83%,Atletico Madrid,1.0,40%,5.0,74%
+851364,Manchester City,1.0,71%,0.0,90%,Atletico Madrid,0.0,29%,1.0,72%
+851365,Atletico Madrid,0.0,40%,1.0,75%,Manchester City,0.0,60%,3.0,87%
+851366,Benfica,1.0,35%,5.0,75%,Liverpool,3.0,65%,2.0,88%
+851367,Liverpool,3.0,67%,1.0,87%,Benfica,3.0,33%,2.0,76%
+851368,Chelsea,1.0,57%,2.0,90%,Real Madrid,3.0,43%,4.0,83%
+851369,Real Madrid,2.0,43%,4.0,82%,Chelsea,3.0,57%,2.0,87%
+851370,Villarreal,1.0,38%,4.0,78%,Bayern Munich,0.0,62%,0.0,85%
+851371,Bayern Munich,1.0,68%,0.0,87%,Villarreal,1.0,32%,3.0,68%
+857630,Manchester City,4.0,60%,2.0,88%,Real Madrid,3.0,40%,1.0,81%
+857631,Real Madrid,3.0,45%,8.0,80%,Manchester City,1.0,55%,2.0,84%
+857632,Liverpool,2.0,73%,0.0,89%,Villarreal,0.0,27%,5.0,66%
+857633,Villarreal,2.0,44%,2.0,69%,Liverpool,3.0,56%,0.0,75%
+861089,Liverpool,0.0,54%,0.0,89%,Real Madrid,1.0,46%,9.0,83%
+787709,Spartak Moscow,0.0,52%,1.0,81%,Legia Warszawa,1.0,48%,3.0,78%
+787710,FC Midtjylland,1.0,62%,0.0,85%,Ludogorets,1.0,38%,3.0,76%
+787711,FK Crvena Zvezda,2.0,39%,1.0,77%,SC Braga,1.0,61%,2.0,85%
+787712,Galatasaray,1.0,54%,4.0,86%,Lazio,0.0,46%,2.0,87%
+787713,Lokomotiv Moscow,1.0,27%,5.0,80%,Marseille,1.0,73%,1.0,92%
+787714,Bayer Leverkusen,2.0,66%,3.0,90%,Ferencvarosi TC,1.0,34%,6.0,80%
+787715,Real Betis,4.0,40%,4.0,83%,Celtic,3.0,60%,4.0,86%
+787716,Dinamo Zagreb,0.0,50%,3.0,86%,West Ham,2.0,50%,0.0,86%
+787717,Rapid Vienna,0.0,40%,1.0,70%,Genk,1.0,60%,4.0,80%
+787718,Rangers,0.0,47%,1.0,87%,Lyon,2.0,53%,2.0,86%
+787719,Brondby,0.0,48%,4.0,75%,Sparta Praha,0.0,52%,1.0,78%
+787720,PSV Eindhoven,2.0,61%,2.0,82%,Real Sociedad,2.0,39%,3.0,74%
+787721,Monaco,1.0,72%,0.0,86%,Sturm Graz,0.0,28%,2.0,68%
+787722,Leicester,2.0,46%,5.0,83%,Napoli,2.0,54%,3.0,86%
+787723,Olympiakos Piraeus,2.0,46%,0.0,78%,Antwerp,1.0,54%,2.0,84%
+787724,Eintracht Frankfurt,1.0,57%,5.0,75%,Fenerbahce,1.0,43%,2.0,69%
+787725,Sparta Praha,1.0,44%,3.0,71%,Rangers,0.0,56%,4.0,76%
+787726,Lyon,3.0,71%,0.0,89%,Brondby,0.0,29%,6.0,72%
+787727,Real Sociedad,1.0,64%,2.0,84%,Monaco,1.0,36%,2.0,70%
+787728,Sturm Graz,1.0,40%,5.0,75%,PSV Eindhoven,4.0,60%,4.0,82%
+787729,Legia Warszawa,1.0,36%,3.0,73%,Leicester,0.0,64%,2.0,86%
+787730,Napoli,2.0,48%,0.0,85%,Spartak Moscow,3.0,52%,1.0,86%
+787731,Antwerp,0.0,43%,3.0,74%,Eintracht Frankfurt,1.0,57%,4.0,80%
+787732,Fenerbahce,0.0,56%,5.0,86%,Olympiakos Piraeus,3.0,44%,3.0,78%
+787733,Ludogorets,0.0,60%,5.0,80%,FK Crvena Zvezda,1.0,40%,1.0,68%
+787734,SC Braga,3.0,62%,2.0,81%,FC Midtjylland,1.0,38%,4.0,70%
+787735,Lazio,2.0,60%,3.0,89%,Lokomotiv Moscow,0.0,40%,3.0,83%
+787736,Marseille,0.0,64%,1.0,89%,Galatasaray,0.0,36%,2.0,78%
+787737,Celtic,0.0,55%,7.0,86%,Bayer Leverkusen,4.0,45%,6.0,83%
+787738,Ferencvarosi TC,1.0,40%,3.0,83%,Real Betis,3.0,60%,1.0,88%
+787739,Genk,0.0,61%,1.0,86%,Dinamo Zagreb,3.0,39%,1.0,80%
+787740,West Ham,2.0,48%,1.0,82%,Rapid Vienna,0.0,52%,2.0,81%
+787741,Spartak Moscow,3.0,43%,2.0,77%,Leicester,4.0,57%,1.0,85%
+787742,Celtic,2.0,67%,2.0,91%,Ferencvarosi TC,0.0,33%,7.0,79%
+787743,Fenerbahce,2.0,44%,2.0,81%,Antwerp,2.0,56%,3.0,84%
+787744,Ludogorets,0.0,50%,1.0,80%,SC Braga,1.0,50%,1.0,78%
+787745,FC Midtjylland,1.0,51%,3.0,79%,FK Crvena Zvezda,1.0,49%,5.0,79%
+787746,Lazio,0.0,43%,3.0,84%,Marseille,0.0,57%,5.0,87%
+787747,Real Betis,1.0,47%,6.0,80%,Bayer Leverkusen,1.0,53%,5.0,81%
+787748,Rapid Vienna,2.0,39%,1.0,73%,Dinamo Zagreb,1.0,61%,4.0,79%
+787749,Sparta Praha,3.0,43%,4.0,75%,Lyon,4.0,57%,1.0,83%
+787750,Rangers,2.0,52%,0.0,85%,Brondby,0.0,48%,7.0,82%
+787751,PSV Eindhoven,1.0,54%,2.0,82%,Monaco,2.0,46%,5.0,75%
+787752,Sturm Graz,0.0,38%,3.0,67%,Real Sociedad,1.0,62%,1.0,80%
+787753,Napoli,3.0,70%,0.0,90%,Legia Warszawa,0.0,30%,7.0,74%
+787754,Eintracht Frankfurt,3.0,52%,1.0,79%,Olympiakos Piraeus,1.0,48%,3.0,80%
+787755,Lokomotiv Moscow,0.0,56%,4.0,77%,Galatasaray,1.0,44%,0.0,73%
+787756,West Ham,3.0,63%,2.0,88%,Genk,0.0,37%,2.0,83%
+787757,Lyon,3.0,59%,4.0,83%,Sparta Praha,0.0,41%,4.0,77%
+787758,Brondby,1.0,52%,2.0,81%,Rangers,1.0,48%,0.0,81%
+787759,Real Sociedad,1.0,73%,2.0,86%,Sturm Graz,1.0,27%,6.0,63%
+787761,Legia Warszawa,1.0,30%,7.0,73%,Napoli,4.0,70%,0.0,91%
+787762,Olympiakos Piraeus,1.0,52%,1.0,82%,Eintracht Frankfurt,2.0,48%,4.0,79%
+787763,Galatasaray,1.0,50%,4.0,77%,Lokomotiv Moscow,1.0,50%,0.0,77%
+787764,Genk,2.0,50%,4.0,85%,West Ham,2.0,50%,4.0,86%
+787765,Leicester,1.0,77%,0.0,90%,Spartak Moscow,1.0,23%,2.0,63%
+787766,Antwerp,0.0,59%,4.0,83%,Fenerbahce,3.0,41%,2.0,76%
+787767,SC Braga,4.0,48%,2.0,80%,Ludogorets,2.0,52%,7.0,83%
+787768,FK Crvena Zvezda,0.0,41%,3.0,72%,FC Midtjylland,1.0,59%,1.0,80%
+787769,Marseille,2.0,66%,1.0,89%,Lazio,2.0,34%,2.0,78%
+787770,Bayer Leverkusen,4.0,44%,5.0,83%,Real Betis,0.0,56%,6.0,84%
+787771,Ferencvarosi TC,2.0,45%,1.0,81%,Celtic,3.0,55%,3.0,84%
+787772,Dinamo Zagreb,3.0,57%,2.0,82%,Rapid Vienna,1.0,43%,0.0,75%
+787773,Spartak Moscow,2.0,30%,7.0,75%,Napoli,1.0,70%,2.0,88%
+787774,FC Midtjylland,3.0,40%,1.0,67%,SC Braga,2.0,60%,3.0,75%
+787775,FK Crvena Zvezda,1.0,47%,2.0,81%,Ludogorets,0.0,53%,3.0,81%
+787776,Galatasaray,4.0,41%,8.0,80%,Marseille,2.0,59%,0.0,87%
+787777,Lokomotiv Moscow,0.0,34%,5.0,68%,Lazio,3.0,66%,2.0,82%
+787778,Bayer Leverkusen,3.0,58%,1.0,85%,Celtic,2.0,42%,4.0,84%
+787779,Real Betis,2.0,61%,3.0,88%,Ferencvarosi TC,0.0,39%,3.0,81%
+787780,Dinamo Zagreb,1.0,51%,2.0,84%,Genk,1.0,49%,4.0,83%
+787781,Rapid Vienna,0.0,39%,4.0,82%,West Ham,2.0,61%,3.0,87%
+787782,Rangers,2.0,49%,4.0,80%,Sparta Praha,0.0,51%,3.0,80%
+787783,Brondby,1.0,35%,2.0,73%,Lyon,3.0,65%,1.0,87%
+787784,PSV Eindhoven,2.0,70%,2.0,83%,Sturm Graz,0.0,30%,1.0,64%
+787785,Monaco,2.0,39%,1.0,67%,Real Sociedad,1.0,61%,3.0,81%
+787786,Leicester,3.0,58%,4.0,85%,Legia Warszawa,1.0,42%,1.0,79%
+787787,Olympiakos Piraeus,1.0,54%,0.0,85%,Fenerbahce,0.0,46%,2.0,79%
+787788,Eintracht Frankfurt,2.0,59%,1.0,81%,Antwerp,2.0,41%,2.0,72%
+787789,Sparta Praha,2.0,43%,1.0,70%,Brondby,0.0,57%,5.0,76%
+787790,Lyon,1.0,50%,1.0,86%,Rangers,1.0,50%,3.0,86%
+787791,Real Sociedad,3.0,32%,2.0,74%,PSV Eindhoven,0.0,68%,2.0,87%
+787792,Sturm Graz,1.0,43%,2.0,64%,Monaco,1.0,57%,3.0,72%
+787793,Legia Warszawa,0.0,66%,2.0,84%,Spartak Moscow,1.0,34%,4.0,64%
+787794,Napoli,3.0,47%,3.0,85%,Leicester,2.0,53%,2.0,88%
+787795,Antwerp,1.0,45%,4.0,78%,Olympiakos Piraeus,0.0,55%,7.0,80%
+787796,Fenerbahce,1.0,43%,3.0,78%,Eintracht Frankfurt,1.0,57%,1.0,84%
+787797,Ludogorets,0.0,55%,7.0,81%,FC Midtjylland,0.0,45%,3.0,80%
+787798,SC Braga,1.0,67%,2.0,82%,FK Crvena Zvezda,1.0,33%,6.0,62%
+787799,Lazio,0.0,62%,2.0,86%,Galatasaray,0.0,38%,1.0,79%
+787800,Marseille,1.0,70%,0.0,88%,Lokomotiv Moscow,0.0,30%,4.0,72%
+787801,Celtic,3.0,46%,6.0,81%,Real Betis,2.0,54%,1.0,84%
+787802,Ferencvarosi TC,1.0,44%,4.0,82%,Bayer Leverkusen,0.0,56%,0.0,87%
+787803,Genk,0.0,67%,3.0,80%,Rapid Vienna,1.0,33%,3.0,64%
+787804,West Ham,0.0,49%,3.0,83%,Dinamo Zagreb,1.0,51%,2.0,86%
+816214,Barcelona,1.0,67%,3.0,89%,Napoli,1.0,33%,4.0,79%
+816215,Napoli,2.0,44%,2.0,84%,Barcelona,4.0,56%,1.0,91%
+816216,Zenit Saint Petersburg,2.0,62%,0.0,86%,Real Betis,3.0,38%,1.0,77%
+816218,Borussia Dortmund,2.0,65%,2.0,85%,Rangers,4.0,35%,1.0,75%
+816219,Rangers,2.0,34%,4.0,74%,Borussia Dortmund,2.0,66%,4.0,84%
+816220,Sheriff Tiraspol,2.0,33%,3.0,63%,SC Braga,0.0,67%,0.0,82%
+816221,SC Braga,2.0,64%,2.0,85%,Sheriff Tiraspol,0.0,36%,3.0,68%
+816222,Sevilla,3.0,63%,4.0,88%,Dinamo Zagreb,1.0,37%,3.0,78%
+816223,Dinamo Zagreb,1.0,42%,5.0,78%,Sevilla,0.0,58%,2.0,88%
+816224,RB Leipzig,2.0,69%,0.0,88%,Real Sociedad,2.0,31%,5.0,76%
+816225,Real Sociedad,1.0,48%,5.0,83%,RB Leipzig,3.0,52%,2.0,83%
+816226,Atalanta,2.0,72%,0.0,85%,Olympiakos Piraeus,1.0,28%,3.0,65%
+816227,Olympiakos Piraeus,0.0,53%,1.0,80%,Atalanta,3.0,47%,0.0,80%
+816228,FC Porto,2.0,45%,1.0,83%,Lazio,1.0,55%,2.0,86%
+816229,Lazio,2.0,46%,3.0,85%,FC Porto,2.0,54%,3.0,86%
+844610,Real Betis,1.0,65%,7.0,84%,Eintracht Frankfurt,2.0,35%,2.0,74%
+844611,Eintracht Frankfurt,1.0,46%,2.0,75%,Real Betis,1.0,54%,4.0,78%
+844612,FC Porto,0.0,51%,2.0,82%,Lyon,1.0,49%,6.0,81%
+844613,Lyon,1.0,53%,1.0,84%,FC Porto,1.0,47%,6.0,81%
+844616,Sevilla,1.0,56%,3.0,91%,West Ham,0.0,44%,5.0,86%
+844617,West Ham,2.0,44%,2.0,83%,Sevilla,0.0,56%,6.0,85%
+844618,Barcelona,0.0,68%,1.0,87%,Galatasaray,0.0,32%,4.0,78%
+844619,Galatasaray,1.0,33%,2.0,76%,Barcelona,2.0,67%,3.0,87%
+844620,Rangers,3.0,48%,4.0,74%,FK Crvena Zvezda,0.0,52%,4.0,79%
+844621,FK Crvena Zvezda,2.0,59%,3.0,79%,Rangers,1.0,41%,11.0,71%
+844622,SC Braga,2.0,38%,5.0,70%,Monaco,0.0,62%,4.0,81%
+844623,Monaco,1.0,65%,3.0,84%,SC Braga,1.0,35%,6.0,70%
+844624,Atalanta,3.0,47%,0.0,78%,Bayer Leverkusen,2.0,53%,7.0,78%
+844625,Bayer Leverkusen,0.0,63%,2.0,81%,Atalanta,1.0,37%,3.0,72%
+851336,RB Leipzig,1.0,56%,3.0,85%,Atalanta,1.0,44%,5.0,80%
+851337,Atalanta,0.0,57%,5.0,82%,RB Leipzig,2.0,43%,3.0,77%
+851338,Eintracht Frankfurt,1.0,34%,2.0,71%,Barcelona,1.0,66%,4.0,84%
+851339,Barcelona,2.0,75%,4.0,88%,Eintracht Frankfurt,3.0,25%,2.0,65%
+851340,West Ham,1.0,28%,3.0,69%,Lyon,1.0,72%,2.0,88%
+851341,Lyon,0.0,68%,3.0,88%,West Ham,3.0,32%,3.0,72%
+851342,SC Braga,1.0,47%,0.0,81%,Rangers,0.0,53%,3.0,84%
+851343,Rangers,3.0,69%,1.0,85%,SC Braga,1.0,31%,3.0,66%
+857616,West Ham,1.0,53%,2.0,84%,Eintracht Frankfurt,2.0,47%,1.0,82%
+857617,Eintracht Frankfurt,1.0,63%,5.0,86%,West Ham,0.0,37%,3.0,73%
+857618,RB Leipzig,1.0,71%,1.0,87%,Rangers,0.0,29%,3.0,67%
+857619,Rangers,3.0,37%,1.0,69%,RB Leipzig,1.0,63%,1.0,80%
+861088,Eintracht Frankfurt,1.0,48%,5.0,74%,Rangers,1.0,52%,3.0,72%
+706410,Chelsea,1.0,62%,4.0,90%,Villarreal,1.0,38%,6.0,81%
+983907,Al Ahly,3.0,57%,1.0,84%,Auckland City,0.0,43%,4.0,80%
+990574,Wydad AC,1.0,36%,2.0,79%,Al-Hilal Saudi FC,1.0,64%,2.0,89%
+998256,Seattle Sounders,0.0,46%,0.0,79%,Al Ahly,1.0,54%,2.0,81%
+1000361,Flamengo,2.0,52%,2.0,85%,Al-Hilal Saudi FC,3.0,48%,0.0,83%
+1000362,Al Ahly,1.0,38%,7.0,80%,Real Madrid,4.0,62%,4.0,90%
+1004014,Real Madrid,5.0,66%,0.0,94%,Al-Hilal Saudi FC,3.0,34%,6.0,85%
+1004015,Al Ahly,2.0,44%,2.0,74%,Flamengo,4.0,56%,2.0,78%
+867215,FC Midtjylland,1.0,52%,0.0,70%,AEK Larnaca,1.0,48%,3.0,68%
+867216,AEK Larnaca,1.0,59%,2.0,80%,FC Midtjylland,1.0,41%,4.0,69%
+897750,Qarabag,3.0,63%,6.0,80%,FC Zurich,2.0,37%,3.0,68%
+897751,FC Zurich,2.0,47%,5.0,67%,Qarabag,2.0,53%,4.0,78%
+901884,Monaco,1.0,52%,1.0,80%,PSV Eindhoven,1.0,48%,1.0,82%
+901885,PSV Eindhoven,3.0,48%,5.0,73%,Monaco,2.0,52%,2.0,79%
+923127,Benfica,4.0,74%,0.0,86%,FC Midtjylland,1.0,26%,8.0,68%
+923128,FC Midtjylland,1.0,37%,1.0,80%,Benfica,3.0,63%,4.0,88%
+924405,Dynamo Kyiv,1.0,65%,3.0,86%,Sturm Graz,0.0,35%,0.0,76%
+924406,Sturm Graz,1.0,33%,3.0,74%,Dynamo Kyiv,2.0,67%,5.0,86%
+927410,FC Copenhagen,2.0,36%,2.0,78%,Trabzonspor,1.0,64%,2.0,88%
+927411,Trabzonspor,0.0,63%,1.0,86%,FC Copenhagen,0.0,37%,4.0,74%
+933167,Bodo/Glimt,1.0,56%,3.0,86%,Dinamo Zagreb,0.0,44%,1.0,85%
+933168,Dinamo Zagreb,4.0,46%,1.0,87%,Bodo/Glimt,1.0,54%,2.0,90%
+933169,Rangers,2.0,55%,2.0,84%,PSV Eindhoven,2.0,45%,5.0,79%
+933170,PSV Eindhoven,0.0,58%,2.0,82%,Rangers,1.0,42%,4.0,78%
+933171,Qarabag,0.0,67%,1.0,81%,Plzen,0.0,33%,7.0,59%
+933172,Plzen,2.0,41%,1.0,62%,Qarabag,1.0,59%,1.0,78%
+933173,Dynamo Kyiv,0.0,48%,1.0,85%,Benfica,2.0,52%,3.0,86%
+933174,Benfica,3.0,61%,0.0,91%,Dynamo Kyiv,0.0,39%,7.0,88%
+933175,Maccabi Haifa,3.0,52%,2.0,76%,FK Crvena Zvezda,2.0,48%,2.0,74%
+933176,FK Crvena Zvezda,2.0,44%,4.0,68%,Maccabi Haifa,2.0,56%,3.0,73%
+946849,Dinamo Zagreb,1.0,32%,3.0,75%,Chelsea,0.0,68%,2.0,87%
+946850,Borussia Dortmund,3.0,63%,2.0,88%,FC Copenhagen,0.0,37%,1.0,82%
+946851,Red Bull Salzburg,1.0,35%,2.0,70%,AC Milan,1.0,65%,3.0,82%
+946852,Celtic,0.0,35%,3.0,86%,Real Madrid,3.0,65%,4.0,93%
+946853,RB Leipzig,1.0,68%,0.0,88%,Shakhtar Donetsk,4.0,32%,1.0,80%
+946854,Sevilla,0.0,38%,5.0,79%,Manchester City,4.0,62%,1.0,90%
+946855,Paris Saint Germain,2.0,57%,3.0,93%,Juventus,1.0,43%,4.0,91%
+946856,Benfica,2.0,56%,2.0,84%,Maccabi Haifa,0.0,44%,3.0,79%
+946857,Ajax,4.0,75%,1.0,92%,Rangers,0.0,25%,5.0,78%
+946858,Eintracht Frankfurt,0.0,44%,2.0,81%,Sporting CP,3.0,56%,2.0,82%
+946859,Napoli,4.0,39%,6.0,82%,Liverpool,1.0,61%,4.0,88%
+946860,Atletico Madrid,2.0,53%,2.0,82%,FC Porto,1.0,47%,1.0,79%
+946861,Club Brugge KV,1.0,48%,3.0,82%,Bayer Leverkusen,0.0,52%,2.0,83%
+946862,Barcelona,5.0,76%,0.0,91%,Plzen,1.0,24%,5.0,71%
+946863,Inter,0.0,44%,10.0,84%,Bayern Munich,2.0,56%,2.0,88%
+946864,Tottenham,2.0,50%,1.0,86%,Marseille,0.0,50%,0.0,87%
+946865,Plzen,0.0,28%,6.0,78%,Inter,2.0,72%,1.0,92%
+946866,Sporting CP,2.0,55%,5.0,87%,Tottenham,0.0,45%,4.0,84%
+946867,Liverpool,2.0,57%,0.0,81%,Ajax,1.0,43%,8.0,79%
+946868,Rangers,0.0,43%,7.0,74%,Napoli,3.0,57%,3.0,80%
+946869,FC Porto,0.0,54%,3.0,80%,Club Brugge KV,4.0,46%,4.0,76%
+946870,Bayer Leverkusen,2.0,45%,3.0,83%,Atletico Madrid,0.0,55%,3.0,87%
+946871,Bayern Munich,2.0,47%,4.0,83%,Barcelona,0.0,53%,2.0,85%
+946872,Marseille,0.0,61%,6.0,84%,Eintracht Frankfurt,1.0,39%,4.0,73%
+946873,AC Milan,3.0,57%,2.0,89%,Dinamo Zagreb,1.0,43%,4.0,83%
+946874,Shakhtar Donetsk,1.0,44%,6.0,83%,Celtic,1.0,56%,1.0,88%
+946875,Chelsea,1.0,72%,2.0,84%,Red Bull Salzburg,1.0,28%,3.0,58%
+946876,Real Madrid,2.0,53%,3.0,88%,RB Leipzig,0.0,47%,1.0,86%
+946877,Manchester City,2.0,66%,1.0,89%,Borussia Dortmund,1.0,34%,1.0,79%
+946878,FC Copenhagen,0.0,37%,2.0,74%,Sevilla,0.0,63%,2.0,84%
+946879,Juventus,1.0,44%,5.0,77%,Benfica,2.0,56%,2.0,83%
+946880,Maccabi Haifa,1.0,44%,3.0,88%,Paris Saint Germain,3.0,56%,4.0,88%
+946881,Bayern Munich,5.0,70%,3.0,88%,Plzen,0.0,30%,8.0,71%
+946882,Marseille,4.0,56%,1.0,88%,Sporting CP,1.0,44%,3.0,76%
+946883,Liverpool,2.0,64%,1.0,84%,Rangers,0.0,36%,8.0,73%
+946884,Ajax,1.0,44%,7.0,73%,Napoli,6.0,56%,1.0,83%
+946885,FC Porto,2.0,41%,6.0,74%,Bayer Leverkusen,0.0,59%,2.0,85%
+946886,Club Brugge KV,2.0,48%,5.0,85%,Atletico Madrid,0.0,52%,1.0,87%
+946887,Inter,1.0,28%,2.0,79%,Barcelona,0.0,72%,1.0,91%
+946888,Eintracht Frankfurt,0.0,44%,1.0,78%,Tottenham,0.0,56%,2.0,84%
+946889,Red Bull Salzburg,1.0,47%,3.0,80%,Dinamo Zagreb,0.0,53%,5.0,79%
+946890,RB Leipzig,3.0,59%,4.0,86%,Celtic,1.0,41%,3.0,85%
+946891,Chelsea,3.0,51%,1.0,83%,AC Milan,0.0,49%,3.0,80%
+946892,Real Madrid,2.0,59%,2.0,92%,Shakhtar Donetsk,1.0,41%,11.0,86%
+946893,Manchester City,5.0,75%,1.0,93%,FC Copenhagen,0.0,25%,12.0,76%
+946894,Sevilla,1.0,59%,3.0,84%,Borussia Dortmund,4.0,41%,5.0,80%
+946895,Juventus,3.0,51%,3.0,85%,Maccabi Haifa,1.0,49%,4.0,84%
+946896,Benfica,1.0,35%,7.0,82%,Paris Saint Germain,1.0,65%,6.0,88%
+946897,FC Copenhagen,0.0,41%,4.0,84%,Manchester City,0.0,59%,1.0,90%
+946898,Maccabi Haifa,2.0,42%,5.0,76%,Juventus,0.0,58%,2.0,84%
+946899,Dinamo Zagreb,1.0,56%,2.0,78%,Red Bull Salzburg,1.0,44%,2.0,70%
+946900,AC Milan,0.0,30%,2.0,76%,Chelsea,2.0,70%,1.0,93%
+946901,Shakhtar Donetsk,1.0,42%,4.0,85%,Real Madrid,1.0,58%,1.0,90%
+946902,Celtic,0.0,42%,3.0,82%,RB Leipzig,2.0,58%,2.0,87%
+946903,Borussia Dortmund,1.0,52%,1.0,85%,Sevilla,1.0,48%,2.0,83%
+946904,Paris Saint Germain,1.0,62%,0.0,90%,Benfica,1.0,38%,2.0,83%
+946905,Napoli,4.0,45%,1.0,87%,Ajax,2.0,55%,1.0,88%
+946906,Atletico Madrid,0.0,65%,1.0,88%,Club Brugge KV,0.0,35%,9.0,76%
+946907,Rangers,1.0,43%,2.0,69%,Liverpool,7.0,57%,1.0,80%
+946908,Bayer Leverkusen,0.0,65%,0.0,88%,FC Porto,3.0,35%,4.0,77%
+946909,Barcelona,3.0,62%,6.0,85%,Inter,3.0,38%,7.0,69%
+946910,Plzen,2.0,32%,4.0,76%,Bayern Munich,4.0,68%,4.0,89%
+946911,Tottenham,3.0,51%,4.0,84%,Eintracht Frankfurt,2.0,49%,5.0,81%
+946912,Sporting CP,0.0,31%,3.0,76%,Marseille,2.0,69%,2.0,91%
+946913,Red Bull Salzburg,1.0,30%,8.0,50%,Chelsea,2.0,70%,5.0,84%
+946914,Sevilla,3.0,58%,2.0,89%,FC Copenhagen,0.0,42%,8.0,81%
+946915,Dinamo Zagreb,0.0,55%,7.0,86%,AC Milan,4.0,45%,6.0,83%
+946916,Celtic,1.0,54%,2.0,89%,Shakhtar Donetsk,1.0,46%,4.0,87%
+946917,RB Leipzig,3.0,44%,4.0,86%,Real Madrid,2.0,56%,3.0,89%
+946918,Borussia Dortmund,0.0,27%,3.0,81%,Manchester City,0.0,73%,4.0,93%
+946919,Paris Saint Germain,7.0,62%,3.0,93%,Maccabi Haifa,2.0,38%,3.0,86%
+946920,Benfica,4.0,54%,1.0,85%,Juventus,3.0,46%,2.0,82%
+946921,Club Brugge KV,0.0,57%,5.0,78%,FC Porto,4.0,43%,4.0,73%
+946922,Inter,4.0,63%,1.0,91%,Plzen,0.0,37%,5.0,81%
+946923,Napoli,3.0,65%,1.0,92%,Rangers,0.0,35%,3.0,82%
+946924,Ajax,0.0,49%,2.0,82%,Liverpool,3.0,51%,1.0,87%
+946925,Atletico Madrid,2.0,63%,5.0,89%,Bayer Leverkusen,2.0,37%,9.0,79%
+946926,Barcelona,0.0,52%,4.0,84%,Bayern Munich,3.0,48%,0.0,87%
+946927,Tottenham,1.0,58%,3.0,84%,Sporting CP,1.0,42%,5.0,79%
+946928,Eintracht Frankfurt,2.0,43%,2.0,75%,Marseille,1.0,57%,2.0,81%
+946929,FC Porto,2.0,51%,5.0,80%,Atletico Madrid,1.0,49%,6.0,83%
+946930,Bayer Leverkusen,0.0,53%,1.0,85%,Club Brugge KV,0.0,47%,4.0,79%
+946931,Liverpool,2.0,52%,2.0,82%,Napoli,0.0,48%,4.0,81%
+946932,Rangers,1.0,46%,4.0,83%,Ajax,3.0,54%,2.0,87%
+946933,Bayern Munich,2.0,60%,4.0,90%,Inter,0.0,40%,6.0,82%
+946934,Plzen,2.0,23%,3.0,70%,Barcelona,4.0,77%,6.0,91%
+946935,Sporting CP,1.0,46%,3.0,79%,Eintracht Frankfurt,2.0,54%,1.0,82%
+946936,Marseille,1.0,64%,1.0,89%,Tottenham,2.0,36%,3.0,82%
+946937,Real Madrid,5.0,65%,7.0,92%,Celtic,1.0,35%,4.0,87%
+946938,Shakhtar Donetsk,0.0,49%,4.0,87%,RB Leipzig,4.0,51%,1.0,89%
+946939,Chelsea,2.0,59%,1.0,89%,Dinamo Zagreb,1.0,41%,4.0,80%
+946940,AC Milan,4.0,49%,6.0,77%,Red Bull Salzburg,0.0,51%,3.0,80%
+946941,Manchester City,3.0,62%,1.0,91%,Sevilla,1.0,38%,4.0,86%
+946942,FC Copenhagen,1.0,43%,0.0,81%,Borussia Dortmund,1.0,57%,8.0,85%
+946943,Juventus,1.0,47%,3.0,91%,Paris Saint Germain,2.0,53%,1.0,91%
+946944,Maccabi Haifa,1.0,43%,4.0,82%,Benfica,6.0,57%,1.0,89%
+971793,AC Milan,1.0,47%,3.0,80%,Tottenham,0.0,53%,3.0,80%
+971794,Tottenham,0.0,54%,3.0,83%,AC Milan,0.0,46%,3.0,84%
+971795,Paris Saint Germain,0.0,46%,6.0,87%,Bayern Munich,1.0,54%,4.0,90%
+971796,Bayern Munich,2.0,45%,2.0,87%,Paris Saint Germain,0.0,55%,3.0,87%
+971797,Club Brugge KV,0.0,45%,2.0,80%,Benfica,2.0,55%,1.0,84%
+971798,Benfica,5.0,60%,1.0,91%,Club Brugge KV,1.0,40%,2.0,83%
+971799,Borussia Dortmund,1.0,48%,7.0,83%,Chelsea,0.0,52%,1.0,86%
+971800,Chelsea,2.0,40%,4.0,74%,Borussia Dortmund,0.0,60%,2.0,80%
+971801,Liverpool,2.0,52%,1.0,85%,Real Madrid,5.0,48%,2.0,85%
+971802,Real Madrid,1.0,54%,5.0,86%,Liverpool,0.0,46%,6.0,85%
+971803,Eintracht Frankfurt,0.0,30%,9.0,76%,Napoli,2.0,70%,1.0,89%
+971804,Napoli,3.0,60%,1.0,88%,Eintracht Frankfurt,0.0,40%,5.0,80%
+971805,RB Leipzig,1.0,38%,2.0,86%,Manchester City,1.0,62%,3.0,91%
+971806,Manchester City,7.0,67%,1.0,91%,RB Leipzig,0.0,33%,8.0,79%
+971807,Inter,1.0,60%,4.0,84%,FC Porto,0.0,40%,3.0,78%
+971808,FC Porto,0.0,68%,5.0,85%,Inter,0.0,32%,6.0,68%
+1016055,Benfica,0.0,58%,2.0,88%,Inter,2.0,42%,2.0,84%
+1016056,Inter,3.0,40%,2.0,78%,Benfica,3.0,60%,0.0,85%
+1016057,Manchester City,3.0,44%,4.0,82%,Bayern Munich,0.0,56%,6.0,87%
+1016058,Bayern Munich,1.0,58%,1.0,90%,Manchester City,1.0,42%,5.0,86%
+1016059,Real Madrid,2.0,57%,3.0,90%,Chelsea,0.0,43%,8.0,83%
+1016060,Chelsea,0.0,54%,4.0,91%,Real Madrid,2.0,46%,6.0,87%
+1016061,AC Milan,1.0,47%,5.0,81%,Napoli,0.0,53%,1.0,83%
+1016062,Napoli,1.0,74%,3.0,89%,AC Milan,1.0,26%,3.0,73%
+1022981,Real Madrid,1.0,44%,5.0,87%,Manchester City,1.0,56%,3.0,91%
+1022982,Manchester City,4.0,59%,3.0,89%,Real Madrid,0.0,41%,4.0,83%
+1022983,AC Milan,0.0,57%,3.0,84%,Inter,2.0,43%,2.0,77%
+1022984,Inter,1.0,44%,1.0,80%,AC Milan,0.0,56%,3.0,83%
+1027909,Manchester City,1.0,56%,5.0,87%,Inter,0.0,44%,3.0,82%
+946753,FC Zurich,1.0,30%,6.0,67%,Arsenal,2.0,70%,2.0,88%
+946754,PSV Eindhoven,1.0,50%,3.0,87%,Bodo/Glimt,1.0,50%,6.0,86%
+946755,AEK Larnaca,1.0,48%,6.0,79%,Rennes,2.0,52%,1.0,85%
+946756,Fenerbahce,2.0,65%,2.0,80%,Dynamo Kyiv,1.0,35%,4.0,63%
+946757,Ludogorets,2.0,44%,4.0,80%,AS Roma,1.0,56%,1.0,84%
+946758,HJK helsinki,0.0,48%,3.0,84%,Real Betis,2.0,52%,1.0,85%
+946759,Malmo FF,0.0,44%,4.0,71%,SC Braga,2.0,56%,2.0,82%
+946760,Union Berlin,0.0,60%,2.0,86%,Union St. Gilloise,1.0,40%,3.0,81%
+946761,Manchester United,0.0,55%,2.0,84%,Real Sociedad,1.0,45%,3.0,78%
+946762,Omonia Nicosia,0.0,60%,1.0,81%,Sheriff Tiraspol,3.0,40%,1.0,73%
+946763,Lazio,4.0,63%,2.0,89%,Feyenoord,2.0,37%,4.0,85%
+946764,Sturm Graz,1.0,36%,2.0,71%,FC Midtjylland,0.0,64%,4.0,84%
+946765,SC Freiburg,2.0,46%,5.0,80%,Qarabag,1.0,54%,4.0,82%
+946766,Nantes,2.0,53%,1.0,86%,Olympiakos Piraeus,1.0,47%,3.0,80%
+946767,FK Crvena Zvezda,0.0,49%,2.0,74%,Monaco,1.0,51%,5.0,76%
+946768,Ferencvarosi TC,3.0,24%,6.0,67%,Trabzonspor,2.0,76%,2.0,91%
+946769,Real Sociedad,2.0,71%,0.0,85%,Omonia Nicosia,1.0,29%,2.0,62%
+946770,Sheriff Tiraspol,0.0,32%,1.0,74%,Manchester United,2.0,68%,2.0,88%
+946771,FC Midtjylland,5.0,35%,1.0,83%,Lazio,1.0,65%,2.0,89%
+946772,Feyenoord,6.0,71%,3.0,86%,Sturm Graz,0.0,29%,2.0,65%
+946773,Olympiakos Piraeus,0.0,47%,5.0,85%,SC Freiburg,3.0,53%,2.0,84%
+946774,Qarabag,3.0,60%,4.0,79%,Nantes,0.0,40%,4.0,69%
+946775,Trabzonspor,2.0,61%,1.0,88%,FK Crvena Zvezda,1.0,39%,4.0,82%
+946776,Monaco,0.0,57%,2.0,83%,Ferencvarosi TC,1.0,43%,6.0,79%
+946777,Arsenal,1.0,62%,1.0,90%,PSV Eindhoven,0.0,38%,8.0,80%
+946778,Bodo/Glimt,2.0,59%,3.0,89%,FC Zurich,1.0,41%,3.0,83%
+946779,Dynamo Kyiv,0.0,64%,3.0,80%,AEK Larnaca,1.0,36%,2.0,69%
+946780,Rennes,2.0,37%,1.0,74%,Fenerbahce,2.0,63%,2.0,82%
+946781,Real Betis,3.0,54%,4.0,86%,Ludogorets,2.0,46%,7.0,84%
+946782,AS Roma,3.0,67%,0.0,89%,HJK helsinki,0.0,33%,7.0,72%
+946783,Union St. Gilloise,3.0,66%,0.0,85%,Malmo FF,2.0,34%,4.0,70%
+946784,SC Braga,1.0,55%,5.0,78%,Union Berlin,0.0,45%,3.0,73%
+946785,FC Zurich,1.0,46%,3.0,82%,PSV Eindhoven,5.0,54%,4.0,87%
+946786,HJK helsinki,1.0,51%,6.0,83%,Ludogorets,1.0,49%,4.0,81%
+946787,Malmo FF,0.0,72%,6.0,87%,Union Berlin,1.0,28%,4.0,68%
+946788,Sheriff Tiraspol,0.0,34%,1.0,74%,Real Sociedad,2.0,66%,3.0,86%
+946789,Omonia Nicosia,2.0,27%,5.0,68%,Manchester United,3.0,73%,2.0,88%
+946790,Sturm Graz,0.0,38%,4.0,76%,Lazio,0.0,62%,4.0,83%
+946791,FK Crvena Zvezda,4.0,44%,2.0,81%,Ferencvarosi TC,1.0,56%,4.0,81%
+946792,Monaco,3.0,57%,1.0,87%,Trabzonspor,1.0,43%,5.0,78%
+946793,Arsenal,3.0,50%,3.0,87%,Bodo/Glimt,0.0,50%,3.0,85%
+946794,Rennes,2.0,54%,2.0,86%,Dynamo Kyiv,1.0,46%,4.0,83%
+946795,Fenerbahce,2.0,68%,1.0,86%,AEK Larnaca,0.0,32%,7.0,67%
+946796,AS Roma,1.0,39%,3.0,81%,Real Betis,2.0,61%,4.0,89%
+946797,SC Braga,1.0,55%,2.0,82%,Union St. Gilloise,2.0,45%,6.0,76%
+946798,FC Midtjylland,2.0,56%,2.0,81%,Feyenoord,2.0,44%,3.0,74%
+946799,SC Freiburg,2.0,60%,2.0,82%,Nantes,0.0,40%,4.0,78%
+946800,Olympiakos Piraeus,0.0,47%,8.0,74%,Qarabag,3.0,53%,4.0,78%
+946801,Bodo/Glimt,0.0,46%,0.0,84%,Arsenal,1.0,54%,1.0,89%
+946802,AEK Larnaca,1.0,40%,6.0,76%,Fenerbahce,2.0,60%,1.0,85%
+946803,Dynamo Kyiv,0.0,52%,2.0,83%,Rennes,1.0,48%,2.0,83%
+946804,Real Betis,1.0,48%,1.0,84%,AS Roma,1.0,52%,1.0,83%
+946805,Union St. Gilloise,3.0,43%,5.0,72%,SC Braga,3.0,57%,3.0,80%
+946806,Feyenoord,2.0,63%,2.0,80%,FC Midtjylland,2.0,37%,4.0,69%
+946807,Nantes,0.0,42%,4.0,77%,SC Freiburg,4.0,58%,3.0,83%
+946808,Qarabag,0.0,61%,2.0,80%,Olympiakos Piraeus,0.0,39%,0.0,69%
+946809,PSV Eindhoven,5.0,50%,2.0,85%,FC Zurich,0.0,50%,3.0,83%
+946810,Ludogorets,2.0,63%,1.0,83%,HJK helsinki,0.0,37%,4.0,70%
+946811,Union Berlin,1.0,44%,0.0,71%,Malmo FF,0.0,56%,6.0,77%
+946812,Manchester United,1.0,78%,1.0,89%,Omonia Nicosia,0.0,22%,12.0,60%
+946813,Real Sociedad,3.0,71%,0.0,87%,Sheriff Tiraspol,0.0,29%,5.0,67%
+946814,Lazio,2.0,54%,5.0,83%,Sturm Graz,2.0,46%,1.0,83%
+946815,Trabzonspor,4.0,51%,4.0,79%,Monaco,0.0,49%,6.0,81%
+946816,Ferencvarosi TC,2.0,45%,3.0,71%,FK Crvena Zvezda,1.0,55%,3.0,81%
+946817,FC Zurich,2.0,50%,1.0,82%,Bodo/Glimt,1.0,50%,5.0,79%
+946818,PSV Eindhoven,2.0,30%,3.0,70%,Arsenal,0.0,70%,3.0,86%
+946819,Lazio,2.0,61%,2.0,89%,FC Midtjylland,1.0,39%,6.0,80%
+946820,AEK Larnaca,3.0,44%,2.0,77%,Dynamo Kyiv,3.0,56%,1.0,82%
+946821,Fenerbahce,3.0,62%,1.0,83%,Rennes,3.0,38%,2.0,75%
+946822,Ludogorets,0.0,54%,0.0,85%,Real Betis,1.0,46%,5.0,83%
+946823,Malmo FF,0.0,48%,4.0,78%,Union St. Gilloise,2.0,52%,3.0,83%
+946824,Union Berlin,1.0,40%,3.0,76%,SC Braga,0.0,60%,3.0,82%
+946825,Manchester United,3.0,75%,0.0,91%,Sheriff Tiraspol,0.0,25%,7.0,69%
+946826,Omonia Nicosia,0.0,37%,2.0,75%,Real Sociedad,2.0,63%,1.0,87%
+946827,HJK helsinki,1.0,52%,3.0,84%,AS Roma,2.0,48%,2.0,83%
+946828,Sturm Graz,1.0,41%,4.0,72%,Feyenoord,0.0,59%,2.0,80%
+946829,SC Freiburg,1.0,65%,1.0,85%,Olympiakos Piraeus,1.0,35%,7.0,75%
+946830,Nantes,2.0,41%,6.0,71%,Qarabag,1.0,59%,6.0,82%
+946831,FK Crvena Zvezda,2.0,38%,5.0,77%,Trabzonspor,1.0,62%,2.0,85%
+946832,Ferencvarosi TC,1.0,47%,0.0,78%,Monaco,1.0,53%,2.0,81%
+946833,Real Sociedad,0.0,48%,0.0,76%,Manchester United,1.0,52%,4.0,78%
+946834,Sheriff Tiraspol,1.0,34%,5.0,72%,Omonia Nicosia,0.0,66%,2.0,82%
+946835,FC Midtjylland,2.0,45%,3.0,64%,Sturm Graz,0.0,55%,1.0,76%
+946836,Feyenoord,1.0,45%,4.0,83%,Lazio,0.0,55%,2.0,83%
+946837,Olympiakos Piraeus,0.0,60%,2.0,86%,Nantes,2.0,40%,5.0,85%
+946838,Qarabag,1.0,55%,1.0,78%,SC Freiburg,1.0,45%,4.0,70%
+946839,Trabzonspor,1.0,64%,1.0,88%,Ferencvarosi TC,0.0,36%,5.0,80%
+946840,Monaco,4.0,47%,1.0,79%,FK Crvena Zvezda,1.0,53%,3.0,80%
+946841,Arsenal,1.0,56%,2.0,78%,FC Zurich,0.0,44%,3.0,65%
+946842,Bodo/Glimt,1.0,51%,5.0,87%,PSV Eindhoven,2.0,49%,2.0,87%
+946843,Dynamo Kyiv,0.0,40%,2.0,73%,Fenerbahce,2.0,60%,0.0,84%
+946844,Rennes,1.0,54%,1.0,82%,AEK Larnaca,1.0,46%,0.0,83%
+946845,Real Betis,3.0,69%,3.0,93%,HJK helsinki,0.0,31%,5.0,78%
+946846,AS Roma,3.0,51%,4.0,82%,Ludogorets,1.0,49%,6.0,82%
+946847,Union St. Gilloise,0.0,62%,1.0,82%,Union Berlin,1.0,38%,1.0,69%
+946848,SC Braga,2.0,64%,1.0,84%,Malmo FF,1.0,36%,9.0,70%
+971761,Barcelona,2.0,61%,4.0,81%,Manchester United,2.0,39%,6.0,74%
+971762,Manchester United,2.0,42%,2.0,71%,Barcelona,1.0,58%,3.0,81%
+971763,Shakhtar Donetsk,2.0,49%,5.0,86%,Rennes,1.0,51%,1.0,84%
+971764,Rennes,2.0,52%,2.0,86%,Shakhtar Donetsk,1.0,48%,7.0,85%
+971765,Ajax,0.0,67%,3.0,86%,Union Berlin,0.0,33%,0.0,67%
+971766,Union Berlin,3.0,27%,2.0,64%,Ajax,1.0,73%,3.0,87%
+971767,Red Bull Salzburg,1.0,55%,3.0,81%,AS Roma,0.0,45%,1.0,77%
+971768,AS Roma,2.0,45%,3.0,73%,Red Bull Salzburg,0.0,55%,4.0,77%
+971769,Juventus,1.0,57%,0.0,88%,Nantes,1.0,43%,6.0,85%
+971770,Nantes,0.0,39%,8.0,87%,Juventus,3.0,61%,4.0,92%
+971771,Sporting CP,1.0,72%,1.0,85%,FC Midtjylland,1.0,28%,1.0,60%
+971772,FC Midtjylland,0.0,37%,3.0,74%,Sporting CP,4.0,63%,2.0,87%
+971773,Bayer Leverkusen,2.0,53%,3.0,84%,Monaco,3.0,47%,6.0,79%
+971774,Monaco,2.0,49%,5.0,83%,Bayer Leverkusen,3.0,51%,2.0,83%
+971775,Sevilla,3.0,54%,4.0,84%,PSV Eindhoven,0.0,46%,1.0,83%
+971776,PSV Eindhoven,2.0,50%,3.0,79%,Sevilla,0.0,50%,3.0,82%
+1010822,Union Berlin,3.0,65%,1.0,84%,Union St. Gilloise,3.0,35%,5.0,79%
+1010823,Union St. Gilloise,3.0,55%,1.0,81%,Union Berlin,0.0,45%,4.0,76%
+1010824,Bayer Leverkusen,2.0,66%,1.0,90%,Ferencvarosi TC,0.0,34%,0.0,81%
+1010825,Ferencvarosi TC,0.0,45%,7.0,85%,Bayer Leverkusen,2.0,55%,2.0,87%
+1010826,Sporting CP,2.0,32%,6.0,74%,Arsenal,2.0,68%,4.0,88%
+1010827,Arsenal,1.0,53%,1.0,84%,Sporting CP,1.0,47%,7.0,82%
+1010828,AS Roma,2.0,40%,1.0,76%,Real Sociedad,0.0,60%,1.0,85%
+1010829,Real Sociedad,0.0,76%,0.0,86%,AS Roma,0.0,24%,3.0,54%
+1010830,Juventus,1.0,47%,0.0,85%,SC Freiburg,0.0,53%,5.0,83%
+1010831,SC Freiburg,0.0,52%,6.0,80%,Juventus,2.0,48%,4.0,81%
+1010832,Sevilla,2.0,53%,6.0,83%,Fenerbahce,0.0,47%,4.0,82%
+1010833,Fenerbahce,1.0,66%,3.0,88%,Sevilla,0.0,34%,2.0,74%
+1010834,Manchester United,4.0,57%,1.0,82%,Real Betis,1.0,43%,9.0,73%
+1010835,Real Betis,0.0,46%,3.0,78%,Manchester United,1.0,54%,2.0,82%
+1010836,Shakhtar Donetsk,1.0,40%,5.0,84%,Feyenoord,1.0,60%,0.0,89%
+1010837,Feyenoord,7.0,52%,1.0,88%,Shakhtar Donetsk,1.0,48%,3.0,86%
+1016039,Feyenoord,1.0,55%,2.0,85%,AS Roma,0.0,45%,1.0,81%
+1016040,AS Roma,4.0,48%,5.0,80%,Feyenoord,1.0,52%,9.0,84%
+1016041,Manchester United,2.0,55%,3.0,79%,Sevilla,2.0,45%,3.0,77%
+1016042,Sevilla,3.0,38%,3.0,69%,Manchester United,0.0,62%,3.0,83%
+1016043,Juventus,1.0,42%,5.0,82%,Sporting CP,0.0,58%,1.0,88%
+1016044,Sporting CP,1.0,59%,0.0,86%,Juventus,1.0,41%,1.0,81%
+1016045,Bayer Leverkusen,1.0,64%,3.0,86%,Union St. Gilloise,1.0,36%,1.0,77%
+1016046,Union St. Gilloise,1.0,50%,3.0,80%,Bayer Leverkusen,4.0,50%,1.0,83%
+1022970,Juventus,1.0,59%,4.0,84%,Sevilla,1.0,41%,1.0,77%
+1022971,Sevilla,2.0,59%,6.0,84%,Juventus,1.0,41%,9.0,73%
+1022972,AS Roma,1.0,38%,1.0,78%,Bayer Leverkusen,0.0,62%,4.0,85%
+1022973,Bayer Leverkusen,0.0,72%,0.0,87%,AS Roma,0.0,28%,6.0,61%
+1027580,Sevilla,1.0,67%,2.0,83%,AS Roma,1.0,33%,3.0,65%
+864391,Real Madrid,2.0,58%,3.0,88%,Eintracht Frankfurt,0.0,42%,4.0,85%
+1141650,Leon,0.0,55%,4.0,80%,Urawa,1.0,45%,1.0,78%
+1141651,Al-Ittihad FC,3.0,54%,0.0,89%,Auckland City,0.0,46%,9.0,85%
+1147335,Al Ahly,3.0,43%,5.0,81%,Al-Ittihad FC,1.0,57%,2.0,81%
+1148351,Fluminense,2.0,65%,6.0,90%,Al Ahly,0.0,35%,3.0,78%
+1148352,Urawa,0.0,26%,7.0,78%,Manchester City,3.0,74%,0.0,94%
+1150201,Manchester City,4.0,55%,2.0,91%,Fluminense,0.0,45%,5.0,90%
+1150202,Urawa,2.0,48%,4.0,80%,Al Ahly,4.0,52%,2.0,86%
+1036619,Struga,1.0,45%,4.0,71%,FK Zalgiris Vilnius,2.0,55%,4.0,76%
+1036621,Ferencvarosi TC,0.0,74%,4.0,84%,KI Klaksvik,3.0,26%,3.0,53%
+1036623,Valmiera / BSS,1.0,54%,5.0,79%,Olimpija Ljubljana,2.0,46%,7.0,79%
+1036631,Swift Hesperange,0.0,61%,0.0,82%,Slovan Bratislava,2.0,39%,8.0,72%
+1036635,Maccabi Haifa,2.0,68%,2.0,90%,Hamrun Spartans,1.0,32%,4.0,76%
+1037423,Dnipro-1,1.0,55%,0.0,80%,Panathinaikos,3.0,45%,2.0,77%
+1037425,Servette FC,1.0,45%,3.0,79%,Genk,1.0,55%,6.0,81%
+1037426,Genk,2.0,73%,2.0,86%,Servette FC,2.0,27%,11.0,64%
+1074581,Galatasaray,1.0,68%,2.0,87%,FK Zalgiris Vilnius,0.0,32%,3.0,71%
+1074582,Dinamo Zagreb,4.0,72%,0.0,90%,FC Astana,0.0,28%,5.0,75%
+1074584,Zrinjski,0.0,61%,2.0,90%,Slovan Bratislava,1.0,39%,2.0,78%
+1074585,Slovan Bratislava,2.0,51%,3.0,87%,Zrinjski,2.0,49%,3.0,86%
+1074587,FC Copenhagen,6.0,53%,0.0,88%,Breidablik,3.0,47%,4.0,84%
+1074594,Aris,6.0,53%,0.0,83%,Bate Borisov,2.0,47%,6.0,78%
+1074595,Bate Borisov,3.0,47%,4.0,78%,Aris,5.0,53%,2.0,81%
+1074597,Maccabi Haifa,4.0,75%,3.0,90%,Sheriff Tiraspol,1.0,25%,5.0,67%
+1074598,Raków Częstochowa,3.0,46%,1.0,77%,Qarabag,2.0,54%,3.0,80%
+1094648,PSV Eindhoven,4.0,71%,1.0,87%,Sturm Graz,1.0,29%,7.0,68%
+1094649,Sturm Graz,1.0,34%,5.0,72%,PSV Eindhoven,3.0,66%,2.0,87%
+1102897,Panathinaikos,1.0,67%,1.0,84%,Marseille,0.0,33%,0.0,67%
+1102898,Marseille,2.0,54%,2.0,83%,Panathinaikos,1.0,46%,6.0,80%
+1104345,Raków Częstochowa,2.0,38%,0.0,67%,Aris,1.0,62%,1.0,76%
+1104347,Slovan Bratislava,1.0,58%,3.0,83%,Maccabi Haifa,2.0,42%,4.0,79%
+1104348,Maccabi Haifa,3.0,56%,5.0,90%,Slovan Bratislava,1.0,44%,1.0,82%
+1104351,Olimpija Ljubljana,0.0,50%,6.0,77%,Galatasaray,3.0,50%,3.0,76%
+1104352,Galatasaray,1.0,60%,1.0,85%,Olimpija Ljubljana,0.0,40%,2.0,76%
+1104353,FC Copenhagen,0.0,54%,1.0,82%,Sparta Praha,0.0,46%,3.0,77%
+1104354,Sparta Praha,3.0,49%,3.0,82%,FC Copenhagen,3.0,51%,10.0,83%
+1104355,KI Klaksvik,2.0,38%,2.0,72%,Molde,1.0,62%,1.0,83%
+1104357,Rangers,2.0,69%,3.0,84%,Servette FC,1.0,31%,6.0,65%
+1104358,Servette FC,1.0,46%,3.0,71%,Rangers,1.0,54%,4.0,79%
+1119326,Rangers,2.0,31%,3.0,62%,PSV Eindhoven,2.0,69%,3.0,85%
+1119327,PSV Eindhoven,5.0,57%,2.0,83%,Rangers,1.0,43%,6.0,78%
+1119328,Raków Częstochowa,0.0,52%,1.0,84%,FC Copenhagen,1.0,48%,2.0,83%
+1119329,FC Copenhagen,1.0,47%,3.0,84%,Raków Częstochowa,1.0,53%,0.0,87%
+1119330,Maccabi Haifa,0.0,60%,0.0,77%,BSC Young Boys,0.0,40%,2.0,73%
+1119331,BSC Young Boys,3.0,41%,3.0,74%,Maccabi Haifa,0.0,59%,1.0,83%
+1119332,SC Braga,2.0,54%,1.0,78%,Panathinaikos,1.0,46%,3.0,77%
+1119333,Panathinaikos,0.0,58%,5.0,74%,SC Braga,1.0,42%,2.0,74%
+1119334,Molde,2.0,49%,0.0,78%,Galatasaray,3.0,51%,4.0,78%
+1119335,Galatasaray,2.0,60%,2.0,83%,Molde,1.0,40%,1.0,75%
+1121330,Antwerp,1.0,36%,4.0,72%,AEK Athens FC,0.0,64%,3.0,85%
+1121331,AEK Athens FC,1.0,63%,1.0,82%,Antwerp,2.0,37%,2.0,75%
+1126144,AC Milan,0.0,53%,1.0,84%,Newcastle,0.0,47%,8.0,85%
+1126145,BSC Young Boys,1.0,55%,5.0,81%,RB Leipzig,3.0,45%,2.0,79%
+1126146,Feyenoord,2.0,61%,3.0,88%,Celtic,0.0,39%,3.0,81%
+1126147,Lazio,1.0,49%,3.0,89%,Atletico Madrid,1.0,51%,6.0,88%
+1126148,Paris Saint Germain,2.0,68%,1.0,90%,Borussia Dortmund,0.0,32%,1.0,77%
+1126149,Manchester City,3.0,76%,1.0,93%,FK Crvena Zvezda,1.0,24%,13.0,76%
+1126150,Barcelona,5.0,70%,1.0,94%,Antwerp,0.0,30%,5.0,85%
+1126151,Shakhtar Donetsk,1.0,46%,6.0,89%,FC Porto,3.0,54%,3.0,91%
+1126152,Galatasaray,2.0,64%,1.0,84%,FC Copenhagen,2.0,36%,3.0,70%
+1126153,Real Madrid,1.0,75%,0.0,92%,Union Berlin,0.0,25%,6.0,68%
+1126154,Bayern Munich,4.0,60%,1.0,90%,Manchester United,3.0,40%,5.0,85%
+1126155,Sevilla,1.0,56%,2.0,83%,Lens,1.0,44%,5.0,75%
+1126156,Arsenal,4.0,59%,4.0,89%,PSV Eindhoven,0.0,41%,4.0,82%
+1126157,SC Braga,1.0,53%,5.0,82%,Napoli,2.0,47%,1.0,80%
+1126158,Benfica,0.0,56%,3.0,81%,Red Bull Salzburg,2.0,44%,6.0,76%
+1126159,Real Sociedad,1.0,45%,0.0,80%,Inter,1.0,55%,4.0,83%
+1126160,Union Berlin,2.0,35%,3.0,73%,SC Braga,3.0,65%,3.0,87%
+1126161,Red Bull Salzburg,0.0,48%,3.0,76%,Real Sociedad,2.0,52%,1.0,83%
+1126162,Manchester United,2.0,55%,1.0,75%,Galatasaray,3.0,45%,4.0,70%
+1126163,FC Copenhagen,1.0,42%,3.0,81%,Bayern Munich,2.0,58%,3.0,87%
+1126164,Lens,2.0,33%,6.0,78%,Arsenal,1.0,67%,1.0,89%
+1126165,PSV Eindhoven,2.0,63%,0.0,82%,Sevilla,2.0,37%,6.0,70%
+1126166,Napoli,2.0,50%,3.0,90%,Real Madrid,3.0,50%,5.0,89%
+1126167,Inter,1.0,47%,3.0,81%,Benfica,0.0,53%,7.0,83%
+1126168,Atletico Madrid,3.0,48%,6.0,84%,Feyenoord,2.0,52%,0.0,85%
+1126169,Antwerp,2.0,53%,3.0,85%,Shakhtar Donetsk,3.0,47%,4.0,83%
+1126170,Celtic,1.0,55%,1.0,87%,Lazio,2.0,45%,3.0,83%
+1126171,Borussia Dortmund,0.0,57%,2.0,86%,AC Milan,0.0,43%,3.0,80%
+1126172,Newcastle,4.0,27%,1.0,68%,Paris Saint Germain,1.0,73%,5.0,88%
+1126173,RB Leipzig,1.0,32%,2.0,85%,Manchester City,3.0,68%,0.0,92%
+1126174,FK Crvena Zvezda,2.0,50%,4.0,69%,BSC Young Boys,2.0,50%,7.0,73%
+1126175,FC Porto,0.0,44%,3.0,84%,Barcelona,1.0,56%,5.0,85%
+1126176,Galatasaray,1.0,52%,3.0,82%,Bayern Munich,3.0,48%,3.0,84%
+1126177,Inter,2.0,55%,5.0,82%,Red Bull Salzburg,1.0,45%,1.0,83%
+1126178,Manchester United,1.0,50%,4.0,85%,FC Copenhagen,0.0,50%,4.0,84%
+1126179,Lens,1.0,46%,1.0,80%,PSV Eindhoven,1.0,54%,1.0,81%
+1126180,Sevilla,1.0,56%,2.0,84%,Arsenal,2.0,44%,1.0,81%
+1126181,SC Braga,1.0,48%,4.0,89%,Real Madrid,2.0,52%,2.0,91%
+1126182,Union Berlin,0.0,41%,0.0,75%,Napoli,1.0,59%,2.0,86%
+1126183,Benfica,0.0,38%,1.0,79%,Real Sociedad,1.0,62%,3.0,87%
+1126184,Feyenoord,3.0,46%,3.0,88%,Lazio,1.0,54%,2.0,87%
+1126185,Barcelona,2.0,54%,0.0,86%,Shakhtar Donetsk,1.0,46%,4.0,84%
+1126186,Celtic,2.0,53%,4.0,85%,Atletico Madrid,2.0,47%,1.0,83%
+1126187,Paris Saint Germain,3.0,62%,4.0,87%,AC Milan,0.0,38%,4.0,81%
+1126188,Newcastle,0.0,60%,4.0,82%,Borussia Dortmund,1.0,40%,3.0,73%
+1126189,RB Leipzig,3.0,65%,3.0,87%,FK Crvena Zvezda,1.0,35%,7.0,80%
+1126190,BSC Young Boys,1.0,32%,10.0,85%,Manchester City,3.0,68%,3.0,93%
+1126191,Antwerp,1.0,55%,3.0,81%,FC Porto,4.0,45%,1.0,78%
+1126192,Borussia Dortmund,2.0,46%,5.0,80%,Newcastle,0.0,54%,6.0,85%
+1126193,Shakhtar Donetsk,1.0,32%,1.0,75%,Barcelona,0.0,68%,3.0,91%
+1126194,Atletico Madrid,6.0,66%,2.0,93%,Celtic,0.0,34%,6.0,86%
+1126195,Lazio,1.0,36%,3.0,81%,Feyenoord,0.0,64%,0.0,90%
+1126196,AC Milan,2.0,31%,5.0,76%,Paris Saint Germain,1.0,69%,6.0,91%
+1126197,Manchester City,3.0,71%,0.0,92%,BSC Young Boys,0.0,29%,6.0,80%
+1126198,FK Crvena Zvezda,1.0,49%,2.0,81%,RB Leipzig,2.0,51%,3.0,83%
+1126199,FC Porto,2.0,69%,1.0,89%,Antwerp,0.0,31%,4.0,73%
+1126200,Napoli,1.0,73%,5.0,87%,Union Berlin,1.0,27%,4.0,69%
+1126201,Real Sociedad,3.0,52%,3.0,79%,Benfica,1.0,48%,3.0,76%
+1126202,Bayern Munich,2.0,62%,1.0,86%,Galatasaray,1.0,38%,2.0,78%
+1126203,FC Copenhagen,4.0,52%,5.0,88%,Manchester United,3.0,48%,4.0,85%
+1126204,Arsenal,2.0,62%,1.0,87%,Sevilla,0.0,38%,1.0,76%
+1126205,PSV Eindhoven,1.0,46%,3.0,74%,Lens,0.0,54%,6.0,78%
+1126206,Real Madrid,3.0,48%,4.0,90%,SC Braga,0.0,52%,4.0,90%
+1126207,Red Bull Salzburg,0.0,50%,5.0,83%,Inter,1.0,50%,4.0,82%
+1126208,Lazio,2.0,46%,4.0,87%,Celtic,0.0,54%,3.0,88%
+1126209,Shakhtar Donetsk,1.0,43%,6.0,82%,Antwerp,0.0,57%,4.0,86%
+1126210,Feyenoord,1.0,51%,2.0,86%,Atletico Madrid,3.0,49%,3.0,84%
+1126211,Paris Saint Germain,1.0,72%,1.0,92%,Newcastle,1.0,28%,6.0,72%
+1126212,AC Milan,1.0,54%,1.0,91%,Borussia Dortmund,3.0,46%,3.0,85%
+1126213,Manchester City,3.0,70%,1.0,93%,RB Leipzig,2.0,30%,3.0,85%
+1126214,BSC Young Boys,2.0,47%,3.0,76%,FK Crvena Zvezda,0.0,53%,5.0,79%
+1126215,Barcelona,2.0,55%,4.0,82%,FC Porto,1.0,45%,5.0,80%
+1126216,Galatasaray,3.0,58%,1.0,80%,Manchester United,3.0,42%,4.0,76%
+1126217,Sevilla,2.0,40%,5.0,73%,PSV Eindhoven,3.0,60%,2.0,85%
+1126218,Bayern Munich,0.0,62%,3.0,88%,FC Copenhagen,0.0,38%,2.0,81%
+1126219,Arsenal,6.0,48%,3.0,87%,Lens,0.0,52%,2.0,86%
+1126220,Real Madrid,4.0,53%,1.0,90%,Napoli,2.0,47%,5.0,89%
+1126221,SC Braga,1.0,53%,1.0,87%,Union Berlin,1.0,47%,0.0,85%
+1126222,Benfica,3.0,41%,5.0,87%,Inter,3.0,59%,2.0,92%
+1126223,Real Sociedad,0.0,70%,1.0,86%,Red Bull Salzburg,0.0,30%,7.0,67%
+1126224,Lens,2.0,35%,3.0,75%,Sevilla,1.0,65%,0.0,85%
+1126225,PSV Eindhoven,1.0,42%,2.0,86%,Arsenal,1.0,58%,4.0,88%
+1126226,Manchester United,0.0,41%,2.0,83%,Bayern Munich,1.0,59%,1.0,88%
+1126227,FC Copenhagen,1.0,37%,4.0,68%,Galatasaray,0.0,63%,2.0,78%
+1126228,Napoli,2.0,49%,5.0,85%,SC Braga,0.0,51%,5.0,86%
+1126229,Union Berlin,2.0,26%,6.0,78%,Real Madrid,3.0,74%,3.0,95%
+1126230,Inter,0.0,45%,2.0,80%,Real Sociedad,0.0,55%,2.0,84%
+1126231,Red Bull Salzburg,1.0,44%,3.0,78%,Benfica,3.0,56%,5.0,80%
+1126232,RB Leipzig,2.0,53%,2.0,80%,BSC Young Boys,1.0,47%,0.0,78%
+1126233,FK Crvena Zvezda,2.0,31%,0.0,79%,Manchester City,3.0,69%,4.0,91%
+1126234,Atletico Madrid,2.0,57%,4.0,88%,Lazio,0.0,43%,2.0,85%
+1126235,Celtic,2.0,48%,6.0,84%,Feyenoord,1.0,52%,5.0,83%
+1126236,Borussia Dortmund,1.0,41%,4.0,78%,Paris Saint Germain,1.0,59%,5.0,88%
+1126237,Newcastle,1.0,58%,0.0,84%,AC Milan,2.0,42%,5.0,78%
+1126238,FC Porto,5.0,49%,4.0,83%,Shakhtar Donetsk,3.0,51%,4.0,84%
+1126239,Antwerp,3.0,31%,1.0,82%,Barcelona,2.0,69%,2.0,92%
+1149510,FC Copenhagen,1.0,21%,9.0,68%,Manchester City,3.0,79%,0.0,93%
+1149511,Manchester City,3.0,69%,1.0,93%,FC Copenhagen,1.0,31%,0.0,88%
+1149512,RB Leipzig,0.0,50%,2.0,87%,Real Madrid,1.0,50%,9.0,88%
+1149513,Real Madrid,1.0,54%,3.0,90%,RB Leipzig,1.0,46%,3.0,87%
+1149514,Paris Saint Germain,2.0,62%,0.0,84%,Real Sociedad,0.0,38%,4.0,79%
+1149515,Real Sociedad,1.0,44%,5.0,74%,Paris Saint Germain,2.0,56%,6.0,84%
+1149516,Lazio,1.0,39%,0.0,86%,Bayern Munich,0.0,61%,3.0,91%
+1149517,Bayern Munich,3.0,60%,0.0,93%,Lazio,0.0,40%,4.0,83%
+1149518,Inter,1.0,56%,0.0,87%,Atletico Madrid,0.0,44%,4.0,84%
+1149519,Atletico Madrid,2.0,47%,4.0,85%,Inter,1.0,53%,7.0,88%
+1149520,PSV Eindhoven,1.0,55%,4.0,84%,Borussia Dortmund,1.0,45%,4.0,75%
+1149521,Borussia Dortmund,2.0,49%,7.0,80%,PSV Eindhoven,0.0,51%,5.0,85%
+1149522,FC Porto,1.0,35%,0.0,75%,Arsenal,0.0,65%,1.0,87%
+1149523,Arsenal,1.0,58%,3.0,82%,FC Porto,0.0,42%,3.0,70%
+1149524,Napoli,1.0,49%,5.0,82%,Barcelona,1.0,51%,0.0,85%
+1149525,Barcelona,3.0,49%,3.0,82%,Napoli,1.0,51%,7.0,84%
+1184777,Arsenal,2.0,59%,0.0,88%,Bayern Munich,2.0,41%,2.0,82%
+1184778,Bayern Munich,1.0,51%,3.0,87%,Arsenal,0.0,49%,3.0,90%
+1184779,Real Madrid,3.0,38%,3.0,86%,Manchester City,3.0,62%,3.0,91%
+1184780,Manchester City,1.0,67%,2.0,92%,Real Madrid,1.0,33%,8.0,82%
+1184781,Atletico Madrid,2.0,33%,3.0,78%,Borussia Dortmund,1.0,67%,7.0,89%
+1184782,Borussia Dortmund,4.0,52%,2.0,86%,Atletico Madrid,2.0,48%,5.0,84%
+1184783,Paris Saint Germain,2.0,59%,3.0,89%,Barcelona,3.0,41%,4.0,83%
+1184784,Barcelona,1.0,33%,5.0,72%,Paris Saint Germain,4.0,67%,2.0,90%
+1196501,Borussia Dortmund,1.0,43%,3.0,84%,Paris Saint Germain,0.0,57%,3.0,91%
+1196502,Paris Saint Germain,0.0,70%,2.0,89%,Borussia Dortmund,1.0,30%,5.0,78%
+1196543,Bayern Munich,2.0,52%,2.0,94%,Real Madrid,2.0,48%,3.0,91%
+1196544,Real Madrid,2.0,57%,4.0,90%,Bayern Munich,1.0,43%,5.0,86%
+1199389,Borussia Dortmund,0.0,43%,4.0,86%,Real Madrid,2.0,57%,3.0,92%
+1126336,Union St. Gilloise,1.0,46%,2.0,81%,Toulouse,1.0,54%,3.0,78%
+1126337,Lask Linz,1.0,33%,2.0,67%,Liverpool,3.0,67%,1.0,83%
+1126338,Panathinaikos,2.0,42%,1.0,80%,Villarreal,0.0,58%,1.0,86%
+1126339,Rennes,3.0,62%,2.0,89%,Maccabi Haifa,0.0,38%,8.0,77%
+1126340,Servette FC,0.0,47%,0.0,70%,Slavia Praha,2.0,53%,3.0,68%
+1126341,Sheriff Tiraspol,1.0,33%,5.0,72%,AS Roma,2.0,67%,2.0,87%
+1126342,Bayer Leverkusen,4.0,56%,6.0,94%,BK Hacken,0.0,44%,6.0,90%
+1126343,Qarabag,1.0,62%,2.0,85%,Molde,0.0,38%,7.0,70%
+1126344,West Ham,3.0,72%,3.0,89%,TSC Backa Topola,1.0,28%,5.0,69%
+1126345,Olympiakos Piraeus,2.0,47%,3.0,76%,SC Freiburg,3.0,53%,2.0,78%
+1126346,Ajax,3.0,52%,9.0,86%,Marseille,3.0,48%,2.0,88%
+1126347,Brighton,2.0,75%,3.0,88%,AEK Athens FC,3.0,25%,5.0,68%
+1126348,Sparta Praha,3.0,58%,1.0,81%,Aris,2.0,42%,6.0,69%
+1126349,Rangers,1.0,47%,4.0,76%,Real Betis,0.0,53%,4.0,80%
+1126350,Atalanta,2.0,59%,1.0,85%,Raków Częstochowa,0.0,41%,7.0,80%
+1126351,Sturm Graz,1.0,39%,5.0,72%,Sporting CP,2.0,61%,1.0,84%
+1126352,SC Freiburg,1.0,55%,3.0,82%,West Ham,2.0,45%,4.0,77%
+1126353,TSC Backa Topola,2.0,49%,1.0,79%,Olympiakos Piraeus,2.0,51%,3.0,77%
+1126354,Marseille,2.0,46%,3.0,81%,Brighton,2.0,54%,2.0,85%
+1126355,AEK Athens FC,1.0,48%,6.0,81%,Ajax,1.0,52%,4.0,78%
+1126356,Real Betis,2.0,46%,1.0,84%,Sparta Praha,1.0,54%,2.0,83%
+1126357,Aris,2.0,33%,3.0,60%,Rangers,1.0,67%,2.0,80%
+1126358,Sporting CP,1.0,49%,3.0,84%,Atalanta,2.0,51%,2.0,83%
+1126359,Raków Częstochowa,0.0,52%,5.0,73%,Sturm Graz,1.0,48%,2.0,68%
+1126360,Liverpool,2.0,73%,1.0,88%,Union St. Gilloise,0.0,27%,7.0,61%
+1126361,Toulouse,1.0,46%,1.0,79%,Lask Linz,0.0,54%,1.0,82%
+1126362,Villarreal,1.0,48%,4.0,81%,Rennes,0.0,52%,1.0,85%
+1126363,Maccabi Haifa,0.0,52%,0.0,82%,Panathinaikos,0.0,48%,6.0,81%
+1126364,AS Roma,4.0,54%,1.0,85%,Servette FC,0.0,46%,3.0,87%
+1126365,Slavia Praha,6.0,61%,1.0,82%,Sheriff Tiraspol,0.0,39%,3.0,76%
+1126366,BK Hacken,0.0,48%,1.0,79%,Qarabag,1.0,52%,2.0,80%
+1126367,Molde,1.0,38%,1.0,84%,Bayer Leverkusen,2.0,62%,4.0,89%
+1126368,Olympiakos Piraeus,2.0,44%,2.0,80%,West Ham,1.0,56%,3.0,81%
+1126369,TSC Backa Topola,1.0,39%,2.0,78%,SC Freiburg,3.0,61%,1.0,88%
+1126370,Marseille,3.0,61%,1.0,86%,AEK Athens FC,1.0,39%,5.0,81%
+1126371,Sparta Praha,0.0,52%,4.0,75%,Rangers,0.0,48%,4.0,75%
+1126372,Aris,0.0,41%,4.0,80%,Real Betis,1.0,59%,0.0,87%
+1126373,Sturm Graz,2.0,32%,6.0,63%,Atalanta,2.0,68%,3.0,84%
+1126374,Raków Częstochowa,1.0,60%,2.0,87%,Sporting CP,1.0,40%,1.0,78%
+1126375,Molde,5.0,43%,6.0,81%,BK Hacken,1.0,57%,3.0,85%
+1126376,Brighton,2.0,64%,1.0,93%,Ajax,0.0,36%,4.0,86%
+1126377,Union St. Gilloise,2.0,60%,1.0,76%,Lask Linz,1.0,40%,5.0,62%
+1126378,Liverpool,5.0,63%,1.0,89%,Toulouse,1.0,37%,4.0,78%
+1126379,Villarreal,0.0,64%,0.0,89%,Maccabi Haifa,0.0,36%,5.0,82%
+1126380,Panathinaikos,1.0,63%,4.0,86%,Rennes,2.0,37%,5.0,77%
+1126381,AS Roma,2.0,45%,2.0,83%,Slavia Praha,0.0,55%,3.0,87%
+1126382,Sheriff Tiraspol,1.0,53%,1.0,82%,Servette FC,1.0,47%,4.0,78%
+1126383,Bayer Leverkusen,5.0,62%,1.0,91%,Qarabag,1.0,38%,5.0,81%
+1126384,Ajax,0.0,54%,1.0,88%,Brighton,2.0,46%,3.0,85%
+1126385,Lask Linz,3.0,48%,0.0,68%,Union St. Gilloise,0.0,52%,4.0,73%
+1126386,Toulouse,3.0,28%,3.0,68%,Liverpool,2.0,72%,3.0,88%
+1126387,Rennes,3.0,37%,1.0,79%,Panathinaikos,1.0,63%,0.0,88%
+1126388,Maccabi Haifa,1.0,36%,7.0,82%,Villarreal,2.0,64%,3.0,90%
+1126389,Servette FC,2.0,63%,1.0,86%,Sheriff Tiraspol,1.0,37%,7.0,76%
+1126390,Slavia Praha,2.0,47%,2.0,75%,AS Roma,0.0,53%,4.0,76%
+1126391,Qarabag,0.0,38%,2.0,79%,Bayer Leverkusen,1.0,62%,2.0,86%
+1126392,SC Freiburg,5.0,63%,3.0,87%,TSC Backa Topola,0.0,37%,5.0,79%
+1126393,West Ham,1.0,56%,0.0,81%,Olympiakos Piraeus,0.0,44%,4.0,74%
+1126394,AEK Athens FC,0.0,54%,2.0,80%,Marseille,2.0,46%,6.0,76%
+1126395,Real Betis,4.0,56%,3.0,85%,Aris,1.0,44%,5.0,79%
+1126396,Rangers,2.0,41%,2.0,73%,Sparta Praha,1.0,59%,6.0,81%
+1126397,Atalanta,1.0,64%,0.0,80%,Sturm Graz,0.0,36%,2.0,59%
+1126398,Sporting CP,2.0,70%,1.0,88%,Raków Częstochowa,1.0,30%,4.0,74%
+1126399,BK Hacken,1.0,54%,3.0,82%,Molde,3.0,46%,4.0,77%
+1126400,SC Freiburg,5.0,54%,1.0,86%,Olympiakos Piraeus,0.0,46%,1.0,86%
+1126401,TSC Backa Topola,0.0,42%,2.0,80%,West Ham,1.0,58%,3.0,87%
+1126402,AEK Athens FC,0.0,56%,1.0,88%,Brighton,1.0,44%,5.0,84%
+1126403,Sparta Praha,1.0,42%,5.0,82%,Real Betis,0.0,58%,2.0,81%
+1126404,Atalanta,1.0,43%,1.0,80%,Sporting CP,1.0,57%,2.0,87%
+1126405,Sturm Graz,0.0,40%,3.0,69%,Raków Częstochowa,1.0,60%,5.0,79%
+1126406,Maccabi Haifa,0.0,31%,1.0,82%,Rennes,3.0,69%,0.0,92%
+1126407,Marseille,4.0,48%,3.0,88%,Ajax,3.0,52%,6.0,87%
+1126408,Rangers,1.0,62%,2.0,81%,Aris,1.0,38%,4.0,68%
+1126409,Liverpool,4.0,66%,3.0,87%,Lask Linz,0.0,34%,5.0,66%
+1126410,Toulouse,0.0,53%,2.0,82%,Union St. Gilloise,0.0,47%,1.0,78%
+1126411,Villarreal,3.0,55%,1.0,88%,Panathinaikos,2.0,45%,6.0,84%
+1126412,Servette FC,1.0,39%,1.0,78%,AS Roma,1.0,61%,5.0,86%
+1126413,Sheriff Tiraspol,2.0,36%,3.0,67%,Slavia Praha,3.0,64%,0.0,83%
+1126414,Molde,2.0,58%,1.0,83%,Qarabag,2.0,42%,8.0,79%
+1126415,BK Hacken,0.0,47%,3.0,87%,Bayer Leverkusen,2.0,53%,6.0,87%
+1126416,Union St. Gilloise,2.0,31%,2.0,65%,Liverpool,1.0,69%,4.0,85%
+1126417,Lask Linz,1.0,57%,3.0,79%,Toulouse,2.0,43%,3.0,74%
+1126418,Rennes,2.0,54%,2.0,82%,Villarreal,3.0,46%,3.0,78%
+1126419,Panathinaikos,1.0,62%,2.0,85%,Maccabi Haifa,2.0,38%,5.0,75%
+1126420,AS Roma,3.0,60%,2.0,88%,Sheriff Tiraspol,0.0,40%,3.0,84%
+1126421,Slavia Praha,4.0,58%,3.0,82%,Servette FC,0.0,42%,3.0,73%
+1126422,Bayer Leverkusen,5.0,67%,2.0,93%,Molde,1.0,33%,5.0,81%
+1126423,Qarabag,2.0,43%,4.0,83%,BK Hacken,1.0,57%,1.0,87%
+1126424,West Ham,2.0,57%,4.0,90%,SC Freiburg,0.0,43%,1.0,84%
+1126425,Olympiakos Piraeus,5.0,65%,1.0,87%,TSC Backa Topola,2.0,35%,6.0,79%
+1126426,Ajax,3.0,42%,3.0,77%,AEK Athens FC,1.0,58%,7.0,80%
+1126427,Brighton,1.0,61%,0.0,89%,Marseille,0.0,39%,4.0,82%
+1126428,Real Betis,2.0,64%,2.0,84%,Rangers,3.0,36%,6.0,70%
+1126429,Aris,1.0,53%,6.0,79%,Sparta Praha,3.0,47%,3.0,78%
+1126430,Sporting CP,3.0,71%,2.0,85%,Sturm Graz,0.0,29%,2.0,60%
+1126431,Raków Częstochowa,0.0,51%,2.0,78%,Atalanta,4.0,49%,3.0,80%
+1149542,Feyenoord,1.0,54%,4.0,89%,AS Roma,1.0,46%,5.0,85%
+1149543,AS Roma,1.0,58%,3.0,85%,Feyenoord,1.0,42%,1.0,79%
+1149544,BSC Young Boys,1.0,49%,4.0,83%,Sporting CP,3.0,51%,2.0,84%
+1149545,Sporting CP,1.0,64%,3.0,86%,BSC Young Boys,1.0,36%,5.0,79%
+1149546,Galatasaray,3.0,55%,4.0,80%,Sparta Praha,2.0,45%,2.0,75%
+1149547,Sparta Praha,4.0,42%,1.0,72%,Galatasaray,1.0,58%,2.0,79%
+1149548,Shakhtar Donetsk,2.0,53%,2.0,84%,Marseille,2.0,47%,2.0,85%
+1149549,Marseille,3.0,50%,4.0,83%,Shakhtar Donetsk,1.0,50%,4.0,83%
+1149550,AC Milan,3.0,59%,4.0,93%,Rennes,0.0,41%,4.0,87%
+1149551,Rennes,3.0,55%,3.0,88%,AC Milan,2.0,45%,5.0,80%
+1149552,Lens,0.0,57%,4.0,85%,SC Freiburg,0.0,43%,0.0,76%
+1149553,SC Freiburg,3.0,49%,6.0,81%,Lens,2.0,51%,6.0,82%
+1149554,Benfica,2.0,58%,1.0,86%,Toulouse,1.0,42%,3.0,78%
+1149555,Toulouse,0.0,47%,1.0,81%,Benfica,0.0,53%,6.0,82%
+1149556,SC Braga,2.0,58%,1.0,79%,Qarabag,4.0,42%,6.0,78%
+1149557,Qarabag,2.0,40%,7.0,76%,SC Braga,3.0,60%,4.0,84%
+1175845,Sporting CP,1.0,48%,2.0,81%,Atalanta,1.0,52%,1.0,81%
+1175846,Atalanta,2.0,41%,3.0,82%,Sporting CP,1.0,59%,3.0,84%
+1175847,Sparta Praha,1.0,37%,6.0,81%,Liverpool,5.0,63%,6.0,88%
+1175848,Liverpool,6.0,77%,1.0,92%,Sparta Praha,1.0,23%,6.0,74%
+1175849,AS Roma,4.0,41%,4.0,83%,Brighton,0.0,59%,3.0,91%
+1175850,Brighton,1.0,65%,1.0,88%,AS Roma,0.0,35%,4.0,76%
+1175851,Qarabag,2.0,34%,2.0,78%,Bayer Leverkusen,2.0,66%,4.0,89%
+1175852,Bayer Leverkusen,3.0,71%,1.0,90%,Qarabag,2.0,29%,5.0,74%
+1175853,Marseille,4.0,60%,0.0,89%,Villarreal,0.0,40%,4.0,84%
+1175854,Villarreal,3.0,64%,1.0,82%,Marseille,1.0,36%,5.0,68%
+1175855,Benfica,2.0,68%,3.0,83%,Rangers,2.0,32%,4.0,68%
+1175856,Rangers,0.0,59%,3.0,84%,Benfica,1.0,41%,3.0,81%
+1175857,SC Freiburg,1.0,58%,4.0,84%,West Ham,0.0,42%,3.0,82%
+1175858,West Ham,5.0,39%,3.0,80%,SC Freiburg,0.0,61%,2.0,86%
+1175859,AC Milan,4.0,65%,0.0,89%,Slavia Praha,2.0,35%,4.0,78%
+1175860,Slavia Praha,1.0,38%,3.0,87%,AC Milan,3.0,62%,1.0,91%
+1184824,AC Milan,0.0,53%,2.0,91%,AS Roma,1.0,47%,5.0,88%
+1184825,AS Roma,2.0,36%,3.0,76%,AC Milan,1.0,64%,1.0,88%
+1184826,Liverpool,0.0,70%,4.0,84%,Atalanta,3.0,30%,5.0,63%
+1184827,Atalanta,0.0,30%,4.0,64%,Liverpool,1.0,70%,2.0,83%
+1184828,Bayer Leverkusen,2.0,73%,1.0,91%,West Ham,0.0,27%,9.0,73%
+1184829,West Ham,1.0,43%,1.0,84%,Bayer Leverkusen,1.0,57%,5.0,86%
+1184830,Benfica,2.0,57%,1.0,88%,Marseille,1.0,43%,1.0,85%
+1184831,Marseille,1.0,54%,5.0,83%,Benfica,0.0,46%,4.0,79%
+1196783,Marseille,1.0,49%,1.0,77%,Atalanta,1.0,51%,2.0,78%
+1196784,Atalanta,3.0,46%,1.0,78%,Marseille,0.0,54%,5.0,82%
+1196785,AS Roma,0.0,53%,2.0,87%,Bayer Leverkusen,2.0,47%,2.0,85%
+1196786,Bayer Leverkusen,2.0,60%,5.0,91%,AS Roma,2.0,40%,12.0,82%
+1199589,Atalanta,3.0,33%,3.0,71%,Bayer Leverkusen,0.0,67%,4.0,84%
+1031882,Manchester City,1.0,74%,3.0,89%,Sevilla,1.0,26%,6.0,77%
+1209235,FC Lugano,3.0,55%,2.0,87%,Fenerbahce,4.0,45%,1.0,83%
+1209236,Fenerbahce,2.0,46%,3.0,82%,FC Lugano,1.0,54%,2.0,84%
+1245602,UE Santa Coloma,0.0,44%,6.0,76%,FC Midtjylland,3.0,56%,3.0,83%
+1245603,FC Midtjylland,1.0,64%,3.0,85%,UE Santa Coloma,0.0,36%,1.0,63%
+1245608,Ferencvarosi TC,5.0,63%,1.0,89%,The New Saints,0.0,37%,2.0,83%
+1245609,The New Saints,1.0,41%,0.0,85%,Ferencvarosi TC,2.0,59%,1.0,91%
+1253319,Red Bull Salzburg,2.0,66%,2.0,88%,Twente,1.0,34%,3.0,76%
+1253320,Twente,3.0,51%,3.0,77%,Red Bull Salzburg,3.0,49%,2.0,82%
+1271720,Lille,2.0,57%,4.0,84%,Fenerbahce,1.0,43%,5.0,79%
+1271721,Fenerbahce,1.0,44%,3.0,75%,Lille,1.0,56%,7.0,84%
+1273683,FC Midtjylland,2.0,39%,2.0,75%,Ferencvarosi TC,0.0,61%,5.0,82%
+1273684,Ferencvarosi TC,1.0,53%,3.0,74%,FC Midtjylland,1.0,47%,9.0,70%
+1280666,BSC Young Boys,3.0,48%,6.0,78%,Galatasaray,2.0,52%,2.0,75%
+1280667,Galatasaray,0.0,62%,6.0,85%,BSC Young Boys,1.0,38%,4.0,75%
+1286247,Dinamo Zagreb,3.0,43%,4.0,79%,Qarabag,0.0,57%,5.0,86%
+1286248,Qarabag,0.0,58%,1.0,86%,Dinamo Zagreb,2.0,42%,4.0,74%
+1286249,FC Midtjylland,1.0,60%,4.0,83%,Slovan Bratislava,1.0,40%,5.0,69%
+1286250,Slovan Bratislava,3.0,50%,5.0,79%,FC Midtjylland,2.0,50%,5.0,76%
+1286251,Bodo/Glimt,2.0,66%,1.0,90%,FK Crvena Zvezda,1.0,34%,2.0,81%
+1286252,FK Crvena Zvezda,2.0,42%,1.0,81%,Bodo/Glimt,0.0,58%,6.0,84%
+1286253,Malmo FF,0.0,69%,3.0,86%,Sparta Praha,2.0,31%,3.0,70%
+1286254,Sparta Praha,2.0,43%,4.0,67%,Malmo FF,0.0,57%,2.0,74%
+1286255,Lille,2.0,62%,3.0,86%,Slavia Praha,0.0,38%,5.0,77%
+1286256,Slavia Praha,2.0,51%,3.0,67%,Lille,1.0,49%,5.0,67%
+1286257,Dynamo Kyiv,0.0,51%,4.0,84%,Red Bull Salzburg,2.0,49%,3.0,85%
+1286258,Red Bull Salzburg,1.0,40%,0.0,83%,Dynamo Kyiv,1.0,60%,2.0,87%
+1202168,Real Madrid,2.0,52%,1.0,87%,Atalanta,0.0,48%,4.0,85%
