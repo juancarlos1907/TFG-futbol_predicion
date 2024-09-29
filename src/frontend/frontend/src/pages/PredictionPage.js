@@ -171,10 +171,11 @@ const PredictionPage = () => {
                     {}
                     <Modal show={showModal} onClose={handleCloseModal}>
                         <h2>{t('predictionPage.modalTitle')}</h2>
-                        <p>{t('predictionPage.modalDescription')}</p>
                         <ul>
                             <li>{t('predictionPage.modalPoint1')}</li>
                             <li>{t('predictionPage.modalPoint2')}</li>
+                            <p>{t('predictionPage.formula')}</p>
+                            <p>{t('predictionPage.modalDescription')}</p>
                             <li>{t('predictionPage.modalPoint3')}</li>
                         </ul>
                     </Modal>

@@ -8,6 +8,8 @@ import './i18n.js';
 import PredictionPage from './pages/PredictionPage.js';
 import CustomWeightsPage from './pages/CustomWeightsPage.js';
 import Welcome from './pages/Welcome.js';
+import AboutUs from './pages/AboutUs.js';
+
 
 
 const App = () => {
@@ -18,6 +20,9 @@ const App = () => {
                 <Route path="/prediction" element={<HomePage />} />
                 <Route path="/custom-prediction" element={<CustomWeightsPage />} />
                 <Route path="/results" element={<PredictionPage />} />
+                <Route path="/aboutUs" element={<AboutUs />} />
+
+
                 
             </Routes>
         </Router>
