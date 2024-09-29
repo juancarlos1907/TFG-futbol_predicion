@@ -42,6 +42,8 @@ i18n
               passes: "Precise Soccer Passes",
               possession: "Ball Possession"
             },
+            warningMessage: "Prediction with fewer than 10 data points, result is unreliable.",
+            explanationButton:"Explanation",
             modalTitle: "How the prediction is obtained",
             formula: "A * Goals For - B * Goals Against + C * Ball Possession + D * Accurate Passes + E * Set Pieces",
             modalDescription: "Where A, B, C, D, and E are the weights for each variable. If you are using the default prediction, the values would be 0.35 for A and B, 0.15 for C, 0.1 for D, and 0.05 for E. If you are using the custom prediction, the values for each weight will be the ones you have defined.",
@@ -62,9 +64,9 @@ i18n
           primerPredicc: "Prediction",
           segundoPredicc:"Custom Prediction",
           aboutUs:"About Us",
-          noDataTitle: "Parece que no hay suficientes datos para predecir",
-          noDataDescription: "Nuestra base de datos es amplia, pero no todos los equipos se pueden predecir con otros equipos de otras ligas o paises." ,
-          retryButton: "Volver a predecir",
+          noDataTitle: "There's not enough data to make a prediction",
+          noDataDescription: "Our database is wide, but not every team can be predicted with other teams from any country or leagues." ,
+          retryButton: "Try again",
           aboutUsApp: {
             missionTitle: "Our Mission",
             missionText: "Our application is designed to provide accurate and personalized predictions for football match results. We use reliable statistical data and a proven mathematical formula to offer predictions based on a thorough analysis of the teams, their performance, and other relevant factors. Our mission is to provide an accessible tool for all those interested in better understanding the dynamics of matches and making informed predictions.",
@@ -114,7 +116,7 @@ i18n
               passes: "Pases precisos",
               possession: "Posesión del balón"
             },
-            warningMessage: "Predicción con pocos datos, posible baja fiabilidad.",
+            warningMessage: "Predicción con menos de 10 datos, resultado poco fiable.",
             explanationButton:"Explicación",
             modalTitle: "Como se obtiene la predicción",
             formula: "A * Goles a favor - B * Goles en contra + C * Posesión del balón + D * Pases precisos + E * Balones Parados",
