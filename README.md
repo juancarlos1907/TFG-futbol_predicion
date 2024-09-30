@@ -6,5 +6,6 @@
    1. cd src
    2. cd frontend
    3. cd frontend
+   
    La direccion deberia de ser esta \src\frontend\frontend . Una vez estemos en ese directorio tenemos que ejecutar los siguientes comandos:
-    1.
+   1.
