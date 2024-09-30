@@ -2,6 +2,9 @@
 1. Instalar Visual Studio Code o cualquier editor de código
 2. Importar el proyecto
 3. Frontend
+   Para ejecutar el frontend hace falta tener instalado Node.js ya que React va dentro del paquete, se puede instalar desde su página oficial: https://nodejs.org/en
+   Una vez instalado podemos continuar con la ejecucion del proyecto.
+   
    Ejecutar los siguientes comandos en orden:
    1. 'cd src'
    2. 'cd frontend'
