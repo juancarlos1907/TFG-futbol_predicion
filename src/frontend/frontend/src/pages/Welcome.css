@@ -1,0 +1,212 @@
+/* Estilos Generales */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #E0FFFF; /* Verde Agua Clarito como fondo principal */
+    color: #003366; /* Azul Marino para el texto */
+    overflow-x: hidden;
+}
+
+/* Cabecera */
+.header {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    z-index: 1000;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: #9bcccd !important; /* Fondo sólido con !important */
+    padding: 20px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.3);
+    color: #003366;
+    height: 80px; /* Ajusta según la altura real de tu header */
+}
+
+/* Contenedor central del logo y título */
+.header-title-container {
+    display: flex;
+    align-items: center; /* Centra verticalmente el logo y el título */
+    gap: 20px; /* Espacio entre el logo y el título */
+    margin: 0 auto; /* Centra el contenedor dentro del encabezado */
+}
+
+/* Logo del genio */
+.header img {
+    width: 70px; /* Tamaño del logo */
+    height: 70px;
+}
+
+/* Título */
+.header h1 {
+    font-size: 3rem; /* Tamaño del texto */
+    margin: 0;
+    text-transform: uppercase;
+    color: #003366; /* Azul Marino para el título */
+}
+
+/* Contenedor del selector de idioma */
+.language-switcher {
+    display: flex;
+    gap: 10px; /* Espacio entre las banderas */
+}
+
+/* Imagen del selector de idioma */
+.flag-icon {
+    width: 20px; /* Tamaño ajustado a 20px */
+    height: 20px; /* Asegura que la altura también se ajuste */
+    cursor: pointer;
+    border: 1px solid #ffffff00; /* Borde blanco para destacar las banderas en el fondo claro */
+    border-radius: 5px;
+    transition: transform 0.2s; /* Efecto de transición al pasar el ratón */
+}
+
+/* Efecto al pasar el ratón */
+.flag-icon:hover {
+    transform: scale(1.1); /* Aumenta el tamaño al pasar el ratón */
+}
+
+/* Contenedor Principal (sin la cabecera) */
+.welcome-content {
+    padding: 40px;
+    padding-top: 150px; /* Ajusta para el espacio necesario por la cabecera fija */
+    margin: 0 auto;
+    text-align: center;
+    background: url('../images/fondo de web.jpg') no-repeat center center fixed;
+    background-size: cover;
+    position: relative;
+    z-index: 1;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    min-height: calc(100vh - 60px); /* Ajusta para el footer si es necesario */
+    flex-grow: 1;
+    height: 100vh;
+}
+
+/* Titulares del Contenido */
+.welcome-title {
+    font-size: 1.5rem;
+    margin-bottom: 40px; /* Aumenta el margen inferior para separar del contenido */
+    position: relative;
+    z-index: 2; /* Asegúrate de que esté por encima de la feature-box */
+}
+
+/* Contenedor de Características */
+.features {
+    display: flex;
+    flex-direction: column; /* Muestra una característica a la vez */
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+    max-width: 800px;
+    margin: 0 auto;
+    position: relative;
+    z-index: 1;
+}
+
+/* Caja de Características */
+.feature-box {
+    display: flex;
+    align-items: center; /* Centra verticalmente el contenido */
+    padding: 20px;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    background-color: #fff;
+    min-width: 100px;
+    box-sizing: border-box;
+    opacity: 0; /* Inicialmente oculta */
+    transition: opacity 0.5s ease-in-out, transform 0.5s ease-in-out;
+    position: relative;
+    z-index: 1;
+}
+
+/* Imagen dentro de la feature-box */
+.feature-image {
+    width: 400px; /* Ajusta el tamaño según sea necesario */
+    height: auto; /* Mantén la proporción de la imagen */
+    margin-right: 50px; /* Espacio entre la imagen y el contenido */
+}
+
+/* Contenido dentro de la feature-box */
+.feature-content {
+    display: flex;
+    flex-direction: column;
+    gap: 10px; /* Espacio entre los elementos del contenido */
+    flex-grow: 1; /* Permite que el contenido se expanda */
+}
+
+/* Contenedor para icono y título */
+.feature-header {
+    display: flex;
+    align-items: center;
+    gap: 10px; /* Espacio entre el icono y el título */
+}
+
+
+/* Transición de desvanecimiento */
+.fade-in {
+    opacity: 1;
+    transform: translateY(0);
+}
+
+.fade-out {
+    opacity: 0;
+    transform: translateY(20px);
+}
+
+/* Contenedor de botones */
+.button-container {
+    display: flex;
+    justify-content: center; /* Centra los botones horizontalmente */
+    gap: 20px; /* Espacio entre los botones */
+    margin-top: 40px; /* Espacio superior para separar de las características */
+}
+
+/* Estilo de los botones */
+.button {
+    display: inline-block;
+    padding: 10px 20px;
+    font-size: 1rem;
+    color: #fff;
+    background-color: #4CAF50; /* Azul Marino para el fondo */
+    border: none;
+    border-radius: 5px;
+    text-decoration: none;
+    text-align: center;
+    transition: background-color 0.3s ease, transform 0.3s ease;
+}
+
+.button:hover {
+    background-color: #45a049; /* Cambia el color de fondo al pasar el ratón */
+    transform: scale(1.05); /* Efecto de aumento al pasar el ratón */
+}
+
+
+
+
+@media (max-width: 768px) {
+    .features {
+        max-width: 100%; /* Usa todo el ancho disponible en pantallas pequeñas */
+    }
+    
+    .feature-box {
+        flex: 1 1 100%; /* Las cajas ocupan el 100% del ancho en pantallas pequeñas */
+        min-width: auto; /* Elimina el ancho mínimo en pantallas pequeñas */
+    }
+}
+
+/* Animación de entrada */
+@keyframes fadeIn {
+    from {
+        opacity: 0;
+        transform: translateY(20px);
+    }
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}

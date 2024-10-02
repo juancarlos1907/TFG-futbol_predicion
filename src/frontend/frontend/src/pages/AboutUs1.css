@@ -1,0 +1,124 @@
+/* Cabecera */
+.header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: rgba(173, 216, 230, 0.8);
+    padding: 20px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.3);
+    color: #003366;
+    position: sticky;
+    top: 0;
+    z-index: 1000;
+    width: 100%; /* Asegura que el header ocupe todo el ancho */
+    box-sizing: border-box; /* Incluye el padding en el ancho total */
+    min-height: 100px; /* Altura mínima de la cabecera */
+}
+
+/* Contenedor central del logo y título */
+.header-title-container {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    margin: 0 auto;
+}
+
+/* Logo del genio */
+.header img {
+    width: 70px;
+    height: 70px;
+}
+
+/* Título */
+.header h1 {
+    font-size: 3rem;
+    margin: 0;
+    text-transform: uppercase;
+    color: #003366;
+}
+
+/* Estilos Generales */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #E0FFFF; /* Verde Agua Clarito como fondo principal */
+    color: #003366; /* Azul Marino para el texto */
+    overflow-x: hidden;
+}
+
+/* Contenedor Principal */
+.prediction-page {
+    position: relative;
+    z-index: 1;
+    min-height: 100vh; /* Asegura que ocupe toda la altura de la ventana */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    overflow: hidden;
+    padding: 40px;
+    padding-top: 120px;
+}
+
+/* Fondo Desenfocado */
+.background {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: url('../images/fondo de web.jpg') no-repeat center center fixed;
+    background-size: cover;
+    filter: blur(5px); /* Desenfoque aplicado solo al fondo */
+    z-index: -1;
+}
+
+
+/* Contenedor principal para el contenido */
+main {
+    display: flex; /* Flexbox para alinear las secciones */
+    flex-direction: column; /* Las secciones se apilan verticalmente */
+    align-items: center; /* Centra las secciones horizontalmente */
+    padding: 20px; /* Espaciado interno */
+}
+
+.about-us-section {
+    width: 80%; /* Ajusta el ancho de la sección */
+    max-width: 1300px; /* Puedes establecer un ancho máximo si lo deseas */
+    margin: 20px auto; /* Centra la sección y agrega espacio arriba y abajo */
+    padding: 20px; /* Agrega espacio dentro de la caja */
+    background-color: rgba(255, 255, 255, 0.8); /* Un fondo blanco semi-transparente para destacar el texto */
+    border-radius: 8px; /* Bordes redondeados */
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2); /* Sombra para un efecto elevado */
+}
+
+
+/* Títulos de las secciones */
+.about-us-section h2 {
+    font-size: 2rem; /* Tamaño de fuente para los títulos */
+    margin-bottom: 10px; /* Espacio debajo del título */
+    color: #003366; /* Color del título */
+}
+
+/* Párrafos dentro de las secciones */
+.about-us-section p {
+    font-size: 1.2rem; /* Tamaño de fuente para los párrafos */
+    line-height: 1.5; /* Interlineado para mejorar la legibilidad */
+    margin: 0; /* Elimina margen por defecto */
+    color: #333; /* Color del texto */
+}
+
+/* Estilos específicos para el lenguaje de switcher */
+.language-switcher {
+    margin-left: 20px; /* Espaciado a la izquierda */
+}
+
+/* Enlaces dentro de las secciones (si es que hay) */
+.about-us-section a {
+    color: #007BFF; /* Color azul para enlaces */
+    text-decoration: none; /* Sin subrayado */
+}
+
+.about-us-section a:hover {
+    text-decoration: underline; /* Subrayado al pasar el ratón */
+}
