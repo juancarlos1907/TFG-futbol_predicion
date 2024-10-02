@@ -4,8 +4,8 @@
 3. Backend
 
    Para ejecutar el backend hace falta tener Python y Flask instalados
-   1. Python: https://www.python.org/downloads/ (la version mas reciente)
-   2. Flask: pip install Flask
+   1. Python: https://www.python.org/downloads/ (la versión mas reciente)
+   2. Flask: 'pip install Flask'
 
 5. Frontend
    Para ejecutar el frontend hace falta tener instalado Node.js ya que React va dentro del paquete, se puede instalar desde su página oficial: https://nodejs.org/en
