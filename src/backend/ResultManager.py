@@ -18,8 +18,8 @@ class ResultManager:
         :param away_result: Resultado del equipo visitante.
         :return: Nombre del equipo ganador o "Empate".
         """
-        # Considerar el resultado como empate si la diferencia es menor a 3
-        if abs(home_result - away_result) < 10:
+        # Considerar el resultado como empate si la diferencia es menor a 50
+        if abs(home_result - away_result) < 50:
             return "Empate"
         elif home_result > away_result:
             return home_team

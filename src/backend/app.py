@@ -115,8 +115,8 @@ def get_prediction(home_team, away_team):
     num_matches = selected_statistics.shape[0]
 
     if num_matches < 1:
-        return jsonify({"message": "No tenemos suficientes datos para proporcionar un resultado fiable."}), 400
-    elif num_matches <= 5:
+        return jsonify({"message": "No tenemos suficientes datos para proporcionar un resultado."}), 400
+    elif num_matches <= 10:
         reliability_warning = True  # Bandera para indicar predicción no fiable
     else:
         reliability_warning = False  # Predicción normal
