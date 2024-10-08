@@ -9,6 +9,7 @@
    Una vez instalado Flask y Python, abrimos una terminal nueva y navegamos hasta la ruta del backend:
       1. 'cd src'
       2. 'cd backend'
+   
    Y ejecutamos el siguiente comando: 'python app.py'
    
 5. Frontend
